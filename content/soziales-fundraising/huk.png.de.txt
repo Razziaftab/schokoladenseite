@@ -1,0 +1,9 @@
+Alt: Hinz&Kunzt Logo
+
+----
+
+Title: Hinz&Kunzt
+
+----
+
+Template: blocks/image

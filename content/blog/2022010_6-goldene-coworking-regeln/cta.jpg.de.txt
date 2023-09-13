@@ -1,0 +1,21 @@
+Alt: Ein Schreibtischplatz auf dem ein zusammengeklappter Laptop unbd eine Kamera zu sehen sind.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: t1WOsR982yQBEj4V

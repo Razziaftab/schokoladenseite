@@ -1,0 +1,45 @@
+Title: ChatGPT und KI einfach erklärt: wieso, weshalb, warum?
+
+----
+
+Articleheader: ChatGPT und KI einfach erklärt: wieso, weshalb, warum?
+
+----
+
+Intro: Mit <span lang="en">ChatGPT</span> ist die künstliche Intelligenz endgültig in unserem Alltag angekommen. Zeit, dass der SCHOKO-Blog die Sache unter die digitale Lupe nimmt. Hier kommt der Auftakt zu einer ganzen Blog-Reihe.
+
+----
+
+Image-ai-text: chatgpt robot writes text by Petra Collins --v 5 --ar 16:9
+
+----
+
+Mp3: 
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Wahrscheinlich haben Sie schon einmal ein Produkt der KI-<span lang=\"en\">Software ChatGPT<\/span> oder einer ihrer Schwestern gesehen \u2013 und vielleicht haben Sie es noch nicht einmal bemerkt. Denn die **Qualit\u00e4t der k\u00fcnstlichen Intelligenz (KI)** bei der Produktion von Texten, Bildern und sogar Programmcode ist **erstaunlich hoch**. Daher muss man (gender: kein:e Prophet:in x: keine Prophetin y: kein Prophet xy: bzw.) f\u00fcr die Aussage sein, dass KI unseren Alltag ver\u00e4ndern wird. Wir verraten Ihnen in unserer Blog-Serie, wie auch Sie **von KI profitieren** k\u00f6nnen."},"id":"432662ec-53d1-4c09-b899-20dd617ca35c","isHidden":false,"type":"text"}],"id":"e4fb7832-10c8-46f3-bbb3-8166b3b3f7e4","width":"1\/1"}],"id":"9c98317c-4bf5-4a0a-8d8b-2aa68a75875e"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Viele Einsatzm\u00f6glichkeiten f\u00fcr KI","customid":"","customclass":""},"id":"21ebbf19-992c-40e1-a88b-4f80e8b9b151","isHidden":false,"type":"heading"},{"content":{"text":"Seit einiger Zeit werden in verschiedenen Branchen Programme auf der Basis von k\u00fcnstlicher Intelligenz verwendet. Das Besondere an ihnen: KI-Programme k\u00f6nnen **lernen, Muster erkennen und Entscheidungen treffen**. Sie werden in vielen Anwendungen eingesetzt, wie zum Beispiel in der Medizin, in der **Bilderkennung** und in der **Automatisierung von Prozessen**. Sie k\u00f6nnen auch dabei helfen, gro\u00dfe Datenmengen zu analysieren und Vorhersagen zu treffen."},"id":"deffe898-e97a-4669-8912-fd37332c09c8","isHidden":false,"type":"text"}],"id":"35d4f44f-52da-41f7-b424-fb3585af074c","width":"1\/1"}],"id":"d3cb48ad-e2a9-4979-9107-e2b0b7e37956"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Spreche ich mit einer Maschine oder einem Menschen?","customid":"","customclass":""},"id":"46a3b351-a43d-4dc3-b8e2-7a78cf96250d","isHidden":false,"type":"heading"},{"content":{"text":"Das bekannteste KI-Programm ist derzeit <span lang=\"en\">**ChatGPT**<\/span> und wurde entwickelt, um wie ein Mensch Gespr\u00e4che zu f\u00fchren und auf Fragen zu antworten. Auf Wunsch kann das Programm sogar l\u00e4ngere Texte verfassen \u2013 es nutzt dazu **das Wissen zahlloser Internetseiten**, mit denen es trainiert wurde. Das K\u00fcrzel <span lang=\"en\">GPT<\/span> steht n\u00e4mlich f\u00fcr  <span lang=\"en\">\"Generative Pre-trained Transformer\"<\/span>, also in etwa \"Generatives vorab trainiertes Transformer-Modell\". Weil das Programm sehr intensiv gelernt hat, ist es ganz sch\u00f6n schwierig geworden herauszufinden, ob man gerade mit einem Menschen oder mit einem Programm <span lang=\"en\">chattet<\/span>."},"id":"446dc85e-9107-4639-a161-dc930f98fb35","isHidden":false,"type":"text"}],"id":"837c0bea-eab8-420a-9ff2-866c75bf354e","width":"1\/1"}],"id":"7131cd19-f98a-455e-b3c3-042190532f59"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Spielerei oder m\u00e4chtiges Werkzeug?","customid":"","customclass":""},"id":"5c69421b-7ed1-40d5-be06-b518617bf87e","isHidden":false,"type":"heading"},{"content":{"text":"Was wie eine Spielerei aussieht, kann aber schon jetzt sinnvoll genutzt werden, etwa **im Rahmen eines <span lang=\"en\">Online<\/span>-Kundendienstes**. Denn es gibt f\u00fcr eine Antwort, z.B. bez\u00fcglich einer bestimmten Produkteigenschaft oder -funktion, viele unterschiedliche Arten zu fragen - und ein KI-Programm kann diese Fragen schon sehr gut verstehen und **die passende Antwort** finden. Ganz automatisch und rund um die Uhr."},"id":"375af3c9-2263-4b9c-8375-4e90d3c4dec2","isHidden":false,"type":"text"}],"id":"33b7b76c-7ce9-47db-a144-465b10a4108f","width":"1\/1"}],"id":"d41bdcda-158d-4b6c-9dca-aaccc2632cd1"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Ein Bild sagt mehr als 1000 Worte ...","customid":"","customclass":""},"id":"d3cb9c88-1637-4578-8958-2025802334ff","isHidden":false,"type":"heading"},{"content":{"text":"... und es ist manchmal sehr schwierig oder kostspielig, **das passende Bild f\u00fcr eine Webseite, ein <span lang=\"en\">(link: email-marketing text: Mailing title: Zur Leistung E-Mail-Marketing)<\/span> oder einen <span lang=\"en\">Social-Media<\/span>-Beitrag** zu finden. Diese Aufgabe k\u00f6nnen in Zukunft ebenfalls KI-Programme \u00fcbernehmen, indem sie aus den vielen analysierten Trainings-Bildern ein neues kreieren \u2013 **ganz ohne Photoshop\u00ae** oder Stock-Foto-Geb\u00fchr, nur durch einen relativ simplen Befehl. Um zu demonstrieren, was es da f\u00fcr fantastische M\u00f6glichkeiten gibt, verwenden wir in den Beitr\u00e4gen f\u00fcr unsere **neue Blog-Reihe** zu KI-Programmen ausschlie\u00dflich **KI-generierte Bilder**. Sehen Sie selbst, ob Sie den Unterschied gemerkt h\u00e4tten."},"id":"8d5c5ed9-16d2-4fc1-b47d-7e08cc2e85c9","isHidden":false,"type":"text"}],"id":"350c6493-dad2-44ba-8871-9253e2714a23","width":"1\/1"}],"id":"159dd04b-b398-4835-a29f-f5e04ee9643a"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wieso, weshalb, warum?","customid":"","customclass":""},"id":"6e357edf-ce0d-4bf0-905d-bd4ec729b5fd","isHidden":false,"type":"heading"},{"content":{"text":"In den n\u00e4chsten Beitr\u00e4gen unserer Blog-Reihe wollen wir Ihnen z. B. zeigen, in welchen Bereichen **KI-Power in unserer Online-Agentur** eingesetzt wird, wie KI bei der Suchmaschinen- und On-site-Optimierung zum Einsatz kommt und wie k\u00fcnstliche Intelligenz beim Verfassen von Texten n\u00fctzlich sein kann."},"id":"57dc1255-70fe-47a3-a849-05bc8fb5a6a9","isHidden":false,"type":"text"}],"id":"42d58413-16d3-49f6-be61-796d87db35f7","width":"1\/1"}],"id":"33f752d1-3345-4633-a384-3469000d95d1"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/VXKVeqahJDao9xSJ"],"caption":"Wir nutzen KI-Programme, um z. B. f\u00fcr unsere (gender: Kund:innen x: Kundinnen y: Kunden xy: und) erfolgreiche Online-Werbung (SEA) zu gestalten.\n(link: online-werbung text: Online-Werbung - alle Infos hier class: btn -primary)"},"id":"d420121c-8da5-4a1e-8625-677fcac9f998","isHidden":false,"type":"cta"}],"id":"f948cff9-2808-43af-92d7-76d39131f153","width":"1\/1"}],"id":"14ba2b6c-224f-4a09-8e70-46cb7ef19205"}]
+
+----
+
+Date: 2023-04-19 09:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Mit ChatGPT ist die KI endgültig in unserem Alltag angekommen. Zeit, dass der SCHOKO-Blog in einer neuen Beitragsreihe die Sache unter die digitale Lupe nimmt.
+
+----
+
+Articleimage: - file://EO0bN23WymLCcmKA
+
+----
+
+Categories: Technik
+
+----
+
+Uuid: 8hQ5mDhr0o8N7OMg

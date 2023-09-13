@@ -1,0 +1,41 @@
+Title: DSGVO: Die meistgestellten Fragen (eRecht24)
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://wzTMm39PbruNzjne
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Ab Mai 2018 gilt die neue Datenschutz-Grundverordnung (DSGVO). Viele (n:Webseitenbetreiber:innen x:Webseitenbetreiberinnen y:Webseitenbetreiber) und (n:Kund:innen x:Kundinnen y:Kunden) fragen uns: Wie setze ich die Vorgaben der neuen DSGVO ohne gro\u00dfes Budget p\u00fcnktlich und vollst\u00e4ndig bis zum April 2018 um? Drohen wirklich neue Abmahnwelle und bis zu 20 Mio. Euro Bu\u00dfgelder?\n\nDie zahlreichen \u00c4nderungen, die die DSGVO mit sich bringt, treffen fast jedes Unternehmen, das im Internet pr\u00e4sent ist. Kleine Webseiten ebenso wie gro\u00dfe <span lang=\"en\">Online-Shops<\/span>. In fast allen Bereichen des Datenschutzrechts gibt es Neuregelungen. Einige sind einfach umzusetzen, andere sind hingegen sehr komplex.\n\nUnser DSGVO-Special \u2013 das wir Ihnen als eRecht24-Agenturpartnerin in Zusammenarbeit mit eRecht24-Premium zur Verf\u00fcgung stellen \u2013 hilft Ihnen dabei, einen \u00dcberblick \u00fcber die Anforderungen der DSGVO zu erhalten und zeigt Ihnen, wie sich diese f\u00fcr Ihre Webseite umsetzen lassen.\n\n(n:Unternehmer:innen x:Unternehmerinnen y:Unternehmer) haben zur Datenschutzgrundverordnung zahllose Fragen."},"id":"73bde981-53f6-4d9a-b337-3dcd4e9f1dfb","isHidden":false,"type":"text"}],"id":"ef3a6c4a-ade0-4c79-b9e8-4b9593fc226e","width":"1\/1"}],"id":"e33c00d2-63aa-40ca-9fa6-24661169e289"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Die Top 10 der h\u00e4ufigsten Fragen zur DSGVO","customid":"","customclass":""},"id":"2f0dea14-6998-434b-8cde-b86a17662920","isHidden":false,"type":"heading"},{"content":{"text":"1. **Datenschutzerkl\u00e4rung**: Ben\u00f6tigt jede Webseite eine neue Datenschutzerkl\u00e4rung? Wie kann ich eine DSGVO-konforme Datenschutzerkl\u00e4rung ohne gro\u00dfen Aufwand erstellen?\n\n2. **Verfahrensverzeichnis**: Wer ben\u00f6tigt ein (link: blog\/dsgvo-verarbeitungsverzeichnis-bisher-verfahrensverzeichnis text: Verfahrensverzeichnis title: Zum Blogbeitrag DSGVO: Verarbeitungsverzeichnis (bisher: Verfahrensverzeichnis))? Welche Inhalte (z. B: Prozesse auf meiner Webseite) geh\u00f6ren hinein?\n\n3. **Cookies und Tracking**: Was \u00e4ndert sich im Hinblick auf Cookies? Kann ich Tracking Tools wie (link: blog\/dsgvo-google-analytics-rechtssicher-einsetzen text: Google-Analytics title: Zum Blogbeitrag DSGVO: Google Analytics rechtssicher einsetzen) weiterhin nutzen?\n\n4. **Newsletter und Einwilligungen**: Kann ich Newsletter weiterhin an (n:Altkund:innen x:Altkundinnen y:Altkunden) versenden? Wann sind alte Einwilligungen weiter wirksam? Was ist mit neuen Newsletter-Aktionen oder Preisausschreiben?\n\n5. **Datenschutzbeauftragter**: Wer ben\u00f6tigt in Zukunft (gender:eine:n Datenschutzbeauftragte:n x:eine Datenschutzbeauftragte y:einen Datenschutzbeauftragten xy:oder)? Kann die Position intern besetzt werden? Welche Qualifikationen muss (gender:die:der x:die y:der xy:oder) Datenschutzbeauftragte haben?\n\n6. **Mitarbeiterdaten**: Welche \u00c4nderungen beim Umgang mit (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter)daten gibt es? Gibt es Auswirkungen auf Arbeitsvertr\u00e4ge?\n\n7. **Auftragsdatenverarbeitung**: Mit wem muss ein (link: blog\/dsgvo-auftragsverarbeitungsvertrag-avv text: ADV-Vertrag title: Zum Blogbeitrag DSGVO: Auftragsverarbeitungsvertrag (AVV)) geschlossen werden? Was \u00e4ndert sich am Inhalt der ADV-Vertr\u00e4ge? Woher erhalte ich Muster f\u00fcr meine ADV-Vertr\u00e4ge?\n\n8. **Datenschutz bei Minderj\u00e4hrigen**: Welche (link: blog\/dsgvo-datenschutz-bei-minderjaehrigen text: Neuregelungen title: Zum Blogbeitrag DSGVO: Datenschutz bei Minderj\u00e4hrigen) gibt es, wenn Zielgruppe Kinder und Jugendliche sind? Wie setze ich diese Bestimmungen um?\n\n9. **Einsichtsrecht und Meldepflicht**: Welche Datenschutzbestimmungen m\u00fcssen auf Verlangen wem vorgelegt werden? Wann m\u00fcssen bei Datenpannen die Betroffenen und Aufsichtsbeh\u00f6rden informiert werden?\n\n10. **Bu\u00dfgelder und Abmahnungen**: K\u00f6nnen (link: blog\/dsgvo-bussgelder-und-abmahnungen text: Datenschutzverst\u00f6\u00dfe title: Zum Blogbeitrag DSGVO: Bu\u00dfgelder und Abmahnungen) abgemahnt werden? Drohen bei Verst\u00f6\u00dfen k\u00fcnftig wirklich Bu\u00dfgelder von bis zu 20 Mio. Euro?\n\nGern unterst\u00fctzen wir Sie bei der (link: blog\/dsgvo-sind-sie-sicher-unser-web-check-so-gehts text: DSGVOkonformen Gestaltung title: Zum Blogbeitrag DSGVO: Sind Sie sicher? Unser Web-Check. So geht\u00b4s.\n) Ihrer Webseite  und helfen Ihnen dabei, teure Bu\u00dfgelder zu vermeiden. (link: dsgvo-check text: Sprechen Sie uns bitte an title: Zum DSGVO-Check Anfrageformular).\n\nSie m\u00f6chten sich weitergehend zum Thema DSGVO informieren? Dann nutzen Sie gerne das DSGVO-Special von eRecht24-Premium."},"id":"b5ddf5c4-ba79-4819-aa4a-8ecbe4b5aff5","isHidden":false,"type":"text"}],"id":"7dc1aa14-c015-4a64-ba76-9d9b116c7551","width":"1\/1"}],"id":"a6a0c576-1938-43d8-885c-d21393ec4582"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/DDDWHN07GFa7wqZN"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"5ee4ab44-4479-41cd-a09b-4717dfa4f34b","isHidden":false,"type":"cta"}],"id":"1bc31949-d42c-4de2-b72b-772a11579749","width":"1\/1"}],"id":"8474e269-9ac5-4fa3-85c0-bfc7cb09adc8"}]
+
+----
+
+Date: 2018-04-05 11:20:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Wie setze ich die Vorgaben der neuen DSGVO ohne großes Budget pünktlich und vollständig bis zum April 2018 um?
+
+----
+
+Articleimage: - file://3pSsXz02lLfW0GrG
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: f8XNXDGXOyMUG8RZ

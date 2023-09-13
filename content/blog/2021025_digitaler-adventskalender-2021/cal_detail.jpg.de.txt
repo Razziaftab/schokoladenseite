@@ -1,0 +1,21 @@
+Alt: Screenshot von einer Detailseite von einem individueller digitalen Adventskalender
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: AxIbVydkGc5ULlp8

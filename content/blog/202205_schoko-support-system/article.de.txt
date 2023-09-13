@@ -1,0 +1,41 @@
+Title: Das SCHOKO-Support-System
+
+----
+
+Articleheader: Das SCHOKO-Support-System
+
+----
+
+Intro: Brauchen Sie Unterstützung bei Ihrem Internetauftritt? Unser SCHOKO-Support hilft Ihnen gerne bei allen Belangen weiter!
+
+----
+
+Mp3: - file://aWqzwRUiopdDY0Px
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Um immer auf dem aktuellsten und sichersten Stand zu sein, erfordert ein Internetauftritt regelm\u00e4\u00dfige Pflege und Wartung. Dies umfasst u.a.: \n- Anpassung und Erweiterung von Inhalten \n- Support zum Backend \n- Fehlerbehebung\n\nWenn Sie unsere Unterst\u00fctzung brauchen und **Kontakt aufnehmen** m\u00f6chten, k\u00f6nnen Sie jederzeit ein Ticket anlegen und sich an unseren Support wenden."},"id":"670fe755-0813-42b7-844f-9e8b1f0a17f6","isHidden":false,"type":"text"}],"id":"256ba732-500d-433f-9d40-4b2d6cfa95e2","width":"1\/1"}],"id":"fac15d86-1732-446f-9b4a-86cf20556c6c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Support-Ticket anlegen \u2013 wie wird\u2019s gemacht?\nUm ein Ticket anzulegen, gibt es zwei M\u00f6glichkeiten:\n\n1. **E-Mail schreiben**: Sie k\u00f6nnen uns ganz einfach eine E-Mail schreiben an (email: support@schokoladenseite.net). Sie erhalten umgehend eine Best\u00e4tigungs-E-Mail, in der auch eine Ticket-Nummer angegeben wird.\n2. **Support-Center**: Sie k\u00f6nnen auch direkt online auf der Seite unseres (link: https:\/\/support.schokoladenseite.net\/ text: Support-Centers target: _blank title: Externer Link, \u00f6ffnet im neuen Tab) ein Ticket anlegen und Ihr Anliegen kurz schildern. Auch hier werden Sie umgehend eine Best\u00e4tigung per E-Mail erhalten, sowie Ihre Ticket-Nummer."},"id":"62e1c051-071e-4780-a205-4828d2db5ec8","isHidden":false,"type":"text"}],"id":"a0c8786c-e359-4993-96c6-8d2a65008253","width":"1\/1"}],"id":"f103277a-12ad-4d6d-b191-da4893b52d8e"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Wichtig in der weiteren E-Mail-Konversation eines Tickets ist es, dass immer auf die E-Mail mit der Ticketnummer geantwortet wird und die gleiche Konversation fortgesetzt wird. Bei einer neuen E-Mail (ohne die Ticket-Nummer) wird ein neues Ticket er\u00f6ffnet und die Zuordnung zur urspr\u00fcnglichen Thematik ist f\u00fcr unseren Support erschwert."},"id":"598938be-e923-4f7d-b0d5-35b7af9dfc50","isHidden":false,"type":"text"}],"id":"32973a81-3a3a-4fee-af4d-f9da712e1362","width":"1\/1"}],"id":"aec41bf9-fa13-43d3-a425-5b46bce37619"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Woher wei\u00df ich, ob mein Anliegen schon behandelt wurde?\nDas Support-Center bietet Ihnen auch die M\u00f6glichkeit, den **Verlauf und den Status Ihrer Anfrage** nachzuvollziehen. Dort ist die gesamte E-Mail-Kommunikation gespeichert. Sie m\u00fcssen lediglich Ihre E-Mail-Adresse und die zugeteilte Ticket-Nummer im (link: https:\/\/support.schokoladenseite.net\/tickets.php?id=2545 text: Support-Center target:_blank title: Externer Link, \u00f6ffnet im neuen Tab) eingeben und Sie erhalten Zugang zum Status Ihrer Anfrage."},"id":"1479e50f-b6cf-4a31-a060-1ad437a3db20","isHidden":false,"type":"text"},{"content":{"image":["file:\/\/WU236oJQpnBKaBQS"]},"id":"f3412ddb-7b9b-4a5d-ac5e-7ceee9a45cf5","isHidden":false,"type":"blogimage"}],"id":"a743c166-765d-4c58-96e5-9f43581fba6e","width":"1\/1"}],"id":"3059eb2d-37cc-4c3c-a59c-9c8c1ca2cf56"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Dar\u00fcber hinaus gibt es die M\u00f6glichkeit sich ein Konto im Support-Center anzulegen. Somit haben Sie alle Ihre Ticketanfragen immer \u00fcbersichtlich dargestellt und k\u00f6nnen Ihre Anliegen schnell und einfach nachvollziehen."},"id":"3fd5e065-72d5-4cd7-903b-ba95582a5e2b","isHidden":false,"type":"text"}],"id":"427e6d25-c839-4245-9346-c3b3c1c6b740","width":"1\/1"}],"id":"55ca560c-3887-47a8-b15e-75d12e1b28c4"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Wann sende ich ein Ticket und wann kontaktiere ich (gender:meine:n SCHOKO-Projektmanager:in x:meine SCHOKO-Projektmanagerin y:meinen SCHOKO-Projektmanager xy:oder)?\n\nDas Support-Center k\u00f6nnen Sie jederzeit verwenden, wenn Sie kurze und\/oder akute Belange haben, wie inhaltliche Anpassungen, Fehler im System oder Fragen zur Bedienung des CMS. \nDie (gender:SCHOKO-Projektmanager:innen x:SCHOKO-Projektmanagerinnen y:SCHOKO-Projektmanager xy:und) kommen ins Spiel sobald Sie Ihre Website weiterentwickeln wollen. Das beinhaltet z.B. die Entwicklung einer Unterseite zu einem neuen Thema, eine neue Funktion die Sie implementieren m\u00f6chten oder eine Beratung in ein neues Themengebiet w\u00fcnschen (wie zum (link: https:\/\/schokoladenseite.net\/barrierefreies-webdesign text: barrierefreien Webdesign))."},"id":"af9f7e03-cca2-4893-aa34-4bb7f0ace179","isHidden":false,"type":"text"}],"id":"cb5d996f-1aa8-425b-92d9-240337b1b537","width":"1\/1"}],"id":"6e5f26b2-5bce-4888-b667-326f18737703"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Wir bieten unseren (gender:Kund:innen x:Kundinnen y:Kunden xy:und) auch (link: https:\/\/schokoladenseite.net\/support text: laufende Supportvertr\u00e4geb title: zur Leistung Support), sowie (link: https:\/\/schokoladenseite.net\/wartung text: feste Wartungsvertr\u00e4ge title: zur Leistung Wartung) an. Das bedeutet, dass wir uns um die Wartung Ihres Internetauftritts k\u00fcmmern, monatlich die neuesten Updates installieren und nat\u00fcrlich auch auftretende Probleme oder andere Anfragen umgehend behandeln und l\u00f6sen. **Einfaches und sorgenfreies Digitalmarketing** \u2013 mit SCHOKOLADENSEITE.net werden Ihre Tr\u00e4ume wahr. \ud83d\ude0a"},"id":"44426911-1f15-4cbe-a074-8472dc3fabb0","isHidden":false,"type":"text"}],"id":"069dfb89-090b-48af-a3b2-c4dc4ef5a12a","width":"1\/1"}],"id":"dca262b0-fd2b-421b-9d9c-49ad0c4b9f61"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/upcxfNMOEZAZNOL2","file:\/\/BAkvNcOwbK02VKFZ"],"caption":"Fragen Sie sich, wieso Sie bisher auf unsere Unterst\u00fctzung verzichtet haben? Egal! Sprechen Sie uns noch heute an - wir freuen uns auf Ihre Anfrage! \n\n(link: support text: Zur Leistung Support class: btn -primary)"},"id":"aac3b288-0cb9-48a7-8193-007e204884e1","isHidden":false,"type":"cta"}],"id":"f0c421b2-01af-47a9-8110-656bf8950b1d","width":"1\/1"}],"id":"8116188a-4f71-4650-a0fd-dd956bcf6869"}]
+
+----
+
+Date: 2022-09-05 10:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Wir stehen Ihnen zur Seite, wenn die Technik streikt: unser SCHOKO-Support-System sorgt für eine schnelle Unterstützung.
+
+----
+
+Articleimage: - file://jfsJ9bzuQ1VU15On
+
+----
+
+Categories: Agentur
+
+----
+
+Uuid: 5Ry5XDCwST1tvy4X

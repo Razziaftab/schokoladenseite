@@ -1,0 +1,21 @@
+Alt: Abbildung des Seitenbaums eines Typo3 Backends
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: fZFwDTM8uorGmBS9

@@ -1,0 +1,21 @@
+Alt: chocfair cal - Digitaler Adventskalender - Beispiel Design Screenshot Blau
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 86fmckvjBw2attPE

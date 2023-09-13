@@ -1,0 +1,21 @@
+Alt: Auf grauem Hintergrund sind mehrere bunte Kreise zu sehen, die sich teilweise überschneiden. In den Kreisen befinden sich in weißer Farbe Symbole für Sinneseindrücke und Tätigkeiten, wie z. B. ein Auge, eine Hand mit ausgestrecktem Zeigefinger oder ein Paar Kopfhörer.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: B2W9mgwNZtvh9ozV
+
+----
+
+Template: blocks/image

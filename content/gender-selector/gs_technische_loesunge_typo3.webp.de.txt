@@ -1,0 +1,21 @@
+Alt: Typo3 Logo
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: LLhexp3f8Sv4dl57

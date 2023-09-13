@@ -1,0 +1,13 @@
+Alt: Smartphone- und Tabletbildschirm zeigen Bilder der akf-servicelease Website
+
+----
+
+Title: Mobile Endgeräte
+
+----
+
+Template: files-upload
+
+----
+
+Sort: 91

@@ -1,0 +1,17 @@
+Alt: Code in einem Texteditor
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

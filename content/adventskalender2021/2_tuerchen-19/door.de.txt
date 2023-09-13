@@ -1,0 +1,25 @@
+Title: In der Weihnachtsbäckerei -  Schokoladenkonfekt
+
+----
+
+Image: - 19.jpg
+
+----
+
+Door: 19
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **In der Weihnachtsb\u00e4ckerei - Schokoladenkonfekt**\n\n*Wer hinter das gestrige T\u00fcrchen geblickt hat, wird sich erinnern: unser Kollege Christian mag Schokolade. VIEL Schokolade. Da soll es nicht weiter verwundern, wenn sein Lieblings-Weihnachtsrezept vor allem aus einem besteht: VIEL Schokolade. Wir stellen es heute vor, aber seien Sie gewarnt: dieses Schokoladenkonfekt ist wirklich mega lecker!*\n\n**Die Zutaten:**\n- 350 g Bio-Zartbitter-Kuvert\u00fcre (es lohnt sich, in gute Qualit\u00e4t zu investieren \ud83d\ude0b)\n- 350 g gehackte N\u00fcsse, z.B. Haseln\u00fcsse oder Waln\u00fcsse\n- 180 g Zitronat oder getrocknete Fr\u00fcchte, z.B. Datteln, fein gew\u00fcrfelt\n- 1,5 EL Bio-Kakaopulver\n- 300 g Zucker (am besten Rohrohrzucker)\n- optional eine Prise Zimtpulver\n- 1 EL Rum (ruhig vorher mal probieren, ob er schmeckt ;-) )\n- etwas \u00d6l mit neutralem Geschmack f\u00fcr das Backblech\n\n**Der Weg zum Konfektgl\u00fcck:**\nDie Zartbitter-Kuvert\u00fcre grob hacken und mit den N\u00fcssen und dem Zitronat im Mixer gr\u00fcndlich vermischen, dann noch das Kakaopulver dazugeben. Den Zucker mit 75 ml Wasser aufkochen und mit der Schokomasse mixen. Zuletzt noch den Zimt und den Rum (davon aber nicht zu viel!) untermischen.\n\nNun muss man noch ein gro\u00dfes Backblech mit etwas \u00d6l einfetten und die Masse etwa 1,5 cm dick darauf verstreichen. \u00dcber Nacht zugedeckt kalt stellen und fest werden lassen. Am n\u00e4chsten Tag in mundgerechte St\u00fccke schneiden. Genie\u00dfen. Falls was \u00fcbrigbleibt, die Reste in einer Blechb\u00fcchse aufbewahren."},"id":"404b74ec-c99d-4d74-abb2-572f179728ff","isHidden":false,"type":"text"}],"id":"87f9a280-b406-4bfc-b2b5-c53bd3b40bce","width":"1\/1"}],"id":"a254df08-b863-4fd0-82dc-ea2e55928f99"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: 5p5y6FoPqfAjSD7Z

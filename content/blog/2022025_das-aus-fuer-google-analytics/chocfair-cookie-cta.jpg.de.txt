@@ -1,0 +1,25 @@
+Alt: Die Grafik zeigt sechs stilisierte Kekse mit Schokoladenstücken.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Sort: 3
+
+----
+
+Uuid: qSYsgRDJbe2hFr4s

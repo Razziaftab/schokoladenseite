@@ -1,0 +1,13 @@
+Alt: Screenshot: links die Cookie-Erklärung und das Cookie-Banner, rechts die Konsole, die keine aktiven Cookies anzeigt.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 6AJ42ef9swmiAbbs

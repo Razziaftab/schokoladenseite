@@ -1,0 +1,45 @@
+Title: Moderne Bildformate
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://ETWbzUzsfGdFgpht
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Als die Bilder laufen lernten, war noch nicht von Bandbreite die Rede: das Einzige, was z\u00e4hlte, war die bestm\u00f6gliche Qualit\u00e4t. Inzwischen hat sich das nat\u00fcrlich ge\u00e4ndert, und bei der Erstellung von Webseiten wird ein guter Kompromiss zwischen Qualit\u00e4t und Bildgr\u00f6\u00dfe gew\u00e4hlt. Doch eine geringe Daten\u00fcbertragungsrate kann trotzdem dazu f\u00fchren, dass Bilder die Ladezeit der gesamten Internetseite verz\u00f6gern \u2013 es kommt zum **<span lang=\"en\">cumulative layout shift<\/span>**: das <span lang=\"en\">Layout<\/span> der Seite \u201cspringt\u201d, wenn ein fehlendes Bild geladen wurde; im schlimmsten Fall sogar mehrmals. Das Problem l\u00e4sst sich umgehen, indem man f\u00fcr die Bilder auf einer Webseite moderne Bildformate nutzt."},"id":"ea284222-e09d-43b8-95d8-b0796e4688bd","isHidden":false,"type":"text"}],"id":"ffaa964c-71db-41c5-8399-4d2fc01f3f82","width":"1\/1"}],"id":"977b46d1-9944-4f9c-8622-0e0beca554da"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Moderne Bildformate \u2013 und die Webseite lernt fliegen","customid":"","customclass":""},"id":"f0dc63d9-2966-4b20-b5ba-75708ff5f767","isHidden":false,"type":"heading"},{"content":{"text":"Zwei verschiedene Standards wurden daf\u00fcr entwickelt: **<span lang=\"en\">Progressive JPEG<\/span>** und **<span lang=\"en\">WebP<\/span>**. Sie bieten beide eine **bessere Bildqualit\u00e4t bei geringerer Dateigr\u00f6\u00dfe** als die Formate JPEG und PNG. Es gibt aber auch Unterschiede."},"id":"a8ba0631-8ea7-4666-884c-3b377b372882","isHidden":false,"type":"text"}],"id":"4d0b387e-8fc0-477d-9ae0-d5b916e8983b","width":"1\/1"}],"id":"4ad1e9e7-2c23-4504-99e9-7824672cf7b3"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h3","text":"Progressives JPEG: jetzt wird\u2019s scharf","customid":"","customclass":""},"id":"a2103202-da61-471f-bf03-a5a6a5c1482e","isHidden":false,"type":"heading"},{"content":{"text":"Ein progressives JPEG ist kleiner als ein weboptimiertes JPEG. Au\u00dferdem laden die Bilder zun\u00e4chst nicht in der maximalen Aufl\u00f6sung, sondern werden immer wieder \"nachgesch\u00e4rft\", was aber bei einer normal schnellen Daten\u00fcbertragung nicht sichtbar ist. Dabei kann man die Unsch\u00e4rfe zu Beginn des Seitenaufbaus einstellen. Der Nachteil: wie das urspr\u00fcngliche JPEG kann in diesem Format **kein transparenter Hintergrund** verwendet werden. Mit <span lang=\"en\">Adobe Photoshop<\/span> ist die Umwandlung aus einem anderen Bildformat m\u00f6glich. Falls der verwendete <span lang=\"en\">Browser<\/span> progressive JPEGs nicht unterst\u00fctzt, wird einfach wie bisher das Bild in maximaler Aufl\u00f6sung geladen \u2013 **die Darstellung funktioniert also garantiert**. Mit JPEG XL ist inzwischen ein weiteres Nachfolgeformat in Entwicklung."},"id":"ecbf8e48-d7b3-4138-97b5-b769e8c3291a","isHidden":false,"type":"text"}],"id":"3b91d50f-28b4-492b-81c9-30911a5f1f9a","width":"1\/1"}],"id":"3b878046-4db3-488e-aafe-b773ad22c6f0"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h3","text":"<span lang=\"en\">WebP<\/span>: der Allesk\u00f6nner von <span lang=\"en\">Google<\/span>","customid":"","customclass":""},"id":"f86d6b89-eb86-4510-9196-1161fcec71e7","isHidden":false,"type":"heading"},{"content":{"text":"Das von <span lang=\"en\">Google<\/span> entwickelte Format <span lang=\"en\">WebP<\/span> bietet um ca. 25 % kleinere Bilddateien als das PNG-Format, erm\u00f6glicht aber wie Letzteres einen **transparenten Hintergrund**. Auch **Animationen** k\u00f6nnen als <span lang=\"en\">WebP<\/span> dargestellt werden. Bei hoher Komprimierung bietet es eine bessere Bildqualit\u00e4t als JPEG-Bilder und wird inzwischen von den g\u00e4ngigen <span lang=\"en\">Browsern<\/span> in ihrer aktuellsten Version unterst\u00fctzt. Der Nachteil: wird ein veralteter <span lang=\"en\">Browser<\/span> verwendet, klappt die Darstellung nicht. Daher sollte als <span lang=\"en\">fallback<\/span> immer noch ein anderes Format vorhanden sein, was nat\u00fcrlich zu einem **Mehraufwand bei der Programmierung** von Seiten f\u00fchrt. Die Erstellung erfolgt z.B. \u00fcber ein <span lang=\"en\">Add-on<\/span> mit <span lang=\"en\">Adobe Photoshop<\/span> oder Online-Konverter, ist also vor allem f\u00fcr Profis m\u00f6glich. Auch f\u00fcr <span lang=\"en\">WordPress<\/span> gibt es <span lang=\"en\">Plug-ins<\/span> f\u00fcr die automatische Umwandlung in <span lang=\"en\">WebP<\/span>. Die hohe Geschwindigkeit beim Seitenaufbau, die zu einer guten <span lang=\"en\">User Experience<\/span> (UX) beitr\u00e4gt, sorgt auch f\u00fcr eine **bessere Bewertung im <span lang=\"en\">Google Ranking<\/span>** \u2013 die Seite wird bei <span lang=\"en\">Google<\/span>-Suchergebnissen weiter vorne angezeigt. \u00dcbrigens: um <span lang=\"en\">WebP<\/span>-Bilder zu betrachten, muss man immer einen <span lang=\"en\">Browser<\/span> benutzen."},"id":"bb7190cb-8313-43ab-b675-071a63f8aa18","isHidden":false,"type":"text"}],"id":"deb3291d-ca20-4a7d-bfa1-efdbf1b5bf69","width":"1\/1"}],"id":"54cecac6-7bb3-418d-aae5-b8816b795e8c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/2FVPxehnodsrk01c"]},"id":"6f9ba4d1-a1a8-418e-9b07-b3518ebd9f7c","isHidden":false,"type":"blogimage"}],"id":"2c93a74e-c76c-4711-ad02-098f5692a8fa","width":"1\/2"},{"blocks":[],"id":"ca40c5ff-0cb2-4dc3-a848-a2f1fe1452d2","width":"1\/2"}],"id":"db696c06-f289-4b5f-82dc-b3f406c65da2"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Besser, aber was ist das Bestesteste?","customid":"","customclass":""},"id":"cf69cd4e-e78d-47c0-a76c-09d0d2ed9ce9","isHidden":false,"type":"heading"},{"content":{"text":"Beide Bildformate haben ihre St\u00e4rken, aber auch ein, zwei H\u00e4kchen, deswegen hat sich auch noch keines durchgesetzt, bzw. werden schon die Nachfolger entwickelt. Welches Format f\u00fcr Ihr Webprojekt am besten geeignet ist, entscheiden wir daher individuell zusammen mit Ihnen. (link: kontakt text: Sprechen Sie uns gerne an title: Zum Kontaktformular der SCHOKOLADENSEITE.net)!"},"id":"eed478ae-94b5-4fdb-ad4d-3fda76f7609f","isHidden":false,"type":"text"}],"id":"0d36df22-58da-47ce-b7a2-9b79a02a0935","width":"1\/1"}],"id":"1198d029-a8a6-4934-868f-cd08b8251e75"}]
+
+----
+
+Date: 2021-07-14 14:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Moderne Bildformate wie WebP und Progressive JPEG sorgen für eine flüssige Darstellung Ihrer Webseite. Wir erklären, wieso.
+
+----
+
+Articleimage: - file://DE2B8boPQFPJowxQ
+
+----
+
+Categories: Grafik, Technik, Webdesign
+
+----
+
+Text: 
+
+----
+
+Uuid: YKEvPq8o9khnFyWc

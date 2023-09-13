@@ -1,0 +1,21 @@
+Alt: Handy und Bildschirm Icon
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: UdWACwPn3uRY3NeK

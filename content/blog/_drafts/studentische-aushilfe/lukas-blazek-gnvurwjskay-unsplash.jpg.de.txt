@@ -1,0 +1,21 @@
+Alt: Obenansicht von einem Arbeitsplatz mit Notizbuch, Kaffeetasse und Tastatur
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: KFLe50AMeimV5FiY

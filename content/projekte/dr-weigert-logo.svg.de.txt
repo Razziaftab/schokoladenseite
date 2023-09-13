@@ -1,0 +1,13 @@
+Alt: Dr. Weigert Logo
+
+----
+
+Title: Dr. Weigert
+
+----
+
+Template: blocks/image
+
+----
+
+Sort: 35

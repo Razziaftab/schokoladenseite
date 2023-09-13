@@ -1,0 +1,13 @@
+Alt: Optonaval Logo
+
+----
+
+Title: Optonaval
+
+----
+
+Template: blocks/image
+
+----
+
+Sort: 77

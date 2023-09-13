@@ -1,0 +1,29 @@
+Title: Unser Spendenprojekt 2021
+
+----
+
+Seodescription: Wir möchten Ihnen am Ende unseres Adventskalenders (last, but not least) das Projekt vorstellen, an das wir dieses Jahr spenden: Es ist das Frauennetzwerk REMO
+
+----
+
+Image: - 24.jpg
+
+----
+
+Door: 24
+
+----
+
+Size: col-2
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Unser Spendenprojekt 2021**\n\nWir m\u00f6chten Ihnen am Ende unseres Adventskalenders (last, but not least) das Projekt vorstellen, an das wir dieses Jahr spenden: Es ist das Frauennetzwerk REMO (Red de mujeres de Ometepe), das auf der Insel Ometepe im Nicaraguasee t\u00e4tig ist. Die Inselfrauen haben eine vielf\u00e4ltige sozialpolitische Agenda. \u00dcber Vernetzung und direkte Unterst\u00fctzung f\u00f6rdern sie einzelne Projekte. Diese reichen von lokalen Selbsthilfe-Angeboten \u00fcber psychologische Beratung bis hin zur Unterst\u00fctzung von Frauen mit Gewalterfahrungen.\n\n**Ein sch\u00f6nes, armes Land**\n\nNicaragua ist eines der \u00e4rmsten L\u00e4nder Lateinamerikas. 43 Prozent der Bev\u00f6lkerung leben in Armut, die meisten von ihnen auf dem Land mit einem Tageseinkommen von weniger als einem US-Dollar. Besonders betroffen von Armut sind die indigene Bev\u00f6lkerung, Frauen und Jugendliche. (Quelle: GIZ)\n\nDaf\u00fcr ist Nicaragua umso reicher an Biodiversit\u00e4t - ein ganz besonderes Gut unseres Planeten. Ein Reichtum an Arten und Lebensr\u00e4umen und der genetischen Vielfalt innerhalb einzelner Tier- und Pflanzenarten, die f\u00fcr die Gesundheit und das Wohlergehen aller V\u00f6lker und Gesellschaften so wichtig ist.\n\nAndrea war im September 2021 auf der Trauminsel Ometepe: \n\n*\"Es ist faszinierend zu erleben, wie freundlich, hilfsbereit und geduldig die Menschen auf dieser Insel sind. Sie bringen einem immer ein L\u00e4cheln entgegen. Ganz ungeachtet ihrer gegenw\u00e4rtigen finanziellen oder politischen Situation.\"*\n\nSo ist es zu unserer Herzensangelegenheit geworden, sie mit unserer Spendenaktion zu unterst\u00fctzen.\n\n**Wollen Sie ebenfalls spenden?**\n\nAktuelle Informationen zum Frauennetzwerk REMO finden Sie auf der facebook-Seite der Initiative unter (link: https:\/\/www.facebook.com\/REMO.NICARAGUA\/ text: https:\/\/www.facebook.com\/REMO.NICARAGUA\/ target: _blank title: Externer Link zur Facebook-Seite der REMO (\u00d6ffnet im neuen Tab)) und auf ihrer Website (link: https:\/\/remonica.wordpress.com\/ text: https:\/\/remonica.wordpress.com\/ target: _blank title: Externer Link zur Webseite der REMO (\u00d6ffnet im neuen Tab))\n\n*Wenn Sie REMO mit einer Spende unterst\u00fctzen wollen, schreiben Sie uns gerne eine E-Mail; wir stellen den Kontakt zu Ihrer Ansprechpartnerin her: (email: brief@schokoladenseite.net text: brief@schokoladenseite.net) *\n<br>\n(image: cropped-portada-remo-blog-1.jpg alt: REMO Logo)\n\nthx to Mage for helping & coordinating \u2764"},"id":"c7e30f0a-dbdb-477f-b99b-4a637c09afa5","isHidden":false,"type":"text"}],"id":"dc30fafd-0dfa-4b13-bae9-b6e972e622cc","width":"1\/1"}],"id":"cda9ac56-1afd-43c5-a82f-a157c3aa7e89"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: dTvm2wYMbifmN7c6

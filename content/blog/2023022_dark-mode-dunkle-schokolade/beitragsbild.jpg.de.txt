@@ -1,0 +1,21 @@
+Alt: Nahaufnahme von mehreren Stücken dunkler Schokolade und Schokosplitter, die teilweise übereinander liegen.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: bHGifYuBZtHaNHGg
+
+----
+
+Template: blocks/image

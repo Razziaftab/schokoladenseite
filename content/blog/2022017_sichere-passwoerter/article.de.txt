@@ -1,0 +1,41 @@
+Title: Sichere Passwörter
+
+----
+
+Articleheader: Sichere Passwörter
+
+----
+
+Intro: (gender:Jede:r x:Jede y:Jeder xy:und) hat sie, fast niemand mag sie, und sie können manchmal ziemlich gefährlich werden. Die Rede ist natürlich von Passwörtern.
+
+----
+
+Mp3: - file://R1KtyE2Ilz0f6K4w
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Wir werden immer wieder von (gender:Kund:innen x:Kundinnen y:Kunden xy:und) gefragt, was sie beachten m\u00fcssen, um ihre Online-Konten mit sicheren Passw\u00f6rtern zu sch\u00fctzen. Oder, noch schlimmer, wir stellen selbst fest, dass der Passwortschutz bei unseren (gender:Kund:innen x:Kundinnen y:Kunden xy:und) nicht mehr zeitgem\u00e4\u00df ist. Darum haben wir einmal kurz und knapp zusammengefasst, worauf es bei der Erstellung und Verwendung von Passw\u00f6rtern ankommt.\n## Einfach zu merken ist auch einfach zu knacken - oder?\nNicht ganz. Anhand unserer Checkliste k\u00f6nnen Sie zun\u00e4chst pr\u00fcfen, ob Ihr Passwort sicher genug ist:\n\nDas Passwort \n- sollte aus mindestens acht Zeichen bestehen - je l\u00e4nger, je lieber\n- enth\u00e4lt am besten Gro\u00df- und Kleinbuchstaben, Sonderzeichen (!?+$%) und Zahlen\n- sollte nicht in einem W\u00f6rterbuch stehen\n- darf keine g\u00e4ngigen Wiederholungen oder Tastaturmuster enthalten, wie z.B. \"abcd1234\" oder \"asdfghjkl\"\n- ist nicht eine einfache Kombination von z.B. Geburtstagen oder Namen der Haustiere\n- ist auch kein existierendes Wort, das einfach noch ein Sonderzeichen am Anfang oder Ende hat\n\n## Tipp 1: Satz als Eselsbr\u00fccke\nEs ist nat\u00fcrlich wichtig, dass Sie sich das Passwort gut merken k\u00f6nnen. Daf\u00fcr gibt es einen einfachen Trick: Merken Sie sich einen Satz. F\u00fcr das Passwort verwenden Sie dann den ersten (oder zweiten, letzten, ...) Buchstaben jedes Worts. Manche Buchstaben eignen sich dann noch f\u00fcr die Umwandlung in Zahlen oder Sonderzeichen, wie ein $ f\u00fcr ein S oder eine 3 f\u00fcr ein E. So wird aus dem Satz: \"Ich backe an Weihnachten immer drei verschiedene Sorten Schokokekse\" z.B. das Passwort \"1baWi3v$S\". Lecker!\n### Je l\u00e4nger, je sicherer\nBei Verschl\u00fcsselungsverfahren f\u00fcr WLAN wie zum Beispiel WPA2 oder WPA3 sollte das Passwort mindestens 20 Zeichen lang sein. Nutzen Sie dabei alle verf\u00fcgbaren Zeichen, also Gro\u00df- und Kleinbuchstaben, Ziffern und Sonderzeichen. \n## Tipp 2: L\u00e4nge und Komplexit\u00e4t\nZwei Eigenschaften machen ein starkes Passwort aus: L\u00e4nge und Komplexit\u00e4t. Das Passwort ist also entweder 20 bis 25 Zeichen lang und es wurden zwei Zeichenarten genutzt ODER es ist 8 bis 12 Zeichen lang und es wurden vier Zeichenarten (also auch Ziffern und Sonderzeichen) genutzt - dann ist es zwar k\u00fcrzer, aber auch komplexer.\n## Tipp 3: Passwortmanager\nIT-Sicherheits-(gender:Expert:innen x:Expertinnen y:Experten xy:und) empfehlen, m\u00f6glichst f\u00fcr jeden Dienst ein eigenes, starkes Passwort zu verwenden. Daher sollten Sie ein Passwortmanager-Programm verwenden. Sie m\u00fcssen sich dann nur ein einziges, starkes Passwort merken, um auf den Passwortmanager zugreifen zu k\u00f6nnen - und k\u00f6nnen sich dann die dort verwalteten Passw\u00f6rter einfach in das Anmeldefenster des jeweiligen Dienstes kopieren.\n## Tipp 4: doppelt moppeln\nVerwenden Sie wenn m\u00f6glich eine Zwei-Faktor-Authentisierung. Sie bietet noch h\u00f6here Sicherheit, z.B. indem nach der Passwort-Anmeldung noch ein Code per SMS zugeschickt wird. Sie wird von immer mehr Diensten angeboten - nutzen Sie diese zus\u00e4tzliche Sicherheit, es lohnt sich.\n\nWeitere Infos zum Online-Accountschutz finden Sie auf den Seiten des BSI: (link: https:\/\/bit.ly\/3t4d2AX text: https:\/\/bit.ly\/3t4d2AX target: _blank title: Externer Link: Zur Seite des BSI (\u00f6ffnet im neuen Tab))"},"id":"82ae7e5a-f59b-41f4-acd2-9201d432edee","isHidden":false,"type":"text"}],"id":"a2914e89-ca74-457a-b8a1-5586d2d0e744","width":"1\/1"}],"id":"cb3543c0-df95-4f82-ab26-152eae6cd129"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/Gf9Enk1grNMMJoyv","file:\/\/A9XW8DlBC70IS3bu"],"caption":"Wir sorgen nicht nur daf\u00fcr, dass die Internetseiten unserer (gender:Kund:innen x:Kundinnen y:Kunden xy:und) gut aussehen, sondern auch f\u00fcr die optimale Sicherheit. Wenn Sie Fragen rund um dieses Thema haben, dann sprechen Sie uns gerne an!\n\n(link: sicherheit text: Zur Leistung Sicherheit class: btn -primary)"},"id":"f2e7294a-f470-4156-952a-26da911cb561","isHidden":false,"type":"cta"}],"id":"0474496d-55b1-48b5-a1c3-eb4e721d429b","width":"1\/1"}],"id":"a4a36e61-0567-4127-bc35-bd77986a4ed8"}]
+
+----
+
+Date: 2022-08-17 12:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Wir werden immer wieder von Kund:innen gefragt, was sie beachten müssen, um ihre Online-Konten mit sicheren Passwörtern zu schützen. Darum haben wir einmal kurz und knapp zusammengefasst, worauf es bei der Erstellung und Verwendung von Passwörtern ankommt.
+
+----
+
+Articleimage: - file://9Jv7VUyixTQbdnFn
+
+----
+
+Categories: Technik
+
+----
+
+Uuid: JeO1lONdNxkG4Va0

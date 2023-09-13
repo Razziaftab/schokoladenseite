@@ -1,0 +1,29 @@
+Title: Der/die/das/* SCHOKOLADE - unser Gender Selector
+
+----
+
+Seodescription: 
+
+----
+
+Image: - 13.jpg
+
+----
+
+Door: 13
+
+----
+
+Size: col-2
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Der\/die\/das\/ SCHOKOLADE - unser Gender Selector**\n### \nVielleicht haben Sie ihn schon selbst auf unserer Website entdeckt, ansonsten haben wir hinter diesem T\u00fcrchen eine \u00dcberraschung, auf die wir besonders stolz sind: den (link: gender-selector text: Gender Selector). Wir waren schon seit geraumer Zeit unzufrieden mit den L\u00f6sungen, wie Gendering auf Webseiten umgesetzt wird (meistens gar nicht). In unserem Arbeitsalltag haben wir den Anspruch, m\u00f6glichst gendergerecht zu formulieren, \u00fcbrigens schon l\u00e4ngst integriert.  So haben wir uns an die Arbeit gemacht und konnten der Welt dieses Jahr das erste automatische Gendering-Tool pr\u00e4sentieren. Gesellschaftliche (link: verantwortung text: Verantwortung) made by (link: https:\/\/schokoladenseite.net\/gender-selector text: SCHOKOLADENSEITE.net title: Mehr erfahren zum Gender Selector), und verf\u00fcgbar auch f\u00fcr Ihre Website! \n\n**So macht Gendern allen Spa\u00df**\n\nDie (n:Nutzer:innen x:Nutzerinnen y:Nutzer) einer Website k\u00f6nnen jetzt selbst entscheiden, in welcher Genderform die Inhalte einer Website angezeigt werden sollen. Ob gendergerecht mit Doppelpunkt oder Stern, ob nur weibliche oder nur m\u00e4nnliche Bezeichnungen - hier wird niemand bevormundet. Und nebenbei l\u00e4dt das Tool vielleicht dazu ein, sich mal den (kleinen) Unterschied auf der jeweiligen Webseite anzusehen - ganz einfach mit nur einem Mausklick. \nAlle Infos zum Gender Selector finden Sie auf (link: gender-selector text: SCHOKOLADENSEITE.net title: Mehr erfahren zum Gender Selector) Dort k\u00f6nnen Sie den Gender Selector nat\u00fcrlich auch ausprobieren - er wird oberhalb der Men\u00fcleiste auf unseren Webseiten eingeblendet.\n\n*\"Es gilt als erwiesen, dass Sprache die Wahrnehmung lenkt, so dass es notwendig ist, sprachliche Gleichberechtigung umzusetzen, um die im Grundgesetz verankerte gesellschaftliche Gleichbehandlung von M\u00e4nnern und Frauen zu st\u00fctzen.\"*\n\n-(link: https:\/\/gfds.de\/standpunkt-der-gesellschaft-fuer-deutsche-sprache-gfds-zu-einer-geschlechtergerechten-sprache\/ text: Gesellschaft f\u00fcr deutsche Sprache title Externer Link zu Standpunkt der GFDS zu einer gendergerechten Sprache (\u00d6ffnet im neuen Tab) target: _blank)-"},"id":"58fddc6a-f4f5-4678-ad1f-0c8e796089e4","isHidden":false,"type":"text"}],"id":"f6014e9e-50cf-48e3-81e8-794b894efd75","width":"1\/1"}],"id":"5bf1b1a0-08c8-4775-8039-4c7229942c88"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: G2zTagEwEyGO77SA

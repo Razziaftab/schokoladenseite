@@ -1,0 +1,41 @@
+Title: Individuelles Cookie-Banner für Ihre statische Website
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://STCrLXeJxsp7WSBc
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Mit Liebe und Sorgfalt nur f\u00fcr Sie gemacht \u2026","customid":"","customclass":""},"id":"7a7538e3-4c2e-450d-9d6e-ce0c3da09d0e","isHidden":false,"type":"heading"},{"content":{"text":"Sie sind inzwischen allgegenw\u00e4rtig: <span lang=\"en\">Cookie<\/span>-Banner, die beim ersten Aufruf einer Internetseite eingeblendet werden. Den (n:Nutzer:innen x:Nutzerinnen y:Nutzern) wird dabei meist die Wahl angeboten, alle oder bestimmte <span lang=\"en\">Cookies<\/span> zu akzeptieren. Diese Auswahlm\u00f6glichkeit ist durch die DSGVO vorgegeben, in Aussehen und Funktion gibt es aber teilweise gro\u00dfe Unterschiede. Technisch sinnvoll und optisch am ansprechendsten ist die Verwendung eines <span lang=\"en\">Cookie<\/span>-Banners, das an Funktion und Aussehen der <span lang=\"en\">Website<\/span> individuell angepasst wurde. Die SCHOKOLADENSEITE.net empfiehlt dies vor allem bei statischen Webseiten, die also nicht durch ein <span lang=\"en\">Content Management System<\/span> (CMS) verwaltet, sondern durch (n:Spezialist:innen x:Spezialistinnen y:Spezialisten) programmiert werden."},"id":"f7d534b8-8b04-4405-be43-dbc18ccbeb91","isHidden":false,"type":"text"}],"id":"0ec784fc-c290-4790-86fb-4174e71f46c7","width":"1\/1"}],"id":"e6cc76fe-d874-4c3d-be37-b4224494e18e"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"<span lang=\"en\">Tracking<\/span> und externe <span lang=\"en\">Services<\/span>? Haken dran!","customid":"","customclass":""},"id":"7be7eed3-d496-476d-bbe0-a9f61c881296","isHidden":false,"type":"heading"},{"content":{"text":"Die <span lang=\"en\">Cookie<\/span>-Banner-L\u00f6sung von uns bietet dabei nicht nur die M\u00f6glichkeit, das Banner optisch an das Design Ihrer <span lang=\"en\">Website<\/span> anzupassen. Zus\u00e4tzlich konfigurieren unsere (n:Programmierer:innen x:Programmiererinnen y:Programmierer) die Nutzerabfrage speziell anhand der externen Anbieter bzw. Medien, die auf Ihrer <span lang=\"en\">Website<\/span> in <span lang=\"en\">iFrames<\/span> verwendet werden, wie z.B. <span lang=\"en\">Google Maps<\/span> oder <span lang=\"en\">YouTube<\/span>-Videos. Au\u00dferdem haben Sie die Wahl, f\u00fcr welche Analyse-<span lang=\"en\">Tools<\/span>, wie z.B. <span lang=\"en\">Tracking<\/span>, die Zustimmung abgefragt werden sollen."},"id":"931c5d81-37e3-410b-9bd5-d67d36ef471b","isHidden":false,"type":"text"}],"id":"24efa2b1-0f75-4622-a818-cc12753501b0","width":"1\/1"}],"id":"f5427d7b-a0e0-47d3-8322-88fccd6e9a82"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/6AJ42ef9swmiAbbs"]},"id":"65995bf3-c716-47c0-b17c-eed945a9e203","isHidden":false,"type":"blogimage"}],"id":"01ef6687-7e0c-4ece-a344-92b11cf15ba3","width":"1\/1"}],"id":"7000bf24-cf1c-45d9-8d9d-6325bf065d8c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/bHZkz33dsbIbAuyx"]},"id":"428605ed-0e3e-4bed-ac56-f9618306a309","isHidden":false,"type":"blogimage"}],"id":"9585d6b7-7768-4b08-a104-b4818d42bdb1","width":"1\/1"}],"id":"c00969b1-020e-493c-8864-283c30f7f583"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Hier noch einmal ganz konkret die Funktionen der <span lang=\"en\">Cookie<\/span>-Banner-L\u00f6sung von SCHOKOLADENSEITE.net im \u00dcberblick:\n\n- <span lang=\"en\">Tracking-Cookies<\/span> von <span lang=\"en\">Google Analytics<\/span> oder Matomo \u2013 inklusive Opt-out in der Datenschutz-Erkl\u00e4rung\n- <span lang=\"en\">YouTube-Blocker<\/span>\n- bei fehlender Zustimmung zu <span lang=\"en\">YouTube<\/span> alternative Freischaltoption f\u00fcr jedes YT- Video inkl. Hinweis direkt im Video-<span lang=\"en\">iFrame<\/span>\n- <span lang=\"en\">Google Maps-Blocker<\/span>\n- bei fehlender Zustimmung zu <span lang=\"en\">Google Maps<\/span> alternative Freischaltoption inkl. Hinweis direkt im <span lang=\"en\">Content<\/span>-Bereich\n\nMit der Verwendung eines individuellen <span lang=\"en\">Cookie<\/span>-Banners sieht Ihre <span lang=\"en\">Website<\/span> also nicht nur besser aus, Sie haben auch den Vorteil, dass das Banner sauber programmiert ist und nur den ben\u00f6tigten Code enth\u00e4lt. Teil unserer Leistung ist auch die \u2013 ebenfalls vom Gesetzgeber vorgeschriebene \u2013 <span lang=\"en\">Cookie<\/span>-Erkl\u00e4rung, die wir speziell f\u00fcr Ihre <span lang=\"en\">Website<\/span> erstellen. So k\u00f6nnen Sie sicher sein, dass die rechtlichen Vorgaben erf\u00fcllt werden. Da Ihr Internetauftritt so einzigartig wie Ihr Unternehmen ist, schauen wir ihn uns zun\u00e4chst an und machen Ihnen dann gerne ein individuelles Angebot f\u00fcr ein <span lang=\"en\">Cookie<\/span>-Banner, das zu Ihnen passt. Auf Wunsch haben die <span lang=\"en\">Cookies<\/span> dann auch Schokoladengeschmack. <span aria-hidden=\"true\">\ud83d\ude09<\/span> Haben Sie Interesse? Dann nutzen Sie gerne unser (link: kontakt text: Kontaktformular) \u2013 wir freuen uns auf Sie!"},"id":"108c9aa3-8c1f-47c6-9cdf-279f935df32c","isHidden":false,"type":"text"}],"id":"94a95d1b-bbd2-4d1f-907b-13237636a930","width":"1\/1"}],"id":"380bceac-2535-449f-87ff-7c2f9e17e6a0"}]
+
+----
+
+Date: 2020-12-21 10:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Mit einem speziell an Ihre Website angepassten Cookie-Banner zeigen Sie sich von Ihrer Schokoladenseite. In unserem Blogbeitrag erklären wir Ihnen, worauf es dabei genau ankommt.
+
+----
+
+Articleimage: - file://1IJ82YUsc7AlpyBI
+
+----
+
+Categories: Technik, DSGVO, Programmierung
+
+----
+
+Uuid: mQB6ZSnn4KCQSnN0

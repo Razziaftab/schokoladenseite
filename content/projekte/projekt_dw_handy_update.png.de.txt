@@ -1,0 +1,9 @@
+Alt: Smartphone-Bildschirm zeigt Auschnitt der Newsletter-Webseite von Dr. Weigert
+
+----
+
+Title: Smartphone
+
+----
+
+Template: files-upload

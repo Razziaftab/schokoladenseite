@@ -1,0 +1,21 @@
+Alt: Ein stilisierter Schiebeschalter auf dunklem Hintergrund. Der Schalter ist ein weißer Knopf, auf dem sich ein schwarzer Halbmond befindet.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: TRfKzrWbSmcLfun3
+
+----
+
+Template: blocks/image

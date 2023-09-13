@@ -1,0 +1,13 @@
+Alt: Stilisierte Marketing-Map auf rot-lila Hintergrund
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: ezp0t6MDj9jAnT91

@@ -1,0 +1,29 @@
+Title: Andrea - die Dino-Bändigerin
+
+----
+
+Seodescription: 
+
+----
+
+Image: - 14.jpg
+
+----
+
+Door: 14
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Andrea - die Dino-B\u00e4ndigerin**\n\n*Unsere SCHOKO-Chefin mag Fahrst\u00fchle, Dinos & ferne L\u00f6nder. Eine gute Kombi wie wir finden. Aber lesen Sie selbst.*\n\n**Seit wann bist du im SCHOKO-Team und was ist deine Aufgabe?**\n- Seit meinem ersten Elevator Pitch in 2003. Ich bin mit einem Partyveranstalter in der Markthalle Hamburg im Fahrstuhl stecken geblieben. Dort habe ich dann meine erste Website verkauft, und die SCHOKOLADENSEITE.net ist mit mir als Gr\u00fcnderin zum Leben erwacht. Meine Aufgabe seither - ist ja klar: Fahrstuhlfahren \ud83d\ude1c\n\n**Direkt zur wichtigsten Frage: Was ist deine Lieblings-Schokoladensorte?**\n- 100 % reiner Rohkakao ohne Zus\u00e4tze aus Mittelamerika. Er enth\u00e4lt wahnsinnig viele Mineralien und Vitamine - da bleibt das Gl\u00fcck nicht aus \ud83d\ude0b Ein Geheimrezept f\u00fcr die beste hei\u00dfe Schokolade der Welt l\u00fcfte ich hier im Adventskalender in den n\u00e4chsten Tagen \ud83d\ude42\n\n**Was passiert, wenn du \"Last Christmas\" ((link: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI text: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI target: _blank title: Externer Link zu \"Last Christmas\" auf YouTube (\u00d6ffnet im neuen Tab))) im Radio h\u00f6rst?** \n- Dann setze ich ganz schnell meine Noise Cancelling-Kopfh\u00f6rer auf \ud83d\ude02\ud83c\udfa7\n\n**Was m\u00f6chtest du in der Vorweihnachtszeit unbedingt machen?**\n- In aufregende ferne L\u00e4nder reisen. Erleben, wie die Menschen dort Weihnachten verbringen. Vielfalt und andere Kulturen kennenlernen.\n\n**Welche SCHOKO-Superkr\u00e4fte hast du?**\n- Ich kann alles, was ich will \ud83d\ude02\ud83e\uddb9\ud83d\udcaf Sogar Dinosaurier besiegen - auch wenn das manchmal vielleicht nicht so aussieht \ud83d\ude02"},"id":"3f221926-84a4-4c39-a19c-ae90600ef355","isHidden":false,"type":"text"}],"id":"8e67f2e2-d121-4a36-832b-8e5230540102","width":"1\/1"}],"id":"12755e37-9080-4dec-9976-02a4723e482e"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: VPNZT2M1Ejbptoqr

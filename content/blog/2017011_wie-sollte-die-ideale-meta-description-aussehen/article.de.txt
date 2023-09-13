@@ -1,0 +1,41 @@
+Title: Wie sollte die ideale Meta-Description aussehen?
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://gJni2gzMAONm42aw
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Was ist \u00fcberhaupt eine \"<span lang=\"en\">Meta-Description<\/span>\"?","customid":"","customclass":""},"id":"7f352bc8-2d66-41ea-b25e-2792baeccde5","isHidden":false,"type":"heading"},{"content":{"text":"Eine <span lang=\"en\">Meta-Description<\/span> ist ein kurzer Beschreibungstext f\u00fcr eine <span lang=\"en\">Website<\/span>. Dieser wird bei einem Suchergebnis auf <span lang=\"en\">Google<\/span> als Anrei\u00dfertext ausgegeben, um einen ersten Eindruck \u00fcber die Zielseite zu erhalten.\n\nEs  wird kurz beschrieben, was die (n:Nutzer:innen x:Nutzerinnen y:Nutzer) auf einer Webseite finden werden. Die Meta-Description sollte aufmerksamkeitsstark sein und so zum Klicken animieren."},"id":"905f3c4e-e0e5-44f9-a819-2a067d83c093","isHidden":false,"type":"text"}],"id":"5afc050d-6697-4d19-aa5a-b939c03e4dbf","width":"1\/1"}],"id":"f75f86fe-80c5-4672-b61e-2f1a546f23f1"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wie sollte die ideale <span lang=\"en\">Meta-Description<\/span> am besten aussehen?","customid":"","customclass":""},"id":"51b54f09-23b0-4886-94e9-523560c77984","isHidden":false,"type":"heading"},{"content":{"text":"Sie sollte nicht mehr als 320 Zeichen haben (inkl. Leerzeichen).\nDa die <span lang=\"en\">Meta-Description<\/span> zum Klicken animieren soll, sollte sie die Aufmerksamkeit auf sich ziehen!\n\nAu\u00dferdem sollte darauf geachtet werden, dass alle Einzelseiten eines Webauftritts eine **individuell angepasste <span lang=\"en\">Meta-Description<\/span>** haben. Durch Verwenden von Zeichen \u2013 z.B. des \u201c<span lang=\"en\">Checkmarks<\/span>\u201d (\u2713) \u2013 wird ein unterbewusster Zuspruch hervorgerufen und so die Kernaussage des Satzes verst\u00e4rkt.\n\nSowohl die **<span lang=\"en\">Meta-Description<\/span>** als auch der Titel der Seite stellen den ersten Ber\u00fchrungspunkt mit (n:der\/dem Besucher:in x:der Besucherin y:dem Besucher) her. Deshalb muss (n:die\/der Besucher:in x:die Besucherin y:der Besucher) besonders an diesen Stellen effektiv \u00fcberzeugt werden.\n\nDas sind die drei wichtigsten Elemente der **<span lang=\"en\">Meta-Description<\/span>**:\n\n**ACHTUNG**: Die Aufmerksamkeit sollte auf den Link gezogen werden. Dazu kann man zum Beispiel in Versalien schreiben: ACHTUNG zieht mehr Aufmerksamkeit auf sich als Achtung.\n\n**INTERESSE**: Das Interesse (n:der\/des Besucher:in x:der Besucherin y:des Besuchers) ist auch ein wichtiges Element. Dazu k\u00f6nnen W\u00f6rter\/Phrasen wie \"Gratis\"\/\"Kostenlos\", \"nur f\u00fcr kurze Zeit\" oder \"Exklusiv\" verwendet werden.\n\n**VERLANGEN**: S\u00e4tze wie \u201c\u00dcber 9.000 zufriedene (n:Kund:innen x:Kundinnen y:Kunden)\u201d, \u201cMit Note sehr gut bewertet\u201d oder \u201cEmpfohlen von \u2026\u201d wecken das Verlangen, die Seite aufzurufen."},"id":"d64ff63c-0490-4500-b860-108b8c7e227d","isHidden":false,"type":"text"}],"id":"865ae991-ef0c-4992-92c3-3a2e5a73ed2f","width":"1\/1"}],"id":"a1ab9d1b-70be-4c8b-9dfa-276312a54e2b"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h3","text":"HTML-Code","customid":"","customclass":""},"id":"ff0c905f-8436-4f7e-a54e-b4d615e2fdc6","isHidden":false,"type":"heading"},{"content":{"text":"Der gew\u00fcnschte Text wird in den head-Bereich geschrieben.\n``<meta name= \"description\" content=\"HIER NUN DER GEW\u00dcNSCHTE TEXT.\">``"},"id":"a74d9365-a313-4dbe-b2f3-67d308776cf0","isHidden":false,"type":"text"}],"id":"3cc24338-6fbf-4a3a-9d26-bfbc66e99026","width":"1\/1"}],"id":"d08969f9-1126-4ba8-bc58-d3a7668d263c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"75e2983a-f2ef-437c-a2a0-533e39fd43ac","isHidden":false,"type":"kontaktform"}],"id":"e5748177-e93a-45a0-b3a5-131f10cdbe05","width":"1\/1"}],"id":"7bffba03-a1a4-4e2e-a1e2-0ee7b035ce0e"}]
+
+----
+
+Date: 2017-01-11 11:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Wir erklären in diesem Blog-Beitrag, was eine Meta-Description ist und was sie am besten enthalten sollte.
+
+----
+
+Articleimage: - file://ekLylg1HJ7fu2nOu
+
+----
+
+Categories: SEO, Marketing
+
+----
+
+Uuid: 937H4HryJu4kr0vK

@@ -1,0 +1,41 @@
+Title: Coworking: unser Office Space mit Schokoladengeschmack
+
+----
+
+Articleheader: Coworking: unser Office Space mit Schokoladengeschmack
+
+----
+
+Intro: Hat dir dein Meerschweinchen heute Morgen tief in die Augen geschaut und dir unmissverständlich zu verstehen gegeben, dass jetzt endlich Schluss mit <span lang="en">Home Office</span> sein muss? Kein Problem, wir haben die Lösung für euch!
+
+----
+
+Mp3: - file://Lk971zAzjFNaBSE8
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Raus aus der Bude, rein ins SCHOKOffice","customid":"","customclass":""},"id":"d986b350-9ed8-4dde-add6-7d9eac80131b","isHidden":false,"type":"heading"},{"content":{"text":"In unserem coolen B\u00fcro im Hamburger Univiertel bieten wir auch <span lang=\"en\">Coworking<\/span> an - du kannst dir einen Schreibtischplatz mieten, wir k\u00fcmmern uns um das ganze Drumherum. Die ultimative, inspirierende Atmosph\u00e4re in der SCHOKO B\u00fcrogemeinschaft gibt es in verschiedenen Preiskategorien zu haben. \n\nDie (link: https:\/\/schokoladenseite.net\/anfahrt text: Anbindung an den \u00d6PNV und Fernverkehr title: Zur Seite Anfahrt) ist perfekt - die Bushaltestelle ist nur einen Steinwurf entfernt, und zur U\/S- und Eisenbahn sind es auch nur wenige Minuten. So finden auch deine (n:Besucher:innen x:Besucherinnen y:Besucher) schnell zu dir - und du kannst sie z.B. in unserem repr\u00e4sentativen Besprechungsraum empfangen."},"id":"8b7ea3dc-0293-4262-ae64-22247da996a1","isHidden":false,"type":"text"}],"id":"cc31c114-673e-4b88-a00a-319a2f0c6118","width":"1\/1"}],"id":"1253243e-a5c5-4512-aa1d-80837ae52697"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/CkWHc93VBfdAb9SG","file:\/\/FuoYyJKHD3oPwqXT"]},"id":"aa3eb278-ecf2-4ce2-affb-7cb94a1a2f8a","isHidden":false,"type":"blogimage"}],"id":"7a4a3366-1ea9-482a-aadc-6f3af9626128","width":"1\/2"},{"blocks":[{"content":{"text":"In mehreren gem\u00fctlich im unverwechselbaren SCHOKO-Style eingerichteten R\u00e4umen l\u00e4sst es sich gut arbeiten. Eine K\u00fcche mit Mikrowellen-Ofen f\u00fcr die gelegentliche St\u00e4rkung gibt's nat\u00fcrlich auch.\n\n\u00dcbrigens: Wir m\u00f6chten nicht, dass eure Fellfreunde alleine zu Hause sitzen m\u00fcssen, daher sind bei uns auch Hunde, Katzen und Meerschweinchen erlaubt. Es sei denn, sie wollen lieber endlich wieder zu Hause ihre Ruhe haben ... \ud83d\ude09"},"id":"0f205b40-8167-4b61-ad65-e23de256ec57","isHidden":false,"type":"text"}],"id":"bc07998a-6042-490b-81d3-d1acaf9b196d","width":"1\/2"}],"id":"1424815b-3097-4874-b265-9aa34c980a32"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Tische aus Massivholz, bequeme St\u00fchle, Sonos-Lautsprecher und ein Profi-Kickertisch f\u00fcr den Feierabend - was braucht der Mensch mehr f\u00fcr das gute Leben? Stimmt, ne ordentliche Kaffeemaschine. \u2615 Haben wir auch."},"id":"3350153b-65e4-432d-b210-c0a0655506b6","isHidden":false,"type":"text"}],"id":"c685e671-ef3a-4f82-9e8d-eb9c9d1d8310","width":"1\/2"},{"blocks":[{"content":{"image":["file:\/\/gIxmk8I8JMSSq0j2","file:\/\/MpjvsDhQIcaOS649"]},"id":"5d396e4a-116e-4254-8c7b-2e5565112d03","isHidden":false,"type":"blogimage"}],"id":"cf695218-87c8-4a0f-a030-291f92514a6d","width":"1\/2"}],"id":"40fa21e6-e522-4f3d-a562-8a5dfa119929"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Wenn du dich f\u00fcr einen zentral gelegenen, gut ausgestatteten B\u00fcroplatz in Hamburgs bester Internet-Agentur interessierst, dann schau dir unsere (link: https:\/\/schokoladenseite.net\/office-space text: Infoseite zum Coworking Space) dazu an - dort stellen wir unsere B\u00fcror\u00e4ume und die verschiedenen Angebotspakete detailliert vor. M\u00f6chtest du doch lieber erst einmal weiter vom S\u00fcdseestrand aus arbeiten? Kein Problem, wir bieten auch ein Virtuelles B\u00fcro an."},"id":"c666e463-47ee-4f50-8965-4ca5515b82cb","isHidden":false,"type":"text"}],"id":"dc9ebb4e-34ca-4854-8143-1274040159d8","width":"1\/1"}],"id":"2915401e-ae92-442a-ae93-081e90ed8d0d"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/Ofm6FUmUMTTA4tBV"],"caption":"Hopp, hopp, hopp - im Galopp zu den m\u00e4chtigen Synergien in deinem neuen <span lang=\"en\">Coworking Space<\/span>!\n\n(link: coworking-space text: Mehr Infos zum Coworking Space class: btn -primary)"},"id":"fc60418b-ba50-49d3-b400-bc727632e123","isHidden":false,"type":"cta"}],"id":"82f6c4c9-2e19-4be2-9d2f-83c5c8b681bf","width":"1\/1"}],"id":"348665fd-428b-4df0-bbfe-a5037a2325e6"}]
+
+----
+
+Date: 2022-05-23 12:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: SCHOKOLADENSEITE.net bietet Coworking an - miete einen Schreibtischplatz in unserem Büro im Hamburger Univiertel.
+
+----
+
+Articleimage: - file://TLXVzCDWo9auM4vv
+
+----
+
+Categories: Coworking-Agentur, Agentur
+
+----
+
+Uuid: dv5AtCMGyHPNEtO5

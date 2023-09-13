@@ -1,0 +1,20 @@
+title: Paketmodul
+icon: list-numbers
+fields:
+  module:
+    type: structure
+    label: Module
+    fields:
+      title:
+        type: text
+        label: Titel
+      price:
+        type: text
+        label: Preis
+      modulfields:
+        type: structure
+        label: Felder
+        fields:
+          text:
+            type: text
+            label: Text

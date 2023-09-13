@@ -1,0 +1,41 @@
+Title: Mobile First-Indexierung von Google wird Standard
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://DN7v4juqZKvzyDmI
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Unerm\u00fcdlich durchsuchen sie das Internet nach neuen Inhalten und indexieren sie f\u00fcr die gr\u00f6\u00dfte Suchmaschine der Welt: die <span lang=\"en\">Google-Bots<\/span>. Mit diversen Informationen und Techniken k\u00f6nnen die (n:Anbieter:innen x:Anbieterinnen y:Anbieter) einer Webseite daf\u00fcr sorgen, dass die Seite als besonders relevant f\u00fcr die Suchanfrage angesehen wird \u2013 die Seite landet bei den Suchergebnissen weit vorn, und die (n:Nutzer:innen x:Nutzerinnen y:Nutzer) steuern sie mit einem einfachen Klick an. Die sch\u00f6ne Welt des (link: seo text: SEO title: zur Leistung) und (link: online-werbung text: SEA title: zur Leistung) eben. Doch dieses Fr\u00fchjahr gibt es eine wichtige \u00c4nderung zu beachten: die <span lang=\"en\">Mobile First<\/span>-Indexierung wird Standard bei <span lang=\"en\">Google<\/span>, alle Webseiten werden nur noch mit dem Such-<span lang=\"en\">Bot<\/span> f\u00fcr mobile Endger\u00e4te indexiert."},"id":"ad3261f7-90df-4fb0-b6ec-d7e6afd57d33","isHidden":false,"type":"text"}],"id":"02843144-dc2d-40c3-8efc-95bc1fe8e448","width":"1\/1"}],"id":"e9b7e7db-830f-44f1-8dd8-7718ec54917b"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Ende M\u00e4rz 2021 endet die lange \u00dcbergangsphase \u2013 endg\u00fcltig","customid":"","customclass":""},"id":"47142645-9d7a-4e01-b817-a7643df0e69d","isHidden":false,"type":"heading"},{"content":{"text":"Dies ist seit 2019 schon f\u00fcr alle neuen Webseiten der Fall, aber f\u00fcr bereits bestehende Seiten hatte <span lang=\"en\">Google<\/span> eine \u00dcbergangsfrist einger\u00e4umt. Webseiten, die ohnehin responsiv aufgebaut sind, betrifft dies nat\u00fcrlich nicht \u2013 ihre Inhalte werden auf allen Ger\u00e4ten optimal dargestellt, und damit auch auf <span lang=\"en\">Smartphones<\/span> und <span lang=\"en\">Tablets<\/span>. (n:Betreiber:innen x:Betreiberinnen y:Betreiber) von \u00e4lteren Webseiten sollten allerdings genau hinschauen, ob ihre Seiten f\u00fcr die mobile Darstellung programmiert sind \u2013 denn wenn das automatische Indexierungsprogramm von <span lang=\"en\">Google<\/span> etwas anderes feststellt, f\u00fchrt dies dann ab M\u00e4rz zu einem schlechteren <span lang=\"en\">Ranking<\/span> in den Suchergebnissen. Zur Abwertung f\u00fchrt es z.B. auch, wenn f\u00fcr die Desktop- und die Mobilversion unterschiedliche (link: blog\/strukturierte-daten-sorgen-fuer-bessere-suchergebnisse-bei-ihrem-job-angebot\/ text: strukturierte Daten title: Zum Blogbeitrag Stellenanzeigen: Strukturierte Daten sorgen f\u00fcr bessere Suchergebnisse) hinterlegt wurden. Auch von der Desktop-Version abweichende Inhalte f\u00fcr mobile Ger\u00e4te werden in Zukunft bestraft, wie <span lang=\"en\">Google<\/span> auf seinen (link: https:\/\/developers.google.com\/search\/mobile-sites\/mobile-first-indexing text: Experten-Seiten target:_blank title: Externer Link auf Google Developers Seite zu Mobile First Indexing (\u00d6ffnet im neuen Tab)) zur <span lang=\"en\">Mobile First<\/span>-Indexierung schreibt.\n\nFalls Sie sich fragen sollten, ob das auch Ihren Internetauftritt betrifft: Wir machen Ihre Webseiten gerne fit f\u00fcr die Zukunft, vielleicht gleich zusammen mit einer Erweiterung und Verbesserung von Funktionalit\u00e4t und Optik. (link: kontakt text: Sprechen Sie uns gerne an title: Zum Kontaktformular)!"},"id":"91c5bcd3-a046-42f6-a5d3-6f47c55ac79f","isHidden":false,"type":"text"}],"id":"12a1102e-a5a9-487f-ab72-3a22ca794c57","width":"1\/1"}],"id":"c9d60887-c4f1-4c09-ba49-8b434cb6c853"}]
+
+----
+
+Date: 2021-03-08 11:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Ab März 2021 verwendet Google nur noch die Mobile First-Indexierung. SCHOKOLADENSEITE.net erklärt Ihnen, was das für Sie bedeuten könnte.
+
+----
+
+Articleimage: - file://VujhSCCVb0lTOhcc
+
+----
+
+Categories: SEO, Technik
+
+----
+
+Uuid: 9gqf3lWncqFlTOI9

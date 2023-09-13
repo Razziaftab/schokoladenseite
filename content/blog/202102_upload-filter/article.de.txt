@@ -1,0 +1,45 @@
+Title: Upload-Filter – eine saubere Sache?
+
+----
+
+Articleheader: 
+
+----
+
+Intro: Seit dem 1. August 2021 gibt es ein schönes, neues Buchstabenmonster für alle Scrabble-(n:Spieler:innen x:Spielerinnen y:Spieler), Kreuzworträtsel-(n:Meister:innen x:Meisterinnen y:Meister) und Paragrafen-Jongleure: das **Urheberrechts-Diensteanbieter-Gesetz**, kurz UrhDaG, ist in Kraft getreten.
+
+----
+
+Mp3: - file://bufKyuiziIdXZVsa
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Es nimmt die Betreiberfirmen von Internet-Plattformen, auf denen Inhalte hochgeladen werden k\u00f6nnen, in die Pflicht. Gleichzeitig st\u00e4rkt es die **Rechte von (n:K\u00fcnstler:innen x:K\u00fcnstlerinnen y:K\u00fcnstlern) und (n:Autor:innen x:Autorinnen y:Autoren)**, an den Einnahmen durch die Verwertung ihrer Werke beteiligt zu werden. Die Plattformen m\u00fcssen nun bereits **vor der Ver\u00f6ffentlichung** der Inhalte sicherstellen, dass diese urheberrechtsfrei sind bzw. die (n:Nutzer:innen x:Nutzerinnen y:Nutzer) \u00fcber eine Lizenz zur Verwendung verf\u00fcgen."},"id":"0ed6e6c3-6ea6-4ad3-8d8f-3972e9038c3d","isHidden":false,"type":"text"}],"id":"881f066c-7f37-4b06-a082-9078fb924825","width":"1\/1"}],"id":"b9e4f763-1508-427d-a2d8-c716ae34af4e"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Upload-Filter haben die Lizenz zum Blockieren","customid":"","customclass":""},"id":"b2089b6e-16c0-4b3e-a8c7-94de5442852f","isHidden":false,"type":"heading"},{"content":{"text":"Bei der Menge an <span lang=\"en\">Content<\/span>, der t\u00e4glich bei <span lang=\"en\">Instagram<\/span>, <span lang=\"en\">facebook<\/span>, <span lang=\"en\">YouTube<\/span> & Co. ver\u00f6ffentlicht wird, geht diese Kontrolle nur \u00fcber die (ber\u00fcchtigten) <span lang=\"en\">Upload-Filter<\/span>. Das sind **Programme, die den Inhalt automatisch untersuchen** und gegebenenfalls die Ver\u00f6ffentlichung blockieren. In der Debatte nach Bekanntwerden des ersten Gesetzesentwurfs war h\u00e4ufig von der drohenden **Zensur des Internets** (durch die Social-Media-Konzerne) die Rede. Haben sich diese Bef\u00fcrchtungen am Ende bewahrheitet? Was m\u00fcssen Sie beachten, wenn Sie z.B. auf Ihrem Kanal Ihr Sport-, Urlaubs- oder Katzenvideo mit Musikschnipseln versehen wollen?"},"id":"649059b3-d9d9-4277-b0c8-f89a45eff6b4","isHidden":false,"type":"text"}],"id":"af1758ea-3c9b-498a-b515-b28367cb1fc4","width":"1\/1"}],"id":"8e56d3ef-1f91-41af-a60c-dc4c0bfef79a"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/WG60rREFWC6VSqwg"]},"id":"bb83c701-2b98-460f-b948-16120ca18a62","isHidden":false,"type":"blogimage"}],"id":"bdc98b0c-e721-4bb1-9389-3f69ce8f2331","width":"1\/2"},{"blocks":[],"id":"5215d67b-89b5-4c71-8cfb-a75befec0761","width":"1\/2"}],"id":"078d3d46-cf5d-4826-881f-0268fed244de"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Die Antwort lautet wie stets: es kommt darauf an. Manche Plattformen begn\u00fcgen sich damit, einen **Warnhinweis** anzuzeigen, dass der <span lang=\"en\">Content<\/span> gesch\u00fctztes Material enth\u00e4lt. Wenn Sie dieses trotzdem ver\u00f6ffentlichen, ist die Betreiberfirma daf\u00fcr nicht mehr haftbar zu machen. Hier ist der Aufwand f\u00fcr die (n:Rechteinhaber:innen x:Rechteinhaberinnen y:Rechteinhaber) also nicht unbedingt kleiner geworden; nur die Konzerne sind aus dem Schneider. Andere Plattformen sind da rigoroser: **der <span lang=\"en\">Upload<\/span> des Materials wird blockiert**, bis die (n:Nutzer:innen x:Nutzerinnen y:Nutzer) den Nachweis erbringen, dass sie f\u00fcr die Verwendung eine Erlaubnis haben."},"id":"68ad0c81-3b30-4c9d-96b3-b017e3cd8381","isHidden":false,"type":"text"}],"id":"75015357-d2ec-40b0-a6c0-f2319931a3e9","width":"1\/1"}],"id":"753a83bf-93b5-495d-b5ad-5826e507c469"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Nach 15 Sekunden ist Schluss","customid":"","customclass":""},"id":"160bbec4-9df6-4705-8023-051721bb4887","isHidden":false,"type":"heading"},{"content":{"text":"Gut, dass es eine Bagatellregel gibt: ein Video- oder Musikschnipsel darf bis zu 15 Sekunden L\u00e4nge f\u00fcr die nicht kommerzielle Nutzung auch ohne Lizenz verwendet werden. Dasselbe gilt f\u00fcr Bildausz\u00fcge in geringer Aufl\u00f6sung und kurze Textzitate. So soll das **Recht auf Meinungsfreiheit** gewahrt werden \u2013 beliebte Formate wie Memes oder Remixe bleiben theoretisch m\u00f6glich. Ob das in der Praxis auch funktioniert, muss sich erst noch zeigen."},"id":"dc4048fd-f34f-47b2-85a9-d4587f1b14f6","isHidden":false,"type":"text"}],"id":"a0904b2e-7a56-463f-8ca5-40790a4ca331","width":"1\/1"}],"id":"e6ff75f5-0c2b-420f-9ef9-7d6494566224"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/CjvZB9NsRwdlJznw"]},"id":"f4d65150-a8cd-4e45-8116-cfef4ff3d18d","isHidden":false,"type":"blogimage"}],"id":"366f12fb-1c92-46b2-a257-0123a4880763","width":"1\/2"},{"blocks":[],"id":"526e65c7-8d81-4a2c-b316-1272e7114aba","width":"1\/2"}],"id":"dae7bd52-15b8-420e-9b1a-1a070573d788"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Eines ist jedoch unver\u00e4ndert: die (n:Inhaber:innen x:Inhaberinnen y:Inhaber) von Urheberrechten m\u00fcssen diese selbst bei den Plattformen anmelden, indem sie jeweils z.B. eine Art digitalen Fingerabdruck ihres Werks hinterlegen, damit die <span lang=\"en\">Upload-Filter<\/span> funktionieren. Und sie k\u00f6nnen Einspruch einlegen, wenn sie sp\u00e4ter mit der Verwendung auf der Plattform nicht einverstanden sind. Das ist allerdings bei der Anzahl von Plattformen mit viel Arbeit verbunden \u2026\n\n\u00dcbrigens: Falls Sie nun bef\u00fcrchten, f\u00fcr die (n:Kund:innen x:Kundinnen y:Kunden)kommentare auf Ihrer <span lang=\"en\">Website<\/span> einen aufwendigen <span lang=\"en\">Upload-Filter<\/span> installieren zu m\u00fcssen, k\u00f6nnen Sie evt. beruhigt sein: F\u00fcr Unternehmen mit Jahresums\u00e4tzen unter 10 Mio. Euro sind die Filter nicht obligatorisch. Wenn Sie allerdings vermuten, dass mit einer modernisierten <span lang=\"en\">Website <\/span>dieses Ziel f\u00fcr Ihr Unternehmen vielleicht gar nicht so unrealistisch ist, dann (link: kontakt text: sprechen Sie uns gerne an title: Zum Kontaktformular) \u2013 da k\u00f6nnen wir Ihnen weiterhelfen."},"id":"15aa6753-f02f-41ef-9dd4-871c2edab532","isHidden":false,"type":"text"}],"id":"2e7f782a-8eff-442d-b410-61e1037aa305","width":"1\/1"}],"id":"ffbdae4e-8f12-4dc4-9942-3d6c4cad5c32"}]
+
+----
+
+Date: 2021-08-02 16:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Upload-Filter sollen auf Internet-Plattformen helfen, die Verwendung von urheberrechtlich geschütztem Material zu kontrollieren. Wir erklären die Hintergründe in unserem Blogbeitrag.
+
+----
+
+Articleimage: - file://TBLmfM6KbDPnNOxy
+
+----
+
+Categories: Technik
+
+----
+
+Text: 
+
+----
+
+Uuid: ZIiBcYTLsXlXhMsf

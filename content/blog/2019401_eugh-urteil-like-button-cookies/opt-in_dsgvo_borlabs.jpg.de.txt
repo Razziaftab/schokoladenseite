@@ -1,0 +1,13 @@
+Alt: Die Seite von borlabs.io verlangt vom Benutzer eine Interaktion.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: L0ipF9YfRpsfDwy2

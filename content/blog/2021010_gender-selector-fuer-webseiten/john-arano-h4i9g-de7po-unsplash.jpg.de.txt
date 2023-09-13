@@ -1,0 +1,17 @@
+Alt: Es ist eine Frau von hinten beim Gewichtheben zu sehen. Sie trägt ein weißes Tanktop und stemmt die Langhantel über ihren Kopf.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Sort: 1
+
+----
+
+Uuid: IE2leZKNWgmCa7sv

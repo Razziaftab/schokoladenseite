@@ -1,0 +1,29 @@
+Title: Digitaler Adventskalender für die Nordkirche
+
+----
+
+Seodescription: Das heutige Türchen möchten wir gerne nutzen, um eine langjährige Projektpartnerin der SCHOKOLADENSEITE.net vorzustellen: Die Evangelisch-Lutherische Kirche in Norddeutschland
+
+----
+
+Image: - 15.jpg
+
+----
+
+Door: 15
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Digitaler Adventskalender f\u00fcr die Nordkirche**\n\nDas heutige T\u00fcrchen m\u00f6chten wir gerne nutzen, um eine langj\u00e4hrige Projektpartnerin der SCHOKOLADENSEITE.net vorzustellen: Die Evangelisch-Lutherische Kirche in Norddeutschland, kurz (link: https:\/\/www.nordkirche.de\/ text: Nordkirche target: _blank title: Externer Link zu Nordkirche (\u00d6ffnet im neuen Tab)), vertreten durch ihre Fl\u00fcchtlingsbeauftragte, Pastorin Dietlind Jochims. Die Beauftragte f\u00fcr Migrations-, Asyl- und Menschenrechtsfragen ber\u00e4t Gemeinden und Gruppen, die Fl\u00fcchtlinge, Migranten, Menschen, die Asyl suchen oder auch Menschen ohne Papiere begleiten. Sie vermittelt zwischen gesellschaftlichen Akteuren und sorgt f\u00fcr die Einhaltung der Rechte von Fl\u00fcchtlingen und Migranten. Fragen nach Flucht und Menschenrechten thematisiert sie durch Bildungsangebote und Aktionen. Das finden wir nicht nur gut - sondern mehr als wichtig! Schon seit 2016 erstellen wir daher gemeinsam mit Frau Jochims und mit viel Herzblut jedes Jahr einen Online-Adventskalender zum Thema Flucht und Vertreibung. \n\n**(Flucht-)Geschichten, die bewegen**\n\nDie enthaltenen Geschichten sollen dabei auch den Blick auf die pers\u00f6nlichen Schicksale und Erfahrungen lenken, die sich hinter den abstrakten Zahlen zu Fl\u00fcchtenden verbergen. In diesem Jahr finden sich unter dem Stichwort #mutgeschichten 24 Geschichten statt Schokolade, die Mut machen sollen und zum Nachdenken anregen. \n\n*Dazu gibt es auch eine Mitmach-Aktion auf Instagram und eine Uploadfunktion auf der Website. Schauen Sie doch mal vorbei: (link: https:\/\/www.flucht.adventskalender-nordkirche.de\/ text: Adventskalender target: _blank title: Externer Link zum Adventkalender der Nordkirche (\u00d6ffnet im neuen Tab)).*"},"id":"0138ffa2-26c8-4ca1-b58a-ff318890a811","isHidden":false,"type":"text"}],"id":"cd606ea8-d6a9-4c9b-8af3-7488e32f823b","width":"1\/1"}],"id":"73603752-10ff-49f3-9349-8201c3579f62"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: HucLSPQtvzJhdsIl

@@ -1,0 +1,29 @@
+Title: Das Straßenmagazin für Hamburg
+
+----
+
+Seodescription: Wer schon einmal in Hamburg war oder auch hier lebt, hat sie wahrscheinlich auch gesehen: die Verkäufer:innen des Straßenmagazins Hinz&Kunzt
+
+----
+
+Image: - 05.jpg
+
+----
+
+Door: 5
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Das Stra\u00dfenmagazin f\u00fcr Hamburg**\n\nWer schon einmal in Hamburg war oder auch hier lebt, hat sie wahrscheinlich auch gesehen: die (n:Verk\u00e4ufer:innen x:Verk\u00e4uferinnen y:Verk\u00e4ufer) des Stra\u00dfenmagazins Hinz&Kunzt. Es erscheint schon seit 1993 und gibt vielen obdach- und wohnungslosen Menschen die M\u00f6glichkeit, durch den Verkauf ein regelm\u00e4\u00dfiges Einkommen zu erhalten. Die (n:Sozialarbeiter:innen x:Sozialarbeiterinnen y:Sozialarbeiter) des Projekts helfen den (n:Verk\u00e4ufer:innen x:Verk\u00e4uferinnen y:Verk\u00e4ufern) bei ihren Sorgen und N\u00f6ten und unterst\u00fctzen sie dabei, vom Leben auf der Stra\u00dfe wegzukommen. \n\n**Mit Herzblut dabei** \u2764\ufe0f\n\nDie SCHOKOLADENSEITE.net arbeitet bereits seit 2012 mit Hinz&Kunzt zusammen, und es geh\u00f6rt definitiv zu unseren Herzenskunden. Wir unterst\u00fctzen das Projekt, indem wir schon immer unsere Leistungen zu Sonderkonditionen anbieten. Dabei sind wir f\u00fcr alles Digitale zust\u00e4ndig: wir gestalten und pflegen die Website und das Blog von Hinz&Kunzt, betreuen den Onlineshop und haben diverse Projektseiten sowie ein individuelles Spendenformular erstellt. Wir machen das nicht nur besonders gerne, weil wir das Projekt so wichtig und unterst\u00fctzenswert finden, sondern weil auch die Zusammenarbeit mit den engagierten Menschen bei Hinz&Kunzt einfach Spa\u00df macht. \n\n*An dieser Stelle wollen wir auch noch einmal zum neuen Hinz&Kunzt-Haus gratulieren, das neben der Redaktion und dem Vertrieb auch 24 Menschen in Wohngemeinschaften ein neues Zuhause bietet.*\n\nDie tolle Arbeit von Hinz&Kunzt tr\u00e4gt sich aber leider nicht \u00fcber den Verkauf des Stra\u00dfenmagazins, sondern ist auf Spenden angewiesen. Wenn Sie also noch eine Weihnachtsspende geben m\u00f6chten: hier geht das ganz bequem online: (link: https:\/\/www.hinzundkunzt.de\/helfen\/online-spenden\/ text: https:\/\/www.hinzundkunzt.de\/helfen\/online-spenden\/ target: _blank title: Externer Link zum Spendenformular von Hinz und Kunzt (\u00d6ffnet im neuen Tab))\n\nUnd auch f\u00fcr die Weihnachtsgeschenke lohnt sich ein Stop im Webshop - die Sachen der Hinz&Kunzt-Kollektion sind alle etwas Besonderes und liebevoll gestaltet. Und mit dem Kauf tun Sie noch etwas Gutes. (link: https:\/\/www.hinzundkunzt.de\/shop\/ text: https:\/\/www.hinzundkunzt.de\/shop\/ target: _blank title: Externer Link zum Shop von Hinz und Kunzt (\u00d6ffnet im neuen Tab))"},"id":"45e40d81-0c4a-447c-9758-48edbf3a21b5","isHidden":false,"type":"text"}],"id":"a444c5c5-a295-4658-b666-eeb0fbe230e8","width":"1\/1"}],"id":"ed2b0dfd-0a14-47c8-8d65-f17cfe1370ab"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: jFJLXBfRikbH3YpK

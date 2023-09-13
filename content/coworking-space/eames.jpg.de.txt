@@ -1,0 +1,21 @@
+Alt: 
+
+----
+
+Title: 
+
+----
+
+Caption: Schicke Stühle im Eames-Design
+
+----
+
+Template: galerie
+
+----
+
+Sort: 6
+
+----
+
+Uuid: Kn62Z9AUEsAG2Nfs

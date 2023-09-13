@@ -1,0 +1,29 @@
+Title: Linda, die Märchentante
+
+----
+
+Seodescription: 
+
+----
+
+Image: - 09.jpg
+
+----
+
+Door: 9
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Linda, die M\u00e4rchentante**\n\n*Weiter geht es mit der M\u00e4rchen-, \u00e4h, Vorstellungsrunde. Heute mit Linda.*\n\n**Seit wann bist du im SCHOKO-Team und was ist deine Aufgabe? **\n- 2,5 Jahre bin ich jetzt schon bei den SCHOKOs. Umgerechnet in Schokolade sind das wohl so um die \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b \ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b\ud83c\udf6b Tafeln. Meine Aufgaben im SCHOKO-Team w\u00fcrde ich so beschreiben: (link: https:\/\/giphy.com\/gifs\/sadienovello-work-back-to-get-ZaQQ2n0qNXYdPRYeEB text: https:\/\/giphy.com\/gifs\/sadienovello-work-back-to-get-ZaQQ2n0qNXYdPRYeEB target: _blank)\n\n**Direkt zur wichtigsten Frage: Was ist deine Lieblings-Schokoladensorte? **\n- Alles mit Karamell, N\u00fcssen & Salz. Bevorzugt Fair Trade.\n\n**Was passiert, wenn du \"Last Christmas\" ((link: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI text: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI target: _blank title: Externer Link zu \"Last Christmas\" auf YouTube (\u00d6ffnet im neuen Tab))) im Radio h\u00f6rst?** \n- Ich beschwere mich kurz und singe heimlich mit. Das geht doch jedem so, oder?! \ud83c\udfa4\n\n**Was m\u00f6chtest du in der Vorweihnachtszeit unbedingt machen? **\n- Einen eigenen Stollen backen. Das Rezept liegt auch schon bereit. Vielleicht teile ich es sogar hier im Adventskalender. Stay tuned.\n\n**Welche SCHOKO-Superkr\u00e4fte hast du? **\n- Fast alle russischen und alle DEFA-M\u00e4rchenfilme zu kennen. Z\u00e4hlt das als Superkraft? \ud83d\ude01"},"id":"3633a924-156a-416a-ac56-548fe837fbfe","isHidden":false,"type":"text"}],"id":"fe0cccdf-042f-4e9c-b469-80352f6aec85","width":"1\/1"}],"id":"eac8e7f7-50ff-414b-a0c3-0be694e909c4"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: zjN6vXK4C5nuLc0w

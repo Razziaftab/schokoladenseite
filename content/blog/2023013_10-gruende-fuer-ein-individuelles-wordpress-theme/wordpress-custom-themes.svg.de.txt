@@ -1,0 +1,21 @@
+Alt: Auf blauem Hintergrund steht in weißer Schrift das Logo und der Schriftzug von WordPress. Rechts daneben sind vier Symbolgrafiken, die Computer und Mobilgeräte darstellen sollen.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: W0YVgoth0EbiUt0Y
+
+----
+
+Template: blocks/image

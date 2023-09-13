@@ -1,0 +1,79 @@
+Title: SCHOKOLADENSEITE.net
+
+----
+
+Mainnav:
+
+- 
+  mainmenu:
+    - page://kxpyKvG5ezj0Zhp0
+  submenu:
+    - page://LOGM2TOXlHAvIAZl
+    - page://XZYoTI43qA4wiyZd
+    - page://16phE2mBAJI3jvJ6
+    - page://ursT7ySCBtehA5p0
+    - page://9PXYyQXCdZANEh5v
+  hassubmenu: 'false'
+- 
+  mainmenu:
+    - page://sTW1XI3D96Om8hed
+  submenu:
+    - page://EgnStS9avniKn4c3
+    - page://ZqaYC8xbBRxm2Wdy
+    - page://EEF6hc4RO7xo8YTe
+    - page://kZQgyIF5X5ruJKvG
+  hassubmenu: 'false'
+- 
+  mainmenu:
+    - page://w5IzEz1Efpg8yFGz
+  submenu: [ ]
+  hassubmenu: 'true'
+- 
+  mainmenu:
+    - page://Or2vcDYS8cZi7tnG
+  submenu:
+    - page://hO8nurIb3BjsycQP
+    - page://4ICSTOpBKRGBvTeD
+    - page://Zi0r8RO1HCATWzFc
+  hassubmenu: 'false'
+- 
+  mainmenu:
+    - page://cN4c4Lhg3XxBc5yQ
+  submenu: [ ]
+  hassubmenu: 'false'
+
+----
+
+Subnav:
+
+- 
+  mainmenu:
+    - page://iJvyoWex4iqkuEad
+  submenu:
+    - page://hxzddYfjKmhmLatz
+    - page://NmPEa9lt21zXpXeO
+    - page://YkZUqB3uLtYXhqDT
+    - page://8oUaoCorNmAfNlk9
+    - page://wMUCIxVdIrgY1mjl
+- 
+  mainmenu:
+    - page://ES8pcMvsaP1zjISJ
+  submenu:
+    - page://bsSn8UCUi2pelBy8
+    - page://jqVRrBvYb7Cs16Ch
+    - page://5sOyGU1lOugyGdHJ
+    - page://HDFiBRiLRetwMp3G
+    - page://mEiyIr9iywYrU0oR
+- 
+  mainmenu:
+    - page://dh1vhKJSdIcYywpM
+  submenu:
+    - page://LO1rdtjq5RAML4Ut
+    - page://BKgh5aRPMNid4R4U
+    - page://9SjowJoJkpv2sZpu
+    - page://pG8AYNhioANNLG8A
+    - page://9gEw8fBMYY7es738
+
+----
+
+Footernav: 

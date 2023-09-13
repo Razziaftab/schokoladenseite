@@ -1,0 +1,65 @@
+Title: PHP Developer / Programmer
+
+----
+
+Slug: php-developer-programmer
+
+----
+
+Articleheader: PHP Developer / Programmer
+
+----
+
+Ort: 100% Remote, Hybrid, Hamburg
+
+----
+
+Modell: Full time or part time
+
+----
+
+Intro: For our **online projects** we are looking for a PHP programmer with structure and a desire for cool projects.
+
+----
+
+Image-ai-text: wondering person with space suit sitting in front of a computer, moon in the background, chocolate and candy bars floating in the air, bright and friendly, sunny, realistic photography, hyper-realistic, 8K --ar 20:9 --style raw
+
+----
+
+Mp3: 
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Job Description","customid":"","customclass":""},"id":"3d13e7cd-89e8-4ee2-ae1c-241784d4e2f3","isHidden":false,"type":"heading"},{"content":{"text":"You are very well structured, think for yourself and like to take responsibility for your online projects. You are technically top fit and have a desire for challenging projects. An update is not a date for you - SECURITY is important to you and you already have profound experience in PHP development.\n\nYou have a high level of commitment and give everything - because you simply want it. Because you enjoy what you do!\n\nCongratulations, you have just found Hamburg's CHOCOLATE PAGE! We are as a team just like we are to our customers: clear, direct, honest, authentic - a small team made up of people of conviction and chocophiles, and we are more awesome than the most awesome team in the world \ud83d\ude0a What we do, we do really well, and we are proud of that!\nWe work 100% digitally. You have room for independent work and the possibility of a 100% home office."},"id":"8b30b7f3-d0e8-4bb3-8f75-a9791350b297","isHidden":false,"type":"text"}],"id":"2a9d1e27-8dfb-46fb-a2aa-2100cddb6887","width":"1\/1"}],"id":"fccf6b65-dc46-4740-93a4-fc957a6eccd5"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"The SCHOKOLADENSEITE.net","customid":"","customclass":""},"id":"cabf04d1-7216-4db1-8fe8-c5680360a828","isHidden":false,"type":"heading"},{"content":{"text":"At SCHOKOLADENSEITE.net, you can expect contemporary working models, cool online projects and a friendly little #SCHOKOTeam. Sustainability is a natural part of our work. In our daily work, we focus on direct and honest communication - we make decisions transparently and fairly, without any detours. There is always the opportunity to contribute your own ideas and help develop future products.\nWe love innovation and AI is naturally part of our daily work. With us, you can expect great projects and maybe a round of foosball or two :)"},"id":"693ebd82-86b7-49a1-88e2-31e78039ae3b","isHidden":false,"type":"text"}],"id":"797494c0-4e5a-473b-8aef-081b42faa064","width":"1\/1"}],"id":"0cc638b4-c12c-4cb2-83ca-cc9aa807fc17"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/lqcA2LxaDAAADlxa"],"caption":"Interested? Apply now as PHP Developer \/ Programmer in 5 minutes! \n<a href=\"#bewerben\" class=\"btn -primary\">To the application form<\/a>"},"id":"0d41e7bd-6166-4d71-8660-17d3fe4f5ac6","isHidden":false,"type":"cta"}],"id":"f2b24981-71fa-4dfb-b864-5b98c48e7b47","width":"1\/1"}],"id":"bcb67f04-7de8-460c-95d3-a3b9b59fe26f"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Your tasks","customid":"","customclass":""},"id":"d3e1f5f9-2491-45a9-a93e-b4c226c80a3f","isHidden":false,"type":"heading"},{"content":{"text":"- Development and implementation of web-based applications and functions using PHP\n- Creation and optimization of database queries\n- Implementation of APIs \/ interfaces \n- Integration of frontend designs into existing PHP systems\n- Participation in the conception, planning and implementation of new projects\n- Troubleshooting, bugfixing and optimizing existing PHP applications\n- Collaboration with other frontend developers in the team to achieve high quality results\n- Familiarization with our favorite CMS \"Kirby\". You will love it!\n- Depending on your knowledge Laravel Framework\n- Depending on knowledge Typo3 Backend"},"id":"4fabcc99-cfd1-4a44-a2b7-6a0a75987471","isHidden":false,"type":"text"}],"id":"ab4b86bf-2a27-4442-936f-b5d5d3d8077c","width":"1\/1"}],"id":"586614c5-16dd-4201-989d-bf6372251d74"},{"attrs":{"toggle":"false","layoutclass":"align-items-center, bg-lightgrey"},"columns":[{"blocks":[{"content":{"image":["file:\/\/GD7OXWp3p9hFciwK"],"caption":"","customclass":"icon"},"id":"2298ffd8-46fa-4967-bb38-7c14964fd7a1","isHidden":false,"type":"blogimage"}],"id":"84cbb502-9e1a-4e20-a89a-a37b04366925","width":"1\/3"},{"blocks":[{"content":{"preh1":"","level":"h2","text":"This is what you should bring with you:","customid":"","customclass":""},"id":"d10dd35c-c735-4dbb-81f8-b74810fda5e6","isHidden":false,"type":"heading"},{"content":{"text":"- Independent way of working\n- Reliability\n- Structure\n- Open to new ideas\n- Good problem solving skills and analytical thinking skills\n- Ability to work in a team and good communication skills\n- Experience in PHP application development\n- Good knowledge of object-oriented programming (OOP)\n- Confident handling of MySQL databases and SQL\n- Experience with PHP frameworks such as Laravel or Symfony is an advantage\n- Knowledge of HTML, CSS, JavaScript and jQuery\n- Familiarity with version control systems such as Git"},"id":"40711c94-2240-438b-aff3-0d49167cc55a","isHidden":false,"type":"text"}],"id":"d5244d2a-a42b-40a9-b9ac-2e40c82d8050","width":"2\/3"}],"id":"81fa7578-53a1-4999-932f-7c08f2134735"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Interested?","customid":"bewerben","customclass":""},"id":"83a17649-c9fd-4717-a7a6-9baa86cee049","isHidden":false,"type":"heading"},{"content":{"text":"Are you so hot now that the chocolate chip cookie melts in your hand right away? \ud83d\ude09\nThat's good! Then let your inner chocolate monster out and apply at SCHOKOLADENSEITE.net.\n\n**We are looking forward to your complete application with:**\n- curriculum vitae\n- references\n- salary expectation\n- next possible starting date\n\nYour contact person: Andrea Christan"},"id":"ff31d2e3-868b-416b-861d-2ae29e5e4a09","isHidden":false,"type":"text"}],"id":"b34ceda0-6bfe-4e8a-8069-ed8be724790d","width":"1\/1"}],"id":"849c5f04-6e1a-4c7c-be97-465367041aac"}]
+
+----
+
+Benefits: <strong>Fat cell phone</strong> Fat cell phone. You can choose. Also for private use.|, <strong>Real 40h week</strong> Overtime is reduced or compensated|, <strong>No dress code</strong> Come as you feel comfortable|, <strong>Office Hamburg City</strong> In the middle of the university district with excellent public transport connections|, <strong>Flat hierarchies</strong> And short decision-making paths|, <strong>Organic Coffee &amp; Tea</strong> Oat milk and nuts are always there too. Yumyum...|, <strong>Value</strong> Every team member is valuable and all feedback is welcome.|, <strong>Kicker</strong> Simply times ne round Kickern in between|, <strong>Chill room in the office</strong> For your power nap|, <strong>Indefinite employment contract</strong> Fixed planning &amp; perspectives|, <strong>Workation</strong> Working from an island? 😄|, <strong>Further training</strong> Always desired and possible at any time|, <strong>Your ideas count</strong> Contribute your own ideas and creative suggestions|
+
+----
+
+Zuschuss: <strong>Bicycle or e-bike subsidy</strong> Prefer to bike to work instead of taking the stuffy bus?|, <strong>HVV grant</strong> Germany-wide on the road|, <strong>Sports courses subsidy</strong> As a balance for body and mind.|
+
+----
+
+Select: - page://QbdYqm7JvQn1XaXb
+
+----
+
+Date: 2023-06-23 09:30:00
+
+----
+
+Datetoday: true
+
+----
+
+Description: As a PHP Developer, you will be responsible for developing and implementing web-based applications and features using PHP.
+
+----
+
+Articleimage: - file://B0rgw4Spxps20lyD
+
+----
+
+Categories: Jobs

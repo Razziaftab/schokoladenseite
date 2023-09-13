@@ -1,0 +1,17 @@
+type: pages
+headline: Job
+info: "{{ page.categories }}"
+template: job
+empty: Keine Jobs vorhanden
+sortBy: date desc
+image:
+  cover: true
+  query: page.articleimage.toFile
+layout: table
+columns:
+  date:
+    label: Datum
+    type: date
+    display: DD.MM.YYYY
+    type: date
+    width: 2/12

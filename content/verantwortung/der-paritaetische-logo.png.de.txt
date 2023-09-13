@@ -1,0 +1,13 @@
+Alt: Der Paritätische Logo
+
+----
+
+Title: Der Paritätische
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 92fuaKbK8S4owBOf

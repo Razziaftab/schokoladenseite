@@ -1,0 +1,11 @@
+name: Benefits
+icon: smile
+fields:
+  benefitspage:
+    label: Benefits
+    type: multiselect
+    options:
+      type: query
+      query: site.find('jobs').benefits.toStructure
+      text: "{{ item.text.kti }}"
+      value: "{{ item.text.kti }}|"

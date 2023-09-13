@@ -1,0 +1,41 @@
+Title: EuGH-Urteil zum Like-Button und Cookies auf Webseiten
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://UECvgWZqhZkuYB6j
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Durch ein Urteil des Europ\u00e4ischen Gerichtshofs (EuGH) wurde die Verantwortlichkeit f\u00fcr die Daten\u00fcbermittlung an <span lang=\"en\">Facebook<\/span> abschlie\u00dfend gekl\u00e4rt \u2013 sie liegt bei (n:der\/dem Betreiber:in x:der Betreiberin y:dem Betreiber) der Webseite, auf der z.B. ein <span lang=\"en\">Like-Button<\/span> oder <span lang=\"en\">Facebook-Pixel<\/span> verwendet werden."},"id":"894bba0e-22a4-4530-a688-a2beaffacc5f","isHidden":false,"type":"text"}],"id":"1d5a74e9-ecec-4752-963a-4733b5dc3b0d","width":"1\/1"}],"id":"40ce2b1b-b31e-495d-8f89-79b86c0e87ab"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Was \u00e4ndert sich f\u00fcr die (n:Betreiber:innen x:Betreiberinnen y:Betreiber) von Webseiten?","customid":"","customclass":""},"id":"d8243a93-e5dc-4832-a074-fde73b4486be","isHidden":false,"type":"heading"},{"content":{"text":"Der Knackpunkt ist hierbei, dass (n:die:der Betreiber:in x:die Betreiberin y:der Betreiber) von (n:der:dem Besucher:in x:der Besucherin y:dem Besucher) **sofort** eine **Einwilligung (<span lang=\"en\">Opt-In<\/span>) zur Daten\u00fcbermittlung** einholen muss, wenn (n:jene:r x:jene y:jener) die Internetseite aufruft. Zu diesem Zeitpunkt d\u00fcrfen also nicht \u2013 wie z.B. bei einer <span lang=\"en\">Opt-Out<\/span>-Anfrage \u00fcblich \u2013 bereits personenbezogene Daten (dazu z\u00e4hlt auch die (link: blog\/dsgvo-was-sind-personenbezogene-daten text: IP-Adresse title: Zum Blogbeitrag DSGVO: Was sind personenbezogene Daten?)!) an Dritte \u00fcbertragen worden sein; daf\u00fcr ist laut EuGH-Urteil (n:die:der Betreiber:in x:die Betreiberin y:der Betreiber) der Webseite direkt verantwortlich. Hingegen ist (n:sie:er x:sie y:er) nicht f\u00fcr die weitere Verarbeitung der Daten durch den Drittanbieter vollumf\u00e4nglich haftbar.\n\nEin weiterer wichtiger Punkt ist die Pflicht, bei der **Verwendung von <span lang=\"en\">Cookies<\/span>, <span lang=\"en\">Tracking-Tools<\/span>** usw. ebenfalls eine Vorab-Einwilligung der (n:Nutzer:innen x:Nutzerinnen y:Nutzer) einzuholen. Die allseits beliebten <span lang=\"en\">Opt-In<\/span>-Banner und -<span lang=\"en\">Pop-Up<\/span>-Fenster sind also mit diesem Urteil endg\u00fcltig obligatorisch geworden.\n\nDas bedeutet konkret: bisher konnte (gender:die:der Nutzer:in x:die Nutzerin y:der Nutzer xy:oder) das Banner ignorieren oder schlie\u00dfen, ohne ein <span lang=\"en\">Opt-In<\/span> vorzunehmen. (gender:Ihre:seine x:Ihre y:Seine xy:oder) Daten wurden durch das Plugin ggf. trotzdem \u00fcbertragen.\n\nAls L\u00f6sungsweg legen viele Anbieter einen Layer \u00fcber die gesamte Webseite, der die Funktionalit\u00e4t und alle ggf. eingebundenen Daten\u00fcbertragungen solange blockiert, bis (n:die:der Nutzer:in x:die Nutzerin y:der Nutzer) aktiv eine Auswahl trifft. Dabei gibt es auch die M\u00f6glichkeit, den Umfang der verwendeten Daten durch (n:die:den Nutzer:in x:die Nutzerin y:den Nutzer) ausw\u00e4hlen zu lassen."},"id":"03809ae0-03aa-470b-bb41-033f8d32e470","isHidden":false,"type":"text"}],"id":"3b9c4907-f959-4fd5-8426-1f8f270f64f5","width":"1\/1"}],"id":"59808e27-42fe-411e-905e-d2ae992cc354"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/L0ipF9YfRpsfDwy2"]},"id":"a3e30e2c-6198-406b-8dac-383288630584","isHidden":false,"type":"blogimage"}],"id":"9798efec-91af-4b86-8aa2-b81e2c88f778","width":"1\/2"},{"blocks":[],"id":"64a27826-8c58-4080-a870-24866bded135","width":"1\/2"}],"id":"5673a355-c86c-4d50-8896-3dea6c0ffaaa"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"(link:http:\/\/curia.europa.eu\/juris\/document\/document.jsf?text=&docid=216555&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1&cid=4667410 text: Lesen Sie das Urteil des Europ\u00e4ischen Gerichtshofes hier nach title: Externer Link zur InfoCuria Europa (\u00d6ffnet im neuen Tab)).\n\nMit dem Inkrafttreten der neuen **<span lang=\"en\">ePrivacy<\/span>-Verordnung (ePVO)** in naher Zukunft werden sich dann voraussichtlich noch umfassendere \u00c4nderungen ergeben. Dazu halten wir Sie nat\u00fcrlich auf dem Laufenden!"},"id":"b1df5ba7-5a81-432d-bc92-864ddd2ed841","isHidden":false,"type":"text"}],"id":"66bd2063-dfdc-4a1e-9cc6-4d61a0a1ab8e","width":"1\/1"}],"id":"37420112-b56e-423d-814b-dbbd52a97c3e"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"68669b20-a092-485a-ac4e-52bb436079ed","isHidden":false,"type":"kontaktform"}],"id":"ce83a3e3-eb64-4c5b-9b1f-c0f5bb6823c1","width":"1\/1"}],"id":"e125f7cd-f3ab-49c6-bfc1-d28767f91e1a"}]
+
+----
+
+Date: 2019-10-01 09:40:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Durch ein Urteil des Europäischen Gerichtshofs (EuGH) wurde die Verantwortlichkeit für die Datenübermittlung an Facebook abschließend geklärt.
+
+----
+
+Articleimage: - file://cr8xVqaMGKdK4FT6
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: zBnTiA0jdqskpe9m

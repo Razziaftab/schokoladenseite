@@ -1,0 +1,41 @@
+Title: Datenschutzupdate WordPress 4.9.6 zur DSGVO
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://FWuZSSk3QdNz4op4
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Lieber sp\u00e4t als nie \u2013 endlich zieht <span lang=\"en\">WordPress<\/span> nach.","customid":"","customclass":""},"id":"4d5a9fca-c05f-47c2-8c78-1055be06d2af","isHidden":false,"type":"heading"},{"content":{"text":"Aufgrund der bevorstehenden Datenschutzgrundverordnung (DSVGO), die am 25.05.2018 gesetzlich verbindlich in Kraft treten wird, wurde f\u00fcr die Webanwendung <span lang=\"en\">WordPress<\/span> seitens der (n:Entwickler:innen x:Entwicklerinnen y:Entwickler) ein Update zur Verf\u00fcgung gestellt. Dies dient zur Einhaltung der DSGVO-Grundlagen."},"id":"ebf5b77f-fd33-4507-82d1-ef4a6ec8ce4c","isHidden":false,"type":"text"}],"id":"1557bc30-9f64-4241-ac56-a652f7cdb2e9","width":"1\/1"}],"id":"fe9f4209-96e6-4849-9c1b-c3abef32fc27"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h3","text":"Bez\u00fcglich Datenschutz und Wartungs-<span lang=\"en\">Release<\/span> inkludiert sind folgende <span lang=\"en\">Features<\/span>:","customid":"","customclass":""},"id":"f1a630a7-c374-47d6-884f-382226073da3","isHidden":false,"type":"heading"}],"id":"0d033181-fc62-42b6-8172-2356832067e5","width":"1\/1"}],"id":"56b5de3f-be4a-47f3-a0fd-8c8b5c26d64c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/4WMJtwCX74yVolxx"]},"id":"2995a224-c712-4e6a-b9a7-935196e21e21","isHidden":false,"type":"blogimage"}],"id":"047d3262-8430-42cc-ada1-3a20c5db4c04","width":"1\/2"},{"blocks":[{"content":{"text":"**Kommentarfeld DSGVO konform** \u2013 durch neue <span lang=\"en\">Checkbox<\/span>, die (n:die\/den Nutzer:in x:die Nutzerin y:den Nutzer) (nicht eingeloggt) vor die Wahl stellt, ob (n:ihre\/seine x:ihre y:seine) personenbezogenen Daten per <span lang=\"en\">Cookie<\/span> gespeichert werden sollen oder nicht."},"id":"71b289b7-7a7a-4d64-bd2e-caa8b5191a2d","isHidden":false,"type":"text"}],"id":"5b8f8d5b-ea70-493c-bb61-12c676a9c924","width":"1\/2"}],"id":"48a9ee37-5aa4-466c-8cb4-0ffcf0a86223"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/GWUZgUvcPAzGApYr"]},"id":"2a37b84a-3ee8-4eba-9521-4fd27ddf6608","isHidden":false,"type":"blogimage"}],"id":"b4c8ff80-26fc-4db7-89b1-687c65d9c3b4","width":"1\/2"},{"blocks":[{"content":{"text":"**Datenschutzeinstellung**: Erleichterung des Anlegens einer neuen Datenschutzseite.\nInklusive Datenschutz-Vorlage, die allerdings sehr allgemein gehalten ist. Hier empfiehlt es sich, (n:eine\/n Anw\u00e4lt:in x:eine Anw\u00e4ltin y:einen Anwalt) hinzuzuziehen oder einen Datenschutzgenerator zu verwenden."},"id":"c252f58c-220b-4a5e-8586-a2fa473bbb3a","isHidden":false,"type":"text"}],"id":"bd6a60fb-cca8-4aad-86d1-1c1d98885f92","width":"1\/2"}],"id":"fe260542-b14b-4b8b-a05e-055d1fd36769"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/cJCQLD8cCVVfV6jb"]},"id":"febf72e7-1281-4bd1-a3d3-3ec754969d21","isHidden":false,"type":"blogimage"}],"id":"87c8663a-a52a-4f79-bde1-f6a6e34dde16","width":"1\/2"},{"blocks":[{"content":{"text":"<span lang=\"en\">Data Handling<\/span>: **Export- und Deletionswerkzeuge** f\u00fcr personenbezogene Daten. Wenn <span lang=\"en\">(n:die\/der User:in x:die Userin y:der User)<\/span> eine Auskunft (n:ihrer\/seiner x:ihrer y:seiner) Daten anfordert, dann l\u00e4sst sich dies \u00fcber den neuen Export bewerkstelligen."},"id":"d7420c3c-dbb9-4cf0-b33f-a157169f2903","isHidden":false,"type":"text"}],"id":"be8e5a0f-7b26-4363-86c5-743eabb85d68","width":"1\/2"}],"id":"54822976-7dd0-46d3-91cf-193512d9c52e"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"90d7cec3-be93-4554-9498-87526a7f33ca","isHidden":false,"type":"kontaktform"}],"id":"14baa767-836c-48e8-a5c9-3162f46be48b","width":"1\/1"}],"id":"30d8e7ae-4d3b-4727-a545-095a8ece43f6"}]
+
+----
+
+Date: 2018-05-22 21:40:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Aufgrund der neuen DSGVO, die am 25.05.2018 in Kraft tritt, wurde für WordPress ein Update zur Verfügung gestellt. Wir stellen es heute vor.
+
+----
+
+Articleimage: - file://IMW40ac8JtfTabsD
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: ZSjFnTgGlqNFg9BR

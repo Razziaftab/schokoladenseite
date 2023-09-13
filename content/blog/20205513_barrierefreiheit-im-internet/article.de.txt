@@ -1,0 +1,41 @@
+Title: Barrierefreiheit im Internet
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://chmVN23HEKYkp8Jx
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Die SCHOKOLADENSEITE.net fordert: Internet f\u00fcr alle!","customid":"","customclass":""},"id":"13dc6ddc-c5b2-479b-ac95-38ce48480276","isHidden":false,"type":"heading"},{"content":{"text":"Eigentlich ist das Internet \u2013 eine stabile Verbindung vorausgesetzt \u2013 ja eine feine Sache: egal ob zu Hause oder unterwegs, man kann auf Informationen zugreifen, Urlaubsfotos und Filmchen anderer Leute angucken und sich h\u00fcbsche Sachen bestellen (neuerdings sogar auch mal gebrauchte <span aria-hidden=\"true\">\ud83d\ude09<\/span> ). Was aber, wenn man sehbehindert ist? Die sch\u00f6ne, weite Welt des WWW schrumpft dann ziemlich zusammen \u2013 weil viele <span lang=\"en\">Websites<\/span> eben nicht barrierefrei gestaltet sind."},"id":"d1264ffc-a63a-4a33-9875-3205dd7f7727","isHidden":false,"type":"text"}],"id":"60c02a01-2d36-4c00-bedb-8ee9f240e773","width":"1\/1"}],"id":"04883254-b011-45e8-aef7-0a068c81eabe"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/uKbFpmYw9N6FTm5V"]},"id":"cf203d3a-ed43-4bda-8129-54f294e4a98b","isHidden":false,"type":"blogimage"}],"id":"3b560a84-2e7d-4143-b65b-27f077e5dafa","width":"1\/3"},{"blocks":[{"content":{"preh1":"","level":"h2","text":"Barrierefreiheit? Einfach machen!","customid":"","customclass":""},"id":"460e64c4-fa9f-46b0-b888-0086b4eb73ed","isHidden":false,"type":"heading"},{"content":{"text":"Dabei ist das gar nicht mal so schwierig: zu beachten ist vor allem, dass die einzelnen Seiten eine klare Struktur (auch im Code) und ein kontrastreiches Design haben, und Bilder und Schaltfl\u00e4chen mit Alternativtexten versehen wurden. So k\u00f6nnen z.B. spezielle Vorleseprogramme (<span lang=\"en\">Screenreader<\/span>) die Texte in einer sinnvollen Reihenfolge wiedergeben und sehbehinderten Menschen die Nutzung der <span lang=\"en\">Website<\/span> erm\u00f6glichen.\n\nEin praktischer Nebeneffekt ist \u00fcbrigens, dass durch die verbesserte (n:Benutzer:innen x:Benutzerinnen y:Benutzer)freundlichkeit auch die Bewertung durch Suchmaschinen, wie z.B. <span lang=\"en\">Google<\/span>, steigt. Wenn man zudem darauf achtet, dass die Schriften skalierbar und die S\u00e4tze nicht zu lang sind, verbessert sich zugleich die <span lang=\"en\">Usability<\/span> mit mobilen Ger\u00e4ten. Also haben am Ende eben alle etwas davon \u2013 vom Internet f\u00fcr alle!\n\nWer sich jetzt fragt, ob der eigene Webauftritt alle Kriterien der Barrierefreiheit erf\u00fcllt, sollte sich einfach an (link: kontakt text: SCHOKOLADENSEITE.net wenden title: Zum Kontaktformular) \u2013 wir beraten gerne zu diesem Thema und k\u00f6nnen nat\u00fcrlich auch die Optimierung \u00fcbernehmen."},"id":"0eb4dccf-33ea-40d9-9937-ffd34ef6b83f","isHidden":false,"type":"text"}],"id":"bd482c93-8d49-4460-93d5-e502bfbd43fc","width":"2\/3"}],"id":"43d2069d-582b-42c3-9000-7528b25f5900"}]
+
+----
+
+Date: 2020-10-13 19:55:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Nur wenn Webseiten barrierefrei gestaltet sind, können sie von möglichst vielen Menschen genutzt werden. Worum geht es aber bei Barrierefreiheit und warum ist sie gar nicht so schwierig?
+
+----
+
+Articleimage: - file://Ct9fQnoItCiVsLET
+
+----
+
+Categories: Webdesign, Technik
+
+----
+
+Uuid: kOrLhGz5lPq3tRSz

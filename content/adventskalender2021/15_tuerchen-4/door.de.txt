@@ -1,0 +1,29 @@
+Title: Christian, der Kicker Wizard
+
+----
+
+Seodescription: Heute starten wir mit unserer weihnachtlichen SCHOKO-Vorstellungsrunde. Christian, unser Kicker-Wizard, macht den Anfang
+
+----
+
+Image: - 04.jpg
+
+----
+
+Door: 4
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Christian, der Kicker Wizard**\n\n*Heute starten wir mit unserer weihnachtlichen SCHOKO-Vorstellungsrunde. Christian, unser Kicker-Wizard, macht den Anfang.*\n\n**Seit wann bist du im SCHOKO-Team und was ist deine Aufgabe?**\n- Gute Frage \ud83e\udd14 Ich w\u00fcrde mal sch\u00e4tzen: irgendwas zwischen 5 und 10 Jahre \ud83d\ude09 Meine Hauptaufgaben ist Tischkickern!\n\n**Direkt zur wichtigsten Frage: Was ist deine Lieblings-Schokoladensorte?**\n- Eigentlich bin ich kein gro\u00dfer Schokoladenesser ... Aber: Psst \ud83e\udd2b\n\n**Was passiert, wenn du \"Last Christmas\" ((link: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI text: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI target: _blank title: Externer Link zu \"Last Christmas\" auf YouTube (\u00d6ffnet im neuen Tab))) im Radio h\u00f6rst?**\n- Mich fragen, wer eigentlich das Radio angestellt hat und wieso hier eigentlich ein Radio steht. H\u00f6rt man heutzutage Musik nicht anders, damit eben genau dieser Fall nicht eintreten kann?\n\n**Was m\u00f6chtest du in der Vorweihnachtszeit unbedingt machen?**\n- Hoffen, dass man auf den Weihnachtsmarkt kann und es eine Feuerzangenbowle gibt.\n\n**Welche SCHOKO-Superkr\u00e4fte hast du?**\n- Meine Programmiergeschwindigkeit erh\u00f6ht sich proportional zu meinem Kaffeekonsum."},"id":"d05afff8-b142-4b11-b67f-6dedbf8b2582","isHidden":false,"type":"text"}],"id":"5e6189d0-afdd-4302-b15d-11b9be2f863e","width":"1\/1"}],"id":"46b7fabd-971a-444b-87cd-697e029c439c"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: BT3UAL4mopfzSl2V

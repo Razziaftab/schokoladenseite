@@ -1,0 +1,15 @@
+name: Job Übersicht
+icon: star
+fields:
+  text:
+    label: Überschrift
+    type: markdown
+    inline: true
+    buttons:
+      - gender
+      - lang
+  
+  select:
+    label: direke Auswahl
+    type: pages
+    query: site.find('jobs')

@@ -1,0 +1,49 @@
+Title: BIK-BITV-Test: Barrierefreiheits-Prüfung schnell erklärt
+
+----
+
+Articleheader: BIK-BITV-Test: Die Barrierefreiheits-Prüfung schnell erklärt
+
+----
+
+Intro: Wie funktioniert eine Zertifizierung der Barrierefreiheit von Webseiten? Wir stellen Ihnen in diesem Blogbeitrag das  Prüfverfahren vor: den BIK-BITV-Test.
+
+----
+
+Image-ai-text: a person with glasses uses a website, ultra-realistic --ar 16:9 --s 50 --style raw
+
+----
+
+Mp3: - file://RDzSMcektEIXMwri
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Die Barrierefreiheitsrichtlinie der Bundesregierung, die sogenannte \"Barrierefreie-Informationstechnik-Verordnung\" (BITV), legt Standards fest, um sicherzustellen, dass Webseiten f\u00fcr alle Menschen nutzbar sind. Wie eine **Zertifizierung durch den BIK-BITV-Test** im Einzelnen abl\u00e4uft, erkl\u00e4ren wir Ihnen in diesem Blogbeitrag."},"id":"ee38e479-0732-4b9f-91c4-836216a8a6ea","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h2","text":"Was ist die BITV?","customid":"","customclass":""},"id":"3535bb85-e3c5-475b-bac0-ff760facaf0a","isHidden":false,"type":"heading"},{"content":{"text":"Die **Grundlage des BIK-BITV-Tests** ist die Barrierefreie Informationstechnik-Verordnung (BITV) 2.0. Sie setzt f\u00fcr Deutschland den Inhalt der europ\u00e4ischen Norm EN 301 549 um. Diese EN wiederum beinhaltet vor allem die Kriterien der WCAG 2.1, also die internationalen Richtlinien f\u00fcr Barrierefreiheit des W3C. Sprich: in Deutschland wird nur umgesetzt, was schon als internationaler Standard erarbeitet wurde.\n\nIn unserem Blogbeitrag (link: https:\/\/schokoladenseite.net\/blog\/barrierefreiheit-im-web-rechtliche-aspekte text: Barrierefreiheit im Web: Rechtliche Aspekte) k\u00f6nnen Sie noch mehr zu den rechtlichen Aspekten und Verpflichtungen lesen."},"id":"da0087b1-742b-4682-afc0-80cadc7ccaed","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h2","text":"Ablauf des BIK-BITV-Tests","customid":"","customclass":""},"id":"31bb8c7b-0987-4688-b26b-50cecbadadcc","isHidden":false,"type":"heading"},{"content":{"preh1":"","level":"h3","text":"Kosten","customid":"","customclass":""},"id":"1f959c48-ef88-4bec-9897-d40e1eedee57","isHidden":false,"type":"heading"},{"content":{"text":"Die Kosten f\u00fcr den BIK-BITV-Test werden individuell f\u00fcr Ihre Website ermittelt und in einem unverbindlichen Angebot von einem externen und zertifizierten Pr\u00fcfer zusammengefasst. Wie sich du Kosten zusammensetzen, k\u00f6nnen Sie auf der Seite des (link: https:\/\/www.bitvtest.de\/bitv_test\/bitv_test_beauftragen\/preise.html text: BIK-BITV target: _blank title: Preis-Seite (\u00d6ffnet im neuen Tab)) nachlesen."},"id":"d5bdf0d5-70f5-45d7-9940-780023586cbc","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h3","text":"Testdurchf\u00fchrung","customid":"","customclass":""},"id":"626aacf2-8d73-434b-bf20-dae18b51c2d6","isHidden":false,"type":"heading"},{"content":{"text":"Nach der Anmeldung wird der BIK-BITV-Test von einer zertifizierten Pr\u00fcfstelle durchgef\u00fchrt. Der Test wird in der Regel von zwei (gender: Pr\u00fcfer:innen x: Pr\u00fcferinnen y: Pr\u00fcfern xy: bzw.) durchgef\u00fchrt. Die Pr\u00fcfstelle w\u00e4hlt Stichproben-Seiten aus und f\u00fchrt den Test anhand der BITV-Norm durch. Das standardisierte BIK-BITV Testverfahren umfasst **98 einzelne Pr\u00fcfschritte**."},"id":"9642a9cd-ca6b-4425-8e78-074fc6d14529","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h3","text":"Testergebnis und Pr\u00fcfbericht","customid":"","customclass":""},"id":"7b6eac9e-8273-4853-831a-91dc725d2b36","isHidden":false,"type":"heading"},{"content":{"text":"In einem ersten Pr\u00fcfbericht werden ihnen detailliert die einzelnen Barrierefreiheits-M\u00e4ngel genannt und konkrete Vorschl\u00e4ge zur Verbesserung gemacht. Dazu kommen ggf. auch Informationen zur \"<span lang=\"en\">best practice<\/span>\" f\u00fcr die jeweiligen Seiten."},"id":"de2347e5-c99a-4ab8-85ee-acd18c17b768","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h3","text":"M\u00e4ngelbeseitigung","customid":"","customclass":""},"id":"7814895a-6f97-4336-afbc-45ac3e60ab87","isHidden":false,"type":"heading"},{"content":{"text":"Die Online-Agentur beseitigt die festgestellten M\u00e4ngel. Die M\u00e4ngelbeseitigung kann je nach Umfang der M\u00e4ngel und der Komplexit\u00e4t der Website einige Zeit in Anspruch nehmen."},"id":"d56678f6-cfae-49ca-b64d-43277da37d97","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h3","text":"Nachtest","customid":"","customclass":""},"id":"8b465f1b-5706-4a12-8b48-443d8bdcd83d","isHidden":false,"type":"heading"},{"content":{"text":"Nach der Beseitigung aller M\u00e4ngel durch Ihre Online-Agentur f\u00fchrt die Pr\u00fcfstelle einen Nachtest durch. \n\nDer Nachtest dient der \u00dcberpr\u00fcfung, ob die M\u00e4ngel beseitigt wurden. Wenn die M\u00e4ngel beseitigt wurden, erh\u00e4lt (gender: der\/die Betreiber:in x: die Betreiberin y: der Betreiber xy: und) der Website ein Zertifikat f\u00fcr die Barrierefreiheit der Website. Die Website wird dann in die Liste (link: https:\/\/www.bitvtest.de\/sites_und_agenturen\/barrierefreie_websites.html text: Barrierefreie Websites target: _blank title: Externer Link zur Liste der barrierefreien Websites (\u00f6ffnet im neuen Tab)) aufgenommen."},"id":"a3bb82e6-a44d-470f-b64f-be45e086c781","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h2","text":"Muss der BIK-BITV-Test wiederholt werden?","customid":"","customclass":""},"id":"1fe7166d-64d7-4338-b2d0-a744fb87e3c1","isHidden":false,"type":"heading"},{"content":{"text":"Der BIK-BITV-Test muss wiederholt werden. Die H\u00e4ufigkeit der Wiederholung h\u00e4ngt von verschiedenen Faktoren ab, wie z. B. der Komplexit\u00e4t der Website, der H\u00e4ufigkeit der \u00c4nderungen an der Website und den Anforderungen der Nutzer.\n\nGenerell wird empfohlen, einen BIK-BITV-Test mindestens einmal j\u00e4hrlich zu wiederholen. Bei komplexen Websites oder Websites, die h\u00e4ufig \u00c4nderungen unterliegen, kann es jedoch sinnvoll sein, den Test \u00f6fter durchzuf\u00fchren."},"id":"06c7020d-cf0b-4c1c-89b4-6a06eb851569","isHidden":false,"type":"text"}],"id":"b5785767-53e5-4b68-b76c-c327c8557cff","width":"1\/1"}],"id":"a370dd35-c086-4894-82ac-aa3b20877507"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/B2W9mgwNZtvh9ozV"],"caption":"Wir optimieren bestehende Websites barrierefrei und beraten bei der Neuentwicklung, wie Barrierefreiheit gew\u00e4hrleistet werden kann.\n\n(link: barrierefreies-webdesign text: Barrierefreies Webdesign - Infos hier class: btn -primary)"},"id":"c7de8665-6d2b-4219-aa31-ce2f52fb217e","isHidden":false,"type":"cta"}],"id":"6086ca07-fb39-4016-a2f6-612d0743f6e7","width":"1\/1"}],"id":"f1bcbad7-ac68-4321-939e-2556f2dd36d3"}]
+
+----
+
+Date: 2023-07-28 09:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Wie funktioniert eine Zertifizierung der Barrierefreiheit von Webseiten? Wir stellen Ihnen in diesem Blogbeitrag den BIK-BITV-Test vor.
+
+----
+
+Seodescription: 
+
+----
+
+Articleimage: - file://llJb3Y4MvIeHZCOX
+
+----
+
+Categories: Barrierefreiheit
+
+----
+
+Uuid: gw1gdkhyMJ68sFvf

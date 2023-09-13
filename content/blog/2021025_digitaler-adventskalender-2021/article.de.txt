@@ -1,0 +1,41 @@
+Title: 24 digitale Türchen – unser nachhaltiger Adventskalender
+
+----
+
+Articleheader: 
+
+----
+
+Intro: Steigt aus Ihrem Bildschirm gerade ein Duft nach gebrannten Mandeln, Tannenzweigen und heißer Schokolade auf?
+
+----
+
+Mp3: - file://esUDtLuY8a9I4i6C
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Bleiben Sie entspannt, Sie m\u00fcssen die <span lang=\"en\">IT-Serviceline<\/span> nicht behelligen \u2013 das sind unsere SCHOKO-Wichtel, die gerade in der streng geheimen Schokoladenfabrik unter der SCHOKOLADENSEITE.net die (link: digitaler-adventskalender text: digitalen Adventskalender title: Zur Infoseite chocfair cal) f\u00fcr unsere (n:Kund:innen x:Kundinnen y:Kunden) anfertigen.\n\nWenn Sie, wie wir, die ewige Abfolge der \u00fcblichen Weihnachts<span lang=\"en\">mailings<\/span> und Kekst\u00fctchen etwas erm\u00fcdend und wenig abwechslungsreich finden, kommt hier die frohe Botschaft: Das geht digital viel besser! Mit dem **digitalen Adventskalender** geh\u00f6ren die Kekskr\u00fcmel endg\u00fcltig der (analogen) Vergangenheit an."},"id":"55a0066b-b2e2-4ab8-a08e-6510a019a3fa","isHidden":false,"type":"text"}],"id":"fc4b264c-5a54-4242-b1ec-32ecd72e8ed7","width":"1\/1"}],"id":"def74d01-875b-4a20-9b06-01f8b26c1870"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Das zeitgem\u00e4\u00dfe Kommunikations-<span lang=\"en\">Tool<\/span>","customid":"","customclass":""},"id":"b8e63b18-510b-4f01-a25b-7b53a359037b","isHidden":false,"type":"heading"},{"content":{"text":"Mit dem digitalen Adventskalender haben wir **das etwas andere, zeitgem\u00e4\u00dfe Kommunikations-<span lang=\"en\">Tool<\/span>** f\u00fcr die Vorweihnachtszeit entwickelt. Ob zur (n:Kund:innen x:Kundinnen y:Kunden)bindung, als <span lang=\"en\">Fundraising<\/span> oder f\u00fcr die interne Kommunikation \u2013 er ist **ganz individuell** und doch **universell einsetzbar**. Die Inhalte hinter den T\u00fcrchen k\u00f6nnen Bilder, Videos, Geschichten, <span lang=\"en\">Podcasts<\/span> und Mitmach-Aktionen sein, passend zu Ihrer Kommunikation."},"id":"5a04d883-dabc-46b4-bd3d-d87104a36ce2","isHidden":false,"type":"text"}],"id":"3a4dd53c-a877-4ffe-8000-2f6f4423f2eb","width":"1\/1"}],"id":"8ef7a8c7-e833-448f-bc04-d37401060b4c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/zoXF7ce9l4vuQpyn"]},"id":"3b74a316-c326-4d2c-8510-0b9659b7bc16","isHidden":false,"type":"blogimage"}],"id":"baf5e214-fa24-4873-9b19-9fd4e4742873","width":"1\/1"}],"id":"1618bebf-f06c-4515-b4fe-908d8477186f"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Nachhaltiger, zum Nachdenken und Mitmachen","customid":"","customclass":""},"id":"7832639d-41b4-4532-902c-388cf54d6654","isHidden":false,"type":"heading"},{"content":{"text":"Der Gedanke der Nachhaltigkeit spielte nat\u00fcrlich auch eine wichtige Rolle: statt des \u201cWegwerfartikels\u201d Weihnachtskarte\/-pr\u00e4sent laden Sie Ihre (n:Kund:innen x:Kundinnen y:Kunden), (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter) oder (n:Spender:innen x:Spenderinnen y:Spender) dazu ein, die digitalen T\u00fcrchen des Adventskalenders zu \u00f6ffnen und sich gleich 24 mal \u00fcberraschen zu lassen. Ob besinnlich, informativ, zum Nachdenken oder unterhaltsam \u2013 der digitale Adventskalender sorgt auf jeden Fall f\u00fcr viel Abwechslung in der Vorweihnachtszeit."},"id":"c039b9d6-2285-4f06-a99f-1a1cf847a6be","isHidden":false,"type":"text"}],"id":"0f3fc09e-43bd-4022-8e78-90a468801945","width":"1\/1"}],"id":"2ebd68fb-ca3a-4e44-b668-b34cbf6dc7ab"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/AxIbVydkGc5ULlp8"]},"id":"6cd8e1ab-dbc7-4e5b-abef-fa83e7d95f32","isHidden":false,"type":"blogimage"}],"id":"ee072dbb-15d9-4f8d-9a0b-c085f0b0fce3","width":"1\/1"}],"id":"6533284a-5f5f-4de4-a7ad-238adfd84bf5"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"**Sie haben Interesse? Dann klicken Sie (link: digitaler-adventskalender text: hier f\u00fcr mehr Infos zum Digitalen Adventskalender). Unsere SCHOKO-Wichtel realisieren Ihren Kalender noch f\u00fcr dieses Jahr.**\n\nHo, ho, ho! <span aria-hidden=\"true\">\ud83c\udf84<\/span>"},"id":"06cddd88-8bc3-464d-aeda-a462d044493d","isHidden":false,"type":"text"}],"id":"f584ff69-5b66-4376-8202-fbec79d983a5","width":"1\/1"}],"id":"40ed10cf-1b80-43b1-834c-b7de044c2a71"}]
+
+----
+
+Date: 2021-10-25 12:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Der digitale Adventskalender ist das etwas andere, zeitgemäße Kommunikations-Tool für die Vorweihnachtszeit. Öffnen Sie ein Türchen!
+
+----
+
+Articleimage: - file://YD0frkBAMa2Z347h
+
+----
+
+Categories: Technik, Frontend, Programmierung, Webdesign
+
+----
+
+Uuid: BEAjI88DAuaa3hCW

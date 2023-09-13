@@ -1,0 +1,80 @@
+.contactmodal{
+	position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+	width: 100%;
+	max-height: 100%;
+    background: $white;
+    padding: 20px;
+	overflow-y: auto;
+	z-index: 1050;
+	display: none;
+	
+	.closemodal{
+		position: absolute;
+		right: 10px;
+		top: 10px;
+		width: 25px;
+		height: 25px;
+		cursor: pointer;
+		
+		.dark & path{
+			fill: white;
+		}
+	}
+	
+	.gradient-icon {
+		font-weight: bold;
+		color: transparent;
+		background-image: -webkit-gradient(linear, left top, right top, from(#dd0004), color-stop(#dd0004), color-stop(#dd0004), color-stop(#7f01ff), to(#7f01ff));
+		background-image: -webkit-linear-gradient(left, #dd0004, #dd0004, #dd0004, #7f01ff, #7f01ff);
+		background-image: linear-gradient(to right, #dd0004, #dd0004, #dd0004, #7f01ff, #7f01ff);
+		background-repeat: no-repeat;
+		-webkit-background-clip: text;
+		-webkit-text-fill-color: transparent;
+	}
+	
+	.flex:first-of-type{
+		margin-bottom: 20px;
+		
+		.column-3{
+			display: flex;
+			justify-content: center;
+		}
+		
+		p:first-child{
+		    font-size: 1.8rem;
+		}
+	}
+	
+	@media $tablet-big{
+		width: 80%;
+		padding: 40px;
+		
+		.flex:first-of-type{
+			margin-bottom: 40px;
+			
+			p:first-child{
+				font-size: 3rem;
+			}
+		}
+	}
+	
+	@media $desktop-big{
+		width: 60%;
+		overflow: auto;
+	}
+}
+
+.contactmodalbackground{
+	position: fixed;
+	top:0;
+	right:0;
+	bottom:0;
+	left: 0;
+	z-index: -1;
+	background: transparentize(black, 40%);
+	z-index: 1040;
+	display: none;
+}

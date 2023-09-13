@@ -1,0 +1,17 @@
+<svg id="Komponente_1_1" data-name="Komponente 1 – 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="234" height="234" viewBox="0 0 234 234">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dc0006"/>
+      <stop offset="1" stop-color="#7f01fd"/>
+    </linearGradient>
+  </defs>
+  <circle id="Ellipse_7" data-name="Ellipse 7" cx="117" cy="117" r="117" fill="url(#linear-gradient)"/>
+  <g id="computer-monitor" transform="translate(71 71.919)">
+    <rect id="Rechteck_83" data-name="Rechteck 83" width="59" height="89" transform="translate(31.081 1.081)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Linie_8" data-name="Linie 8" x2="18" transform="translate(51.081 22.081)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Linie_9" data-name="Linie 9" x2="18" transform="translate(51.081 37.081)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+    <circle id="Ellipse_12" data-name="Ellipse 12" cx="9" cy="9" r="9" transform="translate(51.081 51.081)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+    <line id="Linie_10" data-name="Linie 10" x2="9" transform="translate(10.081 78.081)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+    <path id="Pfad_61" data-name="Pfad 61" d="M18.758,58.275H1V5H18.758" transform="translate(0 7.839)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>

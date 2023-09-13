@@ -1,0 +1,13 @@
+Alt: Update-Routine für Wordpress
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: Bqn8wRG1twxPvceD

@@ -1,0 +1,41 @@
+Title: Sicherheit für Ihre Website
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://rCVk3tGRHr9qWsHv
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Regelm\u00e4\u00dfige <span lang=\"en\">Updates<\/span> verbessern die Sicherheit f\u00fcr Ihre <span lang=\"en\">Website<\/span> bei Hackerangriffen \u2013 nehmen Sie das Thema besser nicht auf die leichte Schulter."},"id":"d544dd57-44e0-4c88-9a83-d6ac9401547b","isHidden":false,"type":"text"}],"id":"ca801387-8500-44a6-b674-2bcbeacc2d47","width":"1\/1"}],"id":"5ef93994-0b24-4218-a276-de7668a29591"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Schutz vor Hackern","customid":"","customclass":""},"id":"132d282f-c59e-47c7-bb47-5b91500334c7","isHidden":false,"type":"heading"},{"content":{"text":"Viele <span lang=\"en\">Websites<\/span> verwenden (link: wordpress text: WordPress title: zur Leistung) oder <span lang=\"en\">(link: typo3 text: TYPO3 title: zur Leistung)<\/span> als <span lang=\"en\">(link: cms text: Content Management Systeme (CMS) title: zur Leistung)<\/span>. Diese Systeme werden \u2013 wie Sie es etwa von <span lang=\"en\">Windows<\/span> oder <span lang=\"en\">Smartphone-Apps<\/span> kennen \u2013 permanent weiterentwickelt und durch <span lang=\"en\">Updates<\/span> aktualisiert. Naturgem\u00e4\u00df k\u00f6nnen dabei auch Sicherheitsl\u00fccken entstehen. Es ist sehr wichtig, diese rechtzeitig zu schlie\u00dfen, bevor ein Schaden entstehen kann. Gerade <span lang=\"en\">WordPress<\/span> als gr\u00f6\u00dftes CMS der Welt wird von Hackern permanent auf Schwachstellen untersucht."},"id":"e4002822-55a5-4919-b458-270eda1f7e9d","isHidden":false,"type":"text"}],"id":"e10ad53b-9ed5-44c7-8ff3-5a39495e5fcc","width":"1\/1"}],"id":"857a7d6c-9bcf-4bd1-8bab-71d0ee3eee91"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Welche Folgen kann eine mangelhafte Wartung haben?","customid":"","customclass":""},"id":"01a67e03-5fef-470d-ae1b-2e0ce5e3ce8d","isHidden":false,"type":"heading"},{"content":{"text":"Wenn Sie nicht rechtzeitig <span lang=\"en\">Updates<\/span> einspielen lassen, k\u00f6nnen evtl. Unbefugte in Ihr System eindringen und es manipulieren. Denkbar w\u00e4ren z.B. eine **L\u00f6schung** Ihrer gesamten <span lang=\"en\">Website<\/span>, die **Aussp\u00e4hung** hinterlegter Kontakte und Informationen oder der Missbrauch des Servers zum massenhaften Versand von **<span lang=\"en\">SPAM<\/span>-Nachrichten** \u2013 unter Ihrem Namen! Die Behebung eines Hacks ist meistens sehr aufw\u00e4ndig, und Ihr Image kann ebenfalls darunter leiden."},"id":"b183f39a-64a5-4bd7-bdfe-578a19111517","isHidden":false,"type":"text"}],"id":"b707160f-4691-4653-acef-44fd6c815424","width":"1\/1"}],"id":"d1b9af3a-bb52-4358-bd31-3bcd26dc5112"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"<span lang=\"en\">Updates<\/span> durch CMS-(n:Expert:innen x:Expertinnen y:Experten)","customid":"","customclass":""},"id":"cb4926f4-c403-4672-ae1c-6b96d3648212","isHidden":false,"type":"heading"},{"content":{"text":"Durch die Etablierung einer Wartungs-Routine k\u00f6nnen Sie sich vor diesen Gefahren sch\u00fctzen. Wir pr\u00fcfen regelm\u00e4\u00dfig Ihre Webseite und entscheiden individuell, welche Updates eingespielt werden m\u00fcssen \u2013 denn nicht jedes <span lang=\"en\">Update<\/span> ist n\u00f6tig bzw. sinnvoll. Diese Entscheidung sollten Sie unseren erfahrenen **CMS-(n:Expert:innen x:Expertinnen y:Experten)** \u00fcberlassen \u2013 mit ihrer langj\u00e4hrigen Programmiererfahrung mit z.B. PHP, <span lang=\"en\">TypoScript<\/span>, <span lang=\"en\">JavaScript<\/span> usw. sind sie in der Lage, nicht nur die <span lang=\"en\">Updates<\/span> auszuf\u00fchren, sondern auch eventuell auftretende Probleme zu l\u00f6sen."},"id":"5782ed59-23c5-4ea2-a2cb-f5a316729b5e","isHidden":false,"type":"text"}],"id":"e4c141e8-c156-45d4-965b-dc866d8470e6","width":"1\/1"}],"id":"681b9ec7-147d-45d7-8e99-ca2cda40022c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Pflege &amp; <span lang=\"en\">Support<\/span> auslagern","customid":"","customclass":""},"id":"64397b4d-f3a6-4133-be87-86aaecddf1a3","isHidden":false,"type":"heading"},{"content":{"text":"Als Online-Agentur bieten wir Ihnen Pflege- & <span lang=\"en\">Support<\/span>-L\u00f6sungen an und arbeiten genau diese Routinen monatlich ab. Au\u00dferdem beraten wir Sie gerne zu einer guten <span lang=\"en\">Hosting<\/span>l\u00f6sung oder empfehlen Ihnen gute und sichere <span lang=\"en\">Hosting<\/span>partner. Auf Wunsch erstellen wir auch Ma\u00dfnahmenpl\u00e4ne f\u00fcr Ihren <span lang=\"en\">Hoster<\/span>. Denn wir sehen uns als professionelle Onlineagentur in der Verantwortung, unsere (n:Kund:innen x:Kundinnen y:Kunden) **ganzheitlich** und **nachhaltig** zu beraten und betreuen."},"id":"cb5fadae-9d15-4d6f-976e-66ddf8c37bd9","isHidden":false,"type":"text"}],"id":"5fc2fc92-f6aa-415a-bb68-1e495f01fc9f","width":"1\/1"}],"id":"6bc6810c-294e-4b86-877f-8c1b2a5d5771"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"c0564e0d-92e0-436a-b6a7-9bb15567d971","isHidden":false,"type":"kontaktform"}],"id":"bd30d77f-f3e6-419a-b556-fd866d0bd018","width":"1\/1"}],"id":"d4c7d25e-85a0-41c8-b619-66c898f3a17b"}]
+
+----
+
+Date: 2020-08-03 11:10:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Regelmäßige CMS-Updates verbessern die Sicherheit für Ihre Website bei Hackerangriffen.
+
+----
+
+Articleimage: - file://IA5R8x0p2LW15emQ
+
+----
+
+Categories: Wartung, Technik
+
+----
+
+Uuid: cAVaZxHw5E11Ktzh

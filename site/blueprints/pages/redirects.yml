@@ -1,0 +1,17 @@
+title: Redirects
+
+sections:
+  content:
+    label: Redirect
+    type: pages
+    template: subpage
+    multiple: false
+    fields:
+      from:
+        label: From URL
+        type: text
+        required: true
+      to:
+        label: To URL
+        type: text
+        required: true

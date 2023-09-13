@@ -1,0 +1,13 @@
+Alt: Laptop mit Kirby Logo
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: NA0GoCiE51M54eSb

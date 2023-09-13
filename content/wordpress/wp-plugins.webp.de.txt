@@ -1,0 +1,21 @@
+Alt: Screenshot von Wordpress Plugins-Auswahl
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: apGCj9bQSbPTo1L5

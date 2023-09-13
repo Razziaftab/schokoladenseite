@@ -1,0 +1,41 @@
+Title: DSGVO: Kontaktformular bzw. Formulare
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://xkZMJiY2puM62p2o
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Fast jede Website hat auch ein Kontaktformular oder andere Formulare. Hier gilt: ohne SSL kein Formularversand ((link: blog\/dsgvo-ssl-zertifikat text: siehe auch unser Beitrag zum Thema SSL title: Zum Blogbeitrag DSGVO: SSL-Zertifikat)). Nur eine verschl\u00fcsselte Daten\u00fcbermittlung ist zul\u00e4ssig \u2013 und das ist auch gut so. Weiterhin geht es jetzt hier auch um Transparenz. Auch das ist gut und h\u00e4tte schon l\u00e4ngst selbstverst\u00e4ndlich sein sollen.\n\nSie ben\u00f6tigen eine explizite Einwilligung f\u00fcr die \u00dcbertragung, Speicherung und Verarbeitung Ihrer Daten. Dies l\u00f6st man am besten durch Einbau einer zus\u00e4tzlichen Checkbox vor dem Absenden-<span lang=\"en\">Button<\/span>. Der Text sollte einen Hinweis zur Datenverarbeitung beinhalten sowie eine Verlinkung zur Datenschutzerkl\u00e4rung."},"id":"6c6038bd-cae8-4833-8d19-0738a8183d7d","isHidden":false,"type":"text"}],"id":"3f12bb6c-14d6-4c43-bd37-b648a0b96ad3","width":"1\/1"}],"id":"c136f98c-a48e-4d7c-b013-7dda558f42bc"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wirklich eine <span lang=\"en\">Checkbox<\/span>?","customid":"","customclass":""},"id":"c2fd35de-e1a2-4b4c-98d1-ebf1e949a4fc","isHidden":false,"type":"heading"},{"content":{"text":"Das OLG K\u00f6ln hat grunds\u00e4tzlich bejaht, dass ein Passus in der Datenschutzerkl\u00e4rung notwendig ist. Bei dem Urteil (Az.: 6 U 121\/15) muss man zu dem Ergebnis kommen, dass das OLG K\u00f6ln hier eine Einwilligungsl\u00f6sung mit <span lang=\"en\">Checkbox<\/span> fordert (Quelle: eRecht24 Premium).\nDie <span lang=\"en\">Checkbox<\/span> darf nicht standardm\u00e4\u00dfig aktiviert sein.\n\n**TIPP**: F\u00fcr <span lang=\"en\">WordPress<\/span>-(n:Nutzer:innen x:Nutzerinnen y:Nutzer): Es gibt daf\u00fcr ein <span lang=\"en\">Plugin<\/span> f\u00fcr die <span lang=\"en\">Checkbox<\/span>: (link: https:\/\/wordpress.org\/plugins\/wp-gdpr-compliance\/ text: WP GDPR Compliance target: _blank rel: noopener title: Extener Link zur Seite zum Plugin WP GDPR Compliance (\u00d6ffnet im neuen Tab)) Wird das Formular \u00fcber <span lang=\"en\">Contact Form 7<\/span> verwendet, kann WP <span lang=\"en\">GDPR Compliance<\/span> auch damit gekoppelt werden.\n\n### Praxis\nSo gehen Sie auf Nummer sicher:\n\n1. F\u00fcgen Sie Ihrer Datenschutzerkl\u00e4rung einen Passus zum Umgang mit Daten aus dem Kontaktformular hinzu.\n2. Binden Sie eine Checkbox unter dem Kontaktformular ein.\n3. F\u00fcgen Sie neben der Check-Box einen Einwilligungstext zum Umgang mit den Daten der (n:Nutzer:innen x:Nutzerinnen y:Nutzer) und ihr Recht auf Widerspruch ein.\n\n### Mustertext\nIch habe die Datenschutzerkl\u00e4rung zur Kenntnis genommen. Ich stimme zu, dass meine Angaben und Daten zur Beantwortung meiner Anfrage elektronisch erhoben und gespeichert werden. Hinweis: Sie k\u00f6nnen Ihre Einwilligung jederzeit f\u00fcr die Zukunft per E-Mail an email@xyz.de widerrufen.\n\n**ACHTUNG**: Achten Sie darauf, dass die E-Mail-Adresse, die Sie angeben, auch funktioniert und bei der entsprechenden Person ankommt!"},"id":"8f6d208e-3ec9-4b79-bde1-0051f2492a15","isHidden":false,"type":"text"}],"id":"f9e981f2-40aa-4c75-af4a-a6d210bc1f20","width":"1\/1"}],"id":"4def828b-7ec8-4e43-acb7-e2707ce77e81"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"e51d5bfd-380a-4f4c-be00-5ccf084fe19b","isHidden":false,"type":"kontaktform"}],"id":"4fdaf2f5-1d9e-40d0-8219-09bcf5ea5b14","width":"1\/1"}],"id":"8659d3b9-5479-4b9e-bd86-3a4ea5cd0858"}]
+
+----
+
+Date: 2018-04-03 17:05:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Fast jede Website hat auch ein Kontaktformular oder andere Formulare. Hier gilt, ohne SSL kein Formularversand.
+
+----
+
+Articleimage: - file://gJrpAu5abr1nSncj
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: wRh1LPfXbXyNWJDq

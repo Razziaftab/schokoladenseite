@@ -1,0 +1,29 @@
+Title: In der Weihnachtsbäckerei - Schoko-Mascarpone-Pudding
+
+----
+
+Seodescription: Unsere Kollegin Melissa hat ihr Geheimrezept für einen Pudding verraten, der ganz ohne Kochen zubereitet werden kann. Hmmm, lecker!
+
+----
+
+Image: - 11.jpg
+
+----
+
+Door: 11
+
+----
+
+Size: col-2
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **In der Weihnachtsb\u00e4ckerei - Schoko-Mascarpone-Pudding**\n\nUnsere Kollegin Melissa hat ihr Geheimrezept f\u00fcr einen Pudding verraten, der ganz ohne Kochen zubereitet werden kann. Hmmm, lecker!\n\nZutaten:\n- 3 Teel\u00f6ffel Zucker\n- 3 Teel\u00f6ffel Kakao\n- 250 g Mascarpone\n- 50 ml Milch*\n\nZuerst werden Zucker und Kakao mit der Milch vermischt, bis sich alles aufgel\u00f6st hat. Dabei am Besten zun\u00e4chst erst mit wenig Milch beginnen und dann mehr hinzuf\u00fcgen. Je mehr Milch verwendet wird, um so fl\u00fcssiger wird das Endergebnis. Daher Vorsicht \ud83d\ude09 Wenn alles aufgel\u00f6st ist, wird l\u00f6ffelweise der Mascarpone hinzugef\u00fcgt und cremig ger\u00fchrt. Die kleineren St\u00fccke l\u00f6sen sich schneller auf, als wenn man einen gro\u00dfen Brocken unterr\u00fchren muss. Wenn die ganze Masse dann die gew\u00fcnschte Konsistenz hat und keine Br\u00f6ckchen mehr enth\u00e4lt, ist der Schokopudding schon fertig! \ud83d\ude42\n\nDas ganze l\u00e4sst sich wunderbar mit Bananen, Erdbeeren oder Blaubeeren kombinieren! Alternativ oder zus\u00e4tzlich kann man auch einen Teil des Mascarpone mit Vanille anstatt mit Kakao verr\u00fchren.\n\n*\\*In der Weihnachtszeit verfeinere ich den Pudding gerne noch mit einer Prise Spekulatiusgew\u00fcrz.* \ud83d\ude0b"},"id":"8d044aa5-ae48-46a2-bc31-68f87f4ef902","isHidden":false,"type":"text"}],"id":"b5e5b70c-03ea-4f42-88d1-85916664749b","width":"1\/1"}],"id":"3b484980-c7cf-4c1d-9f24-8d66f1fb04d7"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: CECx7erCjHc3ltPa

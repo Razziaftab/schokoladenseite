@@ -1,0 +1,56 @@
+/*!
+|--------------------------------------------------------------------------
+| MAIN SCSS
+|--------------------------------------------------------------------------
+*/
+
+@import 'config/vars';
+
+@import 'fontawesome/fontawesome';
+@import 'fontawesome/regular';
+@import 'fontawesome/solid';
+@import 'fontawesome/brands';
+
+@import 'basic/html';
+@import 'basic/helper';
+@import 'basic/typo';
+@import 'basic/lists';
+@import 'basic/button';
+@import 'basic/svg';
+
+@import 'layout/header';
+@import 'layout/nav';
+@import 'layout/footer';
+@import 'layout/aside';
+@import 'layout/gender';
+@import 'layout/form';
+@import 'layout/cookie';
+@import 'layout/contactmodal';
+@import 'layout/skip-content';
+@import 'layout/theme-toogle';
+@import 'layout/videoplayer';
+@import 'layout/language';
+
+@import 'blocks/hero';
+@import 'blocks/video';
+@import 'blocks/headerbild';
+@import 'blocks/slider';
+@import 'blocks/icons';
+@import 'blocks/accordion';
+@import 'blocks/logos';
+@import 'blocks/team';
+@import 'blocks/galerie';
+@import 'blocks/simple-lightbox';
+@import 'blocks/paketmodul';
+@import 'blocks/cta';
+@import 'blocks/table';
+
+@import 'pages/referenzen';
+@import 'pages/chocfair-gender';
+@import 'pages/chocfair-cookie';
+@import 'pages/blog';
+@import 'pages/projekte';
+@import 'pages/advent';
+@import 'pages/manual';
+@import 'pages/jobs';
+@import 'pages/home';

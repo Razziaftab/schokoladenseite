@@ -1,0 +1,13 @@
+Alt: Ein grünes Fahrrad lehnt an einer Wand. Die Räder sehen aus wie eine angeschnittene Wassermelone.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: OpkdzKEABQK0HcEq

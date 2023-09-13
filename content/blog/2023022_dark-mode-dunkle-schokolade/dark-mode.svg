@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="569" viewBox="0 0 1000 569">
+  <defs>
+    <clipPath id="clip-dark-mode">
+      <rect width="1000" height="569"/>
+    </clipPath>
+  </defs>
+  <g id="dark-mode" clip-path="url(#clip-dark-mode)">
+    <rect width="1000" height="569" fill="#1a1a1a"/>
+    <g id="Gruppe_2" data-name="Gruppe 2" transform="translate(-40 9)">
+      <rect id="Rechteck_1" data-name="Rechteck 1" width="428" height="166" rx="83" transform="translate(297 193)" fill="#bfbfbf" opacity="0.67"/>
+      <g id="Gruppe_1" data-name="Gruppe 1" transform="translate(4.954 4.954)">
+        <circle id="Ellipse_1" data-name="Ellipse 1" cx="139" cy="139" r="139" transform="translate(500.046 132.046)" fill="#fff"/>
+        <path id="download" d="M75.539,0C31.475,11.331,0,51.619,0,99.46A101.554,101.554,0,0,0,101.978,201.438c47.842,0,86.87-31.475,99.46-75.539C124.64,147.3,54.137,76.8,75.539,0Z" transform="translate(538.624 170.624)" fill="#1a1a1a"/>
+      </g>
+    </g>
+  </g>
+</svg>

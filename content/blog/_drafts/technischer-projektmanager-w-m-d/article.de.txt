@@ -1,0 +1,56 @@
+Title: Technischer Projektmanager (m/w/d)
+
+----
+
+Articleheader: Technischer Projektmanager (m/w/d)
+
+----
+
+Intro: Für unsere **Onlineprojekte** suchen wir (n:eine:n smarte:n Projektmanager:in x:eine smarte Projektmanagerin y:einen smarten Projektmanager xy:oder) mit Herz, technischem Können und mit Köpfchen.
+
+----
+
+Mp3: 
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Vollzeit","customid":"","customclass":""},"id":"807dfe7e-5883-4c00-8387-73577af40893","isHidden":false,"type":"heading"},{"content":{"text":"Du bist sehr gut strukturiert, denkst mit und \u00fcbernimmst gern selbst die Verantwortung f\u00fcr deine Projekte. Du bist technisch topfit, hast Lust auf herausfordernde Projekte. Ein <span lang=\"en\">Up-Date<\/span> ist f\u00fcr dich kein <span lang=\"en\">Date<\/span> \u2013 SICHERHEIT schreibst du gro\u00df und hast bereits fundierte Erfahrung im Projektmanagement (mindestens 2-3 Jahre).\n\nDu hast ein hohes Engagement und gibst alles \u2013 weil du einfach Bock hast. Denn dir bringt Spa\u00df, was du tust!\n\nGl\u00fcckwunsch, du hast gerade Hamburgs SCHOKOLADENSEITE gefunden!\nWir sind als Team genauso wie unseren (n:Kund:innen x:Kundinnen y:Kunden) gegen\u00fcber: klar, direkt, ehrlich, authentisch - ein kleines Team aus (n:\u00dcberzeugungst\u00e4ter:innen x:\u00dcberzeugungst\u00e4terinnen y:\u00dcberzeugungst\u00e4tern) und Schokophilen, und wir sind toller als das tollste Team der Welt \ud83d\ude0a \n\nWir arbeiten 100% hoch-digital und nat\u00fcrlich online mit Projektmanagement-Systemen und optimieren t\u00e4glich unsere <span lang=\"en\">Workflows<\/span>. Was wir machen, machen wir richtig gut, und darauf sind wir auch stolz!"},"id":"faa84b09-e235-4b38-ae36-959be008c4ef","isHidden":false,"type":"text"}],"id":"a68968cf-3631-4ff9-bc44-ea3eed4a2970","width":"1\/1"}],"id":"b3a9f04f-d50b-4492-8202-c98a9ef219f3"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h3","text":"Deine Aufgaben:","customid":"","customclass":""},"id":"faa76b50-0b5f-4c0c-a0f2-385f40c70fb0","isHidden":false,"type":"heading"},{"content":{"text":"- Du \u00fcbernimmst und verantwortest die (technische) Projektleitung mit den Schwerpunkten <span lang=\"en\">Websites<\/span>, CM-Systeme (<span lang=\"en\">TYPO3<\/span>, <span lang=\"en\">WordPress<\/span>), <span lang=\"en\">E-Commerce<\/span> und den damit verbundenen Serverthemen.\n- Du \u00fcbernimmst die Kommunikation und Planung von sauberen <span lang=\"en\">Serverupdates<\/span> (Betriebssysteme, PHP, CMS) mit <span lang=\"en\">Webhostern<\/span>, (n:Kund:innen x:Kundinnen y:Kunden) und (n:Entwickler:innen x:Entwicklerinnen y:Entwicklern) sowie Sicherheitsthemen, DSGVO und <span lang=\"en\">Testing<\/span>.\n- Du schreibst und planst schrittweise Abl\u00e4ufe f\u00fcr <span lang=\"en\">Updates<\/span>, damit alles rund l\u00e4uft, und machst keine Raketenwissenschaft draus.\n- Du \u00fcbernimmst die Kommunikation und Beratung von (n:Neukund:innen x:Neukundinnen y:Neukunden) und t\u00fctest sie ein.\n- Du betreust (n:Bestandskund:innen x:Bestandskundinnen y:Bestandskunden) und treibst proaktiv deren Weiterentwicklungen voran.\n- Du hast ein gutes Gesp\u00fcr f\u00fcr Aufw\u00e4nde, erstellst eigenst\u00e4ndig Angebote, Wartungsvertr\u00e4ge und AV-Vertr\u00e4ge.\n- Du bist (n:erste:r Ansprechpartner:in x:erste Ansprechpartnerin y:erster Ansprechpartner) im Projekt f\u00fcr die bzw. den (n:Kund:in x:Kundin y:Kunden) und das Team. Alle F\u00e4den laufen bei dir zusammen und du hast stets den \u00dcberblick.\n- Du steuerst intern die Entwicklung. Das tust du hoch digital und strukturiert in unserem Projektmanagement-<span lang=\"en\">Tool<\/span>.\n- Du sorgst daf\u00fcr, dass die (n:Kund:innenanforderungen x:Kundinnenanforderungen y:Kundenanforderungen) in einem wirtschaftlichen Rahmen erf\u00fcllt werden."},"id":"8e9c3768-e7f8-46f8-97b0-09ca56007abb","isHidden":false,"type":"text"}],"id":"aebe0811-10f8-4692-844c-39c9c4c87f06","width":"1\/1"}],"id":"00d1cd10-f0cf-42f4-a1f8-4d6e212f5446"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h3","text":"Das sollst du mitbringen:","customid":"","customclass":""},"id":"06e46bad-95cf-475e-aad2-e22cb51c5cf3","isHidden":false,"type":"heading"},{"content":{"text":"- Ein hohes Ma\u00df an Einsatz.\n- Du \u00fcbernimmst gerne Verantwortung f\u00fcr deine Projekte und h\u00e4ltst immer dein Wort.\n- Du bist offen f\u00fcr Neues.\n- Starke Kommunikation. Klar. Transparent.\n- Sehr gutes technisches und fachliches Verst\u00e4ndnis, fundierte Kenntnisse im digitalen Umfeld.\n- Du sprichst die \u201eleichte\u201c Sprache der (n:Kund:innen x:Kundinnen y:Kunden) und ebenso die der \u201e(n:Technikerinnen x:Techniker:innen y:Techniker)\u201c.\n- Mindestens 2-3 Jahre Berufserfahrung im Projektmanagement.\n- Erfahrung mit CM-Systemen wie <span lang=\"en\">TYPO3<\/span>, <span lang=\"en\">WordPress<\/span>, (<span lang=\"en\">Kirby<\/span> von Vorteil).\n- Eine eigenst\u00e4ndige, gewissenhafte und strukturierte Arbeitsweise.\n- Ausgepr\u00e4gte konzeptionelle F\u00e4higkeiten sowie Pr\u00e4sentations- und Kommunikationsst\u00e4rke im Team und im (n:Kund:innenkontakt x:Kundinnenkontakt y:Kundenkontakt).\n- Einen hohen Qualit\u00e4tsanspruch.\n- Du motivierst das Team und bist durchsetzungsstark, wenn die Projektsituation es erfordert.\n- Perfektes Deutsch in Wort und Schrift. Gute Englischkenntnisse.\n- Dein Wohnsitz und <span lang=\"en\">Timezone<\/span> ist Deutschland."},"id":"06c72f9c-bc50-456b-99f8-b60d778253d9","isHidden":false,"type":"text"}],"id":"44edbc04-88e8-4a9d-8f83-fa274d58933a","width":"1\/1"}],"id":"f1612cd5-67cd-4dd1-88a1-8cc76ce1bf18"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h3","text":"Wir bieten dir:","customid":"","customclass":""},"id":"c70f1c16-39ca-4f0a-be0e-cf6cb2a9bdc1","isHidden":false,"type":"heading"},{"content":{"text":"- Ein <span lang=\"en\">Remote<\/span>-Arbeitsmodell, Hybrid bevorzugt, aber bei entsprechendem Einsatz nicht unbedingt n\u00f6tig.\n- Optional moderner Arbeitsplatz in netter Atmosph\u00e4re mit bester HVV-Anbindung.\n- Gute leistungsgerechte Bezahlung im unbefristeten Arbeitsverh\u00e4ltnis.\n- Zuschuss zum HVV Ticket, betriebliche Altersvorsorge, PC Laptop (auch zur privaten Nutzung).\n- Verantwortung, Mitbestimmung und Gestaltungsfreir\u00e4ume.\n- Ein lockeres, sympathisches, kleines Team; Sozialer <span lang=\"en\">Spirit<\/span>.\n- Nette Teamevents, Duelle um Ruhm und Ehre bei den regelm\u00e4\u00dfigen <span lang=\"en\">Kickerevents<\/span> sowie direkte, ehrliche Kommunikation und Entscheidungen ohne Umwege.\n- Interessante und abwechslungsreiche Projekte aller Branchen."},"id":"f2a4d0e0-7591-4a20-af58-31e9494317ca","isHidden":false,"type":"text"}],"id":"0158c297-6b38-4cbe-b479-b21d581fca95","width":"1\/1"}],"id":"bf6340f2-146f-400d-8f3d-52da7a884475"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h3","text":"Interesse?","customid":"","customclass":""},"id":"f5a87720-fe3c-4910-bdab-596b960144d2","isHidden":false,"type":"heading"},{"content":{"text":"Bist du jetzt so hei\u00df, dass dir der Schokokeks sofort in der Hand schmilzt? \ud83d\ude09\nDas ist gut! Dann lass dein inneres Schokomonster raus und bewirb dich bei der SCHOKOLADENSEITE.net.\n\n**Wir freuen uns auf Deine vollst\u00e4ndige Bewerbung**\n- Lebenslauf\n- Zeugnissen\n- Gehaltsvorstellung\n- n\u00e4chstm\u00f6glicher Starttermin\n\nDeine Ansprechpartnerin: Andrea Christan"},"id":"caa055a1-0f13-444b-84b8-3c6e74653e9c","isHidden":false,"type":"text"}],"id":"aa31ebde-89ab-4e97-94a8-a805c7b710e7","width":"1\/1"}],"id":"64d22450-a33a-413c-8ce9-f47b4e6f3756"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":[],"id":"45dc5fc7-9326-4cc9-a7a3-af81a1e566dd","isHidden":false,"type":"bewerbung"}],"id":"86f148f9-043d-4813-a41b-d5523abe0134","width":"1\/1"}],"id":"1744b355-b63d-413e-80bf-55bd709ccd51"}]
+
+----
+
+Date: 2023-02-24 09:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Für unsere Onlineprojekte suchen wir (n:eine:n smarte:n Projektmanager:in x:eine smarte Projektmanagerin y:einen smarten Projektmanager xy:oder) mit einer breiten technischen Kompetenz und mit hohem Qualitätsanspruch.
+
+----
+
+Articleimage:
+
+- file://mQXbWno64zH55PwQ
+- file://BTolIyqibrZ8NXPl
+
+----
+
+Categories: Jobs
+
+----
+
+Text: 
+
+----
+
+Author: - zqFIebbN
+
+----
+
+Tags: 
+
+----
+
+Uuid: 6g5ylsVzSPYVOQie

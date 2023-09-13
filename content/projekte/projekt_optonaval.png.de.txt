@@ -1,0 +1,9 @@
+Alt: Smartphone-Bildschirm zeigt Bildauschnitt der Optonaval Website
+
+----
+
+Title: Smartphone
+
+----
+
+Template: files-upload

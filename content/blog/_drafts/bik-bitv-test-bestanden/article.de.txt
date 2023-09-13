@@ -1,0 +1,41 @@
+Title: BIK BITV-Test bestanden
+
+----
+
+Articleheader: Barrierefreiheit bestätigt
+
+----
+
+Intro: SCHOKOLADENSEITE.net hat den BIK BITV-Test erfolgreich bestanden. Die Barrierefreiheit unseres Internetauftritts wurde von einem renommierten <span lang="en">Accessibility Specialist</span> getestet und bestätigt.
+
+----
+
+Mp3: 
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Barrierefreiheit ist nicht erst seit der neuen **BITV 2.0** ein Thema - vor allem f\u00fcr Menschen, die z.B. wegen sensorischer Einschr\u00e4nkungen Probleme mit der Nutzung einer <span lang=\"en\">Website<\/span> haben.\n## Barrierefreiheit im Internet - was bedeutet das?\nAuf einer Webseite kann es eine Menge Hindernisse geben, die Menschen ohne Einschr\u00e4nkungen gar nicht wahrnehmen. Denn Sehbehinderte benutzen Hilfsmittel (z.B. <span lang=\"en\">Screenreader<\/span> und Lupenfunktion), die auf eine klare Strukturierung und barrierefreie Programmierung angewiesen sind. Solche Barrieren sind z.B.: \n- Grafiken und Bilder, die keine Beschreibung als ALT-Text hinterlegt haben, \n- un\u00fcbersichtliche Gestaltung,\n- fehlende Strukturierung, z.B. mit Zwischen\u00fcberschriften,\n- Verwendung von unterschiedlichen Schriftfarben, \n- geringer Kontrast von Hintergrund und Text,\n- nichtssagende Linktexte,\n- Nutzbarkeit nur mit der Maus ..."},"id":"7bf6bd35-1600-4bcf-b70b-1c169b9e9d9e","isHidden":false,"type":"text"}],"id":"dd6ec235-eb68-47c3-bafa-68cac6a78ca1","width":"1\/1"}],"id":"7e72d0ea-699c-4fca-a629-d99c8687acd2"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/5yYIF3YenYJExWRZ"]},"id":"cff9cb9a-1808-46a5-b4b8-790add4f6ccd","isHidden":false,"type":"blogimage"}],"id":"7c2f2e81-2923-4f10-80bd-8dfa94c8385d","width":"1\/1"}],"id":"9cb95cd6-2823-41a9-8683-3bde975f691a"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Positives Testergebnis f\u00fcr unsere Arbeit\nUm zu beweisen, dass auch eine moderne <span lang=\"en\">Website<\/span>, die eine Vielzahl von Gestaltungsmitteln verwendet, barrierefrei realisiert werden kann, haben wir unsere eigene SCHOKOLADENSEITE.net zum Test angemeldet. Der erfahrene, zertifizierte Pr\u00fcfer Marc Haunschild von (link: https:\/\/accessibility.consulting\/ text: Accessibility.Consulting target: _blank title: Externer Link, \u00f6ffnet in neuem Tab) hat dazu den BIK BITV-Test durchgef\u00fchrt. Was das ist?\n## BIK BITV? Hier kommt die AbK\u00fcrzErkl.!\nWer noch nie von diesen K\u00fcrzeln geh\u00f6rt hat, wird jetzt schlau gemacht: **BIK** steht f\u00fcr \"barrierefrei informieren und kommunizieren\". Aus dem gleichnamigen Projekt flossen Erkenntnisse in Testverfahren anhand der **BITV** - das ist die **Barrierefreie-Informationstechnik-Verordnung** (und dieser Name ist ja ziemlich selbsterkl\u00e4rend). Der BIK BITV-Test hat diese Verordnung zur Grundlage, wurde um 38 weitere Anforderungen, die die **EN 301 549** f\u00fcr Web-Inhalte formuliert, erg\u00e4nzt, und umfasst insgesamt (link: https:\/\/www.bitvtest.de\/bitv_test\/das_testverfahren_im_detail\/pruefschritte.html text: 98 Pr\u00fcfschritte target: _blank title: Externer Link, \u00f6ffnet in neuem Tab). \n## Das Barrierefreiheitsst\u00e4rkungsgesetz (BFSG) und der European Accessibility Act (EAA)\nDie Europ\u00e4ische Union sorgte mit dem European Accessibility Act (EAA) f\u00fcr eine einheitliche Vorgabe zur Barrierefreiheit, die in Deutschland als (link: https:\/\/www.bgbl.de\/xaver\/bgbl\/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl121s2970.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl121s2970.pdf%27%5D__1660209583789 text: Barrierefreiheitsst\u00e4rkungsgesetz (BFSG) target: _blank title: Externer Link, \u00f6ffnet in neuem Tab) 2021 beschlossen wurde. Es bezieht sich in erster Linie auf digitale Dienstleistungen und Produkte und wird am 28. Juni 2025 in Kraft treten. **Produkte** wie Computer, Smartphones oder Geldautomaten, aber auch **Dienstleistungen** wie Messenger, Apps und vor allem Onlineshops m\u00fcssen sp\u00e4testens ab dann den Vorgaben zur Barrierefreiheit entsprechen.\n## Barrierefreies <span lang=\"en\">Webdesign<\/span> - ab 2025 Pflicht\nF\u00fcr <span lang=\"en\">Websites<\/span> der Privatwirtschaft ist die Barrierefreiheit zwar bis dahin noch nicht Pflicht, wohl aber K\u00fcr, denn sie verbessert f\u00fcr alle (gender:Nutzer:innen x:Nutzerinnen y:Nutzer xy:und) die <span lang=\"en\">Usability<\/span> und auch das <span lang=\"en\">Ranking<\/span> (dar\u00fcber haben wir in einem anderen (link: https:\/\/schokoladenseite.net\/blog\/barrierefreiheit-im-internet text: Blogbeitrag target: _blank title: Zum Blogbeitrag \u00fcber Barrierefreiheit im Internet) schon berichtet). Und nat\u00fcrlich wird die **potenzielle Reichweite** um alle Menschen mit Einschr\u00e4nkungen erweitert (und das sind in Deutschland ca. 10 Prozent der Bev\u00f6lkerung). SCHOKOLADENSEITE.net bietet die **barrierefreie Optimierung** von bestehenden Webseiten an und ber\u00e4t ihre (gender:Kund:innen x:Kundinnen y:Kunden xy:und), worauf sie in Zukunft bei der barrierefreien Gestaltung des Webauftritts achten sollten. Daher freuen wir uns, dass SCHOKOLADENSEITE.net nun offiziell in die (link: https:\/\/www.bitvtest.de\/sites_und_agenturen\/empfehlenswerte_agenturen.html text: Liste der Agenturen target: _blank title: Externer Link, \u00f6ffnet in neuem Tab) aufgenommen wurde, die BITV-getestete <span lang=\"en\">Websites<\/span> entwickeln."},"id":"a576b064-ee69-4984-976f-45300091c605","isHidden":false,"type":"text"}],"id":"a80cc1b7-eff7-42b0-8a9d-05cab3860d58","width":"1\/1"}],"id":"57246342-05c3-4e91-9fb1-014a105c1788"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/W2Og0mHYo2v4hH6A"],"caption":"Wir optimieren bestehende Websites barrierefrei und beraten bei der Neuentwicklung, wie Barrierefreiheit gew\u00e4hrleistet werden kann.\n(link: barrierefreies-webdesign text: Barrierefreies Webdesign - Infos hier class: btn -primary)"},"id":"70fad241-9c15-4a54-9ee0-ab054bb41816","isHidden":false,"type":"cta"}],"id":"1c3d3a4c-047e-42ca-9280-ae4a692f781d","width":"1\/1"}],"id":"c0cf0292-614e-4c6a-a67e-51c6866813ff"}]
+
+----
+
+Date: 2022-08-02 00:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: SCHOKOLADENSEITE.net hat den BIK BITV-Test erfolgreich bestanden. Unsere Seiten sind also barrierefrei benutzbar. Worauf es dabei besonders ankommt? In unserem neuen SCHOKO-Blogbeitrag erfahren Sie mehr.
+
+----
+
+Articleimage: - file://2tVpb8SvDY8HN6yv
+
+----
+
+Categories: Technik, Programmierung, Webdesign
+
+----
+
+Uuid: vdL0BcMWEyq0b2VY

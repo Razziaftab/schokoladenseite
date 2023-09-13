@@ -1,0 +1,25 @@
+Alt: 4 Schreibtischplätze im Eingangsraum und ein Tischkicker
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Sort: 6
+
+----
+
+Uuid: gIxmk8I8JMSSq0j2

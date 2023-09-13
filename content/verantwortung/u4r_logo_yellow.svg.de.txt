@@ -1,0 +1,13 @@
+Alt: United4Rescue Logo
+
+----
+
+Title: United4Rescue
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: kUFN1CpCmC3Ad41K

@@ -1,0 +1,41 @@
+Title: DSGVO: Blog mit Kommentarfunktion
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://UIhe36VyUgq37kM3
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Betreiben Sie einen <span lang=\"en\">Blog<\/span> mit Kommentarfunktion? Hier gilt dasselbe wie bei (link: blog\/dsgvo-kontaktformular-bzw-formulare text: Formularen title: Zum Blogbeitrag DSGVO: Kontaktformular bzw. Formulare). Die Daten\u00fcbertragung muss (link: blog\/dsgvo-ssl-zertifikat text: SSL-gesichert title: Zum Blogbeitrag DSGVO: SSL-Zertifikat) erfolgen. Au\u00dferdem  sollte vorsichtshalber eine Erlaubnis eingeholt werden zum  Erfassen, Speichern und Verarbeiten der Daten.\n\n## Es gibt hier zwei weitere Punkte zu beachten"},"id":"0bdf1f3b-cdd6-41d5-8184-066a0c9bfb55","isHidden":false,"type":"text"}],"id":"beaabff9-433f-4edc-96be-d355ab3c36f7","width":"1\/1"}],"id":"925c5125-1766-46df-af8f-3d94cebe009e"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h3","text":"IP-Adressen","customid":"","customclass":""},"id":"2d303325-2a5d-43cb-a76d-26056b1126c1","isHidden":false,"type":"heading"},{"content":{"text":"Beim Absenden von Kommentaren speichert <span lang=\"en\">WordPress<\/span> normalerweise die IP Adresse (n:der\/des Nutzer:in x:der Nutzerin y:des Nutzers) mit.\n\nDas kann auch sinnvoll sein, um Missbrauch nachverfolgen zu k\u00f6nnen. Man k\u00f6nnte aber auch auf das Speichern der IP verzichten, indem man einen Kommentar erst nach \u00dcberpr\u00fcfung durch die Redaktion frei gibt.\n\n**TIPP** f\u00fcr <span lang=\"en\">WordPress<\/span>-(n:Nutzer:innen x:Nutzerinnen y:Nutzer) (advanced):\n\n1. Manuelles Einf\u00fcgen von <span lang=\"en\">Code<\/span>schnipsel in die functions.php\n2. Nutzung eines <span lang=\"en\">Plugins<\/span>, z.B. <span lang=\"en\">Remove IP<\/span> (link: https:\/\/de.wordpress.org\/plugins\/remove-ip\/ target:_blank title: Externer Link (\u00f6ffnet im neuen Tab)) (Achtung, seit l\u00e4ngerer Zeit keine <span lang=\"en\">Updates<\/span> vorhanden).\n3. Abwarten, ob <span lang=\"en\">WordPress<\/span> nicht bald mit einer internen L\u00f6sung nachzieht.\n\n**Achtung, alte IPs l\u00f6schen!**: Bereits gespeicherte IP Adressen m\u00fcssen manuell aus der Datenbank gel\u00f6scht werden."},"id":"0d2d3e4f-3417-4c99-823c-1eb20af91c60","isHidden":false,"type":"text"}],"id":"95e94d5e-6f02-4a70-b7e8-3f4bec409126","width":"1\/1"}],"id":"add5ad0a-ae05-4b47-beea-ba958559aba7"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h3","text":"2. Gravatar","customid":"","customclass":""},"id":"5c6d2a5d-816f-42f8-9052-41b87f21387c","isHidden":false,"type":"heading"},{"content":{"text":"F\u00fcr eigene Autorenboxen oder um bei einem Kommentar ein dazugeh\u00f6riges Profilbild (Avatar) anzuzeigen, nutzt <span lang=\"en\">WordPress<\/span> \u201cGravatar\u201d.\n\nHierbei wird die (gender:User:innen x:Userinnen y:User xy:oder)-E-Mail-Adresse verschl\u00fcsselt an <span lang=\"en\">Gravatar<\/span> \u00fcbertragen, um zu pr\u00fcfen, ob es ein dazugeh\u00f6riges Bild gibt.\n\nDiese Funktion l\u00e4sst sich wie folgt deaktivieren: Einstellungen > Diskussion > Zeige Avatare\n\nWenn man diese Funktion weiterhin nutzen m\u00f6chte (z.B. f\u00fcr die eigenen (n:Autor:innen x:Autorinnen y:Autoren)), dann muss daran gedacht werden, einen entsprechenden Datenschutzpassus in die Datenschutzerkl\u00e4rung aufzunehmen."},"id":"2a1d9be1-d852-4649-995b-ae4455be70dc","isHidden":false,"type":"text"}],"id":"9db4b869-f7f1-461e-9a81-45a94fa1292b","width":"1\/1"}],"id":"46d014df-cece-4505-a1ac-1aae32428476"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"5707e93c-923d-422a-b71e-41e1331dc2fb","isHidden":false,"type":"kontaktform"}],"id":"d5745a59-2376-43e0-8951-e30434560c77","width":"1\/1"}],"id":"73f409ac-649b-4015-aec9-443939bf43c2"}]
+
+----
+
+Date: 2018-04-03 17:50:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Betreiben Sie einen Blog mit Kommentarfunktion? Hier gilt dasselbe wie bei Formularen.
+
+----
+
+Articleimage: - file://p995BWWXlbG6jFzI
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: PJHk9rfBsY67DmCJ

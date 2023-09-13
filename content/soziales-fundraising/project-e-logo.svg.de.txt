@@ -1,0 +1,9 @@
+Alt: Project-E Logo
+
+----
+
+Title: Project-E
+
+----
+
+Template: blocks/image

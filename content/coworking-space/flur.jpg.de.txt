@@ -1,0 +1,21 @@
+Alt: 
+
+----
+
+Title: 
+
+----
+
+Caption: Flur mit Garderobe
+
+----
+
+Template: galerie
+
+----
+
+Sort: 8
+
+----
+
+Uuid: gngtJEmcKKF3hmzp

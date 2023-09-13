@@ -1,0 +1,9 @@
+<p>Firma: <?= $firma ?></p>
+<p>Ansprechpartner: <?= $sender ?></p>
+<p>E-Mail: <?= $email ?></p>
+<p>Telefon: <?= $tel ?></p>
+<p>Website 1: <?= $website1 ?></p>
+<p>Website 2: <?= $website2 ?></p>
+<p>Website 3: <?= $website3 ?></p>
+<p>Website 4: <?= $website4 ?></p>
+<p>Mitteilung: <?= $text ?></p>

@@ -1,0 +1,21 @@
+Alt: chocfair cal - Digitaler Adventskalender - Beispiel Türchenansicht Screenshot
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: mvfrD3l54o7mBWvQ

@@ -1,0 +1,49 @@
+Title: SCHOKOLADENSEITE.net mit dem DigitalService für ein digitales Deutschland
+
+----
+
+Articleheader: <span lang="en">DigitalService4Germany</span> beauftragt SCHOKOLADENSEITE.net mit <span lang="en">Webrelaunch</span>
+
+----
+
+Intro: Die zentrale Digitalisierungseinheit des Bundes - der <span lang="en">DigitalService</span> - investiert in seine digitalen Strukturen. Die Hamburger Onlineagentur SCHOKOLADENSEITE.net überzeugte durch ihre Spezialisierung im Bereich des <span lang="en">Kirby Content Management Systems</span> und erhält den Auftrag für den <span lang="en">Webrelaunch</span>.
+
+----
+
+Image-ai-text: 
+
+----
+
+Mp3: - file://PzHXpjtkf76YKKh1
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Die neue <span lang=\"en\">Website<\/span> ist bereits <span lang=\"en\">online<\/span> unter <a href=\"https:\/\/digitalservice.bund.de\/\" target=\"_blank\" title=\"Externer Link zur Seite vom Digital Service (\u00f6ffnet im neuen Tab)\">digitalservice.bund.de<\/a>."},"id":"157013d4-f2a2-470a-82c2-1a300754e30d","isHidden":false,"type":"text"},{"content":{"image":["file:\/\/hqqkTf73D9NpQhqW"],"caption":"","customclass":""},"id":"a74b6ff4-1136-4038-952f-b9b836621480","isHidden":false,"type":"blogimage"}],"id":"930da472-98e1-419d-bf30-331c4947e390","width":"1\/1"}],"id":"e7054172-e1b2-43a5-9d3c-fbb108d40678"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Der <span lang=\"en\">DigitalService<\/span> verfolgt mit dem <span lang=\"en\">Relaunch<\/span> mehrere Ziele. Ganz oben auf der Agenda steht ein Maximum an Transparenz \u00fcber die Arbeit der Digitalagentur der Bundesverwaltung: wie und woran arbeitet der DigitalService, wie sieht seine strategische Ausrichtung aus, wie die Zusammenarbeit mit den Ministerien. Dar\u00fcber hinaus soll die neue Webseite die Arbeitgebermarke unterst\u00fctzen und dem DigitalService helfen, hoch begehrte Fachprofile - allen voran Software-(gender:Entwickler:innen x:Entwicklerinnen y:Entwickler xy:und), (gender:Designer:innen x:Designerinnen y:Designer xy:und) und (gender:Produktmanager:innen x:Produktmanagerinnen y:Produktmanager xy:und) f\u00fcr die Arbeit am digitalen Staat zu gewinnen.  \n\nAls zentrale Digitalisierungseinheit des Bundes hat es sich der <span lang=\"en\">DigitalService<\/span> zur Aufgabe gemacht, die Digitalisierung Deutschlands nachhaltig voranzutreiben und agile Software-Entwicklung sowie nutzerzentriertes Arbeiten in der \u00f6ffentlichen Verwaltung als Standard zu etablieren.\n\nDazu baut der <span lang=\"en\">DigitalService<\/span> mit interdisziplin\u00e4ren Teams interne Entwicklungs- und Methodenkompetenz f\u00fcr den Bund auf. Gemeinsam mit der Bundesverwaltung entwickelt er eigene digitale Anwendungen, die die Bed\u00fcrfnisse der (gender:B\u00fcrger:innen x:B\u00fcrgerinnen y:B\u00fcrger xy:und) konsequent in den Mittelpunkt stellen. \u00dcber die Fellowship-Programme <span lang=\"en\">Tech4Germany<\/span> und <span lang=\"en\">Work4Germany<\/span> bringt die <span lang=\"en\">Inhouse<\/span>-Einheit externe Digital- und (gender:Ver\u00e4nderungsexpert:innen x:Ver\u00e4nderungsexpertinnen y:Ver\u00e4nderungsexperten xy:und) f\u00fcr mehrere Monate in die Bundesministerien, um die Vorteile neuer Arbeitsmethoden erlebbar zu machen und die Umsetzung von Digitalisierungsvorhaben zu verbessern.\n\nSCHOKOLADENSEITE.net hat das neue <span lang=\"en\">Corporate Design<\/span> des <span lang=\"en\">DigitalService<\/span>      technisch umgesetzt, um f\u00fcr die <span lang=\"en\">(gender:User:innen x:Userinnen y:User xy:und)<\/span> das Benutzererlebnis zu verbessern. Der gesamte Webauftritt besticht durch ein frisches und modernes Design. Themen wie Blogbeitr\u00e4ge oder auch Jobangebote sind optisch in den Mittelpunkt ger\u00fcckt. Insbesondere die Nutzung des CM-Systems Kirby erleichtert den (gender:Redakteur:innen x:Redakteurinnen y:Redakteuren xy:und) des <span lang=\"en\">DigitalService<\/span> die Bearbeitung ihrer neuen Seiten."},"id":"f2047209-e6c6-42c8-a539-17eee4b45295","isHidden":false,"type":"text"}],"id":"a30ee928-9aa7-4a3c-a637-0155254c90e3","width":"1\/1"}],"id":"6d52c1cb-a475-4270-84df-2bd219c39de0"},{"attrs":{"toggle":"false","layoutclass":"quote"},"columns":[{"blocks":[{"content":{"text":"> **Wir hatten f\u00fcr den <span lang=\"en\">Relaunch<\/span> einen sehr ambitionierten Zeitplan. Umso mehr haben uns Geschwindigkeit und Professionalit\u00e4t der Umsetzung beeindruckt.**\nPamela Krosta-Hartl, <span lang=\"en\">Head of Communications<\/span>, <span lang=\"en\">DigitalService<\/span>"},"id":"995c37cd-bde3-4d49-a25e-ba9fab0941f1","isHidden":false,"type":"text"}],"id":"803496a5-5d78-4d3d-a228-9af2c587aab5","width":"1\/1"}],"id":"3f3694f5-7302-4932-946a-edae52593ed8"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/0dMzuMYiXihJeJIr","file:\/\/Apr4TTidd89yKKM3"],"caption":"","customclass":""},"id":"881f8864-e753-4c0e-894a-6c0c0bf01044","isHidden":false,"type":"blogimage"}],"id":"3c7ee294-2743-4ded-b95b-697f8cd60047","width":"1\/1"}],"id":"94088df3-1b9e-4ee9-8b6f-9ecea1c76a5f"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"**Barrierefreiheit? Check. Responsivit\u00e4t? Check.**\n\nEin ganz wichtiger Punkt bei dem Webrelaunch war die technische Sicherstellung der Barrierefreiheit. Alle Websites sollten allen (gender:User:innen x:Userinnen y:User xy:und), ungeachtet ihres Alters, der technischen Voraussetzungen oder Einschr\u00e4nkungen, bestm\u00f6glich zug\u00e4nglich sein. Selbstverst\u00e4ndlich hat SCHOKOLADENSEITE.net alle Seiten barrierefrei und top responsiv umgesetzt sowie f\u00fcr mobile Endger\u00e4te optimiert. \n\nDie technische Umsetzung wurde von SCHOKOLADENSEITE.net innerhalb von nur zwei Monaten in enger Zusammenarbeit mit dem <span lang=\"en\">DigitalService<\/span>-Team realisiert. SCHOKOLADENSEITE.net freut sich dar\u00fcber, dass sie einen Beitrag dazu leisten konnte, die Digitalisierung in Deutschland mit voranzutreiben."},"id":"cedc5992-7f2e-45b4-9958-3697481347f9","isHidden":false,"type":"text"}],"id":"a517b10e-8f53-4de9-9ea1-35843232caba","width":"1\/1"}],"id":"d85f8597-7b31-4eeb-8c9e-69e927b09776"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/04kiy24EjPbbxenJ","file:\/\/X3PMzfQXeQxPvaxM"],"caption":"","customclass":""},"id":"505b4170-474c-4c6f-aed2-bc96bf325fa2","isHidden":false,"type":"blogimage"}],"id":"cc36ee3d-ac57-499e-ac24-25409e1989b1","width":"1\/1"}],"id":"d663004e-8d11-4f86-bb67-95527ba941c0"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"** F\u00fcr die <span lang=\"en\">Online<\/span>-Geschichtsb\u00fccher sei festgehalten: 100% - Besser geht\u2019s nicht :D**"},"id":"68bfa56a-7d63-4825-8c85-a04329a48cd0","isHidden":false,"type":"text"}],"id":"e241a786-2e97-4346-9843-7e474e4563fa","width":"1\/1"}],"id":"380c3a03-3a5c-4c0d-b502-02c2eb4a3503"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/UuXl4Dj0SRq8Okyb"],"caption":"","customclass":""},"id":"b19e8df0-ee51-4c92-abb1-4f8ecfc7b5e4","isHidden":false,"type":"blogimage"}],"id":"bb690428-c0b9-46cb-aec5-1abbf84f8f21","width":"1\/1"}],"id":"2da345ad-0a6e-49c4-9cee-73d550ef91f6"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/DMacDqRPWcPeJbTa"],"caption":"","customclass":""},"id":"c73d8f5b-7667-4a28-ad7a-bcc5241a06fa","isHidden":false,"type":"blogimage"}],"id":"ae0653da-9700-4d23-8962-2895e5007444","width":"1\/1"}],"id":"a8e3292f-e4f7-4748-9e03-faffd739fd4d"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/9bnZNQ9Ya99r31ik","file:\/\/W6Dyl3vPSHYlAfVj"],"caption":"Sind Sie auch auf der Suche nach einer professionellen Onlineagentur, die Ihnen bei Ihrem Kirby-Projekt hilft? Sprechen Sie uns an!\n\n(link: kirby-cms text: Zur Leistung Kirby-CMS class: btn -primary)"},"id":"96a62d14-c1fd-4d30-abbf-875304ca2859","isHidden":false,"type":"cta"}],"id":"1c38753b-f786-4e87-8bf3-633fae4ee643","width":"1\/1"}],"id":"9d4d1c72-652d-465b-a6ec-91c73f5c884a"}]
+
+----
+
+Date: 2022-05-10 10:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Die zentrale Digitalisierungseinheit des Bundes - der DigitalService - investiert in seine digitalen Strukturen. Die Hamburger Onlineagentur SCHOKOLADENSEITE.net überzeugte durch ihre Spezialisierung im Bereich des Kirby Content Management Systems und erhält den Auftrag für den Webrelaunch.
+
+----
+
+Seodescription: 
+
+----
+
+Articleimage: - file://eMwI3LZjKwVM4cBK
+
+----
+
+Categories: Agentur, Barrierefreiheit
+
+----
+
+Uuid: zu7BIi4PWbZbNaY1

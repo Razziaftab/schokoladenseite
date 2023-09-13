@@ -1,0 +1,21 @@
+Alt: Ein Laptop zeigt HTML-Code und ein Tablet zeigt die Website von SCHOKOLADENSEITE.net
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: files-upload
+
+----
+
+Uuid: juEnpIYFtrQ8NNv5

@@ -1,0 +1,41 @@
+Title: DSGVO: Newsletter
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://eVdDzbj9LWg76uw4
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wer einen <span lang=\"en\">Newsletter<\/span> versendet, hat einiges zu beachten","customid":"","customclass":""},"id":"cc2f9c5c-b8ab-46fd-9cac-3765f1215da6","isHidden":false,"type":"heading"},{"content":{"text":"### ADV (Auftragsdatenverarbeitung)\nWenn der <span lang=\"en\">Newsletter<\/span> \u00fcber einen externen Dienst versendet wird (z.B. <span lang=\"en\">MailChimp<\/span>), dann muss ein ADV-Vertrag mit dem Dienstleister geschlossen werden.\nDie gro\u00dfen Dienstleister haben dazu meistens schon Vorlagen und L\u00f6sungen.\n\nEinfach <span lang=\"en\">Mailchimp-Usernamen<\/span> und E-Mail eintragen sowie weitere Firmeninfos. Sie m\u00fcssen vertretungsberechtigt sein. Ein Vertrag wird digital generiert. Diesen k\u00f6nnen Sie auch digital mit Acrobat unterschreiben und zur\u00fccksenden an legal(at)mailchimp.com.\n\n<span lang=\"en\">\u201cPer your request, below is the data processing agreement for German customers processing data on behalf of EU\/EEA and Swiss individuals. If you wish to accept the agreement, please click here to print and return a countersigned copy of the agreement to us via email at legal(at)mailchimp.com.\nWhen you sign the agreement, please include the date below your signature. The date must be the date you actually sign the agreement.\nWhen you email us the signed agreement, **please provide your MailChimp username in your message**.\u201d<\/span>\n\n### Gibt es eine <span lang=\"en\">Newslette<\/span>r-Abo Maske?\n**Hier gilt:**\n- es muss die (link: blog\/dsgvo-datenschutzerklaerung-anpassen text: Datenschutzerkl\u00e4rung title: Zum Blogbeitrag DSGVO: Datenschutzerkl\u00e4rung anpassen) entsprechend angepasst werden\n- der Versand der E-Mail bei einem Abo muss (link: blog\/dsgvo-ssl-zertifikat text: SSL-verschl\u00fcsselt title: Zum Blogbeitrag DSGVO: SSL-Zertifikat) erfolgen\n- es ist neben dem bereits bekannten DOI (<span lang=\"en\">Double Opt-In<\/span>) eine explizite (link: blog\/dsgvo-kontaktformular-bzw-formulare text: Einwilligung title: Zum Blogbeitrag DSGVO: Kontaktformular bzw. Formulare) f\u00fcr die \u00dcbertragung, Speicherung und Verarbeitung der Daten erforderlich \u2013 per <span lang=\"en\">Checkbox<\/span>.\n\nEinwilligungen von (n:Nutzer:innen x:Nutzerinnen y:Nutzern), z.B. zum <span lang=\"en\">Newsletter<\/span>-Versand, die bereits nach altem Recht wirksam eingeholt wurden (<span lang=\"en\">double opt-in<\/span>), gelten grunds\u00e4tzlich weiter.\n\n**Ausnahmen:**\n- Koppelungsverbot bei alten Einwilligungen nicht beachtet\n- Einwilligungen durch Minderj\u00e4hrige\n\n### Was ist mit neuen Newsletter-Aktionen oder Preisausschreiben?\nWenn keine gesetzliche Erlaubnis zum Speichern\/\u00dcbertragen von Daten vorhanden ist, wird immer eine Einwilligung ben\u00f6tigt.\n\nAuch unter der DSGVO sollte das \"<span lang=\"en\">double opt-in<\/span>\"-Prinzip beachtet werden, um die Einwilligung im Zweifel auch nachweisen zu k\u00f6nnen. Die Einwilligung muss in jedem Fall elektronisch dokumentiert werden.\n\nDie Einwilligung muss dabei \u201efreiwillig\u201c erfolgen: Echtes Koppelungsverbot in Art. 7 Abs.4 DSGVO.\n\nIn der Regel gilt: Keine Daten gegen Inhalte (z.B. E-Books, Gewinnspiele, Checklisten) und keine Koppelung von <span lang=\"en\">Newsletter<\/span>-Versand an Vertragsschluss."},"id":"844a462c-69ba-4389-9cda-fd252278c001","isHidden":false,"type":"text"}],"id":"43d7236d-09cf-4b37-9a45-08c8b9166b49","width":"1\/1"}],"id":"d5f5183b-94fc-4d7d-8a35-ac14a3767b60"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"4e2ccf7f-9d99-4f8d-9c2a-b5937eb9ff33","isHidden":false,"type":"kontaktform"}],"id":"d7eb1c65-a19b-44be-be54-8f5878d886d6","width":"1\/1"}],"id":"a34c7da2-16ca-4145-89c5-65d4a1cb2be1"}]
+
+----
+
+Date: 2018-04-03 18:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Wer einen Newsletter versendet, hat in Zukunft einiges zu beachten.
+
+----
+
+Articleimage: - file://BdulyN2DcqeMhuBz
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: Ne09ScVFHndgrul5

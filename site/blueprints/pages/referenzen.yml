@@ -1,0 +1,73 @@
+title: Referenzen
+options:
+  changeTemplate:
+    - default
+    - referenzen
+tabs:
+  content:
+    label: Seiteninhalte
+    icon: text
+    fields:
+      h1:
+        label: Überschrift H1
+        type: text
+      referenzen:
+        label: Referenzen
+        type: structure
+        fields:
+          headline:
+            label: Überschrift
+            type: text
+          text:
+            label: Text
+            type: markdown
+            buttons:
+              - bold
+              - divider
+              - link
+              - pagelink
+              - divider
+              - gender
+              - lang
+          cms:
+            label: CMS
+            type: pages
+            query: site.index.filterBy('intendedTemplate','cms')
+            max: 1
+          website:
+            label: Verlinkung
+            type: text
+          zuordnung:
+            label: Zuordnung
+            type: tags
+            options:
+              cms: CMS
+              webdesign: Webdesign
+              shop: Online-Shop
+              newsletter: Newsletter
+          imagealt:
+            label: Bilder
+            type: files
+            layout: cards
+            query: page.images
+          images:
+            label: Bilder png (ignorieren)
+            type: hidden
+            layout: cards
+            query: page.images
+            uploads: png
+          imagessmall:
+            label: Bilder webp (ignorieren)
+            type: hidden
+            layout: cards
+            query: page.images
+            uploads: webp
+          ausblenden:
+            label: Ausblenden
+            type: toggle
+            text:
+              - Einblenden
+              - Ausblenden
+  seo: tabs/seo
+  pages: tabs/pages
+  Dateien: tabs/dateien

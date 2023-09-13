@@ -1,0 +1,29 @@
+Title: In der Weihnachtsbäckerei - Heiße Schokolade
+
+----
+
+Seodescription: Mitgebracht von Andrea aus Nicaragua. Macht leider süchtig. Istso. Fragen Sie mal unsere Kollegen Jonas und Christian
+
+----
+
+Image: - 20.jpg
+
+----
+
+Door: 20
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **In der Weihnachtsb\u00e4ckerei - Hei\u00dfe Schokolade**\n\nDie (n:Kundschafter:innen x:Kundschafterinnen y:Kundschafter) der SCHOKOLADENSEITE.net sind auf der ganzen Welt unterwegs, um sich Ideen f\u00fcr die Schokoladenseiten unserer (n:Kund:innen x:Kundinnen y:Kunden) zu holen. Als Beifang landen auch immer wieder richtig leckere Schoko-Rezepte im B\u00fcro, die nat\u00fcrlich ausgiebig getestet werden. So k\u00f6nnen wir hiermit stolz das Rezept f\u00fcr die Leckerste Trinkschokolade der Welt (LTW) verk\u00fcnden. Mitgebracht von Andrea aus Nicaragua. Macht leider s\u00fcchtig. Istso. Fragen Sie mal unsere Kollegen Jonas und Christian 2!\n\n**Zutaten pro Tasse:**\n- etwa 2 Essl\u00f6ffel hochwertiger Rohkakao (100% pur)\n- Wasser\n- ein Schuss Rosenwasser (optional)\n- ein EL Erdnussbutter\n- ein EL Kokos\u00f6l\n- 1-2 EL Honig zum S\u00fc\u00dfen\n- optional Kakaonibs zur Dekoration\n\n**Je nach Tageslaune und Gef\u00fchl k\u00f6nnen diese Gew\u00fcrze kombiniert werden:**\n- Samen aus ca. 1-2 Kardamom-Kapseln\n- eine Prise Zimt\n- eine Prise Pfeffer\n- eine Prise Chili\n- eine Prise Bourbon-Vanille (gemahlen)\n- eine Prise Nelken\n- eine Prise Ingwerpulver\n\n**Anleitung**\n\nDen Kakao vom Kakaoblock mit einem Messer abtrennen und kleinhacken. \nIm Wasserbad schmelzen und mit einem Holzl\u00f6ffel umr\u00fchren.\nGew\u00fcrze hinzuf\u00fcgen.\nBen\u00f6tigte Wassermenge mit der Tasse abmessen und kochen.\nWasser zur gew\u00fcrzten Kakaomasse hinzugeben und verr\u00fchren.\nEvtl. noch Rosenwasser hinzuf\u00fcgen.\n\nEinen Mixer vorbereiten und Kokos\u00f6l hineingeben. Kakaogemisch hinzuf\u00fcgen. Erdnussbutter hinzugeben. Alles ordentlich auf h\u00f6chster Stufe durchmixen, damit der Kakao sch\u00f6n cremig wird. In die Tasse einf\u00fcllen, etwas abk\u00fchlen lassen und dann noch den Honig einr\u00fchren.\n\nNach Belieben k\u00f6nnen zur Dekoration auch noch ein paar Kakaonibs draufgestreut werden. \n\n**Lecker!**\n\nthx to Mage for sharing \u2764"},"id":"b99fc54e-e229-4a16-937e-4835f71a3610","isHidden":false,"type":"text"}],"id":"c384ee7f-204b-4883-9e73-daff76ce7980","width":"1\/1"}],"id":"2a973bdb-34b9-410e-bce7-1594b6770e16"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: wUpqWAZu4SoODdt7

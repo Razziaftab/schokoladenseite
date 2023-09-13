@@ -1,0 +1,13 @@
+Alt: WordPress Logo
+
+----
+
+Title: WordPress Logo
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: MLCcXIAcZqildYtK

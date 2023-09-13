@@ -1,0 +1,21 @@
+Alt: Eine Person schreibt auf einer Computertastatur. Sie trägt ein schwarzes T-Shirt mit dem WordPress-Logo und eine schwarze Armbanduhr. Im Vordergrund steht ein weißer Kaffeebecher.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: CqBGwRo8f35vadWf
+
+----
+
+Template: blocks/image

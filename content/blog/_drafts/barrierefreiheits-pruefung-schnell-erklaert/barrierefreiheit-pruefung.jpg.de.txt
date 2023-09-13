@@ -1,0 +1,21 @@
+Alt: Ausschnitt der Anzeige eines Computerbildschirms. Darauf sind mehrere Felder einer Webdesign-Software zu sehen, u. a. mit verschiedenen Farbfeldern und Schriftarten.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: Qley6Ej1lUJwBMm1
+
+----
+
+Template: blocks/image

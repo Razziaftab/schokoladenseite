@@ -1,0 +1,21 @@
+Alt: Ein orangefarbener Rettungsring hängt an einer hellgrauen Wand. Daneben hängt ein Verbotsschild mit der Aufschrift Nao mergulhar - No diving.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: jfsJ9bzuQ1VU15On

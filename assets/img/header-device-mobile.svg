@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="350.18" height="385.501" viewBox="0 0 350.18 385.501">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f1f1f1"/>
+      <stop offset="1" stop-color="#e8e8e8"/>
+    </linearGradient>
+  </defs>
+  <g id="header-device-mobile" transform="translate(-9917 -224.5)">
+    <rect id="Rechteck_40" data-name="Rechteck 40" width="328" height="351" transform="translate(9929 259)" fill="url(#linear-gradient)"/>
+    <path id="Differenzmenge_1" data-name="Differenzmenge 1" d="M501.764,385.5H490.9V61.8a22.8,22.8,0,0,0-22.773-22.773H193.3A22.8,22.8,0,0,0,170.527,61.8V385.5H159.451V208.265h-.621a3.882,3.882,0,0,1-3.83-3.83v-29.5a3.882,3.882,0,0,1,3.83-3.83h.621V31.364A31.4,31.4,0,0,1,190.815,0H470.4a31.4,31.4,0,0,1,31.364,31.364v100.82a4.074,4.074,0,0,1,3.416,3.83V243.459a3.83,3.83,0,0,1-3.416,3.83V385.5Z" transform="translate(9762 224.5)" fill="#3e3e3e"/>
+  </g>
+</svg>

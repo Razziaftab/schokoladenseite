@@ -1,0 +1,21 @@
+Alt: Ein Bildausschnitt eines Computerbildschirms zeigt auf einem dunklen Hintergrund Teile eines Webseiten-Codes.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: W2Og0mHYo2v4hH6A

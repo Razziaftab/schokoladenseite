@@ -1,0 +1,41 @@
+Title: Juchhuuu, endlich neu und jetzt auch gendergerecht: SCHOKOLADENSEITE.net
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://FBe3EzybwU52f1SZ
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Die SCHOKOLADENSEITE.net hat einen neuen Anstrich bekommen","customid":"","customclass":""},"id":"0139ca80-1602-4344-953f-d01fcbc37b14","isHidden":false,"type":"heading"},{"content":{"text":"Endlich ist es so weit: Tadaaa, Tusch und Trommelwirbel \u2013 die neue <span lang=\"en\">Website<\/span> der besten Internetagentur aus Hamburg ist fertig <span aria-hidden=\"true\">\ud83d\ude09<\/span>\n\nNeben ein paar optischen Neuerungen haben wir auch die <span lang=\"en\">Usability<\/span> verbessert, damit Sie noch schneller zu den gew\u00fcnschten Informationen finden.\n\nWir haben als moderne Internetagentur das Ziel, Ver\u00e4nderungen zu erm\u00f6glichen und mitzugestalten. Am besten gelingt das, wenn man in der Planung immer schon einen Schritt weiter denkt und agil auf neue Entwicklungen reagieren kann. Wir finden, dass uns das bei der Neugestaltung unserer eigenen <span lang=\"en\">Website<\/span> auch besonders gut gelungen ist.\n\nDaneben bleiben die Themen Nachhaltigkeit und unternehmerische Verantwortung f\u00fcr uns ganz weit oben auf der Agenda. Diese leben wir selbst und unterst\u00fctzen sehr gerne auch unsere (n:Kund:innen x:Kundinnen y:Kunden) dabei. (link: verantwortung text: Mehr dazu finden Sie in dem Bereich Verantwortung)."},"id":"7fc229f0-a3ae-4964-a51b-ad6ebef8807f","isHidden":false,"type":"text"}],"id":"37521f0c-0258-4ffa-a01d-96a7818b6a3e","width":"1\/1"}],"id":"3575f802-dac9-4b59-9ac1-5fb3725677c7"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/j1QXYNzDXBlJxn4f"]},"id":"1669b501-7b41-4982-ba1d-4d00ef41eeb2","isHidden":false,"type":"blogimage"}],"id":"a8add86c-33cd-43dc-8c33-46689222af1c","width":"1\/3"},{"blocks":[{"content":{"preh1":"","level":"h2","text":"<span lang=\"en\">Gender selector<\/span>","customid":"","customclass":""},"id":"10008484-ff8f-44ac-b3ea-3ec86a929bf2","isHidden":false,"type":"heading"},{"content":{"text":"Besonders am (Schokoladen-)Herzen liegt uns unser neuer und selbst entwickelter <span lang=\"en\">Gender Selector<\/span>. Mit einem einfachen Mausklick ver\u00e4ndert sich der Webseiten-Text von der inklusiven Form (gerecht) zu einer Variante, in der nur weibliche oder m\u00e4nnliche Formen verwendet werden. Die (n:Benutzer:innen x:Benutzerinnen y:Benutzer) k\u00f6nnen selbst w\u00e4hlen!\n\nKleine Ursache, gro\u00dfe Wirkung: mit unserem neuen <span lang=\"en\">Tool<\/span> k\u00f6nnen die (n:Benutzer:innen x:Benutzerinnen y:Benutzer) der SCHOKOLADENSEITE.net selbst ausw\u00e4hlen, in welcher <span lang=\"en\">Gender<\/span>-Form ihnen die Texte angezeigt werden. <span lang=\"en\">Yay<\/span>!"},"id":"c04b9528-2e2a-4070-8042-8f43fb6b2e34","isHidden":false,"type":"text"}],"id":"0b9adca0-ac92-4585-9245-c34ada032dba","width":"2\/3"}],"id":"78c1eba3-b358-413e-bbb3-932f4849ccb8"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/WUTPeUnZQpG3qJf7"]},"id":"149c1214-5bec-46c5-95f4-69aebeb85126","isHidden":false,"type":"blogimage"}],"id":"2184fdd9-c7b1-4a7f-9399-c7ae518f144b","width":"1\/3"},{"blocks":[{"content":{"preh1":"","level":"h2","text":"Offizielle Agentur f\u00fcr go-digital","customid":"","customclass":""},"id":"4f403e56-b506-4c70-a2aa-7cdb9f3cc0f3","isHidden":false,"type":"heading"},{"content":{"text":"50% staatliche F\u00f6rderung f\u00fcr Ihr Digitalprojekt mit dem F\u00f6rderprogramm namens go-digital.\nDie SCHOKOLADENSEITE.net ist ein zertifizierter Partner dieses Programms und bietet Klein- und mittelst\u00e4ndischen Unternehmen Planung und Realisierung von <span lang=\"en\">Onlinemarketing<\/span>-Projekten.\n\n(link: go-digital-foerderung text: Zur Infoseite zur go-digital F\u00f6rderung class: btn -primary)"},"id":"be59c4e5-63ba-4162-a2c8-f5c1e5c5a2d6","isHidden":false,"type":"text"}],"id":"a26b9302-24de-430f-b24a-ec1cd50b86a1","width":"2\/3"}],"id":"11675a4a-22d1-4029-88d3-e477d483da1c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Sie sitzen in der 1. Reihe","customid":"","customclass":""},"id":"e4d27426-e6e3-438b-b9b1-9e2c1224cc32","isHidden":false,"type":"heading"},{"content":{"text":"Und jetzt sind Sie dran: nehmen Sie auf dem Sofa Platz und gucken sich die neue SCHOKOLADENSEITE.net doch mal in aller Ruhe an. Wir servieren vielleicht auch ein paar Schnittchen. <span aria-hidden=\"true\">\ud83d\ude09<\/span>\n\nWie gef\u00e4llt Ihnen der neue <span lang=\"en\">Look<\/span>? Was halten Sie von unserem <span lang=\"en\">Gender Selector<\/span>? M\u00f6chten Sie vielleicht auch direkt einen haben?\n\nWir freuen uns \u00fcber Lob und Kritik.\n\n(link: kontakt text: Schreiben Sie uns hier title: Zum Kontaktformular)"},"id":"b420f828-a275-497b-9e70-4bcd44a4f972","isHidden":false,"type":"text"}],"id":"a60637cc-234e-45c3-bcb8-87b0dbbfac43","width":"1\/1"}],"id":"543cf5e0-51af-40b3-8f69-d99c5a225665"}]
+
+----
+
+Date: 2021-05-03 12:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: SCHOKOLADENSEITE.net hat eine neue, schicke Website bekommen. Wir beschreiben hier, was wir daran besonders gut finden.
+
+----
+
+Articleimage: - file://xwEk3tulMTMc5pCp
+
+----
+
+Categories: Agentur
+
+----
+
+Uuid: rT4HOhjsHT9KmJFf

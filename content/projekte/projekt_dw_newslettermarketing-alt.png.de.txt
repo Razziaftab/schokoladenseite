@@ -1,0 +1,17 @@
+Alt: Ein Smartphone- und Tabletbildschirm zeigen Newsletter-Bilder von Dr. Weigert
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

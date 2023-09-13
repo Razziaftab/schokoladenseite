@@ -1,0 +1,44 @@
+title: Anleitung
+
+status:
+  draft:
+    label: Entwurf
+    text: Anleitung ist noch in der Entwurfsphase.
+  unlisted:
+    label: Veröffentlicht
+    text: Anleitung ist veröffentlicht.
+    
+    
+    
+tabs:
+  manualContent:
+    icon: page
+    label: Inhalte
+    fields:
+      layout:
+        type: layout
+        layouts:
+          - "1/1"
+          - "1/2, 1/2" 
+        fieldsets:
+          - heading-manual
+          - text
+          - image
+          - galerie
+          
+      
+      
+  manualSettings:
+    icon: cog
+    label: Einstellungen
+    fields:
+      manualLogin:
+        type: structure
+        label: Logins
+        fields:
+          manualLoginname:
+            type: text
+            label: Login
+          manualPassword:
+            type: text
+            label: Passwort

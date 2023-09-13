@@ -1,0 +1,5 @@
+Uuid: oMHynhrkf895bnlc
+
+----
+
+Template: blocks/image

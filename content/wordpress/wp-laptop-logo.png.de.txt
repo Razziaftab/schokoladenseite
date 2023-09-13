@@ -1,0 +1,13 @@
+Alt: Laptop mit Wordpress Logo
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: eYSEXT2RAHECxYvT

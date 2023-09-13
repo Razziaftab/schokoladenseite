@@ -1,0 +1,11 @@
+name: Kununu Referenzen
+icon: star
+fields:
+  text:
+    label: Kununu Überschrift
+    type: markdown
+    inline: true
+    buttons:
+      - gender
+      - bold
+      - lang

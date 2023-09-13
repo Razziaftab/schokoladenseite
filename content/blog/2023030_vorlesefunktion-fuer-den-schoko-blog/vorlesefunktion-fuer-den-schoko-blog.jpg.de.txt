@@ -1,0 +1,21 @@
+Alt: Ein Paar schwarze Kopfhörer hängt an einer weißen Wand. Die Ohrmuscheln sind zur Wand hin gedreht. Von links scheint rotes Licht, von rechts blaues Licht.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: x342cu4r2DGBZNNa
+
+----
+
+Template: blocks/image

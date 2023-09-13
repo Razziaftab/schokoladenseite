@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="292.001" height="266" viewBox="0 0 292.001 266">
+  <defs>
+    <filter id="Ellipse_4" x="77" y="135" width="132" height="131" filterUnits="userSpaceOnUse">
+      <feOffset dy="3"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_5" x="135.001" y="0" width="157" height="157" filterUnits="userSpaceOnUse">
+      <feOffset dy="3"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_3" x="0" y="24" width="139" height="139" filterUnits="userSpaceOnUse">
+      <feOffset dy="3"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_92" data-name="Gruppe 92" transform="translate(-1205 -417)">
+    <circle id="Ellipse_9" data-name="Ellipse 9" cx="107" cy="107" r="107" transform="translate(1240 424)" fill="#e1e1e1"/>
+    <g id="Gruppe_85" data-name="Gruppe 85" transform="translate(1291.341 557.8)">
+      <g transform="matrix(1, 0, 0, 1, -86.34, -140.8)" filter="url(#Ellipse_4)">
+        <ellipse id="Ellipse_4-2" data-name="Ellipse 4" cx="57" cy="56.5" rx="57" ry="56.5" transform="translate(86 141)" fill="#222"/>
+      </g>
+      <g id="Gruppe_82" data-name="Gruppe 82" transform="translate(26.911 22.177)">
+        <path id="Pfad_68" data-name="Pfad 68" d="M29.606,0,59.212,17.267V51.814L29.606,69.081,0,51.814V17.267ZM3.29,19.233V49.849L29.606,65.2,55.923,49.849V19.233L29.606,3.883Z" fill="#fff"/>
+        <path id="Pfad_69" data-name="Pfad 69" d="M36.317,24.224l-8.224,4.26v.674h8.224v6.579H10V29.158h8.224V28.44L10,24.224V16l13.158,7.068L36.317,16" transform="translate(6.448 10.317)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Gruppe_84" data-name="Gruppe 84" transform="translate(1348.9 423)">
+      <g transform="matrix(1, 0, 0, 1, -143.9, -6)" filter="url(#Ellipse_5)">
+        <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="69.5" cy="69.5" r="69.5" transform="translate(144 6)" fill="#ff8700"/>
+      </g>
+      <g id="Gruppe_83" data-name="Gruppe 83" transform="translate(31.269 33.697)">
+        <path id="path5775" d="M111.056,105.605a10.78,10.78,0,0,1-3.3.461c-9.954,0-24.575-34.785-24.575-46.362,0-4.265,1.012-5.686,2.436-6.9-12.184,1.42-26.808,5.889-31.48,11.576a11.334,11.334,0,0,0-1.624,6.5c0,18.076,19.293,59.1,32.9,59.1,6.295,0,16.913-10.357,25.646-24.369" transform="translate(-52.509 -51.581)" fill="#fff"/>
+        <path id="path5779" d="M117.716,51.227c12.592,0,25.186,2.031,25.186,9.138,0,14.421-9.139,31.887-13.811,31.887-8.326,0-18.684-23.152-18.684-34.729,0-5.28,2.031-6.3,7.309-6.3" transform="translate(-65.522 -51.227)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Gruppe_86" data-name="Gruppe 86" transform="translate(1214.339 447.439)">
+      <g transform="matrix(1, 0, 0, 1, -9.34, -30.44)" filter="url(#Ellipse_3)">
+        <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="60.5" cy="60.5" r="60.5" transform="translate(9 30)" fill="#0073aa"/>
+      </g>
+      <path id="iconmonstr-wordpress-1" d="M7.931,23.852l15,41.089a31.447,31.447,0,0,1-15-41.089ZM57.87,35.06a16.555,16.555,0,0,0-2.593-8.67c-1.591-2.593-3.088-4.783-3.088-7.375a5.4,5.4,0,0,1,5.687-5.555,31.435,31.435,0,0,0-47.5,5.922,86.854,86.854,0,0,0,10.4-.36,1.3,1.3,0,0,1,.2,2.587s-1.7.2-3.6.3L28.836,55.959l6.881-20.633-4.9-13.419c-1.695-.1-3.3-.3-3.3-.3a1.3,1.3,0,0,1,.2-2.59,89.029,89.029,0,0,0,16.66,0,1.3,1.3,0,0,1,.2,2.59s-1.707.2-3.6.3L52.343,55.7l3.136-10.478c1.356-4.346,2.391-7.47,2.391-10.161ZM37.2,39.4l-9.434,27.41a31.476,31.476,0,0,0,19.32-.5c-.263-.425-9.715-26.439-9.886-26.909ZM64.235,21.564a28.217,28.217,0,0,1-2.178,14.494l-9.6,27.764A31.444,31.444,0,0,0,64.235,21.564ZM73.3,36.648A36.648,36.648,0,1,1,36.648,0,36.691,36.691,0,0,1,73.3,36.648Zm-1.68,0A34.968,34.968,0,1,0,36.648,71.616,35.01,35.01,0,0,0,71.616,36.648Z" transform="translate(23.674 23.659)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

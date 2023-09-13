@@ -1,0 +1,21 @@
+Alt: go-digital Flyer Vorschau
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: eAPjXta6L7JcyoAQ

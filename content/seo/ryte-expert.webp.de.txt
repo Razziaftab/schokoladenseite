@@ -1,0 +1,17 @@
+Alt: Logo von Ryte Expert
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

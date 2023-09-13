@@ -1,0 +1,21 @@
+Alt: Auf einem Tisch vor einem Fenster steht ein silberner Computerbildschirm mit Tastatur und Maus, daneben ein weißer Kaffeebecher, dahinter ein bunter Stiftbehälter. Auf dem Bildschirm ist einem Programmfenster eine silberne Lupe zu sehen, in deren Glas eine helle Lampe leuchtet.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: kZzz9umTnujek29N
+
+----
+
+Template: blocks/image

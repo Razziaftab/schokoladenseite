@@ -1,0 +1,49 @@
+Title: Barrierefreies Gendern
+
+----
+
+Articleheader: Barrierefreies <span lang="en">Gendern</span> leichtgemacht
+
+----
+
+Intro: Webseiten können nun auch gleichzeitig barrierefrei und gendergerecht sein. Ein Klick im neuen Auswahlmenü genügt.
+
+----
+
+Image-ai-text: 
+
+----
+
+Mp3: - file://eXHkV5WOLd0dfrqy
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Mit dem **<span lang=\"en\">(link: gender-selector text: Gender Selector title: Zur Infoseite chocfair gender)<\/span>** bieten wir schon seit einer Weile ein <span lang=\"en\">Tool<\/span> an, mit dem die (gender:Nutzer:innen x:Nutzerinnen y:Nutzer xy:und) einer <span lang=\"en\">Website<\/span> selbst entscheiden k\u00f6nnen, ob die Texte in gendergerechter Sprache angezeigt werden sollen. Die Genderformen werden dann durch ein Zeichen markiert, das selbst ausgew\u00e4hlt werden kann: Doppelpunkt, Unterstrich oder wie oben mit einem Stern. Doch diese Zeichen stellen f\u00fcr **Menschen mit Sehbehinderung** ein echtes Problem dar. Besonders, wenn sie einen sogenannten <span lang=\"en\">Screen Reader<\/span> - also ein Vorleseprogramm - benutzen: Die Ausgabe erfolgt dann gest\u00f6rt, z.B. durch eine h\u00f6rbare Pause im vorgelesenen Text, wo das Genderzeichen eigentlich nur die Wortbestandteile trennen soll.\n## Mit einem Klick barrierefrei\nF\u00fcr dieses Problem haben wir nun eine pragmatische L\u00f6sung gefunden: wenn eine **barrierefreie und einfacher lesbare Version der Webseiten** erforderlich ist, werden nach einem Klick die W\u00f6rter als **Doppelform** angezeigt und so vom <span lang=\"en\">Screen Reader<\/span> vorgelesen. Also steht nur dann z.B. \"Ihre Kundinnen und Kunden\" oder \"f\u00fcr die Mitarbeiterin bzw. den Mitarbeiter\" im Text. Das macht die Texte zwar l\u00e4nger, die gesellschaftliche Vielfalt wird aber weiterhin ausgedr\u00fcckt. Und darum geht es ja bei der Verwendung von Genderformen. Ein weiterer Pluspunkt: die Texte werden auch leichter verst\u00e4ndlich - Stichwort \"Einfache Sprache\". Das **<span lang=\"en\">Internet<\/span> f\u00fcr alle** - mit dem barrierefreien **<span lang=\"en\">(link: gender-selector text: Gender Selector title: Zur Infoseite chocfair gender)<\/span>** ist es wieder etwas n\u00e4her ger\u00fcckt."},"id":"52891d39-25f5-490b-ba86-2272fdd5b72b","isHidden":false,"type":"text"}],"id":"f63087cb-6943-4b5e-afc1-23605ddbf5c4","width":"1\/1"}],"id":"365a5676-8ab1-4960-b71c-71d6f6d8d643"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/eFoQbuV8RDMTPYiW","file:\/\/xiaQoXaeVfiw2lDH"],"caption":"Der chocfair Gender Selector ist schon f\u00fcr viele CMS und statische Webseiten verf\u00fcgbar. Alle Infos dazu gibt es auf unserer Produktseite. Selbstverst\u00e4ndlich barrierefrei.\n\n(link: gender-selector text: Zur Infoseite chocfair gender class: btn -primary)"},"id":"4c127919-e666-45d6-9f69-bd5e615d0bb3","isHidden":false,"type":"cta"}],"id":"0238eebf-d7fc-4930-8262-05928d1b6618","width":"1\/1"}],"id":"31710047-209a-470e-be8a-0e5d6ba3c961"}]
+
+----
+
+Date: 2022-03-16 12:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Mit unserem Gender Selector ist jetzt auch die barrierefreie Darstellung von gendergerechten Webseiten möglich. In unserem Blogbeitrag erklären wir, wie das geht, und warum das für Sehbehinderte ein echter Fortschritt ist.
+
+----
+
+Seodescription: 
+
+----
+
+Articleimage: - file://1wKGUa5jkm2nUSPO
+
+----
+
+Categories: Barrierefreiheit, Technik, Webdesign
+
+----
+
+Uuid: lA1GVTz3Iwez5PPL

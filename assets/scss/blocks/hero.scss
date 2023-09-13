@@ -1,0 +1,177 @@
+.hero{
+	text-align: center;
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	
+	&:not(.hero-video){
+		background-image: linear-gradient(135deg, $lightgrey 10%, $white 60%);
+	}
+	
+	.flex{
+		align-items: center;
+	}
+	
+	.pre-hl {
+		display: block;
+		color: $black;
+		text-transform: uppercase;
+		font-weight: bold;
+		font-size: initial;
+	}
+
+	.hero-hl{
+		color: $black;
+		margin: 0;
+		
+		&:after{
+			font-family: "Font Awesome 5 Free";
+			font-weight: 900;
+			color: $black;
+			margin-left: 10px;
+		}
+	}
+	
+	.hero-text{
+		font-size: 2rem;
+		margin-top: 0;
+		margin-bottom: 1rem;
+	}
+	
+	.highlight{
+		margin: 0;
+		padding: 0;
+		
+		.nobr{
+			margin-right: 15px;
+			background-color: transparent !important;
+			border-radius: 5px;
+			display: inline-block;
+			margin-top: 15px;
+			
+			&:before{
+				content: none;
+			}
+
+			a.hero-link {
+				text-transform: uppercase;
+				font-weight: bold;
+				line-height: 1.2;
+				color: $black;
+				padding: .5em .9em;
+				display: inline-block;
+				
+				&:before{
+					content: none;
+				}
+
+				&:focus-visible{
+					outline-offset: -5px;
+					border-radius: 9px;
+				}
+				
+				&.-to-bottom i{
+					transform: rotate(90deg);
+				}
+			}
+		}
+	}
+	
+	.btn.-gradient:focus-visible {
+		outline-color: black;
+		background: white;
+		color: black;
+	  
+		&:hover{
+			color: white;
+			outline-color: white;
+		}
+	}
+	
+	img{
+	    max-height: 300px;
+		margin: 0 auto;
+	}
+	
+	@media $tablet-big{
+		text-align: left;
+	}
+	
+	@media $desktop-small{
+		.hero-hl{
+		    font-size: 3rem;
+		}
+	}
+
+}
+
+.warumdarum {
+	width: 100%;
+	background: $linear-gradient;
+
+	.container {
+		min-height: 1px;
+		padding-top: 1rem;
+		padding-bottom: 1rem;
+
+		.-gradient.btn,
+		.-primary.btn {
+			padding: 0;
+			padding-right: 1.3em;
+			background-color: transparent;
+			box-shadow: none;
+			border: 0;
+			border-bottom: 2px solid transparent;
+			border-radius: 0;
+
+			&::after {
+				right: 0;
+			}
+
+			&:hover {
+				color: white;
+				border-bottom: 2px solid white;
+			}
+		}
+	}
+}
+
+#coworking-space {
+	.pre-hl {
+		color: white;
+	}
+}
+
+.hero-hl{
+	font-weight: 600;
+	text-transform: uppercase;
+	font-size: 2rem;
+	line-height: 1.2;
+}
+
+.hero{
+
+	#agentur-hamburg .hero-hl:after{
+		content: "\f135";
+	}
+
+	#online-projekte, #internetagentur{
+
+		.hero-hl:after{
+			content: "\f004";
+		}
+	}
+	
+	#onlineagentur, #webentwicklung-hamburg, #online-marketing, #technische-betreuung{
+	
+		.hero-hl:after{
+			content: "\f004"; 
+			color: $darkgrey;
+		}
+	}
+
+	#internetagentur .hero-hl{
+		display: inline-block;
+		color: white;
+	}
+}

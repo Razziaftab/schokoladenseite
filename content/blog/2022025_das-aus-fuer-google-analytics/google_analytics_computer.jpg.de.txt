@@ -1,0 +1,25 @@
+Alt: Auf einem Bildschirm werden auf schwarzem Hintergrund zwei Kurven mit Balken und weitere Graphen für die Webseitenanalyse angezeigt. Die Überschrift lautet Users last 7 Days using median.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Sort: 1
+
+----
+
+Uuid: 5AdSEU0siwGE0KVG

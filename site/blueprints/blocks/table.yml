@@ -1,0 +1,15 @@
+name: Tabelle
+icon: table
+
+fields:
+  column:
+    type: structure
+    label: Tabelle
+    fields:
+      row:
+        type: structure
+        label: Spalte
+        fields:
+          cell:
+            type: text
+            label: Zelle

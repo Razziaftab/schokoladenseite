@@ -1,0 +1,14 @@
+name: Logos
+icon: image
+preview: image
+fields:
+  image:
+    label: field.blocks.image.name
+    type: files
+    image:
+      back: white
+    uploads:
+      template: blocks/image
+  customClass:
+    label: Class
+    type: tags

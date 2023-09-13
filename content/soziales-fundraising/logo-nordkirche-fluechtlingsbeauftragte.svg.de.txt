@@ -1,0 +1,9 @@
+Alt: Nordkirche Logo Flüchtlingsbeauftragte Joachims
+
+----
+
+Title: Nordkirche Flüchtlingsbeauftragte Joachims
+
+----
+
+Template: blocks/image

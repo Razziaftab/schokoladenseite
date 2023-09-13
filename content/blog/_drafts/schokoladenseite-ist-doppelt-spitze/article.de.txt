@@ -1,0 +1,41 @@
+Title: SCHOKOLADENSEITE.net ist doppelt spitze
+
+----
+
+Articleheader: Doppelt spitze: SCHOKOLADENSEITE.net hat einen zweiten Geschäftsführer
+
+----
+
+Intro: Hier kommt unsere Antwort auf das Wachstum der SCHOKOLADENSEITE.net - Fabian Hammer ist neben Andrea Christan das neue Mitglied im Geschäftsführungs-Team. Mehr Projekte, mehr Produkte, mehr Schokolade(nseiten) - die SCHOKOLADENSEITE.net ist jetzt doppelt spitze!
+
+----
+
+Mp3: 
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":"quote"},"columns":[{"blocks":[{"content":{"text":"Die SCHOKOLADENSEITE.net w\u00e4chst \u2013 wir konnten in den letzten Jahren ein Umsatzplus von 20 % erreichen. Doch damit wir f\u00fcr unsere (gender:Kund:innen x:Kundinnen y:Kunden xy:und) die gewohnte gute Qualit\u00e4t unserer Leistungen sicherstellen k\u00f6nnen, braucht unser Unternehmen eine Verst\u00e4rkung auf der Managementebene. \n\n*Daher freuen wir uns, dass Fabian Hammer seit 1. April Teil des SCHOKO-Teams ist. Er ist neben Andrea Christan als Gesch\u00e4ftsf\u00fchrer in der SCHOKOLADENSEITE.net t\u00e4tig, um uns bei unserem weiteren Wachstum zu unterst\u00fctzen. Neben dem operativen Gesch\u00e4ft k\u00fcmmert er sich auch um die intensivere Vermarktung unserer Produkte durch verschiedene Vertriebsma\u00dfnahmen.*\n\n*VARIANTE:\nSeit 1. April ist daher Fabian Hammer neben Andrea Christan Teil der Gesch\u00e4ftsf\u00fchrung von SCHOKOLADENSEITE.net. Neben der Unterst\u00fctzung im operativen Gesch\u00e4ft wird er sich besonders der Vermarktung unserer Produkte durch neue Vertriebsma\u00dfnahmen und -wege widmen.*\n\nDer geb\u00fcrtige Buchholzer lebt seit einigen Jahren am Rand von Hamburg. Nach dem Master in BWL arbeitete er im Bereich Online-Marketing f\u00fcr einen Outsourcing-Partner von Google. Im Anschluss folgte die T\u00e4tigkeit in einer Beratungsfirma. In einer Digitalagentur entwickelte Fabian Hammer u.a. ein Produkt, mit dem sich der Deckungsbeitrag im Online-Marketing einfach darstellen und optimieren l\u00e4sst.\n\nHauptgrund f\u00fcr den Wechsel aus der Beratung in die Agentur ist f\u00fcr Fabian Hammer die Freude am operativen Gesch\u00e4ft, das er mitgestalten m\u00f6chte. So reizt ihn besonders an der neuen Funktion in der SCHOKOLADENSEITE.net die M\u00f6glichkeit, unser Wachstum gezielt unterst\u00fctzen zu k\u00f6nnen. Er bringt dabei schon eine Menge Erfahrungen mit mittelst\u00e4ndischen Unternehmen und digitalem Vertrieb mit. Daneben sch\u00e4tzt er auch den sozialen Ansatz der SCHOKOLADENSEITE.net."},"id":"74cb019e-3fe6-4b27-8471-84dca823660a","isHidden":false,"type":"text"}],"id":"83d317ff-f079-44c8-922e-6582e8baf770","width":"1\/1"}],"id":"131c84d7-4f56-4a28-914f-dde3f1d8e4e0"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/6n9PI9GZBQzv6d2o"]},"id":"54e709bf-3a70-40ed-adad-91ec710b3252","isHidden":false,"type":"blogimage"}],"id":"b241fcb0-b162-471f-a54c-54195ca06adc","width":"1\/2"},{"blocks":[{"content":{"text":"Fabian Hammer betreut im Gesch\u00e4ftsf\u00fchrungs-Team als Schwerpunkte die Bereiche Vertrieb und Finanzen."},"id":"f544e560-d530-4d3b-bb10-ee7f0c4331b4","isHidden":false,"type":"text"}],"id":"c89aa76e-f5db-48e2-8c75-f2d02b87bfad","width":"1\/2"}],"id":"2b025bf9-19f0-4d67-bf8c-95dc075dd018"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":[],"caption":"M\u00f6chten Sie weitere Mitglieder unseres erfolgreichen SCHOKO-Teams kennenlernen?\n\n(link: team text: Zum besten Team class: btn -primary)"},"id":"c08cf273-793b-4bf3-910e-b486ec8bd86c","isHidden":false,"type":"cta"}],"id":"b6e7d23a-201c-46f8-97e1-299630a8d8a5","width":"1\/1"}],"id":"7d7d2439-f9dc-45d2-9047-e4a0e33bb8b9"}]
+
+----
+
+Date: 2022-04-01 12:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Hier kommt unsere Antwort auf das Wachstum der SCHOKOLADENSEITE.net - Fabian Hammer ist neben Andrea Christan das neue Mitglied im Geschäftsführungs-Team. Mehr Projekte, mehr Produkte, mehr Schokolade(nseiten) - die SCHOKOLADENSEITE.net ist jetzt doppelt spitze!
+
+----
+
+Articleimage: - file://LGPDnwFKQTFrTUPT
+
+----
+
+Categories: Agentur
+
+----
+
+Uuid: mhHOGaIIipROsyP8

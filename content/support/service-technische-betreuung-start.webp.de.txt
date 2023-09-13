@@ -1,0 +1,17 @@
+Alt: Ein Server, auf dem ein Laptop steht
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: files-upload

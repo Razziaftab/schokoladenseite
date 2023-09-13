@@ -1,0 +1,9 @@
+Alt: Logo von Ryte Expert
+
+----
+
+Title: Ryte Expert
+
+----
+
+Template: blocks/image

@@ -1,0 +1,21 @@
+Alt: Meerschweinchen vor Laptop auf dem Schreibtisch
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Sort: 2

@@ -1,0 +1,5 @@
+Uuid: gpufjP1IonzOyA8l
+
+----
+
+Template: blocks/image

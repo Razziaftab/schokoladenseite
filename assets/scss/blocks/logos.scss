@@ -1,0 +1,67 @@
+
+ul.logos {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 15px;
+  margin-top: 30px;
+  padding-left: 0;
+
+  // :root ul& {
+  //   padding-left: 0;
+  // }
+
+  li {
+    display: flex;
+    justify-content: center;
+    height: 160px;
+    align-items: center; // do not stretch images
+    border: 1px solid #eee;
+    filter: grayscale(1);
+
+    .dark & {
+      background: white;
+    }
+
+    &.hidden{
+      display: none;      
+    }
+
+	  @media (forced-colors: active) {
+		  background: Canvas; //L:w D:b
+		
+		  .dark &{
+			  background: CanvasText; //L:b D:w
+		  }
+	  }
+
+    &:before {
+      content: none;
+    }
+
+    img {
+      max-height: 100%;
+      width: 125px;
+    }
+  }
+
+  @media $tablet-small {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+
+  @media $desktop-small {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+
+    li {
+      transition: all 0.3s;
+
+      img {
+        max-height: 100%;
+        width: 155px;
+      }
+
+      &:hover {
+        filter: grayscale(0);
+      }
+    }
+  }
+}

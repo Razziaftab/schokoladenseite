@@ -1,0 +1,63 @@
+title: Türchen
+
+status:
+  draft:
+    label: Entwurf
+  listed:
+    label: Position
+
+columns:
+  - width: 1/3
+    sections:  
+      fields:  
+        fields:  
+          seoDescription:
+            type: text
+          image:
+            label: field.blocks.image.name
+            type: files
+            uploads: false
+            max: 1
+            image:
+              back: black
+      images:
+        type: files
+        layout: cards
+        template: image
+        info: "{{ file.dimensions }}"
+        image:
+          ratio: 4/3
+          cover: false
+        size: small
+  - width: 2/3
+    fields:
+      door:
+        label: Türchennummer
+        type: number
+        required: true
+      size:
+        label: Feldgröße
+        type: select
+        required: true
+        options:
+          col-1: 1 Spalte
+          col-2: 2 Spalten
+          col-3: 3 Spalten
+      layout:
+        label: Seiteninhalte
+        type: layout
+        layouts:
+          - "1/1"
+        fieldsets:
+          text:
+            label: Text
+            type: group
+            fieldsets:
+              - text
+              - button
+          media:
+            label: Media
+            type: group
+            fieldsets:
+              - image
+              - youtube

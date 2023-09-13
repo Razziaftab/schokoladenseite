@@ -1,0 +1,14 @@
+title: Project Image
+fields:
+  alt:
+    label: Alt Text
+    type: text
+  title:
+    label: Title Text
+    type: text
+  link:
+    label: Verlinkung
+    type: text
+  caption:
+    label: Caption
+    type: text

@@ -1,0 +1,9 @@
+Alt: Global100RE Logo
+
+----
+
+Title: Global100RE
+
+----
+
+Template: blocks/image

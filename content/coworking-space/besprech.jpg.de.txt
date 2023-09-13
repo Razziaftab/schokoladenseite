@@ -1,0 +1,21 @@
+Alt: 
+
+----
+
+Title: 
+
+----
+
+Caption: Konferenzraum mit bis zu 6 Plätzen
+
+----
+
+Template: galerie
+
+----
+
+Sort: 1
+
+----
+
+Uuid: aJ65ZkJ3fAmoMmNV

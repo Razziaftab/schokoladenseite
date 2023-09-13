@@ -1,0 +1,29 @@
+Title: SCHOKOLADENSEITE - Der Name. Die Geschichte. Das Unternehmen.
+
+----
+
+Seodescription: Wie alle tollen Erfindungen in der Menschheitsgeschichte entstand auch der Name der SCHOKOLADENSEITE.net durch eine Mischung von Genie und Zufall
+
+----
+
+Image: - 02.jpg
+
+----
+
+Door: 2
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **SCHOKOLADENSEITE.net - Der Name. Die Geschichte. Das Unternehmen.**\n\n*Wie alle tollen Erfindungen in der Menschheitsgeschichte entstand auch der Name der SCHOKOLADENSEITE.net durch eine Mischung von Genie und Zufall \ud83d\ude09. *\n\nDoch der Reihe nach: Es begab sich im Jahre 2002 - die Unternehmensgr\u00fcnderin Andrea Christan hatte schon w\u00e4hrend ihres Kommunikationsdesignstudiums das Studienprojekt, ein Corporate Design zu entwickeln. Dieses verfolgte sie mit besonderem Engagement, denn sie dachte: \n\n*\"Ich will sowieso irgendwann selbst\u00e4ndig sein. Und wann in meinem Leben, wenn nicht jetzt, werde ich noch einmal so viel Zeit haben, ein schickes und durchdachtes Corporate Design zu entwickeln?\"*"},"id":"8930c1e2-282d-460f-9bbf-998b95cfec48","isHidden":false,"type":"text"}],"id":"b04ee5f1-581f-4b92-bc4b-45f016cf97f9","width":"1\/1"}],"id":"94c5b5b4-8eee-4e9a-a2c0-82fc967986ff"},{"attrs":[],"columns":[{"blocks":[{"content":{"image":["logo-noclaim.png"],"customclass":"half","link":"","ratio":"","crop":"false"},"id":"3e023ee1-4428-4686-9ca3-b51ed1e805dc","isHidden":false,"type":"image"}],"id":"e76ad86e-6ad0-4f3f-85e7-5eecf8cbb67f","width":"1\/1"}],"id":"b9c72c89-52b0-4e2a-ac45-506a86a170b2"},{"attrs":[],"columns":[{"blocks":[{"content":{"text":"Die M\u00fche wurde mit der Projektnote 1,0 belohnt. Der Dozent meldete sich \u00fcbrigens einige Jahre sp\u00e4ter und fragte eine Zusammenarbeit an ...\n\nDie M\u00f6glichkeit zu diversen Wortspielen mit Schokolade spielte bei der Entwicklung des Corporate Designs nat\u00fcrlich eine wichtige Rolle. Und der Genuss von Schokolade setzt erwiesenerma\u00dfen Gl\u00fcckshormone frei. \ud83e\udd70 In den Firmennamen flossen aber auch pers\u00f6nliche Aspekte ein - Andrea liebt einfach Schokolade. \n\nDie positiven Eigenschaften von Schokolade sorgen daf\u00fcr, dass der Unternehmensname ein echter T\u00fcr\u00f6ffner ist und leicht im Ged\u00e4chtnis bleibt. Neben einem Lachen beim ersten Kontakt mit (n:Kund:innen x:Kundinnen y:Kunden) kommt es aber auch mal zu Missverst\u00e4ndnissen. Deswegen sei es an dieser Stelle nochmals verk\u00fcndet: Wir verkaufen keine Schokolade, wir essen sie aber gerne. Sehr gerne. \ud83d\ude03 Und bei so manchen Mailings haben wir sie auch an unsere (n:Kund:innen x:Kundinnen y:Kunden) verschickt. \n\n**Zusammen machen wir das Internet zu einem schokoladigeren Ort!**"},"id":"801c8f10-5dfe-470f-9a9e-b03ba20aeb65","isHidden":false,"type":"text"}],"id":"cc3011b4-ef08-4878-bd74-b3a13c1cbd72","width":"1\/1"}],"id":"a2a58358-46c6-4a7d-bda8-f8ce91c1ad67"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: YoUjYlsfLGcDrUd8

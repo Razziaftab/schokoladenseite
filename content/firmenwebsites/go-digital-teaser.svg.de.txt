@@ -1,0 +1,21 @@
+Alt: Illustration von einer Person neben einem Handy auf dem go-digital steht.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: mcikZMHjyPlqrSTx
+
+----
+
+Template: blocks/image

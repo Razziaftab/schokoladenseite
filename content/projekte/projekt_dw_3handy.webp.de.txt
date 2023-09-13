@@ -1,0 +1,17 @@
+Alt: Smartphone-Bildschirme zeigen Bildauschnitte der Dr. Weigert Facebookseite
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

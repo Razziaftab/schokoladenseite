@@ -1,0 +1,6 @@
+name: Script
+icon: text
+fields:
+  text:
+    type: textarea
+    buttons: false

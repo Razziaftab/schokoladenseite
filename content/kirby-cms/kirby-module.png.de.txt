@@ -1,0 +1,13 @@
+Alt: Abbildung der Kirby Module
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: pj5YIGBxl1q3UQHr

@@ -1,0 +1,9 @@
+Alt: Smartphone-Bildschirm zeigt Bildauschnitte der Dr. Weigert Website
+
+----
+
+Title: Smartphone
+
+----
+
+Template: files-upload

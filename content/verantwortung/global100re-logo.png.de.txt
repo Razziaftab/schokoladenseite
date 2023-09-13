@@ -1,0 +1,13 @@
+Alt: Global100RE Logo
+
+----
+
+Title: Global100RE
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: KS26QT2ViehH27Wn

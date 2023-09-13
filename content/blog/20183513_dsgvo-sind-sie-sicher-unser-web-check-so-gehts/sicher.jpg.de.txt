@@ -1,0 +1,21 @@
+Alt: Füße stehen auf zwei Holzbalken in hoher Höhe
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: GWNcPZap1IU1DowJ

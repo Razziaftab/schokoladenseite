@@ -1,0 +1,13 @@
+Alt: Sorya Logo
+
+----
+
+Title: Sorya
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: pePlr0kj5TMIHxCv

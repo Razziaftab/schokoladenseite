@@ -1,0 +1,29 @@
+Title: Melissa, die Pixel-Schubserin
+
+----
+
+Seodescription: Unsere Vorstellungsrunde geht weiter. Heute mit Melissa. Die uns übrigens in einem späteren Türchen noch ein leckeres SCHOKO-Rezept vorstellt
+
+----
+
+Image: - 07.jpg
+
+----
+
+Door: 7
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Melissa, die Pixel-Schubserin**\n\n*Unsere Vorstellungsrunde geht weiter. Heute mit Melissa. Die uns \u00fcbrigens in einem sp\u00e4teren T\u00fcrchen noch ein leckeres SCHOKO-Rezept vorstellt.*\n\n**Seit wann bist du im SCHOKO-Team und was ist deine Aufgabe?**\n- Ich geh\u00f6re seit Mai 2021 zum SCHOKO-Team und bin eine der Pixel(n:-Schubser:innen x:-Schubserinnen y:-Schubser) vom Dienst \ud83d\ude42. Am liebsten lasse ich mich, \u00e4hm, schubse ich Typo3s oder Kirbys durch die Gegend. \n\n**Direkt zur wichtigsten Frage: Was ist deine Lieblings-Schokoladensorte?**\n- Am liebsten ohne Zucker \ud83d\ude42 das ist nur leider schwer zu bekommen. Meine Lieblingssorte ist ohne alles oder mit ganzen N\u00fcssen, am besten zart schmelzend \ud83e\udd24\n\n**Was passiert, wenn du \"Last Christmas\" ((link: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI text: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI target: _blank title: Externer Link zu \"Last Christmas\" auf YouTube (\u00d6ffnet im neuen Tab))) im Radio h\u00f6rst?**\n- Alte Erinnerungen werden wach \ud83d\ude42 Im Gegensatz zu den meisten mag ich das Lied gerne. Ich war fr\u00fcher in der Tanzschule und wir haben damals dazu Cha-Cha-Cha getanzt. \n\n**Was m\u00f6chtest du in der Vorweihnachtszeit unbedingt machen?**\n- Gem\u00fctlich mit dem Hund auf dem Sofa liegen und ein Buch lesen. Mit K\u00f6rnerkissen nat\u00fcrlich \ud83d\ude04 (manchmal teilt der Hund es sogar mit mir)\n\n**Welche SCHOKO-Superkr\u00e4fte hast du?**\n- Ich kann vergessen, was ich mache, w\u00e4hrend ich es gerade ... worum geht's hier nochmal? \ud83e\uddd0 Nein Scherz, meine gr\u00f6\u00dfte Superkraft ist stricken \ud83d\ude42 Der Hund hat mehr Pullover f\u00fcr den Winter als ich im Kleiderschrank ..."},"id":"63e1fa9a-d04e-434b-a466-beff08a6d4ce","isHidden":false,"type":"text"}],"id":"ba649bc4-1924-475e-8fde-61b0a7db654a","width":"1\/1"}],"id":"d9d0f402-8573-4f64-9b2b-81ce6a2fddc0"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: R3RfmQKsIZ1AUmWu

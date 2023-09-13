@@ -1,0 +1,42 @@
+name: CMS Headerbild alt
+icon: image
+preview: h1
+fields:
+  backgroundimage:
+    label: Hintergrundbild
+    type: files
+    max: 2
+    query: page.images
+    uploads: files-upload
+    width: 1/2
+  image:
+    label: Bild
+    type: files
+    max: 2
+    query: page.images
+    uploads: files-upload
+    width: 1/2
+  elemntId:
+    label: id
+    type: writer
+    inline: true
+  preh1:
+    label: Pre H1
+    type: writer
+    inline: true
+    width: 1/2
+  h1:
+    label: Überschrift
+    type: markdown
+    inline: true
+    width: 1/2
+    buttons:
+      - gender
+  text:
+    label: Text
+    type: markdown
+    inline: true
+    buttons:
+      - gender
+      - bold
+      - lang

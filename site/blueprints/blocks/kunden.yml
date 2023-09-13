@@ -1,0 +1,10 @@
+name: Kunden Referenzen
+icon: star
+fields:
+  text:
+    label: Kunden Überschrift
+    type: markdown
+    inline: true
+    buttons:
+      - gender
+      - lang

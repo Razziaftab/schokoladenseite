@@ -1,0 +1,168 @@
+// additional header code in "header.scss"
+.chocfair-cookie {
+	background-color: $lightgrey;
+	background-image: url("../img/cookie/chocfair-cookie-header-cookies-a.svg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+	background-position: -250px center;
+	background-size: 70%;
+
+	@media (min-width: 975px) {
+		background-position: -280px center;
+	}
+	@media (min-width: 1024px) {
+		background-position: right -50vw center;
+		background-size: 80%;
+	}
+	@media (min-width: 1600px) {
+		background-position: -260px center;
+		background-size: 50%;
+	}
+
+	.flex {
+		.column-8 {
+			@media $tablet-big {
+				width: calc(50% - 20px);
+			}
+		}
+		.column-4 {
+			> .col-inner {
+				@media $max-tablet-big {
+					max-width: 330px;
+				}
+
+				max-width: 370px;
+			}
+
+			@media $tablet-big {
+				width: calc(50% - 20px);
+
+				> .col-inner {
+					margin-left: auto;
+					margin-right: auto;
+				}
+			}
+		}
+	}
+	
+	.logo_gender_selector{
+	    width: auto;
+		max-height: 60px;
+	}
+	
+	// .logo_gender_selector_ani{
+	// 	position: relative;
+		
+	// 	.hier-testen{
+	// 		display: none;
+	// 	}
+	
+	// 	svg{
+	// 		position: absolute;
+	// 		top: 0;
+	// 		left: 0;
+	// 		width: 100%;
+	// 		height: 100%;
+	// 	    max-width: 430px;
+			
+	// 		.text:not(.active){
+	// 			display: none;
+	// 		}
+	 
+	// 		.selector{
+	// 			cursor:pointer;
+	// 		}
+			
+	// 		.active .dark{
+	// 			fill: #e5106c;
+	// 		}
+	// 	}
+		
+	// 	img{
+	// 		display: block;
+	// 	}
+	// }
+	
+	@media $desktop-small{
+		.flex{
+			align-items: center;
+			padding-top: 0!important;
+		}
+		
+		.logo_gender_selector_ani{
+			
+			.hier-testen{
+				display: block;
+				position: absolute;
+				top: 38%;
+				left: -40%;
+				z-index: 100;
+				animation: scale 0.4s ease 1s both;
+				
+				&:before, &:after{
+					content:'';
+					width: 0px;
+					height: 0px;
+					transform:rotate(34deg);
+					border-style: solid;
+					border-width: 0 0 30px 25px;
+					border-color: transparent transparent transparent transparent;
+					position: absolute;
+					right: -5px;
+					top: -20px;
+				}
+				
+				&:before{
+					border-color: transparent transparent #ffff60 transparent;
+				}
+				
+				&:after{
+					box-shadow: 2px 2px 3px 0px transparentize(black, 80%);
+					z-index: -1;
+				}
+				
+				span{
+					background: #ffff60;
+					font-weight: bold;
+					padding: 10px 20px;
+					border-radius: 30px;
+					box-shadow: 0px 1px 6px 0px transparentize(black, 80%);
+
+          .dark & {
+            color: $white;
+          }
+				}
+				
+				i{
+					margin-right: 12px;
+				}
+			}
+		}
+	}
+}
+
+@keyframes scale{
+	0%{
+		transform: scale(0);
+	}
+	50%{
+		transform: scale(1.2);
+	}
+	100%{
+		transform: scale(1);
+	}
+}
+
+.code{
+    font-weight: bold;
+    font-size: .92rem;
+    background-color: #efefef;
+    border-radius: 5px;
+    padding: .04em .5em .15em;
+
+    .dark & {
+      background-color: black;
+    }
+}

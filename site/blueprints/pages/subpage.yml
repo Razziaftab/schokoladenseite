@@ -1,0 +1,13 @@
+title: Subpage
+
+pages: false
+files: false
+fields:
+  from:
+    label: Source
+    type: text
+    help: abc.php
+  to:
+    label: Target
+    type: text
+    help: /abc

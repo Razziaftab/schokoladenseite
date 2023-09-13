@@ -1,0 +1,13 @@
+Alt: Eine Braille-Zeile steht vor einer Computertastatur, zwei Hände bedienen sie.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: uKbFpmYw9N6FTm5V

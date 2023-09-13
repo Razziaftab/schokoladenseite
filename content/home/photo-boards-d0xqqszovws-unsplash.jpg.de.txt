@@ -1,0 +1,13 @@
+Alt: Eine herzförmige Weltkarte auf einem Blatt Papier, das an einem Baum hängt.
+
+----
+
+Title: Zur Website: Verantwortung
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 3teoAscXI8k7DxQ1

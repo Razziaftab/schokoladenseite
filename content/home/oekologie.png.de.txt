@@ -1,0 +1,13 @@
+Alt: ein Baum auf einer Wiese innerhalb einer Glaskugel
+
+----
+
+Title: Zur Website: Verantwortung
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: qmNGtZplCIWCgDKL

@@ -1,0 +1,9 @@
+Alt: BilleKidz Logo
+
+----
+
+Title: BilleKidz
+
+----
+
+Template: blocks/image

@@ -1,0 +1,21 @@
+Alt: Handy mit Statistiken auf dem Bildschirm
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: G47oJtH6PZe874Uj

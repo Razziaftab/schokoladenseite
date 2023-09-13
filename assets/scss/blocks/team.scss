@@ -1,0 +1,33 @@
+.team{
+	text-align: center;
+	
+	> div{
+		margin-bottom: 50px;
+		padding: 20px;
+		
+		img{
+			padding-bottom: 20px;
+			margin: 0 auto;
+		}
+	}
+	
+	@media $tablet-small{
+		display: flex;
+		flex-wrap: wrap;
+		
+		> div{
+			width: 50%;
+			
+			img{
+			    width: 100%;
+			}
+		}
+	}
+	
+	@media $tablet-big{
+		
+		> div{
+			width: 25%;
+		}
+	}
+}

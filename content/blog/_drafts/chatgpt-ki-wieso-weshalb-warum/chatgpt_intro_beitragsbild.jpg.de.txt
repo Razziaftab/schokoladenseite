@@ -1,0 +1,21 @@
+Alt: Die Computergrafik zeigt den Kopf einer Frau in Seitenansicht vor dunklem Hintergrund. Sie hat helle Haut und blaue Augen. Auf ihrem Gesicht sind Buchstaben und Zahlen, die zum Hinterkopf und Oberkörper hin in Computerbauteile und Kabel übergehen.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: iTh9QAtpiulaB7yi
+
+----
+
+Template: blocks/image

@@ -1,0 +1,41 @@
+Title: Projektpartner World Future Council
+
+----
+
+Articleheader: 
+
+----
+
+Intro: Heute stellen wir eine Organisation vor, die wir schon seit 10 Jahren betreuen dürfen: Der <span lang="en">(link: https://www.worldfuturecouncil.org target: _blank text: World Future Council title: Externer Link zur Webseite des World Future Council (Öffnet im neuen Tab))</span> (WFC).
+
+----
+
+Mp3: - file://phhXjR3kJPrDahg1
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"Die Zukunft hat eine SCHOKOLADENSEITE","level":"h2","text":"L\u00f6sungen f\u00fcr eine gemeinsame Zukunft - der <span lang=\"en\">World Future Council<\/span>","customid":"","customclass":""},"id":"2c178b4f-136d-483b-ad86-c44c63993659","isHidden":false,"type":"heading"},{"content":{"text":"Er wurde 2007 vom Gr\u00fcnder des Alternativen Nobelpreises, Jakob von Uexk\u00fcll, ins Leben gerufen. Der WFC folgt dem Ansatz, \"L\u00f6sungen f\u00fcr unsere gemeinsame Zukunft\" zu finden und sie politischen (n:Entscheidungstr\u00e4ger:innen x:Entscheidungstr\u00e4gerinnen y:Entscheidungstr\u00e4gern) in aller Welt vorzustellen. Der Rat des WFC setzt sich aus 50 internationalen Pers\u00f6nlichkeiten von 5 Kontinenten aus Politik, Wissenschaft, Wirtschaft, Zivilgesellschaft und Kultur zusammen. Die Ratsmitglieder bestimmen besonders dr\u00e4ngende Themen und legen die Agenda f\u00fcr die Arbeit des WFC fest."},"id":"1290bd49-0acb-40ab-b8f1-44f00b8ff59c","isHidden":false,"type":"text"}],"id":"edf8a0c9-a70e-4e75-9f1b-bee1b964fe1f","width":"1\/1"}],"id":"9cb3fa9f-742d-4975-a7bf-a7cdf343fa7d"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Internet-Partnerin des <span lang=\"en\">World Future Council<\/span>","customid":"","customclass":""},"id":"494145c1-6c13-40e1-a885-eafe478da7ba","isHidden":false,"type":"heading"},{"content":{"text":"Neben der laufenden Betreuung und Wartung der WFC-<span lang=\"en\">Website<\/span> hat die SCHOKOLADENSEITE.net schon viele verschiedene Projektseiten umgesetzt. Dazu z\u00e4hlten u. a. die Projektwebsite (link: http:\/\/www.global100re.org\/ target: _blank text: go100re title: Externer Link zur Webseite go100re (\u00d6ffnet im neuen Tab)), der <span lang=\"en\">Blog<\/span> f\u00fcr <span lang=\"en\">(link: https:\/\/www.worldfuturecouncil.org\/energy-democracy-power-to-the-people\/ target: _blank text: Power to the People title: Externer Link zur Webseite Power to the People (\u00d6ffnet im neuen Tab))<\/span>, digitale Einladungen und Anmeldepages f\u00fcr den <span lang=\"en\">(link: https:\/\/www.worldfuturecouncil.org\/de\/future-policy-award\/ target: _blank text: Future Policy Award title: Externer Link zur Webseite vom Future Policy Award (\u00d6ffnet im neuen Tab))<\/span>, und \u00fcber mehrere Jahre Projektpages f\u00fcr das <span lang=\"en\">(link: https:\/\/focities.com\/ target: _blank text: Future of Cities title: Externer Link zur Webseite Future of Cities (\u00d6ffnet im neuen Tab))<\/span>-Forum mit <span lang=\"en\">Liveblog<\/span>. Auch das Design, die Programmierung und Umsetzung der WFC-Datenbank unter (link: https:\/\/www.futurepolicy.org\/ target: _blank text: futurepolicy.org title: Externer Link zur Webseite Future of Cities (\u00d6ffnet im neuen Tab)) haben wir \u00fcbernommen. Hier finden sich, unterteilt in 4 Hauptkategorien und einfach recherchierbar, viele L\u00f6sungsans\u00e4tze, die der WFC f\u00fcr besonders nachahmenswert h\u00e4lt.\n\nDie T\u00e4tigkeit des <span lang=\"en\">World Future Council<\/span> ist immer, aber vor allem gerade jetzt besonders wichtig. Als unabh\u00e4ngige und gemeinn\u00fctzige Stiftung wird er jedoch vollst\u00e4ndig durch Spenden finanziert. Auch (link: https:\/\/www.worldfuturecouncil.org\/de\/jetzt-spenden\/?neues-spendenformular-2864\/spende target: _blank text: Ihre Spende title:Externer Link zuzum Spendenformular des World Future Council (\u00d6ffnet im neuen Tab)) kann dabei helfen, die Rechte zuk\u00fcnftiger Generationen zu wahren!"},"id":"3cb1aa40-8080-460b-b7a9-9afa04189824","isHidden":false,"type":"text"}],"id":"c3d85d04-c7d1-409e-aede-2361d2af7b32","width":"1\/1"}],"id":"6c1dd997-2b47-4eab-be06-b5d0ce88f614"}]
+
+----
+
+Date: 2022-01-19 11:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Heute stellen wir eine Organisation vor, die wir schon seit 10 Jahren betreuen dürfen: Der World Future Council (WFC). Als Internet-Partnerin des WFC haben wir schon viele verschiedene Projektseiten umgesetzt. Auch die WFC-Datenbank haben wir designt, programmiert und umgesetzt.
+
+----
+
+Articleimage: - file://YUqfB0vUENKXDdnJ
+
+----
+
+Categories: Agentur
+
+----
+
+Uuid: l0baxCqnIOf3yO6d

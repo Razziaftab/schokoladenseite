@@ -1,0 +1,49 @@
+Title: DSGVO-konformes Tracking ohne externe Dienste
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Image-ai-text: person sitting in front of computer, analytics software with statistics on the display, realistic photography, light, bright, superb quality --no face, text, characters, typo --chaos 99 --ar 24:9 --style raw
+
+----
+
+Mp3: - file://7e5B3B0ehcUVRWlx
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Mit Matomo lassen sich Webseiten, auch ohne sogenannte Cookies und DSGVO-konform, <span lang=\"en\">tracken<\/span>. Das <span lang=\"en\">Tracking<\/span> von Website-(gender: Besucher:innen x: Besucherinnen y: Besuchern xy: und) ist heutzutage von gro\u00dfer Bedeutung f\u00fcr Unternehmen und Website-(gender: Betreiber:innen x: Betreiberinnen y: Betreibern xy: und). Es erm\u00f6glicht Einblicke in das Nutzerverhalten, die Optimierung von Inhalten und die Messung des Erfolgs von Marketingkampagnen. Traditionell wurde das <span lang=\"en\">Tracking<\/span> mithilfe von Cookies durchgef\u00fchrt, doch aufgrund von Datenschutzbedenken und neuen rechtlichen Vorschriften ergeben sich dabei einige Herausforderungen f\u00fcr Website-(gender: Betreiber:innen x: Betreiberinnen y: Betreiber xy: und). In diesem Kontext stellt Matomo \u2013 u. a. durch die M\u00f6glichkeit von <span lang=\"en\">Cookieless<\/span> <span lang=\"en\">Tracking<\/span> \u2013 eine Alternative zu Google Analytics dar, die den Datenschutz respektiert und eine vollst\u00e4ndige Kontrolle \u00fcber die gesammelten Daten erm\u00f6glicht."},"id":"6a2eeee4-e5e8-47b6-89ba-2c09ab1ad10a","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h2","text":"Was ist <span lang=\"en\">Cookieless<\/span> <span lang=\"en\">Tracking<\/span>?","customid":"","customclass":""},"id":"795fb91f-07fd-402f-9967-4bf1aa9969c2","isHidden":false,"type":"heading"},{"content":{"text":"<span lang=\"en\">Cookieless<\/span> <span lang=\"en\">Tracking<\/span> bezieht sich auf eine Methode des Website-<span lang=\"en\">Trackings<\/span>, die ohne den Einsatz von <span lang=\"en\">Cookies<\/span> funktioniert. W\u00e4hrend <span lang=\"en\">Cookies Informationen auf dem Ger\u00e4t (gender: der Nutzer:in x: der Nutzerin y: des Nutzers xy: und) speichern, verwendet das <span lang=\"en\">Cookieless<\/span> <span lang=\"en\">Tracking<\/span> andere Techniken, wie beispielsweise lokale Speicherung im Browser oder die Verarbeitung von Logdateien auf dem Server. Im Vergleich zu herk\u00f6mmlichen <span lang=\"en\">Cookie-Tracking<\/span>methoden bietet <span lang=\"en\">Cookieless<\/span> <span lang=\"en\">Tracking<\/span> mehr Privatsph\u00e4re und erm\u00f6glicht es den Nutzern, die Kontrolle \u00fcber ihre Daten zu behalten."},"id":"c290df46-21d3-43c3-abfa-1c1b6d0ac45a","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h2","text":"Warum ist ein Wechsel zu Matomo sinnvoll?","customid":"","customclass":""},"id":"5d07fd0f-264e-48d7-a531-5f5f3feac46f","isHidden":false,"type":"heading"},{"content":{"preh1":"","level":"h3","text":"Datenschutz- und <span lang=\"en\">Compliance<\/span>-Vorteile von Matomo","customid":"","customclass":""},"id":"6065d32e-fabb-4483-a811-e494d8e90f3f","isHidden":false,"type":"heading"},{"content":{"text":"Matomo legt gro\u00dfen Wert auf den Schutz der Nutzerdaten. Im Gegensatz zu <span lang=\"en\">Google Analytics<\/span> werden die Daten direkt auf dem Server (gender: der\/des Website-Betreiber:in x: der Website-Betreiberin y: des Website-Betreibers xy: und) gespeichert, was die Kontrolle \u00fcber die Daten und den vollst\u00e4ndigen Zugriff darauf erm\u00f6glicht. Zudem erf\u00fcllt Matomo die Anforderungen der Datenschutzgrundverordnung (DSGVO) und erm\u00f6glicht es den Website-(gender: Betreiber:innen x: Betreiberinnen y: Betreibern xy: und), die Nutzerdaten gem\u00e4\u00df den geltenden Datenschutzbestimmungen zu verarbeiten."},"id":"beb9054f-e4a1-44ec-8f4b-148a363ac4cb","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h3","text":"Unabh\u00e4ngigkeit und volle Datenkontrolle","customid":"","customclass":""},"id":"9bdee2de-c3a5-4aa5-9e42-e6920aa5385d","isHidden":false,"type":"heading"},{"content":{"text":"Mit Matomo sind Website-(gender: Betreiber:innen x: Betreiberinnen y: Betreiber xy: und) komplett unabh\u00e4ngig von Drittanbietern wie <span lang=\"en\">Google<\/span>. Sie k\u00f6nnen die Software nach ihren individuellen Bed\u00fcrfnissen anpassen und haben volle Kontrolle \u00fcber die gesammelten Daten. Dies erm\u00f6glicht eine gr\u00f6\u00dfere Flexibilit\u00e4t bei der Analyse und Interpretation der Daten sowie die M\u00f6glichkeit, spezifische <span lang=\"en\">Dashboards<\/span> und Berichte zu erstellen."},"id":"07f401f8-0ff9-4cc2-86b4-0a458b34179d","isHidden":false,"type":"text"},{"content":{"preh1":"","level":"h3","text":"Matomo ist eine Datenschutz-freundliche Alternative","customid":"","customclass":""},"id":"9f34ab67-9604-4c3c-8750-bc37328e7ada","isHidden":false,"type":"heading"},{"content":{"text":"Matomo bietet eine Datenschutz-freundliche Alternative zu <span lang=\"en\">Google Analytics<\/span> und erm\u00f6glicht Website-(gender: Betreiber:innen x: Betreiberinnen y: Betreibern xy: und) eine gr\u00f6\u00dfere Kontrolle \u00fcber ihre Daten. Der Wechsel zu Matomo erfordert zwar technische Anpassungen, bietet jedoch zahlreiche Vorteile in Bezug auf Datenschutz, Unabh\u00e4ngigkeit und erweiterte <span lang=\"en\">Tracking<\/span>-Funktionen."},"id":"96f98a74-38ab-4619-9601-1a61ce213efd","isHidden":false,"type":"text"}],"id":"562de190-64af-41fa-8551-824848dce7d0","width":"1\/1"}],"id":"2dd22a39-7b8e-4aa3-b8f4-d2a1c84b0bc4"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":"Sprechen Sie uns an - wir finden gemeinsam eine L\u00f6sung."},"id":"45c8312d-8e95-446d-8e0c-68945763cdf4","isHidden":false,"type":"kontaktform"}],"id":"f2620ac2-8cee-4d8d-ab9e-f83bca64bdc4","width":"1\/1"}],"id":"dd4efae0-3cca-48c5-8b08-05187f6abbb8"}]
+
+----
+
+Date: 2023-06-15 08:10:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Mit Matomo lassen sich Webseiten, auch ohne sogenannte Cookies und DSGVO-konform, tracken.
+
+----
+
+Seodescription: Mit Matomo lassen sich Webseiten, auch ohne sogenannte Cookies und DSGVO-konform, tracken.
+
+----
+
+Articleimage: - file://XtwcQN8rlmwPd43Z
+
+----
+
+Categories: DSGVO, Technik
+
+----
+
+Uuid: 53V5wejcKBBOwRyx

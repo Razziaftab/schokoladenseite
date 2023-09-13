@@ -1,0 +1,60 @@
+Title: SCHOKOradeln 2021
+
+----
+
+Articleheader: 
+
+----
+
+Intro: Wir machen beim Stadtradeln 2021 mit – so wird’s das SCHOKOradeln 2021!
+
+----
+
+Mp3: - file://Fjgu1FTCY7lmTvL9
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Lebende Legenden beim SCHOKOradeln \u2013 das #SchokoTeam","customid":"","customclass":""},"id":"8c97ea69-ac17-4ff8-b9aa-3e05aad3b4ab","isHidden":false,"type":"heading"},{"content":{"text":"Das #SchokoTeam ist die erfolgreiche Radsportgruppe der SCHOKOLADENSEITE.net. F\u00fcr uns als **klimaneutrale Internetagentur** im Hamburger Univiertel ist es selbstverst\u00e4ndlich, dass unsere Team-Mitglieder (also wir alle) mit dem Rad und dem \u00d6PNV ins B\u00fcro kommen. Hier halten wir auch alles N\u00f6tige f\u00fcr die Fahrradpflege und -Reparatur bereit. Kleiner Profi-Tipp: Schokolade schmilzt bekanntlich in der Sonne. Deswegen transportieren wir unseren t\u00e4glichen Bedarf durch den Hamburger Fahrtwind stets gut gek\u00fchlt mit dem Rad zur Arbeit. \ud83d\ude09"},"id":"bb6b2f93-5961-4bc4-b198-d59b97794a45","isHidden":false,"type":"text"}],"id":"9e653b97-159c-4a1d-b0aa-179119a0bc4f","width":"1\/1"}],"id":"6f3c2528-82b6-437f-9d5c-2b05c5a64822"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/RP3M9vtyqbWZbliE"]},"id":"5dc622e3-9b5e-48f2-824c-0b3d50611402","isHidden":false,"type":"blogimage"}],"id":"93c647be-6a98-454a-a663-b3abe2fff1a3","width":"1\/2"},{"blocks":[{"content":{"text":"Nach der hervorragenden Platzierung beim Stadtradeln im letzten Jahr greifen wir beim SCHOKOradeln 2021 noch einmal richtig an und wollen in der Stadtwertung aufs Podium. Let\u2019s roll!\n\nDie neuesten Neuigkeiten \u00fcber die Aktion, Termine und Troph\u00e4en gibt\u2019s auf der Hamburg-Seite von Stadtradeln: einfach im Suchfeld #SchokoTeam eingeben, und dann nat\u00fcrlich uns die Daumen dr\u00fccken. \ud83d\udcaa\ud83d\udeb4"},"id":"b48e318f-e38a-40de-8396-f4ffb6b32b73","isHidden":false,"type":"text"}],"id":"1e2c9645-4ae2-4022-b1a9-79a4c979844d","width":"1\/2"}],"id":"895e27fe-310f-449c-8e37-52953578012c"}]
+
+----
+
+Date: 2021-08-18 11:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Wir machen beim Stadtradeln 2021 mit - so wird's das SCHOKOradeln 2021! Wir wollen in der Stadtwertung aufs Podium. Let's roll!
+
+----
+
+Articleimage: - file://OpkdzKEABQK0HcEq
+
+----
+
+Categories: Agentur, SchokoTeam
+
+----
+
+Text: 
+
+----
+
+Andere: 
+
+----
+
+Author: - zqFIebbN
+
+----
+
+Image:
+
+- >
+  nick-fewings-epkfwrvyotc-unsplash-scaled.jpg
+
+----
+
+Uuid: 6oQgV5hFz50iGLrB

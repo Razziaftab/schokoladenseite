@@ -1,0 +1,33 @@
+name: Icons
+icon: smile
+fields:
+  aussehen:
+    label: Klasse
+    type: select
+    options:
+      color-primary: rot
+      color-secondary: grau
+    width: 1/2
+  links:
+    label: Links
+    type: structure
+    fields:
+      icon:
+        label: Icon
+        type: text
+      linktext:
+        label: Text
+        type: text
+      link:
+        label: Linkauswahl
+        type: select
+        options: query
+        query: site.index.filterBy('template','in', ['default', 'referenzen'])
+        width: 1/2
+      anker:
+        label: Anker
+        type: text
+        width: 1/2
+      title:
+        label: Titel
+        type: text

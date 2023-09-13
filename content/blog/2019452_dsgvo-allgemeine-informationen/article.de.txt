@@ -1,0 +1,41 @@
+Title: DSGVO: Allgemeine Informationen
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://i9vBXc2EDlgT8Loq
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Die Datenschutzgrundverordnung (DSGVO): Informationen zum Einstieg","customid":"","customclass":""},"id":"d39a3f5f-5c47-4a2c-be6b-bf1010e4b34e","isHidden":false,"type":"heading"},{"content":{"text":"Seit dem 25. Mai 2018 regelt die EU-Datenschutzgrundverordnung DSGVO (englisch <span lang=\"en\">General Data Protection Regulation<\/span> \u2013 EU-<span lang=\"en\">GDPR<\/span>) die Verarbeitung von personenbezogenen Daten. Die bef\u00fcrchtete und von manchen auch beschworene riesige Abmahnwelle und der Untergang des Internets sind bis dato ausgeblieben. Es gab tats\u00e4chlich schon einige Abmahnungen und Bu\u00dfgelder (bis Ende 2018 41 Bu\u00dfgeldbescheide), die anf\u00e4ngliche \u201eSchonfrist\u201c der Landesdatenschutzbeauftragten d\u00fcrfte bald enden und empfindliche Strafen bei Verst\u00f6\u00dfen sind m\u00f6glich \u2013 daher sensibilisieren wir unsere (n:Kund:innen x:Kundinnen y:Kunden), die DSGVO-Regeln zu beachten, und bieten einen (link: blog\/dsgvo-sind-sie-sicher-unser-web-check-so-gehts text: DSGVO-Seitencheck title: Zum Blogbeitrag DSGVO: Sind Sie sicher? Unser Web-Check. So geht\u00b4s.) an.\n\nWir sind als Internetagentur seit jeher (n:Expert:innen x:Expertinnen y:Experten) zum Thema Datenschutz. Wir sind auf aktuellstem Stand, haben viel Erfahrung in der Beratung zur DSGVO-Konformit\u00e4t und reden Klartext mit unseren (n:Kund:innen x:Kundinnen y:Kunden). Durch die enge Zusammenarbeit mit den Datenschutzbeauftragten und (n:Anw\u00e4lt:innen x:Anw\u00e4ltinnen y:Anw\u00e4lten) b\u00fcndelt sich bei uns das Wissen, wir haben so jederzeit den \u00dcberblick zur rechtskonformen Gestaltung Ihrer Digitalen Projekte. Vieles im Bereich Datenschutz befindet sich noch in einer juristischen Grauzone. Wir beraten Sie \u00fcber eventuelle Risiken Ihrer Marketingma\u00dfnahmen und bieten Ihnen eine aussagekr\u00e4ftige Bewertung.\n\nZur besonders heiklen Verwendung von <span lang=\"en\">Google Analytics<\/span> haben wir Ihnen eine Checkliste mit 6 Punkten in unserem <span lang=\"en\">Blog<\/span> erstellt:\n(link: blog\/dsgvo-google-analytics-rechtssicher-einsetzen text: DSGVO: Google Analytics rechtssicher einsetzen title: Zum Blogbeitrag DSGVO: Google Analytics rechtssicher einsetzen\n)\n\nHaben Sie Fragen zum Thema DSGVO? Sprechen Sie uns gerne an! (link: kontakt text: Hier geht\u2019s zum Kontaktformular) ."},"id":"905b3ee8-88bd-443a-97d8-8c5611178438","isHidden":false,"type":"text"}],"id":"84730958-b688-4c28-a4e2-38d1daffe186","width":"1\/1"}],"id":"0a594b9b-471b-443f-ae7d-8fd5b26e9257"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/FaeRQptAMoGmV4wK"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"8992726c-b336-4901-b4c9-a56d8c6784fa","isHidden":false,"type":"cta"}],"id":"f5655624-8792-4a9f-919b-ee037184156a","width":"1\/1"}],"id":"a7e41249-34ac-4a48-af59-73bf13307a21"}]
+
+----
+
+Date: 2019-09-02 10:45:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Die Datenschutzgrundverordnung (DSGVO): Informationen zum Einstieg Seit dem 25. Mai 2018 regelt die EU-Datenschutzgrundverordnung DSGVO...
+
+----
+
+Articleimage: - file://Q4jUWBJjRnM3l3Ij
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: oB5UkrVYM06AB11i

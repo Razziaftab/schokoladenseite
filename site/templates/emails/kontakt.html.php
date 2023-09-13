@@ -1,0 +1,10 @@
+<p>Lieblingsschokolade: <?= $schokolade ?></p>
+<p>Interesse: <?php if(isset($interesse)): ?><?=implode(',', $interesse) ?><?php endif ?></p>
+<p>Firma: <?= $firma ?></p>
+<p>Vorname: <?= $vorname ?></p>
+<p>Name: <?= $sender ?></p>
+<p>E-Mail: <?= $email ?></p>
+<p>Telefon: <?= $tel ?></p>
+<p>Mitteilung: <?= $text ?></p>
+<p>Aufmerksam: <?= $aufmerksam ?></p>
+<p>Datenschutzerklärung zugestimmt: <?= $datenschutz ?></p>

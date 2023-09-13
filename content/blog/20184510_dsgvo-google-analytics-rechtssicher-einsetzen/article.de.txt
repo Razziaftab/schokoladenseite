@@ -1,0 +1,41 @@
+Title: DSGVO: Google Analytics rechtssicher einsetzen
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://YJIpIPGiCHqQsiM5
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"<span lang=\"en\">Google Analytics<\/span> wirklich rechtssicher einzubinden, will gekonnt sein!"},"id":"5bf8eede-8487-4041-86be-d1b4d1b5b304","isHidden":false,"type":"text"}],"id":"3d6e21af-daba-449a-b6e0-91e129ccf2d1","width":"1\/1"}],"id":"24108dbe-0de4-44be-a61c-57fc965c852c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Welche 6 Punkte dazu beachtet werden m\u00fcssen","customid":"","customclass":""},"id":"4671ee5a-5a8a-41b2-891b-cc78318656be","isHidden":false,"type":"heading"},{"content":{"text":"1. Es muss ein (link: blog\/dsgvo-auftragsverarbeitungsvertrag-avv text: ADV-Vertrag title: Zum Blogbeitrag DSGVO: Auftragsverarbeitungsvertrag (AVV)) mit <span lang=\"en\">Google<\/span> geschlossen werden\n2. Wie Sie das machen, dazu finden Sie (link: https:\/\/www.datenschutzbeauftragter-info.de\/fachbeitraege\/google-analytics-datenschutzkonform-einsetzen\/ text: hier eine tolle Anleitung unter Punkt 1 target: _blank rel: noopener title: Externer Link zum Beitrag Google Analytics datenschutzkonform einsetzen von Datenschutzbeauftragter Info (\u00d6ffnet im neuen Tab))\n3. Es muss die Option \"<span lang=\"en\">anonymizeIP<\/span>\" aktiviert werden\n4. Es muss der <span lang=\"en\">Trackingcode<\/span> korrekt auf jeder Seite eingebunden werden\n5. Es muss der korrekte <span lang=\"en\">Javascript-Link<\/span> und Code f\u00fcr die Widerspruchserkennung (<span lang=\"en\">Opt-out JS Code<\/span>) korrekt umgesetzt werden\n6. Es m\u00fcssen alle o.g. Punkte mit den passenden Formulierungen in Ihrer Datenschutzerkl\u00e4rung dargestellt werden\n7. Es m\u00fcssen ggf. rechtswidrig erhobene Altdaten gel\u00f6scht werden. Dies ist ggf. geschehen, wenn durch <span lang=\"en\">Google Analytics<\/span> Nutzerprofile ohne <span lang=\"en\">anonymizeIP<\/span> erstellt wurden. Wie man diese l\u00f6scht? Auch dazu gibt es (link: https:\/\/www.datenschutzbeauftragter-info.de\/fachbeitraege\/google-analytics-datenschutzkonform-einsetzen\/ text: hier eine tolle Anleitung unter Punkt 4  target: _blank rel: noopener title: Externer Link zum Beitrag Google Analytics datenschutzkonform einsetzen von Datenschutzbeauftragter Info (\u00d6ffnet im neuen Tab))"},"id":"10d303dc-9e97-4722-b3e7-f9f7fb59372d","isHidden":false,"type":"text"}],"id":"dc9bd3de-4dcf-411b-8301-29f90f91d02d","width":"1\/1"}],"id":"dc45429b-a27e-4858-9a5f-855695886e66"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"9018bb01-6ce0-4665-a584-310956819953","isHidden":false,"type":"kontaktform"}],"id":"d16ea7f6-62d1-4413-beed-23d207285d28","width":"1\/1"}],"id":"dd6ea1f8-f8ab-4e51-ae7e-00cb586fd689"}]
+
+----
+
+Date: 2018-04-10 13:45:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Google Analytics wirklich rechtssicher einzubinden, will gekonnt sein! Welche 6 Punkte dazu beachtet werden müssen.
+
+----
+
+Articleimage: - file://HqmizMTLRwUIpOP5
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: mJ1XvIYu0aNgfx0o

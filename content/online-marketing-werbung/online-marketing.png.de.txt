@@ -1,0 +1,9 @@
+Alt: Ein Smartphone dessen Bildschirm Diagramme darstellt
+
+----
+
+Title: Smartphone
+
+----
+
+Template: files-upload

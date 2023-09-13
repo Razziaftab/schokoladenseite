@@ -1,0 +1,45 @@
+Title: Online Praktikum (Vollzeit)
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Image-ai-text: 
+
+----
+
+Mp3: 
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"**Voraussetzung f\u00fcr diesen Praktikumsplatz ist, dass das Praktikum im Rahmen Deiner Ausbildung verpflichtend stattfindet.**"},"id":"f2bbaa0f-2048-426c-963e-2631a88dd5eb","isHidden":false,"type":"text"}],"id":"63a9dabd-4892-49cc-8258-3adbec2ca6c0","width":"1\/1"}],"id":"6529b4b4-86c7-42c5-8773-fdeb7b28336f"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Zu Deinen <span lang=\"en\">Allround<\/span>-Aufgaben w\u00e4hrend des Praktikums geh\u00f6ren unter anderem z.B.:","customid":"","customclass":""},"id":"7d754180-63f5-4a01-ab07-5ff2d22afaac","isHidden":false,"type":"heading"},{"content":{"text":"- Bildbearbeitung\n- Gestaltung von Webgrafiken\n- Webdesign \/ <span lang=\"en\">Layouts<\/span> in Photoshop\n- Ggf. Konzeption und Erstellung von Drucksachen\n- Pflege von <span lang=\"en\">Onlineshops<\/span>\n- <span lang=\"en\">Social Media<\/span> und <span lang=\"en\">Facebook<\/span>pflege\n- Konzeption von <span lang=\"en\">Newslettern<\/span>\n- Bildrecherche\n- Onlinetexte verfassen\n- SEO-Ma\u00dfnahmen ausf\u00fchren\n- Empfang und Telefon\n- Bei entsprechenden Kenntnissen auch HTML\/CSS Aufgaben\n- Online-Recherche\n- Teamorientiertes Arbeiten"},"id":"c06d7255-aebe-48af-a493-c7966751c129","isHidden":false,"type":"text"}],"id":"6750e6b6-e691-40ec-9819-3bbd740ea613","width":"1\/1"}],"id":"17a59085-1b18-4009-a52d-f3aa75c0afe7"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Das sollst Du mitbringen:","customid":"","customclass":""},"id":"d10dd35c-c735-4dbb-81f8-b74810fda5e6","isHidden":false,"type":"heading"},{"content":{"text":"- Abitur oder Fachabitur (Gymnasialabschluss)\n- Gute Deutschkenntnisse in Wort und Schrift\n- Lernbereitschaft\n- Selbst\u00e4ndige Arbeitsweise\n- Zuverl\u00e4ssigkeit\n- Affinit\u00e4t zu Onlinemedien\n- Gute Kenntnisse im Umgang mit Grafik-, Layout- und Bildbearbeitungsprogrammen\n- Spa\u00df an der Arbeit und hoch motiviert\n- Kommunikativ und zielorientiert\n- Einhaltung von Timings\n- 6 Monate Zeit\n- (n:Student:in x:Studentin y:Student) im Bereich Grafik, Medien, Kommunikation, Online o.\u00e4. Auch (n:Quereinsteiger:innen x:Quereinsteigerinnen y:Quereinsteiger) m\u00f6glich."},"id":"40711c94-2240-438b-aff3-0d49167cc55a","isHidden":false,"type":"text"}],"id":"f2b24981-71fa-4dfb-b864-5b98c48e7b47","width":"1\/1"}],"id":"bcb67f04-7de8-460c-95d3-a3b9b59fe26f"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wir bieten:","customid":"","customclass":""},"id":"1082d7fa-4e32-40c8-b096-9258bcd7a4b0","isHidden":false,"type":"heading"},{"content":{"text":"- Ein nettes und junges Arbeitsumfeld\n- Eigener Arbeitsplatz im wundersch\u00f6nen Univiertel\n- Eigene Projekte\n- Kurze Entscheidungswege\n- Geringf\u00fcgige Entlohnung\n- Ggf. Option auf \u00dcbernahme oder k\u00fcnftigen Nebenjob"},"id":"744c62a1-10b3-4360-8f71-e6d94f862fd3","isHidden":false,"type":"text"}],"id":"d0b5ff3b-df00-47d8-bc52-389ed5cacf98","width":"1\/1"}],"id":"7577c4a6-b99f-4866-9e88-578fb8f1da74"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Interesse?","customid":"","customclass":""},"id":"83a17649-c9fd-4717-a7a6-9baa86cee049","isHidden":false,"type":"heading"},{"content":{"text":"Du suchst nach einer neuen Herausforderung und m\u00f6chtest in die Arbeitswelt der SCHOKOLADENSEITE.net schnuppern? Dann sende uns jetzt Deine aussagekr\u00e4ftige Bewerbung per E-Mail an: bewerbung@schokoladenseite.net\nunter Angabe:\n\n- Deines Praktikumszeitraumes und -l\u00e4nge\n- Deines Lebenslaufs\n- idealerweise erste Arbeitsproben\n- wenn schon vorhanden den Nachweis zum Pflichtpraktikum (Immatrikulationsbescheinigung, Passus der Studienordnung und ggf. Best\u00e4tigungsschreiben der Hochschule mit Hinweis zur maximalen L\u00e4nge des verpflichtenden Praktikums)\n\nDeine Ansprechpartnerin: Andrea Christan"},"id":"ff31d2e3-868b-416b-861d-2ae29e5e4a09","isHidden":false,"type":"text"}],"id":"b34ceda0-6bfe-4e8a-8069-ed8be724790d","width":"1\/1"}],"id":"849c5f04-6e1a-4c7c-be97-465367041aac"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":[],"id":"b23b266d-6e3e-4e91-95a8-7fe09abfc3c9","isHidden":false,"type":"bewerbung"}],"id":"ae38ae73-7115-4fbc-9aff-b65cf755ba06","width":"1\/1"}],"id":"ddbe0c4e-670f-4190-9e2d-33eef336c067"}]
+
+----
+
+Date: 2023-01-08 09:30:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Voraussetzung für diesen Praktikumsplatz ist, dass das Praktikum im Rahmen Deiner Ausbildung verpflichtend stattfindet. Zu Deinen Allround-Aufgaben...
+
+----
+
+Articleimage: - file://xTm6F2QBOpY5EuPo
+
+----
+
+Categories: Jobs, Agentur
+
+----
+
+Uuid: gfEApDqTCLq1jXIx

@@ -1,0 +1,208 @@
+.btn {
+	display: block;
+	width: 100%;
+	padding: .8em 1.5em;
+	border-radius: 5px;
+	box-shadow: 0 3px 4px rgba(0, 0, 0, 0.152);
+	border: 0;
+	vertical-align: middle;
+	background: $grey;
+	color: $black;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+	line-height: 1.2;
+	font-family: $font-primary;
+
+	@media (forced-colors: active) {
+		text-decoration: underline;
+	}
+
+	i {
+		margin-left: .5em;
+		margin-right: -.4em;
+	}
+
+	&:hover,
+	&:focus {
+		background: #cecece;
+		cursor: pointer;
+		outline: none;
+	}
+
+	&:active {
+		transform: translateY(1px);
+		box-shadow: none;
+	}
+
+	&.-small {
+		padding: .6em 1em;
+	}
+
+	&.-large {
+		font-size: 1.1rem;
+	}
+
+	&.-primary,
+	&.-gradient {
+		background: $primary;
+		border: 2px solid $primary;
+		color: white;
+		position: relative;
+		transition: all .2s;
+		text-transform: uppercase;
+		font-size: .94rem;
+
+		&:not(.filter) {
+			padding-right: 45px;
+
+			@media (forced-colors: active) {
+				padding-right: 65px
+			}
+		}
+
+		&:not(.filter):after {
+			content: '\f054';
+			font-weight: 900;
+			font-family: "Font Awesome 5 Free";
+			position: absolute;
+			right: 1.5em;
+			top: 50%;
+			transform: translateY(-50%);
+		}
+
+		&:hover,
+		&:active,
+		&.active,
+		&:focus {
+			background: #ffffff;
+			color: $primary;
+		}
+
+		&:focus-visible {
+			outline: 2px solid black;
+			outline-offset: -9px;
+		}
+	}
+
+	&.-white {
+		background: white;
+		border: 2px solid $primary;
+		color: $primary !important;
+		text-shadow: none;
+
+		&:hover,
+		&:active,
+		&.active {
+			background: $primary;
+			color: #ffffff !important;
+		}
+
+		&:focus-visible {
+			background: $primary;
+			color: #ffffff !important;
+		}
+	}
+
+	@media $smartphone-big {
+		display: inline-block;
+		width: auto;
+	}
+}
+
+.filter-button-group {
+	margin: 0;
+	padding: 0;
+
+	li:before {
+		content: none;
+	}
+
+	.btn {
+		margin: 0;
+		background: $primary;
+		border: 2px solid $primary;
+		color: #fff;
+
+		&:hover,
+		&:active,
+		&.active {
+			background: #ffffff;
+			color: $primary;
+
+			@media (forced-colors: active) {
+				color: Canvas; //L:b D:w
+				background: CanvasText; //L:w D:b
+			}
+		}
+
+		+.btn {
+			margin-top: 20px;
+		}
+
+		&:focus-visible {
+			outline: 2px solid black;
+			outline-offset: -9px;
+		}
+	}
+
+	@media $smartphone-big {
+
+		.btn {
+			margin: 10px 6px 6px 0 !important;
+		}
+	}
+
+	@media $tablet-small {
+
+		.btn {
+			margin: 10px 6px 0 0 !important;
+		}
+	}
+
+	&.filters-blog {
+		.btn {
+			padding: 0;
+
+			a {
+				color: white;
+				border-radius: 5px;
+				padding: .6em 1em;
+
+				&::before {
+					content: none;
+				}
+
+				&:hover,
+				&:active,
+				&.active {
+					background: #ffffff;
+					color: $primary;
+
+					@media (forced-colors: active) {
+						color: Canvas; //L:b D:w
+						background: CanvasText; //L:w D:b
+					}
+				}
+			}
+
+			&.active {
+				a {
+					color: $primary;
+				}
+			}
+		}
+	}
+}
+
+// pagination for "blog" and "referenzen"
+.articles-pagination {
+	a {
+		// font-size: 30px;
+		margin-right: 1em;
+
+		&.active {
+			font-weight: bold;
+		}
+	}
+}

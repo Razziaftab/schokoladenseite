@@ -1,0 +1,26 @@
+title: Agentur
+tabs:
+  content: tabs/content
+  seo: tabs/seo
+  pages: tabs/pages
+  Dateien: tabs/dateien
+  Kunden-Logos:
+    label: Kunden-Logos
+    icon: image
+    sections:
+      logos: 
+        type: fields
+        label: Logos
+        fields: 
+          kunde: 
+            type: structure
+            fields:
+              logo:
+                type: files
+                label: Logo
+                uploads: false
+                query: page.images
+                max: 1
+              name:
+                type: text
+                label: Name

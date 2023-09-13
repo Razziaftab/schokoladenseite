@@ -1,0 +1,41 @@
+Title: Datenschutzvereinbarung mit den USA – a never-ending story …
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://PxPUk3gVOKTlp6vH
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Der EuGH hat das \"<span lang=\"en\">Privacy Shield<\/span>\"-Abkommen f\u00fcr unwirksam erkl\u00e4rt \u2013 was bedeutet das f\u00fcr europ\u00e4ische Firmen?","customid":"","customclass":""},"id":"b5018d92-5fc1-4605-ba67-74ab45620c8d","isHidden":false,"type":"heading"},{"content":{"text":"Mit dem aktuellen Urteil des EuGH zur Unwirksamkeit des Datenschutzabkommens \"<span lang=\"en\">Privacy Shield<\/span>\" stehen Unternehmen mal wieder vor der Frage, ob man von US-Unternehmen derzeit \u00fcberhaupt rechtskonform personenbezogene Daten verarbeiten lassen kann. Verk\u00fcrzt lautet die Antwort des EuGH: Nein."},"id":"2183b6b4-7d43-4190-b881-682a3fcd050f","isHidden":false,"type":"text"}],"id":"fca26c0f-da83-43cf-b995-21ce2333dc79","width":"1\/1"}],"id":"88a216f0-4629-4ba0-93d0-6b37820b5489"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"<span lang=\"en\">Server<\/span> in der EU als Option","customid":"","customclass":""},"id":"cf65eae2-9775-41d8-982e-d119df2f019f","isHidden":false,"type":"heading"},{"content":{"text":"Das hat nat\u00fcrlich gravierende Folgen f\u00fcr all jene Unternehmen, die mit US-Firmen wie z.B. <span lang=\"en\">Facebook<\/span>, <span lang=\"en\">Google<\/span> oder <span lang=\"en\">Microsoft<\/span> zusammenarbeiten. Manche dieser Unternehmen bieten die M\u00f6glichkeit an, Daten nur auf Servern in der EU zu speichern \u2013 damit w\u00fcrden die Daten nicht in ein Drittland \u00fcbertragen und unterliegen automatisch den Bestimmungen der DSGVO. Problem gel\u00f6st.\n\nEine andere M\u00f6glichkeit ist die Verwendung von sogenannten Standardvertragsklauseln, die den Vertragspartner verpflichten, Datenschutz gem\u00e4\u00df DSGVO zu gew\u00e4hrleisten. Diese sind nach dem EuGH-Entscheid grunds\u00e4tzlich zul\u00e4ssig. Aber auch hier gilt nat\u00fcrlich: die USA gelten wegen ihrer \u00dcberwachungsgesetze, die viel weiter gehen als Regelungen in der EU, nicht als Land, das europ\u00e4isches Datenschutzniveau garantiert. Dem Vertragspartner in den USA w\u00e4re es nicht m\u00f6glich, den Nachweis \u00fcber DSGVO-konformen Datenschutz zu erbringen, da er die US-Gesetze beachten muss. Die Standardschutzklausel w\u00fcrde bei gerichtlicher Pr\u00fcfung f\u00fcr unwirksam erkl\u00e4rt. Das Problem ist also h\u00f6chstens aufgeschoben."},"id":"d67b6f43-cfcc-4e0a-9d1f-389b1a31ca81","isHidden":false,"type":"text"}],"id":"e19685a0-d134-4e50-b33e-55d09518c876","width":"1\/1"}],"id":"3ddda98e-237d-4e0a-b26c-79dc42f48f18"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Was tun? Was tun!","customid":"","customclass":""},"id":"64388079-c4a4-4afa-bc6d-b62f96803427","isHidden":false,"type":"heading"},{"content":{"text":"Die zust\u00e4ndigen Aufsichtsbeh\u00f6rden k\u00f6nnen die Unterlassung der Daten\u00fcbertragung verlangen und Bu\u00dfgelder verh\u00e4ngen, Abmahnungen von (n:Nutzer:innen x:Nutzerinnen y:Nutzern) oder auch (n:Mitbewerber:innen x:Mitbewerberinnen y:Mitbewerbern) sind m\u00f6glich. Sie sollten also schnellstens aktiv werden:\n\n- fordern Sie von Ihren US-Partnern die ausschlie\u00dfliche Datenverarbeitung auf EU-<span lang=\"en\">Servern<\/span>\n- beenden Sie ansonsten die Zusammenarbeit; insbesondere mit Firmen, die US-Subunternehmen einsetzen\n- passen Sie Ihre Datenschutzhinweise an, falls diese noch <span lang=\"en\">Privacy Shield<\/span> enthalten sollten\n\nNutzen Sie gerne auch unseren (link: dsgvo-check text: kostenpflichtigen DSGVO-Check title: Zum DSGVO-Check Anfrageformular), wenn Sie unsicher sind, ob Ihr Internetauftritt noch den ver\u00e4nderten Rechtsbedingungen entspricht. Unsere (n:Datenschutzexpert:innen x:Datenschutzexpertinnen y:Datenschutzexperten) sind immer auf dem neuesten Stand!"},"id":"6970e045-f4c8-4c3a-a767-b0a0e1042799","isHidden":false,"type":"text"}],"id":"e48f29f8-9fbc-4887-9963-0e663f98972d","width":"1\/1"}],"id":"fc0b7738-2ee8-469f-8775-343883f557e4"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/K8cXZ9oYPE9UohHR"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"cfc04fa1-111f-4ea7-bcde-71d3e86eccd8","isHidden":false,"type":"cta"}],"id":"1b5c0d0f-38bb-4f01-b58e-f6c35a42fb9a","width":"1\/1"}],"id":"26e68c50-9373-4c19-a86b-5b94868bfb9d"}]
+
+----
+
+Date: 2020-07-20 12:50:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Der EuGH kippt die Datenschutzvereinbarung "Privacy Shield" - was bedeutet das für europäische Firmen?
+
+----
+
+Articleimage: - file://s0sBLmK0hVMkyUq9
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: 7qXcEDQ3xOooi6y7

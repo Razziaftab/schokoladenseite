@@ -1,0 +1,17 @@
+Alt: Auf einem Schreibtisch sind ein Laptop, Smartphone, Notizbuch und eine Tasse Kaffee
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

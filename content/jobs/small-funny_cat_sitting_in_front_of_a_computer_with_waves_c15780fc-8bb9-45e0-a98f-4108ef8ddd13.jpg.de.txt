@@ -1,0 +1,5 @@
+Uuid: GJ855nwGxCPt21I6
+
+----
+
+Template: blocks/image

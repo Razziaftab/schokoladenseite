@@ -1,0 +1,41 @@
+Title: Stellenanzeigen: Strukturierte Daten sorgen für bessere Suchergebnisse
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://qVpXkV1eR3DOZ6px
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Bietet Ihr Unternehmen \u00fcber Ihre <span lang=\"en\">Homepage<\/span> offene Stellen an? Um die Auffindbarkeit dieser Job-Angebote f\u00fcr Suchmaschinen zu verbessern, sollte man **strukturierte Daten** verwenden. Diese erleichtern es den Suchmaschinen, den Seiteninhalt als Stellenanzeige zu interpretieren. Dadurch werden die Stellenausschreibungen in den Suchergebnissen besonders detailliert dargestellt."},"id":"24356b87-609b-41ee-9e56-4b37f287814f","isHidden":false,"type":"text"}],"id":"de2a4348-b941-441d-9874-e244e4db980d","width":"1\/1"}],"id":"db650683-310a-424c-9c76-e03e0d263529"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Was sind \u00fcberhaupt strukturierte Daten?","customid":"","customclass":""},"id":"ca206006-173b-43f1-854f-ff62970b6b85","isHidden":false,"type":"heading"},{"content":{"text":"Suchmaschinen benutzen automatische Suchroutinen, mit denen sie Internetseiten aufsuchen und den Inhalt kategorisieren. Die gewonnenen Informationen werden dann dazu genutzt, die Seite bei den passenden Suchbegriffen anzuzeigen. Wenn (n:die\/der Seitenbetreiber:in x:die Seitenbetreiberin y:der Seitenbetreiber) den Inhalt (n:ihrer\/seiner x:ihrer y:seiner) Seite mittels strukturierter Daten selbst kategorisiert, erleichtert (n:sie\/er x:sie y:er) den Suchmaschinen also ihre Arbeit \u2013 aber vor allem sorgt (n:sie\/er x:sie y:er) daf\u00fcr, dass (n:ihre\/seine x:ihre y:seine) Seite relevanter bei der Anzeige von Suchergebnissen wird. Neben der Markierung von Text, z.B. als Kochrezept, sind viele weitere Kategorien m\u00f6glich, wie z.B. die Anschrift Ihres Unternehmens oder Ihre \u00d6ffnungszeiten, die dann von den Suchmaschinen gezielt ausgespielt werden k\u00f6nnen."},"id":"a45e225b-50a8-41d3-bd30-13da844dd928","isHidden":false,"type":"text"}],"id":"0ad91ea2-d4ac-4459-b4f9-d88888cc216a","width":"1\/1"}],"id":"821c65ac-8ee8-4f03-a939-4c5114fac5fa"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Bessere Position in Suchmaschinenergebnissen","customid":"","customclass":""},"id":"f7fd2306-520d-490b-bcc5-961ef9039000","isHidden":false,"type":"heading"},{"content":{"text":"Ein Beispiel: Bei **<span lang=\"en\">Google Jobs<\/span>** werden die Stellenanzeigen automatisch ausgewertet \u2013 hier kann sich Ihr Unternehmen durch die gezielte Verwendung von strukturierten Daten besser positionieren, was auch zu mehr Bewerbungen f\u00fchren kann. Obligatorisch sind markierte Informationen bspw. zur Art der Stelle, Arbeitgeber und Arbeitsort. Diese Angaben sind nat\u00fcrlich ohnehin schon in Ihrer Stellenanzeige enthalten und k\u00f6nnen relativ einfach als strukturierte Daten markiert werden.\n\nDurch die Verwendung von strukturierten Daten wird die Stellenanzeige von SCHOKOLADENSEITE.net bei <span lang=\"en\">Google<\/span> prominent angezeigt."},"id":"2cebef58-bfc0-49ce-8fd6-287d2ef92a8c","isHidden":false,"type":"text"}],"id":"e1ba9237-6216-48d5-8334-58a7d8f0edf2","width":"1\/2"},{"blocks":[{"content":{"image":["file:\/\/SOWtUPZ5uUD3JEJ9"]},"id":"8cb9614b-86df-40ee-b5aa-89b1b659a411","isHidden":false,"type":"blogimage"}],"id":"db91f8fe-5e62-4b7d-95f2-1e30c63555a1","width":"1\/2"}],"id":"912661ba-7aee-4cd3-ba44-63a957bcb291"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/hpn6ma1Zeiva5RJA"]},"id":"373946c5-ec44-4202-a016-d6dc1ea12452","isHidden":false,"type":"blogimage"}],"id":"f7395da1-298a-4b0c-a141-390848167462","width":"1\/2"},{"blocks":[{"content":{"preh1":"","level":"h2","text":"Bewertungen auf Jobportalen anzeigen","customid":"","customclass":""},"id":"7b16fac1-6977-4d54-aefa-a5f250b4a368","isHidden":false,"type":"heading"},{"content":{"text":"Wenn f\u00fcr Ihr Unternehmen auch Bewertungen auf Job-Portalen vorliegen, k\u00f6nnen Sie diese zusammen mit dem Suchergebnis anzeigen lassen. Dazu verwenden Sie strukturierte Daten vom Typ \"<span lang=\"en\">EmployerAggregateRating<\/span>\". Voraussetzung hierf\u00fcr ist, dass die Nutzer auf der Webseite Bewertungen f\u00fcr Ihr Unternehmen abgeben k\u00f6nnen.\n\nKommt Ihnen das Thema strukturierte Daten immer noch spanisch vor? Kein Problem, das ist ganz normal! Wir \u00fcbernehmen gern den technischen Teil f\u00fcr Sie, damit Sie in Zukunft offene Stellen in Ihrem Unternehmen reibungslos besetzen k\u00f6nnen."},"id":"1bdba541-0ade-4a9e-b2b9-682b58f861b3","isHidden":false,"type":"text"}],"id":"7aa1e8a3-f06a-44fb-b646-51a73b2f8a6e","width":"1\/2"}],"id":"763e7c7d-2498-4c81-a6cf-087b68c13cdd"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"bf19907f-725b-4ee4-8604-3de939dde0a8","isHidden":false,"type":"kontaktform"}],"id":"ce3c07cb-5f32-406a-8aac-514256c36d39","width":"1\/1"}],"id":"88f59854-c98d-4046-a6f9-83bdfa27f5c9"}]
+
+----
+
+Date: 2020-09-13 10:30:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Um die Auffindbarkeit Ihrer Job-Angebote für Suchmaschinen zu verbessern, sollten Sie strukturierte Daten verwenden.
+
+----
+
+Articleimage: - file://5LUJj0sp4MSKpdhi
+
+----
+
+Categories: SEO, Technik, Marketing
+
+----
+
+Uuid: RVgMfVLxKDIGtk46

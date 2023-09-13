@@ -1,0 +1,32 @@
+title: Adventskalender
+tabs:
+  pages:
+    extends: tabs/pages
+    sections:
+      drafts:
+        create: door
+      published:
+        layout: cards
+        info: " {{ page.door }}"
+  content:
+    icon: text
+    label: Seiteninhalte
+    fields:
+      fallback:
+       type: files
+      bild:
+       type: files
+      header:
+        type: markdown
+        label: Überschrift
+        size: small
+        buttons:
+          - bold
+          - gender
+      text:
+        type: markdown
+        buttons:
+          - bold
+          - gender
+  seo: tabs/seo
+  Dateien: tabs/dateien

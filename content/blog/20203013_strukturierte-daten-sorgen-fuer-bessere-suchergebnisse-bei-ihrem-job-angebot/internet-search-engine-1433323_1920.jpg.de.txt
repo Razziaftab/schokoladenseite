@@ -1,0 +1,13 @@
+Alt: Ein Tabletbildschirm zeigt das Google-Suchfeld.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 5LUJj0sp4MSKpdhi

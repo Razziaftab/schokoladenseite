@@ -1,0 +1,29 @@
+Title: Macht hoch die Tür - der SCHOKO-Adventskalender ist da!
+
+----
+
+Seodescription: Andrea, du hast dich bereit erklärt, der Redaktion des digitalen SCHOKO-Adventskalenders ein paar Fragen zu beantworten. Wir fallen am besten gleich mit der Tür ins Haus...
+
+----
+
+Image: - 01.jpg
+
+----
+
+Door: 1
+
+----
+
+Size: col-2
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Macht hoch die T\u00fcr - der SCHOKO-Adventskalender ist da!**\n### \nAndrea, du hast dich bereit erkl\u00e4rt, der Redaktion des digitalen SCHOKO-Adventskalenders ein paar Fragen zu beantworten. Wir fallen am besten gleich mit der T\u00fcr ins Haus: \n\n**Warum gibt es dieses Jahr einen digitalen Adventskalender von SCHOKOLADENSEITE.net? Was kann der, was eine Postkarte nicht kann?**\n*Andrea: Gegenfrage: Was war eine Postkarte nochmal? Ich finde ihn vor allem so alternativlos, weil er so viel abwechslungsreicher ist als jedes andere Format. Best\u00fcckt mit Texten, sch\u00f6nen Bildern und Videomaterial ist es doch so viel spannender! Au\u00dferdem zeigen wir mit dem SCHOKO-Adventskalender Gesicht: n\u00e4mlich \"unsere\" Schokoladenseiten, und auch unsere (n:Kolleg:innen x:Kolleginnen y:Kollegen) sind mit einem Foto dabei. Zumindest die meisten ...*\n\n**F\u00fcr unsere (n:Kund:innen x:Kundinnen y:Kunden) gestalten wir den digitalen Adventskalender h\u00e4ufig nach einem bestimmten Motto. Ist das bei unserem eigenen Kalender denn auch so?**\n*Andrea: Na klar, es dreht sich nat\u00fcrlich alles rund um SCHOKOLADE. Wir sind halt (n:\u00dcberzeugungst\u00e4ter:innen x:\u00dcberzeugungst\u00e4terinnen y:\u00dcberzeugungst\u00e4ter)...\nDabei geht es auch ums Teilen: Wir teilen z.B. unsere geheimen Schokoladenrezepte mit unseren (n:Leser:innen x:Leserinnen y:Lesern). Oder die Kalender-T\u00fcrchen in Sozialen Medien. Und manchmal teilen wir sogar echte Schokolade. \ud83d\ude42*\n\n**Welche weiteren Themen verstecken sich hinter den T\u00fcrchen? Darfst du etwas verraten?**\n*Andrea: Na ja, wenn du so nett fragst ... \ud83d\ude09 Wir zeigen etwas, wer wir eigentlich sind. Da stecken ja einige tolle Pers\u00f6nlichkeiten hinter der SCHOKOLADENSEITE.net. Au\u00dferdem wollen wir ein paar Sachen vorstellen, die uns wichtig sind, z.B. im Bereich CSR, verschiedene Projekte und Organisationen usw. Dann verzichten wir ja traditionell auf Weihnachtsgeschenke und spenden jedes Jahr an ein ganz besonderes Projekt. Meistens sind es Organisationen, die ich selbst direkt kennenlernen durfte. Diesmal ist es die Initiative REMO aus Nicaragua, die wir auch gesondert vorstellen werden. \nAls besondere \u00dcberraschung haben wir uns noch ein SCHOKO-Quiz ausgedacht - es winkt ein toller Hauptgewinn.  Jetzt habe ich aber auch schon fast zu viel verraten ...*\n\n**Vielen Dank f\u00fcr das Gespr\u00e4ch und die leckere Schokolade!**\n**Ho ho ho! Ho ho ho! Ho ho ho! Ho ho ho! Ho ho ho! Ho ho ho! Ho ho hooooo!**"},"id":"223e5cb6-732c-4291-bde2-a02f0c497a5b","isHidden":false,"type":"text"}],"id":"28b8fc35-e49c-4c69-a59b-7f0fd794bec3","width":"1\/1"}],"id":"3403e200-1be2-41f1-ad93-daa87987bf9b"},{"attrs":[],"columns":[{"blocks":[],"id":"a97ea551-3187-42bf-9f90-448e0c703e54","width":"1\/1"}],"id":"c4b1d07f-007c-4d13-b3cc-2f448186bb99"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: MNUq7o2WEVqYkElm

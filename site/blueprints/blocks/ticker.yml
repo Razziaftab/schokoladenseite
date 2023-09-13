@@ -1,0 +1,16 @@
+name: Ticker
+icon: text
+fields:
+  text:
+    type: markdown
+    inline: true
+    autofocus: true
+    buttons:
+      - bold
+      - italic
+      - divider
+      - link
+      - pagelink
+      - divider
+      - gender
+      - lang

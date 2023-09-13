@@ -1,0 +1,253 @@
+.slide-out {
+
+  .slide-element {
+    padding-bottom: 30px;
+    margin-right: 20px;
+
+    >div:first-child {
+      background: $primary;
+      padding: 30px;
+      color: white;
+
+      h2 {
+        font-size: 140%;
+      }
+    }
+
+    >div:nth-child(2) {
+      background: $grey;
+      z-index: 10;
+
+      >img {
+        transition: all 0.3s;
+      }
+    }
+
+    >div:nth-child(3) {
+      background: #ececec;
+      display: flex;
+      flex-wrap: wrap;
+
+      >div {
+        width: 50%;
+      }
+    }
+  }
+
+  @media $tablet-big {
+
+    .slide-element {
+      display: flex;
+      margin-right: 30px;
+      min-height: 351px;
+
+      >div {
+        width: 33.333%;
+      }
+
+      >div:first-child {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        transition: transform 0.3s;
+        transform: translateX(100%);
+        z-index: -1;
+      }
+
+      >div:nth-child(2) {
+
+        >div {
+          transition: all .3s;
+        }
+      }
+
+      >div:nth-child(3) {
+        transition: all 0.3s;
+        transform: translateX(-100%);
+        z-index: -1;
+
+        >div {
+          cursor: pointer;
+          position: relative;
+
+          &:before {
+            content: '';
+            transition: all 0.3s;
+            position: absolute;
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            background: transparentize($primary, 60%) url(../img/zoom.svg) no-repeat center center;
+            background-size: 40px;
+            opacity: 0;
+          }
+
+          &:hover:before {
+            opacity: 1;
+          }
+        }
+      }
+
+      &.active>div {
+        transform: translateX(0);
+      }
+    }
+  }
+
+  @media $desktop-small {
+
+    .slide-element {
+      height: 396px;
+    }
+  }
+}
+
+
+.row-refs {
+  padding-top: 30px;
+
+  .all {
+    .work-caption {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+
+      >div {
+        height: 100%;
+        display: flex;
+        flex-flow: column nowrap;
+
+        .btn-wrapper {
+          margin-top: auto;
+          width: auto;
+
+          a {
+            margin-top: 20px;
+          }
+        }
+      }
+    }
+
+    margin-bottom: 70px;
+
+    .work-caption {
+      img {
+        align-self: flex-start;
+        padding: 20px;
+        border-radius: 7px;
+        box-shadow: 0px 5px 15px -1px rgba(0, 0, 0, 0.15);
+
+        .dark & {
+          background-color: $black;
+        }
+      }
+
+      div {
+        h2 {
+          margin-top: 20px;
+        }
+
+        p.work-category {
+          margin-top: 0;
+        }
+      }
+    }
+  }
+
+  // .overlay-caption{
+  // 	display: none;
+
+  // 	h2 {
+  // 		font-size: 2rem;
+
+  // 		@media (max-width: 768px) {
+  // 			margin-top: 20px;
+  // 		}
+  // 	}
+
+  // 	&.active{
+  // 		display: flex;
+  // 		position: fixed;
+  // 		top: 50%;
+  // 		left: 50%;
+  // 		background-color: white;
+  // 		z-index: 100000;
+  // 		padding: 30px;
+  // 		width: 90%;
+  // 		max-width: 800px;
+  // 		margin: auto auto;
+  // 		animation: popup 1.1s cubic-bezier(0.215, 0.61, 0.355, 1) both;
+  // 		border-radius: 3px;
+
+  // 		@media (max-width: 768px) {
+  // 			flex-direction: column;
+  // 		}
+
+  // 		.close{
+  // 			position: absolute;
+  // 			top: 0;
+  // 			right: 0;
+  // 			width: 30px;
+  // 			height: 30px;
+  // 			background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23666666' d='M12 10.6L6.6 5.2 5.2 6.6l5.4 5.4-5.4 5.4 1.4 1.4 5.4-5.4 5.4 5.4 1.4-1.4-5.4-5.4 5.4-5.4-1.4-1.4-5.4 5.4z'%3E%3C/path%3E%3C/svg%3E");
+  // 			background-size: 25px;
+  // 			background-position: top 5px right 5px;
+  // 			background-repeat: no-repeat;
+
+  // 			&:hover{
+  // 				background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='%23000000' d='M12 10.6L6.6 5.2 5.2 6.6l5.4 5.4-5.4 5.4 1.4 1.4 5.4-5.4 5.4 5.4 1.4-1.4-5.4-5.4 5.4-5.4-1.4-1.4-5.4 5.4z'%3E%3C/path%3E%3C/svg%3E");
+  // 				cursor: pointer;
+  // 			}
+  // 		}
+
+  // 		div{
+  // 			@media $tablet-small{
+  // 				width: 50%;
+
+  // 				&:first-child{
+  // 					padding-right: 40px;
+  // 				}
+  // 			}
+  // 		}
+  // 	}
+  // }	
+
+  @media $tablet-small {
+    .all {
+      width: calc(50% - 46px);
+    }
+  }
+  @media $desktop-small {
+    .all {
+      width: calc(50% - 16px);
+    }
+  }
+}
+
+
+@keyframes popup {
+  0% {
+    opacity: 0;
+    transform: translate3d(0, -3000px, 0) translate(-50%, -50%);
+  }
+
+  60% {
+    opacity: 1;
+    transform: translate3d(0, 25px, 0) translate(-50%, -50%);
+  }
+
+  75% {
+    transform: translate3d(0, -10px, 0) translate(-50%, -50%);
+  }
+
+  90% {
+    transform: translate3d(0, 5px, 0) translate(-50%, -50%);
+  }
+
+  to {
+    transform: translate(-50%, -50%);
+  }
+}

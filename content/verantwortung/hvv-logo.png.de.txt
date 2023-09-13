@@ -1,0 +1,13 @@
+Alt: HVV Logo
+
+----
+
+Title: HVV
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: nYBZ76V1x6Du7If1

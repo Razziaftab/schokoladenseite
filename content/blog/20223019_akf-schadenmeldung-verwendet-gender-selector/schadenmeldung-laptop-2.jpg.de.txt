@@ -1,0 +1,21 @@
+Alt: Ein aufgeklappter, silberner Laptop steht auf einem Holztisch. Auf dem Bildschirm ist die Startseite der Schadenmeldung-Website zu sehen, mit dem weißen Abfragefenster des Gender Selector im Vordergrund. Neben dem Laptop stehen Deko-Gegenstände aus Metall und eine Topfpflanze.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: NZKylUzcnfe7vDms

@@ -1,0 +1,65 @@
+Title: PHP Entwickler / Programmierer (m/w/d)
+
+----
+
+Articleheader: PHP Entwickler / Programmierer (m/w/d)
+
+----
+
+Ort: 100% Remote, Hybrid, Hamburg
+
+----
+
+Modell: Vollzeit oder Teilzeit
+
+----
+
+Intro: Für unsere **Onlineprojekte** suchen wir (n:eine:n PHP Programmierer:in x:eine PHP Programmiererin y:einen PHP Programmierer xy:oder) mit Struktur und Lust auf coole Projekte.
+
+----
+
+Image-ai-text: wondering person with space suit sitting in front of a computer, moon in the background, chocolate and candy bars floating in the air, bright and friendly, sunny, realistic photography, hyper-realistic, 8K --ar 20:9 --style raw
+
+----
+
+Mp3: 
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Stellenbeschreibung","customid":"","customclass":""},"id":"3d13e7cd-89e8-4ee2-ae1c-241784d4e2f3","isHidden":false,"type":"heading"},{"content":{"text":"Du bist sehr gut strukturiert, denkst mit und \u00fcbernimmst gern selbst die Verantwortung f\u00fcr deine Online-Projekte. Du bist technisch topfit und hast Lust auf herausfordernde Projekte. Ein Up-Date ist f\u00fcr dich kein Date \u2013 SICHERHEIT schreibst du gro\u00df und hast bereits fundierte Erfahrung in der PHP Entwicklung.\n\nDu hast ein hohes Engagement und gibst alles \u2013 weil du einfach Bock hast. Denn dir bringt Spa\u00df, was du tust!\n\nGl\u00fcckwunsch, du hast gerade Hamburgs SCHOKOLADENSEITE gefunden! Wir sind als Team genauso wie unseren Kunden gegen\u00fcber: klar, direkt, ehrlich, authentisch - ein kleines Team aus \u00dcberzeugungst\u00e4tern und Schokophilen, und wir sind toller als das tollste Team der Welt \ud83d\ude0a Was wir machen, machen wir richtig gut, und darauf sind wir auch stolz!\nWir arbeiten 100% digital. Du hast Raum f\u00fcr eigenverantwortliches Arbeiten und die M\u00f6glichkeit auf 100% Homeoffice."},"id":"8b30b7f3-d0e8-4bb3-8f75-a9791350b297","isHidden":false,"type":"text"}],"id":"2a9d1e27-8dfb-46fb-a2aa-2100cddb6887","width":"1\/1"}],"id":"fccf6b65-dc46-4740-93a4-fc957a6eccd5"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Die SCHOKOLADENSEITE.net","customid":"","customclass":""},"id":"cabf04d1-7216-4db1-8fe8-c5680360a828","isHidden":false,"type":"heading"},{"content":{"text":"Bei der SCHOKOLADENSEITE.net erwarten dich zeitgem\u00e4\u00dfe Arbeitsmodelle, coole Online-Projekte und ein sympathisches kleines #SCHOKOTeam. Nachhaltigkeit geh\u00f6rt bei uns ganz selbstverst\u00e4ndlich dazu. Im t\u00e4glichen Miteinander stehen direkte, ehrliche Kommunikation im Fokus \u2013 wir treffen Entscheidungen ohne Umwege, transparent und fair. Dabei gibt es immer die Gelegenheit, eigene Ideen einzubringen und k\u00fcnftige Produkte mitzuentwickeln.\nWir lieben Innovationen und AI ist selbstverst\u00e4ndlich Bestandteil unserer t\u00e4glichen Arbeit. Bei uns erwarten dich tolle Projekte und vielleicht auch die ein oder andere Kickerrunde :)"},"id":"693ebd82-86b7-49a1-88e2-31e78039ae3b","isHidden":false,"type":"text"}],"id":"797494c0-4e5a-473b-8aef-081b42faa064","width":"1\/1"}],"id":"0cc638b4-c12c-4cb2-83ca-cc9aa807fc17"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/lqcA2LxaDAAADlxa"],"caption":"Interesse? Jetzt in 5 Minuten als PHP Entwickler \/ Programmierer (m\/w\/d) bewerben! \n<a href=\"#bewerben\" class=\"btn -primary\">Zum Bewerbungsformular<\/a>"},"id":"0d41e7bd-6166-4d71-8660-17d3fe4f5ac6","isHidden":false,"type":"cta"}],"id":"f2b24981-71fa-4dfb-b864-5b98c48e7b47","width":"1\/1"}],"id":"bcb67f04-7de8-460c-95d3-a3b9b59fe26f"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Deine Aufgaben","customid":"","customclass":""},"id":"d3e1f5f9-2491-45a9-a93e-b4c226c80a3f","isHidden":false,"type":"heading"},{"content":{"text":"- Entwicklung und Implementierung von webbasierten Anwendungen und Funktionen unter Verwendung von PHP\n- Erstellung und Optimierung von Datenbankabfragen\n- Implementieren von APIs \/ Schnittstellen \n- Integration von Frontend-Designs in bestehende PHP-Systeme\n- Mitwirkung bei der Konzeption, Planung und Umsetzung von neuen Projekten\n- Fehlerbehebung, Bugfixing und Optimierung bestehender PHP-Anwendungen\n- Zusammenarbeit mit anderen Frontend-Entwicklerinnen und Entwicklern im Team, um hochwertige Ergebnisse zu erzielen\n- Einarbeitung in unser Lieblings-CMS \"Kirby\". Du wirst es lieben!\n- Je nach Kenntnissen Laravel Framework\n- Je nach Kenntnissen Typo3 Backend"},"id":"4fabcc99-cfd1-4a44-a2b7-6a0a75987471","isHidden":false,"type":"text"}],"id":"ab4b86bf-2a27-4442-936f-b5d5d3d8077c","width":"1\/1"}],"id":"586614c5-16dd-4201-989d-bf6372251d74"},{"attrs":{"toggle":"false","layoutclass":"align-items-center, bg-lightgrey"},"columns":[{"blocks":[{"content":{"image":["file:\/\/GD7OXWp3p9hFciwK"],"caption":"","customclass":"icon"},"id":"2298ffd8-46fa-4967-bb38-7c14964fd7a1","isHidden":false,"type":"blogimage"}],"id":"84cbb502-9e1a-4e20-a89a-a37b04366925","width":"1\/3"},{"blocks":[{"content":{"preh1":"","level":"h2","text":"Das sollst Du mitbringen:","customid":"","customclass":""},"id":"d10dd35c-c735-4dbb-81f8-b74810fda5e6","isHidden":false,"type":"heading"},{"content":{"text":"- Selbst\u00e4ndige Arbeitsweise\n- Zuverl\u00e4ssigkeit\n- Struktur\n- Offen f\u00fcr Neues\n- Gute Probleml\u00f6sungsf\u00e4higkeiten und analytisches Denkverm\u00f6gen\n- Teamf\u00e4higkeit und gute Kommunikationsf\u00e4higkeiten\n- Erfahrung in der Entwicklung von PHP-Anwendungen\n- Gute Kenntnisse in objektorientierter Programmierung (OOP)\n- Sicherer Umgang mit MySQL-Datenbanken und SQL\n- Erfahrung mit PHP-Frameworks wie Laravel oder Symfony von Vorteil\n- Kenntnisse in HTML, CSS, JavaScript und jQuery\n- Vertrautheit mit Versionskontrollsystemen wie Git"},"id":"40711c94-2240-438b-aff3-0d49167cc55a","isHidden":false,"type":"text"}],"id":"d5244d2a-a42b-40a9-b9ac-2e40c82d8050","width":"2\/3"}],"id":"81fa7578-53a1-4999-932f-7c08f2134735"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Interesse?","customid":"bewerben","customclass":""},"id":"83a17649-c9fd-4717-a7a6-9baa86cee049","isHidden":false,"type":"heading"},{"content":{"text":"Bist du jetzt so hei\u00df, dass dir der Schokokeks sofort in der Hand schmilzt? \ud83d\ude09\nDas ist gut! Dann lass dein inneres Schokomonster raus und bewirb dich bei der SCHOKOLADENSEITE.net.\n\n**Wir freuen uns auf Deine vollst\u00e4ndige Bewerbung mit:**\n- Lebenslauf\n- Zeugnissen\n- Gehaltsvorstellung\n- n\u00e4chstm\u00f6glichem Starttermin\n\nDeine Ansprechpartnerin: Andrea Christan"},"id":"ff31d2e3-868b-416b-861d-2ae29e5e4a09","isHidden":false,"type":"text"}],"id":"b34ceda0-6bfe-4e8a-8069-ed8be724790d","width":"1\/1"}],"id":"849c5f04-6e1a-4c7c-be97-465367041aac"}]
+
+----
+
+Benefits: <strong>Fettes Handy</strong> Fettes Handy. Du kannst aussuchen. Auch zur privaten Nutzung.|, <strong>Echte 40h-Woche</strong> Überstunden werden abgebaut oder vergütet|, <strong>Kein Dresscode</strong> Komm wie du dich wohlfühlst|, <strong>Büro Hamburger City</strong> Mitten im Univiertel mit super Anbindung an Öffis|, <strong>Flache Hierarchien</strong> Und kurze Entscheidungswege|, <strong>Bio-Kaffee &amp; Tee</strong> Hafermilch und Nüsschen sind auch immer da. Yumyum...|, <strong>Wertschätzung</strong> Jedes Teammitglied ist wertvoll und jedes Feedback willkommen|, <strong>Kicker</strong> Einfach mal ne Runde Kickern zwischendurch|, <strong>Chillraum im Office</strong> Für deinen Powernap|, <strong>Unbefristeter Arbeitsvertrag</strong> Feste Planung &amp; Perspektiven|, <strong>Workation</strong> Arbeiten von einer Insel? 😄|, <strong>Weiterbildung</strong> Immer erwünscht und jederzeit möglich|, <strong>Deine Ideen zählen</strong> Bringe eigene Ideen und kreative Vorschläge mit ein|
+
+----
+
+Zuschuss: <strong>Fahrrad oder E-Bike Zuschuss</strong> Lieber mit dem Rad zur Arbeit anstatt im stickigen Bus?|, <strong>HVV-Zuschuss</strong> Deutschlandweit unterwegs|, <strong>Sportkurse Zuschuss</strong> Als Ausgleich für Körper und Geist|
+
+----
+
+Select: - page://QbdYqm7JvQn1XaXb
+
+----
+
+Date: 2023-06-23 09:30:00
+
+----
+
+Datetoday: true
+
+----
+
+Description: Als PHP Entwickler (m/w/d) bist du verantwortlich für die Entwicklung und Implementierung webbasierter Anwendungen und Funktionen unter Verwendung von PHP.
+
+----
+
+Articleimage: - file://B0rgw4Spxps20lyD
+
+----
+
+Categories: Jobs
+
+----
+
+Uuid: KF1mWpAChUbuBFR1

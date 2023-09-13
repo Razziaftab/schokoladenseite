@@ -1,0 +1,9 @@
+Alt: Katholische Familienbildung Logo
+
+----
+
+Title: Katholische Familienbildung
+
+----
+
+Template: blocks/image

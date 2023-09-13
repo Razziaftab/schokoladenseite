@@ -1,0 +1,41 @@
+Title: Die 6 Goldenen Coworking Regeln
+
+----
+
+Articleheader: Die 6 Goldenen Coworking Regeln
+
+----
+
+Intro: Schöner arbeiten mit den Goldenen <span lang="en">Coworking</span> Regeln von SCHOKOLADENSEITE.net - wir sagen euch, wie's mit (n:der:dem Nachbar:in x:der Nachbarin y:dem Nachbarn) garantiert klappt.
+
+----
+
+Mp3: - file://zJ0FmcCvC08j1Cv0
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"<span lang=\"en\">Coworking<\/span>: 6 Goldene Regeln f\u00fcr eine gute Zusammenarbeit im <span lang=\"en\">Shared Office<\/span>","customid":"","customclass":""},"id":"f79e9875-6146-47b1-b4f6-5c616b104c0b","isHidden":false,"type":"heading"},{"content":{"text":"- **Regel 1:** Entspann dich. Die anderen haben auch alle Stress. Atme tief durch, l\u00e4chele, und dann versuche erst, das Problem zu kl\u00e4ren. Funktioniert \u00fcberall, also nicht nur im B\u00fcro ...\n- **Regel 2:** K\u00fcmmere dich selbst um Nachschub. Der Toner ist bald alle, die Kaffeemaschine streikt, in der Toilette h\u00e4ngt die letzte Rolle ... Wenn du nicht wei\u00dft, wo es den Nachschub gibt, dann gib einfach jemandem Bescheid. Von alleine f\u00fcllt sich leider nichts wieder auf.\n- **Regel 3:** Redet miteinander - so k\u00f6nnt ihr Kontakte kn\u00fcpfen, Synergien wecken, Missverst\u00e4ndnisse ausr\u00e4umen und vielleicht auch coole Tipps f\u00fcr euer aktuelles Projekt mitnehmen. Aber versucht nicht, irgendwem was zu verkaufen oder (n:sie:ihn x:sie y:ihn) f\u00fcr euer Projekt einzuspannen. Ihr seid alle nicht zum Spa\u00df im B\u00fcro (auch wenn ihr welchen haben sollt).\n- **Regel 4:** F\u00fchl dich wohl, aber nicht wie zu Hause. Ihr alle seid im <span lang=\"en\">Coworking Space<\/span>, weil ihr nicht zu Hause arbeiten wollt\/k\u00f6nnt. Macht es euch so angenehm wie m\u00f6glich, aber nehmt unbedingt R\u00fccksicht aufeinander. Laute Telefonate\/Musik, Essensgeruch am Arbeitsplatz, sanit\u00e4re Katastrophen - alleine geht das vielleicht, zusammen geht das auf Dauer garantiert nicht gut.\n- **Regel 5:** R\u00e4um auf, bevor du gehst, auch wenn du einen festen Sitzplatz hast. Das sieht f\u00fcr alle sch\u00f6ner aus, und du f\u00e4ngst beim n\u00e4chsten Mal auch mit einem  aufger\u00e4umten Gef\u00fchl an. Das ist es immer wert!\n- R**egel 6:** Biete allen Schokolade an, denn Schokolade macht gl\u00fccklich. Und das Leben ist auch so schon hart genug."},"id":"b73086fb-88ca-4248-b0b7-4ae49000ad8f","isHidden":false,"type":"text"}],"id":"9bb8f57a-434b-4076-a0f3-1244e18edf65","width":"1\/1"}],"id":"8d8826d2-c437-4100-a7a0-b1198c2cff06"},{"attrs":{"toggle":"false","layoutclass":"rowmax"},"columns":[{"blocks":[{"content":{"image":["file:\/\/t1WOsR982yQBEj4V"],"caption":"Im B\u00fcro der SCHOKOLADENSEITE.net kannst du f\u00fcr schmales Geld die ultimative <span lang=\"en\">Coworking<\/span>-Erfahrung machen. Coole R\u00e4ume, nette Leute, m\u00e4chtige Synergien. Schau dir doch mal an, was wir zu bieten haben.\n\n(link: coworking-space text: Mehr Infos zum Coworking Space class: btn -primary)"},"id":"fe40103c-9ce6-4a8a-8040-9fbba6f5c94f","isHidden":false,"type":"cta"}],"id":"67128964-da04-4ee6-9946-951b27f96cc7","width":"1\/1"}],"id":"04cb9ad0-e05b-4d31-a281-946519b8199c"}]
+
+----
+
+Date: 2022-02-10 12:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Morgen ist der wichtigste Pitch ever, dir raucht der Schädel und nebenan werden seit 2 Stunden am Telefon lautstark Beziehungskisten erörtert? Mit unseren Goldenen Coworking Regeln wird alles besser!
+
+----
+
+Articleimage: - file://we3LfOqATg0PZPeB
+
+----
+
+Categories: Coworking-Agentur, Agentur
+
+----
+
+Uuid: HMD5hZT6k9COfkCw

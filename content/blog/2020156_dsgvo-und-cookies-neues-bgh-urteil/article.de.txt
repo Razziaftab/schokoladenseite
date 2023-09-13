@@ -1,0 +1,41 @@
+Title: DSGVO & Cookies – neues BGH-Urteil
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://27NwgXqyB0z0owox
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Zum beliebten (link: blog\/eugh-urteil-like-button-cookies text: Thema DSGVO und Cookies title: Zum Blogbeitrag EuGH-Urteil zum Like-Button und Cookies auf Webseiten) gibt es ein aktuelles Urteil des Bundesgerichtshofs (BGH), das f\u00fcr weitere Klarheit sorgt und von (n:Webseitenbetreiber:innen x:Webseitenbetreiberinnen y:Webseitenbetreibern) unbedingt beachtet werden sollte."},"id":"a2446c73-2fe3-47c4-965c-9c4b24972afb","isHidden":false,"type":"text"}],"id":"4fbff88c-d80d-4d8d-a38a-cb351d63f257","width":"1\/1"}],"id":"43e1ee5a-9592-4359-9e0c-8d0f8ec7b75e"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Aktive Einwilligung f\u00fcr <span lang=\"en\">Cookies<\/span> erforderlich","customid":"","customclass":""},"id":"4757786f-54ee-4a79-8c20-82f86b7ecb5a","isHidden":false,"type":"heading"},{"content":{"text":"Bereits 2019 hatte der Europ\u00e4ische Gerichtshof (EuGH) geurteilt, dass <span lang=\"en\">Cookies<\/span> **nur mit der aktiven Zustimmung** (n:der\/des Besucher:in x:der Besucherin y:des Besuchers) einer Internetseite gesetzt werden d\u00fcrfen. Diesem Urteil folgt der BGH in seiner Rechtsprechung im sog. \"Planet49\"-Verfahren. Laut der Entscheidung vom 28.05.2020 ist ein **<span lang=\"en\">Opt-In<\/span> der <span lang=\"en\">(n:User:innen x:Userinnen y:User)<\/span>** immer dann **zwingend erforderlich**, wenn die <span lang=\"en\">Cookies<\/span> f\u00fcr **Werbung, Marktforschung** oder **angepasste Gestaltung** der <span lang=\"en\">Website<\/span> eingesetzt werden und ein **Profil (n:der\/des Nutzer:in x:der Nutzerin y:des Nutzers)** angelegt wird. Dabei d\u00fcrfen die Auswahlk\u00e4stchen nicht schon vom Betreiber voreingestellt ausgef\u00fcllt sein. <span lang=\"en\">Cookie<\/span>-Banner ohne Auswahlm\u00f6glichkeit sind ohnehin nicht mehr zul\u00e4ssig."},"id":"96dd44e3-36b4-435a-a59e-61161b5d73fc","isHidden":false,"type":"text"}],"id":"fa357ec8-7e46-49ea-ba03-55063e24fbfe","width":"1\/1"}],"id":"7ea26950-a42b-4be4-b4e9-d034afc00eee"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"<span lang=\"en\">Cookie<\/span>-Banner \u2013 was Sie beachten sollten","customid":"","customclass":""},"id":"a88822f5-5200-4e08-ac4a-da0bd669b4a6","isHidden":false,"type":"heading"},{"content":{"text":"Wichtig ist dabei, dass bis zur erfolgten Auswahl durch die (n:Benutzer:innen x:Benutzerinnen y:Benutzer) keine <span lang=\"en\">Cookies<\/span> gesetzt werden d\u00fcrfen. Und auch wenn der Verwendung von <span lang=\"en\">Tracking-Cookies<\/span>, wie z.B. von <span lang=\"en\">Google Analytics<\/span>, zugestimmt wurde, d\u00fcrfen die **Nutzer-Daten nur anonymisiert** \u00fcbermittelt werden, sonst drohen empfindliche Bu\u00dfgelder. Wir haben \u00fcbrigens ein (link: blog\/cookie-banner-von-schokoladenseite-net-die-clevere-alternative text: DSGVO-konformes Cookie-Banner title: Zum Blogbeitrag Cookie-Banner von SCHOKOLADENSEITE.net \u2013 die clevere Alternative) entwickelt, das mit unterschiedlichen CMS eingesetzt werden kann. Auch die Datenanalyse ganz ohne <span lang=\"en\">Cookies<\/span>, wie sie z.B. von <span lang=\"en\">etracker<\/span> oder Matomo angeboten wird, ist eine gute Option.\n\nWollen Sie Ihren Internetauftritt auf DSGVO-Konformit\u00e4t \u00fcberpr\u00fcfen lassen? Dann nutzen Sie doch einfach unser Anfrageformular zum (link: dsgvo-check text: DSGVO-Check title: Zum DSGVO-Check Anfrageformular)."},"id":"d8619673-0792-4ce0-81d9-1517a11cdd31","isHidden":false,"type":"text"}],"id":"837da96c-0158-4a7a-8e64-8712b8aff462","width":"1\/1"}],"id":"96cae197-6319-4ffc-b340-a6c5c19da664"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"fcd1019f-535b-46ff-a91e-41182a577da9","isHidden":false,"type":"kontaktform"}],"id":"d88ab2e3-8beb-4b75-91e8-04171b3e4e52","width":"1\/1"}],"id":"2a509a0a-4f3d-4702-b3a9-4ef2ad9713a3"}]
+
+----
+
+Date: 2020-07-06 11:15:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Der BGH hat in einem Urteil zur Verwendung von Cookies für mehr Klarheit gesorgt, wann eine aktive Zustimmung des Users erforderlich ist.
+
+----
+
+Articleimage: - file://e4THwm0p1cArIJeU
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: nuR5OlCj5MVU0WnG

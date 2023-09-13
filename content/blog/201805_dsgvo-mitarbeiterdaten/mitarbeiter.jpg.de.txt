@@ -1,0 +1,13 @@
+Alt: DSGVO: Mitarbeiterdaten
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: hvoIBxzWs2gAs0DY

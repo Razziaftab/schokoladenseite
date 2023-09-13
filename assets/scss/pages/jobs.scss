@@ -1,0 +1,22 @@
+.keyfacts{
+    border-bottom: 1px solid $grey;
+    display: flex;
+    padding-bottom: 2px;
+    padding-top: 20px;
+    
+    div{
+        min-width: 200px;
+        background-position: center left;
+        background-repeat: no-repeat;
+        background-size: 20px;
+        padding: 0 25px;
+
+        &:first-child{
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='32px' height='32px' viewBox='0 0 32 32'%3E%3Cg transform='translate(0, 0)'%3E%3Cpath d='M16,1c-0.031,-0 -0.063,-0 -0.094,-0c-6.532,-0 -11.907,5.375 -11.907,11.907c0,0.047 0,0.094 0.001,0.141c-0,7.152 10.828,18.188 11.289,18.652c0.188,0.19 0.444,0.297 0.711,0.297c0.267,-0 0.523,-0.107 0.711,-0.297c0.461,-0.464 11.289,-11.5 11.289,-18.652c0.001,-0.047 0.001,-0.094 0.001,-0.141c-0,-6.532 -5.375,-11.907 -11.907,-11.907c-0.031,-0 -0.063,-0 -0.094,0Z' style='fill:%23444;fill-rule:nonzero;'/%3E%3C/g%3E%3C/svg%3E");
+        }
+
+        &:last-child{
+            background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' x='0px' y='0px' width='48px' height='48px' viewBox='0 0 48 48'%3E%3Cg transform='translate(0, 0)'%3E%3Cpath d='M24,1A23,23,0,1,0,47,24,23.026,23.026,0,0,0,24,1ZM38,25H24a1,1,0,0,1-1-1V10a1,1,0,0,1,2,0V23H38a1,1,0,0,1,0,2Z' fill='%23444444'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+        }
+    }
+}

@@ -1,0 +1,19 @@
+name: Kontaktformular
+icon: email
+fields:
+  header:
+    label: Überschrift
+    type: markdown
+    inline: true
+    size: one-line
+    buttons:
+      - gender
+      - lang
+  text:
+    label: Text
+    type: markdown
+    inline: true
+    size: one-line
+    buttons:
+      - gender
+      - lang

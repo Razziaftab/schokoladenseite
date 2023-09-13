@@ -1,0 +1,15 @@
+name: Kunden Startseite
+icon: star
+fields:
+  text:
+    label: Kunden Überschrift
+    type: markdown
+    inline: true
+    buttons:
+      - gender
+      - lang
+  image:
+    label: Kunden-Logos
+    type: files
+    uploads: files-upload
+    query: page.images

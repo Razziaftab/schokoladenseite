@@ -1,0 +1,13 @@
+Alt: Ein glückliches Mitglied des #SchokoTeams.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: cB2msnazNgNSntmP

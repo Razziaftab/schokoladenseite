@@ -1,0 +1,21 @@
+Alt: Schokomonster im Superhelden-Kostüm
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: aHB8IGLb9IV7EOge

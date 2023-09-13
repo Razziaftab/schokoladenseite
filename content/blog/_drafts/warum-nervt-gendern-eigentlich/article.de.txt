@@ -1,0 +1,45 @@
+Title: Warum nervt Gendern eigentlich?
+
+----
+
+Articleheader: Warum nervt Gendern eigentlich?
+
+----
+
+Intro: Das Thema ist ja nicht mehr ganz frisch, aber trotzdem sorgt Gendern noch regelmäßig für heiße Auseinandersetzungen im Web und in den Medien. Der SCHOKO-Blog stellt sich jetzt einmal ganz dumm und fragt: Warum ist das eigentlich so?
+
+----
+
+Image-ai-text: 
+
+----
+
+Mp3: - file://uXIS4pYgJMSUWK3R
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Die Diskussion um das Thema Gendern geht bald ins siebte Jahrzehnt, denn schon in den 1960er-Jahren gab es die ersten Versuche, mit dem Schr\u00e4gstrich (wie z.B. Lehrer\/in) etwas mehr Diversit\u00e4t in die Berufsbezeichnungen zu bringen. Doch auch wenn sich inzwischen so manches in der Gesellschaft ge\u00e4ndert hat und es in Deutschland sogar schon eine Frau (!) an die Spitze der Regierung geschafft hat: **etwa die H\u00e4lfte der Bev\u00f6lkerung lehnt die Verwendung von gendergerechter Sprache ab** bzw. stimmt ihr zu. Ein Riss geht durch die deutsche Gesellschaft. Da stellt sich schon die Frage: **Warum nervt Gendern eigentlich?**"},"id":"0ce2ba47-c882-4cea-9607-05abf97ee0d7","isHidden":false,"type":"text"}],"id":"bfdc6c74-d855-473c-b83e-5e4ee0ddb023","width":"1\/1"}],"id":"d0559575-6754-4875-ad0b-c7204e00b0fa"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Politisch motiviert?","customid":"","customclass":""},"id":"ab78c7be-e0a5-4bcd-90f5-4d0205abc73f","isHidden":false,"type":"heading"},{"content":{"text":"Ein wichtiger Grund k\u00f6nnte sein, dass einige Menschen glauben, dass die Verwendung von Genderformen politisch motiviert ist und dass sie dazu verwendet werden, eine bestimmte **politische Agenda** zu f\u00f6rdern. Diese Menschen \u00e4rgern sich vielleicht, weil  sie das Gef\u00fchl haben, dass sie gezwungen werden, eine bestimmte politische Meinung zu unterst\u00fctzen. Gerade die Verwendung von Genderformen in den \u00f6ffentlich-rechtlichen Medien st\u00f6\u00dft immer wieder auf Kritik, denn diese sollen politisch neutral sein."},"id":"190aa90b-3d80-465c-9bb4-c239e5e190fb","isHidden":false,"type":"text"}],"id":"d6a50551-9bd5-4c09-a3fb-e6770f0968c5","width":"1\/1"}],"id":"a6176272-a25b-4693-bae6-4e9ce0fe62bc"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Das ist nicht mehr meine Sprache","customid":"","customclass":""},"id":"31211395-0223-406c-a6d6-83ede972e83c","isHidden":false,"type":"heading"},{"content":{"text":"Ein weiterer Grund k\u00f6nnte sein, dass die Verwendung von Genderformen dazu f\u00fchren kann, dass sich f\u00fcr einige Menschen **die Sprache unnat\u00fcrlich anf\u00fchlt** oder dass sie unangenehm zu sprechen oder zu schreiben ist. Zum Beispiel k\u00f6nnte das Verwenden von \"\u00c4rztin oder Arzt\" als umst\u00e4ndlich empfunden werden, wenn man es gewohnt ist, nur \"Arzt\" zu sagen. F\u00fcr diese Menschen f\u00fchlt es sich vielleicht so an, als ob ihnen ihre gewohnte Sprache weggenommen wird."},"id":"1a6dd487-fad7-42f4-8d0c-d854158ceaa9","isHidden":false,"type":"text"}],"id":"6f5bf8e0-c8ea-485c-9d98-8345398846a4","width":"1\/1"}],"id":"5083322b-6676-4774-afdc-9105a374a273"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wie bitte?","customid":"","customclass":""},"id":"3b0e7f5b-6a78-4a61-99e3-e48038684bd0","isHidden":false,"type":"heading"},{"content":{"text":"Und wieder einige Menschen finden z.B., dass Genderformen vor allem umst\u00e4ndlich und schwer zu verstehen sind. Zum Beispiel k\u00f6nnte das Verwenden von \"Studierenden\", \"Student_innen\", \"Student*innen\" oder \u00e4hnlichen gendergerechten Formen anstelle von nur \"Studenten\" als **umst\u00e4ndlich** oder verwirrend empfunden werden. Zum Gl\u00fcck hat SCHOKOLADENSEITE.net hier mit dem (link: gender-selector text: Gender Selector title: Zur Leistung Gender Selector) eine einfache M\u00f6glichkeit gefunden, sich eine Webseite in der gew\u00fcnschten Variante anzeigen zu lassen. So muss sich niemand mehr \u00e4rgern oder ausgeschlossen f\u00fchlen."},"id":"262aa6e1-ef91-48f1-ade5-b87f9c1350f8","isHidden":false,"type":"text"}],"id":"28996247-3984-4999-b6be-b5b594fdf82d","width":"1\/1"}],"id":"b1901831-34b7-4071-9162-90294730d9fd"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Eine gemeinsame Sprache und\/f\u00fcr viele Meinungen","customid":"","customclass":""},"id":"d056ba53-5b03-4265-8a06-70cea545f876","isHidden":false,"type":"heading"},{"content":{"text":"Wir finden: Es ist richtig und wichtig, dass **verschiedene Menschen unterschiedliche Meinungen** dazu haben, ob Genderformen wichtig oder notwendig sind. Einige Menschen glauben, dass die Verwendung von Genderformen dazu beitragen kann, die Sichtbarkeit von Frauen und anderen unterrepr\u00e4sentierten Gruppen zu erh\u00f6hen und die **Sprache inklusiver zu gestalten**. Andere wiederum glauben, dass Genderformen unn\u00f6tig sind und dass es wichtiger ist, die Menschen unabh\u00e4ngig von ihrem Geschlecht als gleichwertig zu betrachten. **Am wenigsten nervt Gendern** unserer Meinung nach, wenn die Menschen sich **nicht bevormundet f\u00fchlen**. Dann k\u00f6nnen sie auch besser \u00fcber Unterschiede **miteinander** ins Gespr\u00e4ch kommen, anstatt nur \u00fcbereinander zu sprechen."},"id":"9efd6142-636b-4cef-b513-f1be949d4638","isHidden":false,"type":"text"}],"id":"019577ea-c278-4508-855e-1365554c09fc","width":"1\/1"}],"id":"9b7b8109-ce2f-4bfb-a0b9-5933a67fdb6d"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/bDNGDOFNSntISTNR"],"caption":"Der chocfair Gender Selector ist schon f\u00fcr viele CMS und statische Webseiten verf\u00fcgbar. Alle Infos dazu gibt es auf unserer Produktseite.\n\n(link: gender-selector text: Zur Infoseite chocfair gender class: btn -primary)"},"id":"7e62cbd3-aacf-4d5d-b93c-d8a76ee7f2dc","isHidden":false,"type":"cta"}],"id":"1bbb59a0-971b-4d9c-b472-0ae9448e8e74","width":"1\/1"}],"id":"3c0221e7-f374-46ff-a752-2c092cdcd81c"}]
+
+----
+
+Date: 2023-04-26 09:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Gendern sorgt immer noch für heiße Auseinandersetzungen im Web und in den Medien. Der SCHOKO-Blog fragt: warum nervt Gendern eigentlich?
+
+----
+
+Articleimage: - file://Q53srDZPAFvzv8Af
+
+----
+
+Categories: CSR, Programmierung, Frontend
+
+----
+
+Uuid: 26Otem9w6OepcJNJ

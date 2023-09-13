@@ -1,0 +1,6 @@
+name: Karte
+icon: map
+fields:
+  map:
+    label: Überschrift
+    type: text

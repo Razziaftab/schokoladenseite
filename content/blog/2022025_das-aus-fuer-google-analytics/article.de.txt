@@ -1,0 +1,41 @@
+Title: Kommt das Aus für Google Analytics?
+
+----
+
+Articleheader: Kommt das Aus für Google Analytics?
+
+----
+
+Intro: Die österreichische Datenschutzbehörde hat die Verwendung von <span lang="en">Google Analytics</span> moniert. Betrifft das Urteil auch (n:Webseitenbetreiber:innen x:Webseitenbetreiberinnen y:Webseitenbetreiber) in Deutschland?
+
+----
+
+Mp3: - file://ByE2CA2mTcFunp44
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Die Nachricht schl\u00e4gt in der Onlinewelt wie eine Bombe ein: das meistgenutzte, aber auch h\u00e4ufig kritisierte <span lang=\"en\">Tracking-Tool<\/span> <span lang=\"en\">Google Analytics<\/span> ist nicht DSGVO-konform. So lautet das Urteil der \u00f6sterreichischen Datenschutzbeh\u00f6rde. M\u00fcssen jetzt schlagartig alle (n:Betreiber:innen x:Betreiberinnen y:Betreiber) von Webseiten auf das <span lang=\"en\">Tracking<\/span> verzichten? Droht sogar eine Abmahnwelle (und von Wellen haben wir alle ja gerade die Nase gestrichen voll ...)?\n## Mit <span lang=\"en\">Analytics<\/span> auf die Insel\nEs ist (zum Gl\u00fcck) mal wieder alles halb so wild. Die Entscheidung bezieht sich auf eine Situation, die schon f\u00fcr die allermeisten \u00fcberholt sein d\u00fcrfte: Die betroffene Webseite \u00fcbermittelte via <span lang=\"en\">Analytics<\/span> Daten an <span lang=\"en\">Google<\/span> in die USA, und das auch noch **mit unzureichenden Datenschutzeinstellungen und alten Standardvertragsklauseln**. Inzwischen ist aber die irische <span lang=\"en\">Google<\/span>-Tochter die Vertragspartnerin bei der Nutzung von <span lang=\"en\">Analytics<\/span> - die Daten verlassen also (zun\u00e4chst) nicht die EU - puh! Und die **Verwendung der neuen EU-Standardvertragsklauseln** bietet ebenfalls Schutz vor Klagen.\n## Nicht an alles einen Haken machen\nWichtig ist au\u00dferdem, dass in den Einstellungen bei <span lang=\"en\">Google Analytics<\/span> die richtigen H\u00e4kchen gesetzt bzw. entfernt werden. Dazu braucht man allerdings entweder **Know-how in Sachen DSGVO**, oder man l\u00e4sst am besten gleich die **Profis** ran. Denn wenn die Anonymisierung der IP-Adresse nicht ausgew\u00e4hlt wird, werden auf jeden Fall personenbezogene Daten an <span lang=\"en\">Google<\/span> \u00fcbertragen. Und das m\u00fcssen die (n:Nutzer:innen x:Nutzerinnen y:Nutzer) dann ausdr\u00fccklich erlauben, bevor sie weiter auf der Webseite surfen. Das wollen vielleicht nicht alle...\n## Ist also <span lang=\"en\">Analytics<\/span> kein Problem?\nN\u00f6, doch nicht ganz. Denn die **Anonymisierung der IP-Adresse reicht allein nicht aus**, um die Identifizierung der (n:Nutzer:innen x:Nutzerinnen y:Nutzer) unm\u00f6glich zu machen. <span lang=\"en\">Google Analytics<\/span> erzeugt trotzdem Online-Kennungen, mit denen der verwendete <span lang=\"en\">Browser<\/span>, das Endger\u00e4t und der <span lang=\"en\">Website-Provider<\/span> identifiziert werden k\u00f6nnen. Und so ganz genau kann niemand au\u00dfer <span lang=\"en\">Google<\/span> sagen, was die irische Unternehmenstochter mit den Daten der EU-Nutzerinnen macht. Nur, dass die (n:Webseitenbetreiber:innen x:Webseitenbetreiberinnen y:Webseitenbetreiber) im Zweifel daf\u00fcr haftbar sind ... \ud83e\udd28\n## Gibt es denn eine Alternative?\nNa klar. Wir empfehlen unseren (n:Kund:innen x:Kundinnen y:Kunden) die **Verwendung von alternativen <span lang=\"en\">Tracking-Tools<\/span>**, um sich den ganzen \u00c4rger mit <span lang=\"en\">Google Analytics<\/span> einfach zu sparen. Wir haben stets gute Erfahrungen mit (link: https:\/\/schokoladenseite.net\/blog\/matomo-webanalyse-ohne-cookies text: Matomo title: Zum Blogbeitrag Matomo Webanalyse ohne Cookies) gemacht. Wenn wir einen umfassenden Blick auf Ihre Datenschutz-Einstellungen werfen sollen, dann bietet sich unser (link: dsgvo-check text: DSGVO-Check title: Zum DSGVO-Check Anfrageformular) an. Und wenn Sie einen **an Ihre Unternehmens-Webseite angepassten <span lang=\"en\">Cookie-Banner<\/span>** bevorzugen, empfehlen wir unsere hausgebackene (link: https:\/\/schokoladenseite.net\/chocfair-cookie text: chocfair cookie-L\u00f6sung title: Zum Infoseite). Garantiert DSGVO-konform, transparent f\u00fcr Ihre (n:Kund:innen x:Kundinnen y:Kunden) und sehr lecker."},"id":"eccb2ec5-6535-4a33-b8d2-07ddf7234532","isHidden":false,"type":"text"}],"id":"612fa584-c5e6-42e5-8a49-2c1cef2c9548","width":"1\/1"}],"id":"5fdb8383-ba45-49bd-8fb1-1ed92d7fdee5"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/qSYsgRDJbe2hFr4s","file:\/\/YA4fysN6haAsAuCK"],"caption":"Wir kennen uns bestens mit Online-Analysetools und Datenschutz aus - und empfehlen Ihnen unser DSGVO-konformes <span lang=\"en\">Cookie<\/span>-Banner.\n\n(link: chocfair-cookie text: Zum Infoseite chocfair Cookie class: btn -primary)"},"id":"7c93e77a-3cc3-4a67-9982-a6dba7f2a0bb","isHidden":false,"type":"cta"}],"id":"daecce2a-d482-4429-9a24-7a0768de9a4d","width":"1\/1"}],"id":"87fb34ab-b669-4993-8e59-98cdd4cacf06"}]
+
+----
+
+Date: 2022-02-25 12:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Die AT-Datenschutzbehörde hat die Verwendung von Google Analytics moniert. Kommt jetzt das Aus für Analytics? Der SCHOKO-Blog klärt auf.
+
+----
+
+Articleimage: - file://5AdSEU0siwGE0KVG
+
+----
+
+Categories: DSGVO, Analytics, Marketing
+
+----
+
+Uuid: UHNN7i0kOEZ1xuBg

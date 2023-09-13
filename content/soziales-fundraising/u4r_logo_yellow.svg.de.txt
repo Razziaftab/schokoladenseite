@@ -1,0 +1,9 @@
+Alt: United4Rescue Logo
+
+----
+
+Title: United4Rescue
+
+----
+
+Template: blocks/image

@@ -1,0 +1,29 @@
+Title: Christian, der Wortklauber
+
+----
+
+Seodescription: Nichts kann den Tag mehr versüßen als Schokolade. Das sieht Christian ganz genauso. Beim Blick aufs Foto ist das ganz offensichtlich. Heute stellt er sich vor
+
+----
+
+Image: - 18.jpg
+
+----
+
+Door: 18
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Christian, der Wortklauber**\n\n*Nichts kann den Tag mehr vers\u00fc\u00dfen als Schokolade. Das sieht Christian ganz genauso. Beim Blick aufs Foto ist das ganz offensichtlich. Heute stellt er sich vor.*\n\n**Seit wann bist du im SCHOKO-Team und was ist deine Aufgabe?**\n- Seit August 2019 bin ich als Lektor\/Texter und f\u00fcr die Social-Media-Redaktion t\u00e4tig. Tippfehler haben bei mir keine Chance! \ud83e\uddb8\u200d\u2642\ufe0f\n\n**Direkt zur wichtigsten Frage: Was ist deine Lieblings-Schokoladensorte?**\n- Wer denkt sich nur immer so schwiiiieeeerige Fragen aus? ... Also ... ich glaube, ich w\u00e4hle Bio-Zartbitter. Alle anderen Sorten sind vor mir aber auch nicht sicher. \ud83d\ude42\n\n**Was passiert, wenn du \"Last Christmas\" ((link: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI text: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI target: _blank title: Externer Link zu \"Last Christmas\" auf YouTube (\u00d6ffnet im neuen Tab))) im Radio h\u00f6rst?** \n- Mein Gehirn schaltet in den Party-Modus und ich singe mit. \ud83d\udd7a Ich kann leider nichts daf\u00fcr.\n\n**Was m\u00f6chtest du in der Vorweihnachtszeit unbedingt machen?**\n- Mit meiner Tochter Pl\u00e4tzchen backen. \ud83c\udf6a Feuerzangenbowle f\u00fcr (n:Freund:innen x:Freunde y: Freundinnen)\/(n:Kolleg:innen x: Kollegen y: Kolleginnen) zu machen w\u00e4re toll, aber k\u00f6nnte schon wieder schwierig werden. Alternativ nehme ich einen Gl\u00fchwein an der frischen Luft. \ud83d\ude09\n\n**Welche SCHOKO-Superkr\u00e4fte hast du?**\n- Ich kann eine Tafel Schokolade aufessen und die Erinnerung daran sofort verlieren. Mehrmals hintereinander. \ud83d\ude48"},"id":"7156a5e8-ed09-4b7b-a658-1ecd49dc2f66","isHidden":false,"type":"text"}],"id":"d07ddc06-55e5-40ad-889a-92a26037346e","width":"1\/1"}],"id":"23761bfb-b7a8-4313-b773-c26fba5a7855"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: 8siPTLUYVOQe6cXL

@@ -1,0 +1,9 @@
+Alt: Sorya Logo
+
+----
+
+Title: Sorya
+
+----
+
+Template: blocks/image

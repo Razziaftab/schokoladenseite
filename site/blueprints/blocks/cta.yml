@@ -1,0 +1,20 @@
+name: CTA
+icon: road-sign
+fields:
+  image:
+    label: field.blocks.image.name
+    type: files
+    max: 2
+    image:
+      back: black
+    uploads:
+      template: blocks/image
+  caption:
+    label: Text
+    type: markdown
+    size: small
+    buttons:
+      - bold
+      - gender
+      - pagelink
+      - lang

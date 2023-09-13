@@ -1,0 +1,21 @@
+Alt: Laptop mit einem Typo3 Logo
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: DbVyxV9pW5NwlGbO

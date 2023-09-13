@@ -1,0 +1,46 @@
+.gallery{
+    gap: 40px;
+	
+	figure {
+		margin: 0;
+		position: relative;
+		margin-bottom: 40px;
+	
+		figcaption {
+			position: absolute;
+			left: 20px;
+			top: auto;
+			right: 20px;
+			bottom: 20px;
+			padding: 12px 15px;
+			color: $white;
+			font-size: 16px;
+			background-color: $black;
+		}
+
+		img {
+			width: 100%;
+			height: auto;
+		}
+	}
+	
+	a{
+	    display: block;
+		transition: opacity .3s;
+		
+		&:hover{
+			opacity: .7;
+		}
+	}
+	
+	@media only screen and (max-width: 768px) {
+	
+		a {
+			pointer-events: none;
+		}
+	}
+	
+	@media $tablet-big{
+		column-count: 2;
+	}
+}

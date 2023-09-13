@@ -1,0 +1,25 @@
+Title: Danke
+
+----
+
+Layout: [{"attrs":{"layoutid":"vielen-dank","arialabelledby":"vielen-dank","layoutclass":"center","backgroundimage":[]},"columns":[{"blocks":[{"content":{"image":["schoko-gif-danke.gif"],"customclass":"","link":"","ratio":"","crop":"false"},"id":"2d95ad1e-807a-42a3-8b83-a397c1d1003d","isHidden":false,"type":"image"},{"content":{"preh1":"","level":"h1","text":"Vielen Dank!","customid":"","customclass":""},"id":"bd70b687-a31e-4257-bf36-04f5e0ba3e5d","isHidden":false,"type":"heading"},{"content":{"text":"Ihre Nachricht wurde versendet und wir haben Ihre Nachricht erhalten und melden uns schnellstm\u00f6glich bei Ihnen zur\u00fcck."},"id":"4e2459e6-14a1-4623-80a2-718f4eda93f9","isHidden":false,"type":"text"}],"id":"e08b1fcc-abde-4cc7-a67d-c91cc4795759","width":"1\/1"}],"id":"f8bce718-2571-45e7-a886-6a1ec4318066"},{"attrs":{"layoutid":"","arialabelledby":"zwischenzeit","layoutclass":"center","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Und in der Zwischenzeit...","customid":"","customclass":""},"id":"3a9f290e-d31e-480b-9fa9-3b60066b07e7","isHidden":false,"type":"heading"},{"content":{"text":"Schauen Sie gerne in unserem Blog vorbei, um sich die Wartezeit zu verk\u00fcrzen. Hier gibt es interessante Beitr\u00e4ge \u00fcber DSGVO, SEO, WordPress, Typo3, Kirby, Online-Trends uvm."},"id":"af4cdc7b-0de2-4c91-af8b-ea7cf0d516a2","isHidden":false,"type":"text"}],"id":"d581559d-95dc-4b56-b3b8-34532322b8bc","width":"1\/1"}],"id":"82bcce4a-33ce-41ee-be3f-721c365757e0"},{"attrs":{"layoutid":"","arialabelledby":"news","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"text":"","filter":""},"id":"b07c5cc8-6720-4eb1-ad26-ff4c95ab2d2c","isHidden":false,"type":"news"}],"id":"b3addf31-d0a2-4169-8424-590608ce5b7f","width":"1\/1"}],"id":"a5c07911-8634-412f-9121-411df47d2804"}]
+
+----
+
+Seotitle: Vielen Dank ❤️ Wir melden uns schnellstmöglich bei Ihnen
+
+----
+
+Seodescription: Wir haben Ihre Nachricht erhalten und melden uns schnellstmöglich bei Ihnen zurück
+
+----
+
+Seoimage: 
+
+----
+
+Kunde: 
+
+----
+
+Uuid: sreRifSkpTDg7Hmv

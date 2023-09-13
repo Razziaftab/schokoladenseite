@@ -1,0 +1,11 @@
+<?php if (isset($mitarbeiteranzahl)): ?><p>Mitarbeiteranzahl: <?= $mitarbeiteranzahl ?></p><?php endif ?>
+<?php if (isset($firmenumsatz)): ?><p>Firmenumsatz: <?= $firmenumsatz ?></p><?php endif ?>
+<?php if (isset($firma)): ?><p>Firma: <?= $firma ?></p><?php endif ?>
+<?php if (isset($webseite)): ?><p>Webseite: <?= $webseite ?></p><?php endif ?>
+<?php if (isset($modul)): ?><p>Angebot: <?= $modul ?></p><?php endif ?>
+<?php if (isset($branche)): ?><p>Branche: <?= $branche ?></p><?php endif ?>
+<?php if (isset($vorname)): ?><p>Vorname: <?= $vorname ?></p><?php endif ?>
+<p>Name: <?= $sender ?></p>
+<p>E-Mail: <?= $email ?></p>
+<p>Telefon: <?= $tel ?></p>
+<p>Mitteilung: <?= $text ?></p>

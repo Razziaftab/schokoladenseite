@@ -1,0 +1,21 @@
+Alt: Vor einem schwarzen Hintergrund leuchtet eine pinkfarbene Sprechblase aus Neonröhren. Darin steht in weißer Schrift das Wort hello.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: BAkvNcOwbK02VKFZ

@@ -1,0 +1,9 @@
+Alt: Tablet-Bildschirme zeigen Bildauschnitte der Optonaval Website
+
+----
+
+Title: Tablets
+
+----
+
+Template: blocks/image

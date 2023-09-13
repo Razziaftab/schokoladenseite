@@ -1,0 +1,49 @@
+name: field.blocks.heading.name
+icon: title
+wysiwyg: false
+preview: heading
+fields:
+  preh1:
+    label: PreH1
+    type: text
+  level:
+    label: field.blocks.heading.level
+    type: select
+    empty: false
+    default: "h2"
+    width: 1/6
+    options:
+      - h1
+      - h2
+      - h3
+      - h4
+      - h5
+      - h6
+  text:
+    label: field.blocks.heading.text
+    type: markdown
+    inline: true
+    buttons:
+      - bold
+      - italic
+      - link
+      - pagelink
+      - gender
+      - lang
+    width: 5/6
+    placeholder: field.blocks.heading.placeholder
+  customId:
+    label: Id
+    type: text
+    width: 1/2
+  customClass:
+    label: Class
+    type: tags
+    width: 1/2
+    options:
+      - value: underline
+        text: unterstrichen
+      - value: white
+        text: weiß
+      - value: text-shadow
+        text: Textschatten

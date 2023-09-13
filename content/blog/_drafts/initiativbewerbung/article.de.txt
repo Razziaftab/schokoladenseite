@@ -1,0 +1,45 @@
+Title: Initiativbewerbung
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Image-ai-text: 
+
+----
+
+Mp3: - file://TEHrtoJTFvbloRFM
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Eine Initiativbewerbung mit extra viel Schokolade, bitte!","customid":"","customclass":""},"id":"f1e78497-3441-49a4-a175-552731ee2bae","isHidden":false,"type":"heading"},{"content":{"text":"Ist gerade f\u00fcr dich keine passende Stelle dabei? Macht nichts \u2013 wir sind wahrscheinlich trotzdem die passende Online-Agentur f\u00fcr dich. Denn wir stehen nicht auf endlose Konferenzen, komplizierte Entscheidungswege und Kompetenzgerangel, sondern auf leckere Schokolade. Um die zu finanzieren, machen wir gutes Webdesign und schnellen Code. So wie du."},"id":"a1214902-df9d-466f-907b-bf8f4034db5e","isHidden":false,"type":"text"}],"id":"11f08c79-1d09-4af9-ad7b-ccc12c296854","width":"1\/1"}],"id":"b6a0c0f4-c143-4a3e-9108-938b66b1d86c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Worauf wartest du?","customid":"","customclass":""},"id":"c258aa47-8249-4d61-8614-7d564d388416","isHidden":false,"type":"heading"},{"content":{"text":"Wir freuen uns immer \u00fcber Verst\u00e4rkung unseres Teams, also lass mal deine Initiativbewerbung r\u00fcberwachsen und vergiss dabei nicht, deine Lieblings-Schokoladensorte zu erw\u00e4hnen. Dann sind wir vorbereitet \u2026\n\nWir freuen uns auf deine Bewerbung per E-Mail an **(email: bewerbung@schokoladenseite.net)** mit:\n\n- Lebenslauf\n- Zeugnissen\n- Gehaltsvorstellung\n- n\u00e4chstm\u00f6glichem Starttermin\n\nDeine Ansprechpartnerin: Andrea Christan"},"id":"ed05cbee-b90a-44f2-bb6c-0fd75f11861a","isHidden":false,"type":"text"}],"id":"29dff086-19e8-44be-9732-129bc5b1eea7","width":"1\/1"}],"id":"890a88b7-d8aa-4e87-9167-fc1f5d04f936"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":[],"id":"d917d743-c0c2-49c7-981a-4d0eb9b5afa8","isHidden":false,"type":"bewerbung"}],"id":"19b447f3-926c-4f12-99b5-2a67b7fbaa66","width":"1\/1"}],"id":"80e306fa-ca32-46ab-ba6b-fb482c3ce904"}]
+
+----
+
+Date: 2023-05-22 11:50:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Die SCHOKOLADENSEITE.net freut sich auf deine Initiativbewerbung! Denn wir sind die passende Onlineagentur für dich.
+
+----
+
+Articleimage: - file://og5fmrM3L6XFQKij
+
+----
+
+Categories: Jobs
+
+----
+
+Uuid: xrkYelgkrSPlH8q4

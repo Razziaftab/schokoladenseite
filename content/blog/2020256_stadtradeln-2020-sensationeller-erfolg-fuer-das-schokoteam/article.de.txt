@@ -1,0 +1,41 @@
+Title: Stadtradeln 2020 – Sensationeller Erfolg für das #SchokoTeam
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://gPUdHxesf5rVmxi1
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/cB2msnazNgNSntmP"]},"id":"71e5e9cc-cf3c-4cfc-95f3-2f2f4b237686","isHidden":false,"type":"blogimage"}],"id":"d5c52eee-b902-419e-b12c-0cfa5f933154","width":"1\/3"},{"blocks":[{"content":{"text":"Selbstverst\u00e4ndlich hat auch das #SchokoTeam in diesem Jahr beim **Stadtradeln** teilgenommen. Wer das noch nicht kennt \u2013 es handelt sich um einen **Radfahr-Wettbewerb**, in dem Teams und Kommunen aus ganz Deutschland wetteifern, die meisten Kilometer auf dem Fahrrad in einem bestimmten Zeitraum zur\u00fcckzulegen, gerne z.B. auf dem Arbeitsweg. Hamburg hat es dieses Jahr auf den 5. Platz geschafft, was beim Zustand so mancher Radwege in der sch\u00f6nsten Stadt ganz beachtlich ist.\n\n\u00dcber **8500 Menschen** in **592 Teams** haben in Hamburg mitgemacht und **1.771.594 km** w\u00e4hrend des Aktionszeitraums zur\u00fcckgelegt. F\u00fcrs Klima war das nat\u00fcrlich auch sehr gut, denn so wurden **260 t** CO2 vermieden. Na ja, und weil Radfahren auch in Hamburg meistens gl\u00fccklich macht, war\u2019s bestimmt auch gut f\u00fcr das Klima am Arbeitsplatz und daheim <span aria-hidden=\"true\">\ud83d\ude09<\/span>"},"id":"59d2a817-9ae1-4466-b43c-d61d5fc9e723","isHidden":false,"type":"text"}],"id":"5e97a471-de83-4c17-8bc1-94f4483e81ae","width":"2\/3"}],"id":"399e1207-a8cb-4770-a035-6f8c9ea14cc2"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Das #SchokoTeam war mit 6 Menschen dabei und hat immerhin fast **730 km** erradelt: **Platz 414** in Hamburg! Applaus, Applaus, Applaus! Unsere CO2-Ersparnis betrug dabei theoretisch 107 kg \u2013 aber die meisten von uns fahren ja sowieso mit Rad oder \u00d6ffis ins (link: internet-agentur-hamburg text: Schokob\u00fcro title: Zur Seite Internetagentur Hamburg).\n\nIn diesem Sinne w\u00fcnschen wir allen einen sch\u00f6nen Herbstanfang, und seid sch\u00f6n vorsichtig bei den vielen Kastanien auf der Stra\u00dfe! \u00dcbrigens, wer beim Stadtradeln auf den Geschmack gekommen ist, guckt sich vielleicht mal (link: https:\/\/fahrrad.hamburg\/de\/magazin\/radrouten-hamburg-elbe-alster\/ text: diese Seite target:_blank title:Externer Link zu Fahrrad Hamburg (\u00d6ffnet im neuen Tab)) mit ein paar netten Tourenvorschl\u00e4gen an.\n\n**#SchokoTeam #SchokoPower #F\u00fcrSchokiFahrIchMeilenweit**"},"id":"86486490-c781-4265-abc8-66dc01fd45fc","isHidden":false,"type":"text"}],"id":"29d93aa3-5ae4-4c93-ab4d-9b4bfc791d08","width":"1\/1"}],"id":"e5d8c94a-3b68-4974-ba16-578592ff5467"}]
+
+----
+
+Date: 2020-10-06 19:25:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Das #SchokoTeam hat beim Stadtradeln mitgemacht und ist Sieger der Herzen.
+
+----
+
+Articleimage: - file://uZPBW7NMo37yeEeA
+
+----
+
+Categories: SchokoTeam, Agentur
+
+----
+
+Uuid: Ed89Fy9zIJMATqDu

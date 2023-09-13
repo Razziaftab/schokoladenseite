@@ -1,0 +1,41 @@
+Title: Wann ist es sinnvoll, Links in einem neuen Tab/Fenster zu öffnen?
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://2rn9TYete9mXvP9I
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wann ist es sinnvoll, <span lang=\"en\">Links<\/span> in einem neuen <span lang=\"en\">Tab<\/span> zu \u00f6ffnen?","customid":"","customclass":""},"id":"457cdbdd-8b63-4adb-a859-2b1727a1fd57","isHidden":false,"type":"heading"},{"content":{"text":"Eine Verlinkung in einen neuen <span lang=\"en\">Tab<\/span> wird meistens dann benutzt, wenn es um externe <span lang=\"en\">Links<\/span> geht, die sich au\u00dferhalb des eigenen Webauftritts befinden. Damit (n:die\/der Nutzer:in x:die Nutzerin y:der Nutzer) die Webseite, auf der (n:sie\/er x:sie y:er) sich gerade befindet, nicht verliert bzw. nochmal aufrufen muss, bietet es sich an, eine neue Seite zu \u00f6ffnen. So bleibt die Ursprungsseite im Hintergrund bestehen.\n\nDenn als (n:Webseitenbetreiber:in x:Webseitenbetreiberin y:Webseitenbetreiber) ist es wichtig, die (n:Besucher:innen x:Besucherinnen y:Besucher) solange wie m\u00f6glich auf der eigenen Webseite zu halten."},"id":"4440b0f9-b2a1-42a9-a37a-85cf026582e5","isHidden":false,"type":"text"}],"id":"f1620e1a-a6df-47ab-9ccd-eb1dad41633d","width":"1\/1"}],"id":"d0b1c86e-d0b4-4304-9c8f-eabf0c7569f5"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Was kann passieren, wenn externe Seiten nicht in einem neuen <span lang=\"en\">Tab<\/span> \u00f6ffnen?","customid":"","customclass":""},"id":"eb0fa5ed-a3f8-47b7-8138-50771bbde7cc","isHidden":false,"type":"heading"},{"content":{"text":"Die Gefahr ist, dass (n:die\/der Besucher:in x:die Besucherin y:der Besucher) die Ursprungsseite nicht mehr wiederfindet oder einfach nicht mehr zur\u00fcckkehrt, sobald (n:sie\/er x:sie y:er) sich erst mal auf der neu verlinkten Seite \u201everloren\u201c hat.\nSo kann es f\u00fcr (n:die\/den x:die y:den) (n:Webseitenbetreiber:in x:Webseitenbetreiberin y:Webseitenbetreiber) im ung\u00fcnstigsten Fall zum Verlust von (n:Kund:innen x:Kundinnen y:Kunden) kommen."},"id":"001d0eb4-f1c1-4e22-9a8c-18084b26afd4","isHidden":false,"type":"text"}],"id":"11fbc567-da1f-475c-8435-77e0b2485db6","width":"1\/1"}],"id":"7da41a85-ce59-4787-a471-d139bbc5732d"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"HTML-Code","customid":"","customclass":""},"id":"cb3b4aa5-929b-4155-af7c-8a209d40f12f","isHidden":false,"type":"heading"},{"content":{"text":"So wird am besten die Verlinkung auf eine andere Webseite in HTML geschrieben:\ntarget=\u201d_blank\u201d wird einfach hinter die verlinkte URL gesetzt."},"id":"74e844b7-aca7-416c-85f6-88cbcf3ce83b","isHidden":false,"type":"text"}],"id":"edd78980-5162-4590-84c9-d09a18d3b56c","width":"1\/1"}],"id":"0f45aa5f-9d9a-4355-b1d3-e98c80e42132"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"7bd5f94a-7b6b-4cf4-87fc-ecf91755b619","isHidden":false,"type":"kontaktform"}],"id":"7700ce9d-5529-4f71-8bb4-3ed3355e981c","width":"1\/1"}],"id":"69483ac1-a097-4cd1-949c-3c3ed0c0a51e"}]
+
+----
+
+Date: 2018-02-05 13:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Eine Verlinkung in einen neuen Tab wird meistens dann benutzt, wenn es um externe Links geht, die sich außerhalb des eigenen Webauftritts befinden.
+
+----
+
+Articleimage: - file://h3nssCD9amnVkjPV
+
+----
+
+Categories: Technik, Programmierung
+
+----
+
+Uuid: I3SmPXB68X8Csfxl

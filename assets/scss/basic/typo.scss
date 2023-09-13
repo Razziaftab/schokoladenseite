@@ -1,0 +1,276 @@
+a{
+	color: $primary;
+    text-decoration: none;
+	position: relative;
+    display: inline-block;
+	
+	@media (forced-colors: active) {
+		text-decoration: underline;
+		
+		&:active{
+			color: LinkText;
+		}
+	}
+	
+	&.-to-right:after{
+		content: '\f061';
+		font-weight: 900;
+		font-family: "Font Awesome 5 Free";
+		margin-left: 7px;
+	}
+
+	// &.-to-bottom:not(.hero-link):after{
+	// 	content: '\f063';
+	// 	font-weight: 900;
+	// 	font-family: "Font Awesome 5 Free";
+	// 	margin-left: 7px;
+	// }
+
+	&.-to-left{
+		display: inline-flex;
+		flex-direction: row-reverse;
+	
+		&:after{
+			content: '\f061';
+			font-weight: 900;
+			font-family: "Font Awesome 5 Free";
+			margin-right: 7px;
+		}
+	}
+
+	&.-light{
+	    color: $darkgrey;
+	}
+	
+	main p &, 
+	main li &,
+	.contactmodal &	{
+		color: $black;
+	
+		&:not(.btn) {
+			transition: all 0.3s ease;
+
+			&:before{
+				content:'';
+				position: absolute;
+				bottom: 2px;
+				// right:0;
+				width: 100%;
+				height: 1px;
+				border-bottom: 1px solid $black;
+				transition: color 0.3s ease;
+	
+				@media (forced-colors: active) {
+					content:none;
+				}
+			}
+		}
+		
+		&:hover:before{
+			border-bottom: 0;
+		}
+		
+	
+		&[target="_blank"] {
+			&:not(.btn) {
+				&:after{
+					content:'';
+					background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cg class='nc-icon-wrapper' fill='%23dd0004'%3E%3Cpath fill='%23999999' d='M13,15v6.4L23.4,11L13,0.6V7C8.4,7.2,0,9.1,0,20v3.7l1.9-3.2C4.3,16.4,6.7,15.1,13,15z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");				
+					width: 15px;
+					height: 15px;
+					display: inline-block;
+					background-size: 15px;
+					margin: 0 0 -2px 5px;
+					transition: all 0.3s ease;
+				}
+				
+				&:hover:after{
+					background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='24' height='24' viewBox='0 0 24 24'%3E%3Cg class='nc-icon-wrapper' fill='%23dd0004'%3E%3Cpath fill='%23999999' d='M13,15v6.4L23.4,11L13,0.6V7C8.4,7.2,0,9.1,0,20v3.7l1.9-3.2C4.3,16.4,6.7,15.1,13,15z'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");			
+				}
+			}		
+		}
+	}
+
+	&:hover{
+		color: $primary;
+	}
+
+	&:focus-visible {
+		outline: 2px solid $black;
+		outline-offset: 2px;
+		border-radius: 3px;
+	}
+}
+
+h1,.h1,
+h2,.h2,
+h3,.h3,
+h4,.h4,
+h5,.h5,
+h6,.h6{
+    display: block;
+    margin: 0;
+    font-family: $font-primary;
+    line-height: 1.2;
+    font-weight: 300;
+	
+	a{
+		color: $black;
+	}
+
+    p + &,
+    .lead + & {
+        margin-top: $vs * 2;
+    }
+
+    span.pre {
+        display: block;
+        font-size: 1rem;
+        color: $primary;
+        font-weight: bold;
+		line-height: 26px;
+		
+		.dark &{
+			color: $black;
+		}
+    }
+}
+
+.bg-lightgrey span.pre {
+	color: $black;
+}
+
+h1,.h1 {
+    font-size: 2rem;
+
+    @media $tablet-small {
+        font-size: 2.3rem;
+    }
+
+    @media $tablet-big {
+        font-size: 2.6rem;
+    }
+
+    @media $desktop-small {
+        font-size: 3rem;
+    }
+}
+
+h2,.h2 {
+    font-size: 1.5rem;
+
+    @media $tablet-small {
+        font-size: 1.8rem;
+    }
+
+    @media $tablet-big {
+        font-size: 2rem;
+    }
+
+    @media $desktop-small {
+        font-size: 2.5rem;
+    }
+}
+
+h3,.h3 {
+    font-size: 1.2rem;
+
+    @media $tablet-small {
+        font-size: 1.4rem;
+    }
+
+	@media $desktop-small {
+        font-size: 2rem;
+    }
+}
+
+.small-h3 {
+    font-size: 1.2rem;
+    margin-bottom: 6px;
+
+    @media $tablet-small {
+        font-size: 1.2rem;
+    }
+
+    @media $tablet-big {
+        font-size: 1.3rem;
+    }
+
+    @media $desktop-small {
+        font-size: 1.5rem;
+    }
+}
+
+.no-lineheight {
+    margin-top: 0px;
+}
+
+h4, .h4 {
+    font-size: 1.1rem;
+
+    @media $tablet-small {
+        font-size: 1.2rem;
+    }
+
+	@media $desktop-small {
+        font-size: 1.5rem;
+    }
+
+	h3 + &{
+		margin-top: 20px;
+	}
+}
+
+p, ul, ol {
+    margin: 0;
+
+	& + p, & + ul, & + ol,
+	h1 + &, h2 + &, h3 + &, h4 + &, h5 + &,
+	& + h2, & + h3, & + h3, & + h4,
+	img + &, & + img, & + picture, picture + &{
+		margin-top: 20px;
+	}
+}
+
+h2 + .flex, h3 + .flex, h2 + h3, a + h3, h3 + picture, h2 + div, h3 + div, img + h2, img + h3, figure + h2, figure + h3, a + p{
+	margin-top: 20px;
+}
+
+
+
+sup {
+	a {
+		color: $black;
+
+		&:hover {
+			color: $primary;
+		}
+	}
+}
+
+.underline{
+		
+	a:before{
+		content: none;
+	}
+
+	span{
+		position: relative;
+		display: inline-block;
+
+		&:after {
+			content: '';
+			position: absolute;
+			bottom: -5px;
+			left: 0;
+			width: 0;
+			height: 2px;
+			background: linear-gradient(to right, $primary, $purple);
+			transition: all 0.6s cubic-bezier(0.51, 0.46, 0, 1.04);
+		}
+	}
+
+	&.active span:after {
+		width: 100%;
+	}
+}

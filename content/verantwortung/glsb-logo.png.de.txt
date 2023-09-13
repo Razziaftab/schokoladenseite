@@ -1,0 +1,13 @@
+Alt: GLS Bank Logo
+
+----
+
+Title: GLS Bank
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: toi8IPTUmo2ribu0

@@ -1,0 +1,21 @@
+Alt: Auf rotem Hintergrund werden Seiten von der Hinz&Kunzt-Website gezeigt. In der rechten Hälfte des Bildes sind diese Seiten auf Mobiltelefonen zu sehen.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: MbcEMmS4ehOX91Rj

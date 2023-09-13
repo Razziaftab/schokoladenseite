@@ -1,0 +1,73 @@
+tabs:
+  pages:
+    icon: schoko
+    label: Schokoladenseite
+    sections:
+      drafts:
+        type: pages
+        headline: Entwürfe
+        status: draft
+        create: default
+      content:
+        type: fields
+        fields:
+          mainnav:
+            type: structure
+            columns:
+              mainMenu:
+                label: Erste Ebene
+                width: 1/4
+              subMenu:
+                label: Zweite Ebene
+                width: 2/4
+              hasSubmenu:
+                width: 1/4
+            fields:
+              mainMenu:
+                type: pages
+                max: 1
+              subMenu:
+                type: pages
+              hasSubmenu:
+                type: toggle
+          subnav:
+            type: structure
+            columns:
+              mainMenu:
+                label: Zweite Ebene
+                width: 1/4
+              subMenu:
+                label: Dritte Ebene
+                width: 3/4
+            fields:
+              mainMenu:
+                type: pages
+                max: 1
+              subMenu:
+                type: pages
+      published:
+        type: pages
+        status: published
+        headline: Veröffentlicht
+        sortBy: title
+        limit: 2000
+
+
+  manual:
+    icon: road-sign
+    label: Anleitungen
+    sections:
+      draftsManual:
+        type: pages
+        headline: Entwürfe
+        status: draft
+        create: manual
+        template: manual
+        image: false
+      publishedManual:
+        type: pages
+        headline: Veröffentlicht
+        status: published
+        sortBy: title 
+        template: manual
+        image: false

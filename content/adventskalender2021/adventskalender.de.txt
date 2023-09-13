@@ -1,0 +1,40 @@
+Title: Adventskalender
+
+----
+
+Fallback: - pexels-skyler-ewing-10245753.png
+
+----
+
+Bild:
+
+- pexels-skyler-ewing-10245753~1.webm
+- pexels-skyler-ewing-10245753~1.mp4
+
+----
+
+Header: Der SCHOKO-Adventskalender
+
+----
+
+Text: Weihnachtszeit, Schokoladenzeit, Zeit für den digitalen SCHOKO-Adventskalender. Während landauf, landab die Weihnachtsmärkte abgesagt werden müssen und die Erinnerung an überfüllte Einkaufszentren mit Jingle-Bells-Dauerschleife verblasst, hat eins auf der Welt noch Bestand: Schokolade macht glücklich! Warum das so ist, und welche Folgen das für unsere (n:Kund:innen x:Kundinnen y:Kunden) und (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter) hat - das erfahren Sie im SCHOKO-Adventskalender 2021. Und vieles mehr!
+
+----
+
+Seotitle: Der SCHOKO-Adventskalender
+
+----
+
+Seodescription: Schokolade macht glücklich! Warum das so ist, das erfahren Sie im SCHOKO-Adventskalender 2021. Und vieles mehr!
+
+----
+
+Seoimage: - pexels-skyler-ewing-10245753.png
+
+----
+
+Layout: []
+
+----
+
+Uuid: mgpLPftXxWQchuAo

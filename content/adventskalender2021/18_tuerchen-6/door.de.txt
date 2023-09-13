@@ -1,0 +1,29 @@
+Title: Unser SCHOKOherz schlägt für CSR
+
+----
+
+Seodescription: Mit dem heutigen Türchen schenken Sie eigentlich uns etwas, und wir schenken es dann weiter. Klingt kompliziert, ist es aber nicht!
+
+----
+
+Image: - 06.jpg
+
+----
+
+Door: 6
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Unser SCHOKOherz schl\u00e4gt f\u00fcr CSR**\n\n*Mit dem heutigen T\u00fcrchen schenken Sie eigentlich uns etwas, und wir schenken es dann weiter. Klingt kompliziert, ist es aber nicht! Denn wenn Unternehmen uns beauftragen, erm\u00f6glichen sie es uns indirekt, soziale Initiativen und Organisationen zu unterst\u00fctzen. Sie schenken, mit uns zusammen, CSR-Aktionen!*\n\nGenauso, wie jede Schokolade fair und nachhaltig produziert sein sollte, ist das Thema CSR bei der SCHOKOLADENSEITE.net nicht einfach nur ein Lippenbekenntnis. Wir suchen bewusst in vielen Feldern nach Verbesserungsm\u00f6glichkeiten und kommunizieren dies auch nach au\u00dfen, um andere zu informieren und zu inspirieren. Der Umweltschutz ist sicherlich zurzeit das pr\u00e4gnanteste Thema. Mit dem digitalen Adventskalender haben wir z.B. ein nachhaltigeres, ressourcenschonendes Kommunikations-Tool f\u00fcr die Vorweihnachtszeit entwickelt. Doch auch im sozialen Bereich ist die SCHOKOLADENSEITE.net seit langem Partnerin von gemeinn\u00fctzigen Initiativen und Organisationen. Zu unseren (n:Kund:innen x:Kundinnen y:Kunden) geh\u00f6ren z.B. das Hamburger Stra\u00dfenmagazin Hinz&Kunzt und der World Future Council. Wir f\u00f6rdern diese Organisationen unter anderem, indem wir ihnen unsere Leistungen zu Sonderkonditionen anbieten. M\u00f6glich wird das durch unsere \u2013 teils langj\u00e4hrige \u2013 T\u00e4tigkeit f\u00fcr (n:Kund:innen x:Kundinnen y:Kunden) aus der Wirtschaft.\n\u00a0\n**Danke, lieber Nikolaus!**\n\u00a0\nSie unterst\u00fctzen mit unserer Beauftragung also indirekt ebenfalls soziale Initiativen, wof\u00fcr wir uns an dieser Stelle einmal recht herzlich bedanken m\u00f6chten. \u00dcbrigens: der Hl. Nikolaus machte sich ja angeblich auch gerne unerkannt davon, wenn er etwas geschenkt hatte. Sie stehen da also in einer guten Tradition! \ud83c\udf85\ud83e\udd36"},"id":"fb995ce6-fafe-4365-b6e1-c0bda5b58c12","isHidden":false,"type":"text"}],"id":"0121690e-e40b-4345-9e45-a5472f7e3342","width":"1\/1"}],"id":"d58baf57-fbba-4fde-a581-5ef213f0d041"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: XGCEHZBu3UgVmtsf

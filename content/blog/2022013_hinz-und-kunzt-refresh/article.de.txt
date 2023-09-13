@@ -1,0 +1,41 @@
+Title: Hinz&Kunzt-Refresh
+
+----
+
+Articleheader: Website-Refresh für Hamburgs Straßenmagazin
+
+----
+
+Intro: Die Website des Hamburger Straßenmagazins Hinz&Kunzt hat von SCHOKOLADENSEITE.net eine optische Auffrischung bekommen.
+
+----
+
+Mp3: - file://W7McKg2hVSE2QMU4
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Der **Online-Auftritt von Hinz&Kunzt** wird von SCHOKOLADENSEITE.net schon seit 2012 betreut. Das Hamburger Stra\u00dfenmagazin nutzt seine **WordPress-Website** zur Information \u00fcber seine Arbeit, stellt z.B. seine Mitarbeiterinnen und Mitarbeiter vor und ver\u00f6ffentlicht auch Veranstaltungstipps. Doch der Look der Website war schon etwas in die Jahre gekommen. Mit dem Refresh durch unsere **<span lang=\"en\">WordPress<\/span>-(gender:Spezialist:innen x:Spezialistinnen y:Spezialisten xy:und)** ist sie jetzt moderner, gr\u00f6\u00dfer und damit gut aufgestellt f\u00fcr die kommenden Aufgaben und Themen.\n\nSie gibt jetzt den (gender:Nutzer:innen x:Nutzerinnen y:Nutzern xy:und) einen schnellen \u00dcberblick \u00fcber die einzelnen Projekte von Hinz&Kunzt und die Neuigkeiten in der Stadt. Besonders die **Artikel der aktuellen Ausgabe** fallen durch die Platzierung im neuen **<span lang=\"en\">Slider<\/span> auf der Startseite** und in der **<span lang=\"en\">Sidebar<\/span>** sofort ins Auge. Teilweise sind sie nur als Auszug verf\u00fcgbar, um so Lust auf den Kauf des Hefts bei den (gender:Verk\u00e4ufer:innen x:Verk\u00e4uferinnen y:Verk\u00e4ufern xy:und) zu machen. Ein bisschen Werbung darf schon sein ... \ud83d\ude09\n\n## Responsivit\u00e4t verbessert\nWollen Sie mal kurz die neuesten Themen der Stadt von unterwegs checken? Durch die verbesserte Responsivit\u00e4t der neuen Hinz&Kunzt-Seite wird sie auf allen Mobilger\u00e4ten fl\u00fcssig dargestellt."},"id":"3be11d6a-e9c9-4ec4-860e-ba3cc6a809f9","isHidden":false,"type":"text"}],"id":"5aa5fc3c-1833-4348-a0db-44130f413841","width":"1\/1"}],"id":"d9cf0fb9-8fdf-43f2-a408-fdc4be1b6abc"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/snkkCgPYD0hCSPaQ"]},"id":"4456daf7-1f06-4d84-b34b-3ae3af95350c","isHidden":false,"type":"blogimage"}],"id":"d68f840a-af56-45c7-b553-71ea242bdeb5","width":"1\/1"}],"id":"b2a9e402-8d4f-48ed-b541-d1a1614e0276"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## <span lang=\"en\">WordPress<\/span> - perfekt f\u00fcr aktuelle Meldungen\nF\u00fcr die (gender:Macher:innen x:Macherinnen y:Macher xy:und) von Hamburgs bekanntem Stra\u00dfenmagazin ist nat\u00fcrlich die einfache Bedienbarkeit des (link: cms text: Redaktionssystems\/Content-Management-Systems (CMS) title: Zur Leistung CMS) **<span lang=\"en\">WordPress<\/span>** ganz wichtig, damit sie schnell auf der Website die neuen Meldungen und Termine eintragen k\u00f6nnen. Alle Rubriken sind \u00fcbersichtlich angeordnet und bieten f\u00fcr die (gender:Nutzer:innen x:Nutzerinnen y:Nutzer xy:und) ein verbessertes Erlebnis (UX)."},"id":"30d94811-a84a-4b2a-b818-a998b4c3b58a","isHidden":false,"type":"text"},{"content":{"image":["file:\/\/hYkeqjWGef4UsFFS"]},"id":"dbd7020a-8f67-4896-b624-73647cf6876c","isHidden":false,"type":"blogimage"}],"id":"19040186-93b3-407c-a1d2-977ccc57f489","width":"1\/1"}],"id":"71bcd177-4c94-46cb-85b4-33612911cd9b"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"**Haben wir Sie neugierig gemacht?** Hier geht es zur neuen Seite:  (link: https:\/\/www.hinzundkunzt.de\/ text: www.hinzundkunzt.de title: Externer Link: Zur Hinz+Kunzt-Seite (\u00f6ffnet im neuen Tab) target: _blank)"},"id":"2224b319-1e73-4d9b-b0d7-d8cef17dfd93","isHidden":false,"type":"text"}],"id":"4b1e935e-d672-4fba-a49a-bc479d61fd6d","width":"1\/1"}],"id":"d38a8ba9-ff30-4b04-b569-aa6bdc454e12"}]
+
+----
+
+Date: 2022-07-13 12:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Die WordPress-Website des Hamburger Straßenmagazins Hinz&Kunzt hat von SCHOKOLADENSEITE.net ein Refresh bekommen. Sie ist jetzt größer und hat ein moderneres Design.
+
+----
+
+Articleimage: - file://MbcEMmS4ehOX91Rj
+
+----
+
+Categories: Agentur
+
+----
+
+Uuid: IVOUXnNVgjhGtRYK

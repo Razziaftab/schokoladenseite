@@ -1,0 +1,1459 @@
+Title: Referenzen
+
+----
+
+H1: Online-Projekte
+
+----
+
+Referenzen:
+
+- 
+  headline: akf Schadenmeldung
+  text: |
+    Kozeptionierung und Programmierung eines komplexen <span lang="en">Multi-Step</span> Formulars zur Schadenmeldung, sowie Implementierung vom <span lang="en">(link: gender-selector text: chocfair Gender-Selector)</span>.
+    
+    <span lang="en">**Framework**</span>: Laravel
+  cms: [ ]
+  website: https://www.akf-schadenmeldung.de/
+  zuordnung: webdesign
+  imagealt:
+    - >
+      2022-10-19-11_53_09-unser-akf-online-schadenservice-brave.jpg
+  images: null
+  imagessmall: null
+  ausblenden: 'false'
+- 
+  headline: Martini Klinik
+  text: 'Konzeption, Design und Programmierung der multilingualen <span lang="en">Website</span> einer Hamburger Klinik.'
+  cms:
+    - typo3
+  website: https://www.martini-klinik.de/
+  zuordnung: webdesign, cms
+  imagealt:
+    - >
+      2022-10-19-11_59_05-martini-klinik-prostatakrebszentrum-hamburg-brave.jpg
+  images: null
+  imagessmall: null
+  ausblenden: 'false'
+- 
+  headline: DigitalService des Bundes
+  text: >
+    Technische Umsetzung des Webrelaunches
+    der Digitalisierungseinheit des Bundes.
+    Realisierung der Barrierefreiheit nach
+    WCAG/BITV.
+  cms:
+    - kirby-cms
+  website: https://digitalservice.bund.de/
+  zuordnung: barrierefreiheit, cms
+  imagealt:
+    - digitalservice-1.jpg
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'false'
+- 
+  headline: 'Hinz&Kunzt'
+  text: >
+    Design-Refresh der Website mit vielen
+    Optimierungen zwecks Geschwindigkeit,
+    Übersichtlichkeit, Responsivität und
+    Backend-Bedienung.
+  cms:
+    - wordpress
+  website: https://www.hinzundkunzt.de
+  zuordnung: webdesign, cms
+  imagealt:
+    - hinzundkunzt-rebrush.jpg
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'false'
+- 
+  headline: Dr. Weigert
+  text: >
+    Konzeption, Design und Umsetzung einer
+    komplexen Programmierung des
+    internationalen Webauftritts im
+    responsiven Design.
+  cms:
+    - typo3
+  website: http://www.drweigert.com/de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - >
+      2022-10-19-10_06_23-dr.-weigert-deutschland_-dr.-weigert-hygiene-mit-system-brave.jpg
+    - cms-dw.jpg
+    - cms-dw.png
+  images:
+    - dr-weigert-desktop.png
+    - dr-weigert-mobil.png
+    - dr-weigert-mobil2.png
+    - dr-weigert-desktop2.png
+  imagessmall:
+    - dr-weigert-desktop.webp
+    - dr-weigert-mobil.webp
+    - dr-weigert-mobil2.webp
+    - dr-weigert-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: akf Servicelease
+  text: |
+    Konzeption, Design und Programmierung einer <span lang="en">Website</span> für die akf <span lang="en">Servicelease</span> im responsiven Design zur Produktdarstellung und Generierung von Anfragen, sowie mit einem Rechner zur Berechnung der Abo-Rate.
+    
+    <span lang="en">**Framework**</span>: Laravel
+  cms: [ ]
+  website: https://business.akf-autoabo.de/
+  zuordnung: webdesign
+  imagealt:
+    - >
+      2022-10-19-11_11_41-akf-business-abo-brave.jpg
+    - akf-konfigurator-alt.jpg
+    - akf-konfigurator-alt.png
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'false'
+- 
+  headline: 'Dr. Weigert '
+  text: 'Konzeption, Design und Programmierung einer <span lang="en">Microsite</span> zur Produkt-Innovation im responsiven Design.'
+  cms:
+    - typo3
+  website: >
+    https://www.drweigert.com/de/produkte-system-loesungen/neodisher-mediclean-advanced
+  zuordnung: webdesign, cms
+  imagealt:
+    - >
+      2022-10-19-11_46_12-dr.-weigert-deutschland_-neodisher-mediclean-advanced-brave.jpg
+    - dw-produktinnovation.jpg
+    - dw-produktinnovation.png
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'false'
+- 
+  headline: eagle kreativ
+  text: |
+    Konzeption, Design und Umsetzung eines <span lang="en">Onlineshops</span>. Datenübertragung und Anbindung an <span lang="en">Business Central</span> (ehemals <span lang="en">Microsoft Dynamics Nav</span>).
+    
+    **System:** <span lang="en">(link: onlineshops text: Shopware)</span>
+  cms: [ ]
+  website: https://eaglekreativ.de/
+  zuordnung: shop
+  imagealt:
+    - eaglekreativ.jpg
+    - eaglekreativ.png
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'false'
+- 
+  headline: Optonaval
+  text: 'Konzeption, Programmierung und Umsetzung einer responsiven Firmen<span lang="en">website</span>.'
+  cms:
+    - kirby-cms
+  website: https://optonaval.com/
+  zuordnung: cms
+  imagealt:
+    - webdesign-optonaval.jpg
+    - webdesign-optonaval.png
+  images:
+    - >
+      optonaval-firmenwebsite-webdesign-desktop.png
+    - >
+      optonaval-firmenwebsite-webdesign-mobil.png
+    - >
+      optonaval-firmenwebsite-webdesign-mobil2.png
+    - >
+      optonaval-firmenwebsite-webdesign-desktop2.png
+  imagessmall:
+    - >
+      optonaval-firmenwebsite-webdesign-desktop.webp
+    - >
+      optonaval-firmenwebsite-webdesign-mobil.webp
+    - >
+      optonaval-firmenwebsite-webdesign-mobil2.webp
+    - >
+      optonaval-firmenwebsite-webdesign-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Gastro Star
+  text: >
+    Webkonzeption, Design und Programmierung
+    der Firmenwebsite im Responsive Design.
+  cms:
+    - kirby-cms
+  website: https://www.gastro-star.eu/
+  zuordnung: cms, webdesign
+  imagealt:
+    - webdesign-gastrostar.jpg
+    - webdesign-gastrostar.png
+  images:
+    - gastro-star-desktop.png
+    - gastro-star-mobil.png
+    - gastro-star-mobil2.png
+    - gastro-star-desktop2.png
+  imagessmall:
+    - gastro-star-desktop.webp
+    - gastro-star-mobil.webp
+    - gastro-star-mobil2.webp
+    - gastro-star-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Alfagruppe
+  text: 'Konzeption, Design und Umsetzung einer Firmen<span lang="en">website</span>.'
+  cms:
+    - wordpress
+  website: https://alfagruppe.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - >
+      2022-10-19-12_02_38-startseite-gebaudereinigung-und-service-alfa-unternehmensgruppe-brave.jpg
+    - webdesign-alfagruppe.jpg
+    - webdesign-alfagruppe.png
+  images:
+    - alfa-desktop.png
+    - alfa-mobil.png
+    - alfa-mobil2.png
+    - alfa-desktop2.png
+  imagessmall:
+    - alfa-desktop.webp
+    - alfa-mobil.webp
+    - alfa-mobil2.webp
+    - alfa-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: United4Rescue
+  text: 'Konzeption, Layout und Programmierung eines responsiven (link: digitaler-adventskalender text: Online-Adventskalenders). Jeden Tag öffnet sich ein Türchen. Mit <span lang="en">Social Media</span>-Anbindung.'
+  cms: [ ]
+  website: ""
+  zuordnung: webdesign, cms
+  imagealt:
+    - >
+      webdesign-united4rescure-adventskalender-2020.jpg
+    - >
+      webdesign-united4rescure-adventskalender-2020.png
+  images:
+    - u4r-adventskalender-desktop.png
+    - u4r-adventskalender-mobil.png
+    - u4r-adventskalender-mobil2.png
+    - u4r-adventskalender-desktop2.png
+  imagessmall:
+    - u4r-adventskalender-desktop.webp
+    - u4r-adventskalender-mobil.webp
+    - u4r-adventskalender-mobil2.webp
+    - u4r-adventskalender-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Dr. Armin Rau
+  text: 'Nachbau der WordPress Website sowie Umsetzung responsiver Optimierungen. Erneuerung auf den aktuellen technischen Stand. Regelmäßige Wartung, Pflege und <span lang="en">Support</span>.'
+  cms:
+    - wordpress
+  website: https://www.dr-armin-rau.de/
+  zuordnung: cms
+  imagealt:
+    - cms-dr-armin-rau.jpg
+    - cms-dr-armin-rau.png
+  images:
+    - dr-armin-rau-desktop.png
+    - dr-armin-rau-mobil.png
+    - dr-armin-rau-mobil2.png
+    - dr-armin-rau-desktop2.png
+  imagessmall:
+    - dr-armin-rau-desktop.webp
+    - dr-armin-rau-mobil.webp
+    - dr-armin-rau-mobil2.webp
+    - dr-armin-rau-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: AUG. PRIEN Immobilien
+  text: 'Nachbau der <span lang="en">WordPress Website</span> sowie Umsetzung responsiver Optimierungen. Erneuerung auf den aktuellen technischen Stand. Regelmäßige Wartung, Pflege und <span lang="en">Support</span>.'
+  cms:
+    - wordpress
+  website: https://www.augprien-immobilien.de/
+  zuordnung: cms
+  imagealt:
+    - cms-augprien-immobilien.jpg
+    - cms-augprien-immobilien.png
+  images:
+    - aug-prien-immobilien-desktop.png
+    - aug-prien-immobilien-mobil.png
+    - aug-prien-immobilien-mobil2.png
+    - aug-prien-immobilien-desktop2.png
+  imagessmall:
+    - aug-prien-immobilien-desktop.webp
+    - aug-prien-immobilien-mobil.webp
+    - aug-prien-immobilien-mobil2.webp
+    - aug-prien-immobilien-desktop2.webp
+  ausblenden: 'true'
+- 
+  headline: AUG. PRIEN
+  text: 'Nachbau der <span lang="en">WordPress Website</span> sowie Umsetzung responsiver Optimierungen. Erneuerung auf den aktuellen technischen Stand. Regelmäßige Wartung, Pflege und <span lang="en">Support</span>.'
+  cms:
+    - wordpress
+  website: https://augprien.de/
+  zuordnung: cms
+  imagealt:
+    - cms-augprien.jpg
+    - cms-augprien.png
+  images:
+    - aug-prien-desktop.png
+    - aug-prien-mobil.png
+    - aug-prien-mobil2.png
+    - aug-prien-desktop2.png
+  imagessmall:
+    - aug-prien-desktop.webp
+    - aug-prien-mobil.webp
+    - aug-prien-mobil2.webp
+    - aug-prien-desktop2.webp
+  ausblenden: 'true'
+- 
+  headline: AUG. PRIEN Karriere
+  text: 'Nachbau der <span lang="en">WordPress Website</span> sowie Umsetzung responsiver Optimierungen. Erneuerung auf den aktuellen technischen Stand. Regelmäßige Wartung, Pflege und <span lang="en">Support</span>.'
+  cms:
+    - wordpress
+  website: https://augprien-karriere.de/
+  zuordnung: cms
+  imagealt:
+    - cms-augprien-karriere.jpg
+    - cms-augprien-karriere.png
+  images:
+    - aug-prien-karriere-desktop.png
+    - aug-prien-karriere-mobil.png
+    - aug-prien-karriere-mobil2.png
+    - aug-prien-karriere-desktop2.png
+  imagessmall:
+    - aug-prien-karriere-desktop.webp
+    - aug-prien-karriere-mobil.webp
+    - aug-prien-karriere-mobil2.webp
+    - aug-prien-karriere-desktop2.webp
+  ausblenden: 'true'
+- 
+  headline: Erika Klütz Schule
+  text: 'Umsetzung einer Tanzschul-<span lang="en">Website</span>.'
+  cms:
+    - wordpress
+  website: https://www.kluetzschule.de/
+  zuordnung: cms
+  imagealt:
+    - cms-kluetz-relaunch.jpg
+    - cms-kluetz-relaunch.png
+  images:
+    - erika-kluetz-schule-desktop.png
+    - erika-kluetz-schule-mobil.png
+    - erika-kluetz-schule-mobil2.png
+    - erika-kluetz-schule-desktop2.png
+  imagessmall:
+    - erika-kluetz-schule-desktop.webp
+    - erika-kluetz-schule-mobil.webp
+    - erika-kluetz-schule-mobil2.webp
+    - erika-kluetz-schule-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Lufthansa Cityline GmbH
+  text: 'Design eines Aktionszeichens mit <span lang="en">Hashtag</span> für die Lufthansa Cityline GmbH im Rahmen der Corona-Pandemie. Das Aktionszeichen wurde eingesetzt für Kommunikationsmaßnahmen und zur Verwendung in Sozialen Medien.'
+  cms: [ ]
+  website: ""
+  zuordnung: ""
+  imagealt:
+    - cd-clh.jpg
+    - cd-clh.png
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'false'
+- 
+  headline: Kobold
+  text: |
+    Programmierung eines Autoleasing-Rechners mit Konfigurator im responsiven Design.
+    
+    <span lang="en">**Framework**</span>: Laravel
+  cms: [ ]
+  website: ""
+  zuordnung: webdesign
+  imagealt:
+    - web-kobold.jpg
+    - web-kobold.png
+  images:
+    - kobold-desktop.png
+    - kobold-mobil.png
+    - kobold-mobil2.png
+    - kobold-desktop2.png
+  imagessmall:
+    - kobold-desktop.webp
+    - kobold-mobil.webp
+    - kobold-mobil2.webp
+    - kobold-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Dr. Weigert
+  text: |
+    Gestaltung und Umsetzung eines HTML-<span lang="en">Newsletter-Templates</span> für den regelmäßigen digitalen Versand der PDF-Ausgabe der <span lang="en">update</span>.
+    
+    <span lang="en">**E-Mail-Marketing Software**</span>: <span lang="en">CleverReach</span>
+  cms: [ ]
+  website: ""
+  zuordnung: newsletter, cleverreach
+  imagealt:
+    - newsletter-dr-weigert-alt.jpg
+    - newsletter-dr-weigert-alt.png
+  images:
+    - newsletter-dr-weigert.png
+  imagessmall:
+    - newsletter-dr-weigert.webp
+  ausblenden: 'true'
+- 
+  headline: akf Servicelease
+  text: >
+    Webkonzeption und Design der
+    Mietwagensektion im responsiven Design
+    zur Produktdarstellung und Generierung
+    von Anfragen.
+  cms: [ ]
+  website: https://www.akf-servicelease.de/
+  zuordnung: webdesign
+  imagealt:
+    - web-akfservicelease.jpg
+    - web-akfservicelease.png
+  images:
+    - akf-servicelease-desktop.png
+    - akf-servicelease-mobil.png
+    - akf-servicelease-mobil2.png
+    - akf-servicelease-desktop2.png
+  imagessmall:
+    - akf-servicelease-desktop.webp
+    - akf-servicelease-mobil.webp
+    - akf-servicelease-mobil2.webp
+    - akf-servicelease-desktop2.webp
+  ausblenden: 'true'
+- 
+  headline: Comporsys
+  text: |
+    Webkonzeption, Design und Programmierung der Firmenwebsite im Responsive Design.
+    Konzeption der Comics, der Charaktere und der <span lang="en">Story</span>.
+  cms: [ ]
+  website: https://www.comporsys.de/
+  zuordnung: webdesign
+  imagealt:
+    - comporsys-webdesign.jpg
+    - comporsys-webdesign.png
+  images:
+    - comporsys-desktop.png
+    - comporsys-mobil.png
+    - comporsys-mobil2.png
+    - comporsys-desktop2.png
+  imagessmall:
+    - comporsys-desktop.webp
+    - comporsys-mobil.webp
+    - comporsys-mobil2.webp
+    - comporsys-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: BigMove
+  text: 'Umsetzung einer mehrsprachigen und responsiven Firmen<span lang="en">website</span> mit integriertem <span lang="en">Blog</span> und Mitgliederlogin.'
+  cms:
+    - wordpress
+  website: https://www.bigmove.net/
+  zuordnung: cms
+  imagealt:
+    - cms-bigmove.jpg
+    - cms-bigmove.png
+  images:
+    - big-move-desktop.png
+    - big-move-mobil.png
+    - big-move-mobil2.png
+    - big-move-desktop2.png
+  imagessmall:
+    - big-move-desktop.webp
+    - big-move-mobil.webp
+    - big-move-mobil2.webp
+    - big-move-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: KCW
+  text: 'Übernahme, Weiterentwicklung, Wartung und Optimierung der Firmen<span lang="en">website</span>.'
+  cms:
+    - kirby-cms
+  website: https://www.kcw-online.de/
+  zuordnung: cms
+  imagealt:
+    - webdesign-kcw.jpg
+    - webdesign-kcw.png
+  images:
+    - kcw-desktop.png
+    - kcw-mobil.png
+    - kcw-mobil2.png
+    - kcw-desktop2.png
+  imagessmall:
+    - kcw-desktop.webp
+    - kcw-mobil.webp
+    - kcw-mobil2.webp
+    - kcw-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: SeaLand Travel
+  text: 'Umsetzung einer mehrsprachigen Firmen<span lang="en">website</span> mit Buchungsfunktion für Ferienhäuser.'
+  cms:
+    - wordpress
+  website: https://sealand-travel.com/
+  zuordnung: cms
+  imagealt:
+    - webdesign-sealand.jpg
+    - webdesign-sealand.png
+  images:
+    - sealand-desktop.png
+    - sealand-mobil.png
+    - sealand-mobil2.png
+    - sealand-desktop2.png
+  imagessmall:
+    - sealand-desktop.webp
+    - sealand-mobil.webp
+    - sealand-mobil2.webp
+    - sealand-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Lidplastik Hamburg
+  text: 'Konzeption, Design und Umsetzung einer SEO <span lang="en">Landingpage</span>.'
+  cms:
+    - wordpress
+  website: https://lidplastik-hamburg.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - >
+      2022-10-19-11_48_12-lidstraffung-hamburg-_-dr.-armin-rau-spezialist-fur-augenlidstraffung-brave.jpg
+    - webdesign-lidplastik-hamburg.jpg
+    - webdesign-lidplastik-hamburg.png
+  images:
+    - lidplastik-hamburg-desktop.png
+    - lidplastik-hamburg-mobil.png
+    - lidplastik-hamburg-mobil2.png
+    - lidplastik-hamburg-desktop2.png
+  imagessmall:
+    - lidplastik-hamburg-desktop.webp
+    - lidplastik-hamburg-mobil.webp
+    - lidplastik-hamburg-mobil2.webp
+    - lidplastik-hamburg-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Extrakta Strauss
+  text: 'Konzeption, Design und Umsetzung einer Firmen<span lang="en">website</span>.'
+  cms:
+    - wordpress
+  website: https://www.extrakta.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - webdesign-extrakta.jpg
+    - webdesign-extrakta.png
+  images:
+    - extrakta-strauss-desktop.png
+    - extrakta-strauss-mobil.png
+    - extrakta-strauss-mobil2.png
+    - extrakta-strauss-desktop2.png
+  imagessmall:
+    - extrakta-strauss-desktop.webp
+    - extrakta-strauss-mobil.webp
+    - extrakta-strauss-mobil2.webp
+    - extrakta-strauss-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Expert Marking Tools
+  text: |
+    <span lang="en">Onlineshop</span>-Umsetzung. Datenübertragung und Anbindung an <span lang="en">Business Central</span> (ehemals <span lang="en">Microsoft Dynamics Nav</span>).
+    
+    **System**: (link: onlineshops text: Shopware)
+  cms: [ ]
+  website: https://expert-marking.de/
+  zuordnung: shop
+  imagealt:
+    - onlineshop-expert-marking.jpg
+    - onlineshop-expert-marking.png
+  images:
+    - expert-marking-desktop.png
+    - expert-marking-mobil.png
+    - expert-marking-mobil2.png
+    - expert-marking-desktop2.png
+  imagessmall:
+    - expert-marking-desktop.webp
+    - expert-marking-mobil.webp
+    - expert-marking-mobil2.webp
+    - expert-marking-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Dr. Weigert
+  text: |
+    Gestaltung und Umsetzung von HTML-<span lang="en">Newsletter-Templates</span> für den regelmäßigen digitalen Versand von verschiedenen PDF-Ausgaben.
+    
+    <span lang="en">**E-Mail-Marketing Software**</span>: <span lang="en">CleverReach</span>
+  cms: [ ]
+  website: ""
+  zuordnung: newsletter, cleverreach
+  imagealt:
+    - >
+      newsletter-dr-weigert-endo-international-alt.jpg
+    - >
+      newsletter-dr-weigert-endo-international-alt.png
+  images:
+    - >
+      newsletter-dr-weigert-endo-international.png
+  imagessmall:
+    - >
+      newsletter-dr-weigert-endo-international.webp
+  ausblenden: 'false'
+- 
+  headline: 'Hinz & Kunzt'
+  text: |
+    <span lang="en">Testing</span>, Auswahl und Initialisierung einer passenden <span lang="en">E-Mail Marketing Software</span>. Gestaltung und Anlegen eines flexiblen <span lang="en">Newsletter-Templates</span> für diverse Einsatzzwecke im Kunden-CD.
+    
+    <span lang="en">**E-Mail-Marketing Software**</span>: <span lang="en">CleverReach</span>
+  cms: [ ]
+  website: ""
+  zuordnung: newsletter, cleverreach
+  imagealt:
+    - >
+      2022-10-19-10_56_22-wg_-randnotizen-preview-nachricht-html.jpg
+    - >
+      newsletter-hinzundkunzt-randnotizen-alt.jpg
+    - >
+      newsletter-hinzundkunzt-randnotizen-alt.png
+  images:
+    - newsletter-hinzundkunzt-randnotizen.png
+  imagessmall:
+    - newsletter-hinzundkunzt-randnotizen.webp
+  ausblenden: 'false'
+- 
+  headline: Dr. Weigert
+  text: |
+    Planung und Umsetzung einer <span lang="en">Newsletter-Marketing</span> Strategie. Anlegen von Empfängerlisten, einer DSGVO-gerechten Onlineanmeldung auf der <span lang="en">Website</span> sowie eines Erst<span lang="en">mailings</span>.
+    
+    <span lang="en">**E-Mail-Marketing Software**</span>: <span lang="en">CleverReach</span>
+  cms: [ ]
+  website: ""
+  zuordnung: newsletter, cleverreach
+  imagealt:
+    - mailing-dr-weigert-alt.jpg
+    - mailing-dr-weigert-alt.png
+  images:
+    - mailing-dr-weigert.png
+  imagessmall:
+    - mailing-dr-weigert.webp
+  ausblenden: 'false'
+- 
+  headline: RSG
+  text: 'Konzept, Design und Programmierung einer neuen Firmen<span lang="en">website</span>. Intelligente und responsive Umsetzung komplexer Produkt-Tabellen und Filter.'
+  cms:
+    - kirby-cms
+  website: https://rsg-electronic.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - webdesign-rsg.jpg
+    - webdesign-rsg.png
+  images:
+    - rsg-desktop.png
+    - rsg-mobil.png
+    - rsg-mobil2.png
+    - rsg-desktop2.png
+  imagessmall:
+    - rsg-desktop.webp
+    - rsg-mobil.webp
+    - rsg-mobil2.webp
+    - rsg-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Dr. Margret Lohmann
+  text: 'Konzeption, Design und Umsetzung einer Firmen<span lang="en">website</span>.'
+  cms:
+    - wordpress
+  website: https://www.margret-lohmann.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - webdesign-margret-lohmann.jpg
+    - webdesign-margret-lohmann.png
+  images:
+    - margret-lohmann-desktop.png
+    - margret-lohmann-mobil.png
+    - margret-lohmann-mobil-1.png
+    - margret-lohmann-desktop2.png
+  imagessmall:
+    - margret-lohmann-desktop.webp
+    - margret-lohmann-mobil.webp
+    - margret-lohmann-mobil-1.webp
+    - margret-lohmann-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Nordkirche
+  text: 'Konzeption, <span lang="en">Layout</span> und Programmierung eines responsiven (link: digitaler-adventskalender text: Online-Adventskalenders). Entwicklung einer interaktiven Mitmach-Aktion mit Foto-<span lang="en">Upload</span> und <span lang="en">Social Media</span>-Anbindung.'
+  cms: [ ]
+  website: ""
+  zuordnung: webdesign, cms
+  imagealt:
+    - >
+      webdesign-seenotrettung-adventskalender-2020.jpg
+    - >
+      webdesign-seenotrettung-adventskalender-2020.png
+  images:
+    - nordkirche-adventskalender-desktop.png
+    - nordkirche-adventskalender-mobil.png
+    - nordkirche-adventskalender-mobil2.png
+    - nordkirche-adventskalender-desktop2.png
+  imagessmall:
+    - nordkirche-adventskalender-desktop.webp
+    - nordkirche-adventskalender-mobil.webp
+    - nordkirche-adventskalender-mobil2.webp
+    - nordkirche-adventskalender-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Nordkirche
+  text: |
+    Konzeption, <span lang="en">Layout</span> und Programmierung eines responsiven <span lang="en">Online</span>-Adventskalenders.
+    Programmierung einer Funktion, durch welche sich jeden Tag ein Türchen öffnet. <span lang="en">Social Media</span>-Anbindung.
+  cms: [ ]
+  website: ""
+  zuordnung: webdesign
+  imagealt:
+    - >
+      webdesign-seenotrettung-adventskalender-2019.jpg
+    - >
+      webdesign-seenotrettung-adventskalender-2019.png
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'true'
+- 
+  headline: BetterBedi
+  text: 'Umsetzung einer mehrsprachigen und responsiven Firmen<span lang="en">website</span> mit integriertem <span lang="en">Blog</span>.'
+  cms:
+    - wordpress
+  website: https://www.betterbedi.com/
+  zuordnung: cms
+  imagealt:
+    - better-bedi-neu.jpg
+    - better-bedi-neu.png
+  images:
+    - better-bedi-desktop.png
+    - better-bedi-mobil.png
+    - better-bedi-mobil2.png
+    - better-bedi-desktop2.png
+  imagessmall:
+    - better-bedi-desktop.webp
+    - better-bedi-mobil.webp
+    - better-bedi-mobil2.webp
+    - better-bedi-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Frau Möller
+  text: 'Konzept, Design und Umsetzung einer mehrsprachigen Restaurant<span lang="en">website</span> im responsiven Design. Integrierung einer tagesaktuellen Speisekarte.'
+  cms:
+    - wordpress
+  website: https://fraumoeller.com/
+  zuordnung: cms, webdesign
+  imagealt:
+    - webdesign-fraumoeller.jpg
+    - webdesign-fraumoeller.png
+  images:
+    - frau-moeller-desktop.png
+    - frau-moeller-mobil.png
+    - frau-moeller-mobil2.png
+    - frau-moeller-desktop2.png
+  imagessmall:
+    - frau-moeller-desktop.webp
+    - frau-moeller-mobil.webp
+    - frau-moeller-mobil2.webp
+    - frau-moeller-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: TPi-Electronic
+  text: 'Konzept, Design und Programmierung einer neuen mehrsprachigen Firmen<span lang="en">website</span>. <span lang="en">Conversion</span>-Optimierte Produkt<span lang="en">landingpages</span>.'
+  cms:
+    - kirby-cms
+  website: https://www.tpi-electronic.de/
+  zuordnung: webdesign, cms
+  imagealt:
+    - >
+      2022-10-19-11_02_02-tpi-elektronische-bauteile-__-home-brave.jpg
+    - webdesign-tpi.jpg
+    - webdesign-tpi.png
+  images:
+    - tpi-electronic-desktop.png
+    - tpi-electronic-mobil.png
+    - tpi-electronic-mobil2.png
+    - tpi-electronic-desktop2.png
+  imagessmall:
+    - tpi-electronic-desktop.webp
+    - tpi-electronic-mobil.webp
+    - tpi-electronic-mobil2.webp
+    - tpi-electronic-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Taucher Knoth
+  text: 'Konzept, Design und Umsetzung einer Firmen<span lang="en">website</span>.'
+  cms:
+    - wordpress
+  website: https://taucherknoth.com/
+  zuordnung: cms, webdesign
+  imagealt:
+    - webdesign-taucherknoth.jpg
+    - webdesign-taucherknoth.png
+  images:
+    - taucher-knoth-desktop.png
+    - taucher-knoth-mobil.png
+    - taucher-knoth-mobil2.png
+    - taucher-knoth-desktop2.png
+  imagessmall:
+    - taucher-knoth-desktop.webp
+    - taucher-knoth-mobil.webp
+    - taucher-knoth-mobil2.webp
+    - taucher-knoth-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Bekra Baumaschinen
+  text: 'Konzept, Design und Programmierung einer neuen Firmen<span lang="en">website</span>.'
+  cms:
+    - kirby-cms
+  website: https://bekra-baumaschinen.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - webdesign-bekra.jpg
+    - webdesign-bekra.png
+  images:
+    - bekra-baumaschinen-desktop.png
+    - bekra-baumaschinen-mobil.png
+    - bekra-baumaschinen-mobil2.png
+    - bekra-baumaschinen-desktop2.png
+  imagessmall:
+    - bekra-baumaschinen-desktop.webp
+    - bekra-baumaschinen-mobil.webp
+    - bekra-baumaschinen-mobil2.webp
+    - bekra-baumaschinen-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Allgemeiner Fachverlag
+  text: 'Konzeption, Design und Programmierung einer Verlags<span lang="en">website</span> mit einem umfassenden Archiv. Eigene <span lang="en">Theme</span>-Programmierung im responsiven Design. Umsetzung eines Mitgliederbereiches mit unterschiedlichen Abomodellen.'
+  cms:
+    - wordpress
+  website: https://www.allgemeiner-fachverlag.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - webdesign-zfv.jpg
+    - webdesign-zfv.png
+  images:
+    - allgemeiner-fachverlag-desktop.png
+    - allgemeiner-fachverlag-mobil.png
+    - allgemeiner-fachverlag-mobil2.png
+    - allgemeiner-fachverlag-desktop2.png
+  imagessmall:
+    - allgemeiner-fachverlag-desktop.webp
+    - allgemeiner-fachverlag-mobil.webp
+    - allgemeiner-fachverlag-mobil2.webp
+    - allgemeiner-fachverlag-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Stadtwerke Wedel GmbH
+  text: 'Umsetzung und Programmierung im responsiven Design. <span lang="en">Template</span>-Anpassungen und Konfigurationen des <span lang="en">Themes</span> sowie <span lang="en">Social Media</span> Anbindung.'
+  cms:
+    - wordpress
+  website: http://elbschnagger.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - blog-elbschnagger.jpg
+    - blog-elbschnagger.png
+  images:
+    - stadtwerke-wedel-gmbh-desktop.png
+    - stadtwerke-wedel-gmbh-mobil.png
+    - stadtwerke-wedel-gmbh-mobil2.png
+    - stadtwerke-wedel-gmbh-desktop2.png
+  imagessmall:
+    - stadtwerke-wedel-gmbh-desktop.webp
+    - stadtwerke-wedel-gmbh-mobil.webp
+    - stadtwerke-wedel-gmbh-mobil2.webp
+    - stadtwerke-wedel-gmbh-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: 'Hinz & Kunzt'
+  text: 'Konzeption, Design und Programmierung eines Newsportals mit großem Archiv. Eigene <span lang="en">Theme</span>-Programmierung im responsiven Design. Individuelle <span lang="en">WordPress Plugin</span>-Programmierung sowie weiterer individueller Funktionen wie diverser Spendenformulare.'
+  cms:
+    - wordpress
+  website: http://www.hinzundkunzt.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - blog-hk.jpg
+    - blog-hk.png
+  images:
+    - hinz-und-kunzt-desktop.png
+    - hinz-und-kunzt-mobil.png
+    - hinz-und-kunzt-mobil2.png
+    - hinz-und-kunzt-desktop2.png
+  imagessmall:
+    - hinz-und-kunzt-desktop.webp
+    - hinz-und-kunzt-mobil.webp
+    - hinz-und-kunzt-mobil2.webp
+    - hinz-und-kunzt-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: expertum
+  text: 'Eigene <span lang="en">Theme</span>-Programmierung (Responsive Design). Individuelle <span lang="en">WordPress Plugin</span>-Programmierung mit Anbindung an externe Jobdatenbanken.'
+  cms:
+    - wordpress
+  website: http://www.expertum.de/
+  zuordnung: cms
+  imagealt:
+    - cms-exp.jpg
+    - cms-exp.png
+  images:
+    - expertum-desktop.png
+    - expertum-mobil.png
+    - expertum-mobil2.png
+    - expertum-desktop2.png
+  imagessmall:
+    - expertum-desktop.webp
+    - expertum-mobil.webp
+    - expertum-mobil2.webp
+    - expertum-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Banking Partner
+  text: >
+    Konzeption, Design und Umsetzung im
+    responsiven Design.
+  cms:
+    - wordpress
+  website: http://www.banking-partner.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - cms-bp.jpg
+    - cms-bp.png
+  images:
+    - banking-partner-desktop.png
+    - banking-partner-mobil.png
+    - banking-partner-mobil2.png
+    - banking-partner-desktop2.png
+  imagessmall:
+    - banking-partner-desktop.webp
+    - banking-partner-mobil.webp
+    - banking-partner-mobil2.webp
+    - banking-partner-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Hebammenpraxis an der Alster
+  text: 'Umsetzung einer Firmen<span lang="en">website</span>.'
+  cms:
+    - wordpress
+  website: https://hebammenpraxis-an-der-alster.de/
+  zuordnung: cms
+  imagealt:
+    - webdesign-hebammenpraxis.jpg
+    - webdesign-hebammenpraxis.png
+  images:
+    - hebammenpraxis-desktop.png
+    - hebammenpraxis-mobil.png
+    - hebammenpraxis-mobil2.png
+    - hebammenpraxis-desktop2.png
+  imagessmall:
+    - hebammenpraxis-desktop.webp
+    - hebammenpraxis-mobil.webp
+    - hebammenpraxis-mobil2.webp
+    - hebammenpraxis-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: TKS Ludwig
+  text: 'Umsetzung einer responsiven Firmen<span lang="en">website</span> mit integriertem <span lang="en">Blog</span>.'
+  cms:
+    - wordpress
+  website: https://www.tksludwig.de/
+  zuordnung: cms
+  imagealt:
+    - cms-tks.jpg
+    - cms-tks.png
+  images:
+    - tksludwig-desktop.png
+    - tksludwig-mobil.png
+    - tksludwig-mobil2.png
+    - tksludwig-desktop2.png
+  imagessmall:
+    - tksludwig-desktop.webp
+    - tksludwig-mobil.webp
+    - tksludwig-mobil2.webp
+    - tksludwig-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Future of Cities
+  text: 'Konzeption, Design und Programmierung einer Projekt<span lang="en">website</span>. Ausführung im Responsive Design zur Betrachtung auf mobilen Endgeräten. Newsbereich, Downloadbereich und <span lang="en">Liveblog</span> mit <span lang="en">Disqus</span>.'
+  cms:
+    - kirby-cms
+  website: ""
+  zuordnung: webdesign
+  imagealt:
+    - cms-future-of-cities-alt.jpg
+    - cms-future-of-cities-alt.png
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'false'
+- 
+  headline: Future Policy Award
+  text: 'Konzeption, Design und technische Umsetzung eines <span lang="en">Wordpress</span> <span lang="en">Blogs</span>. Individuelle <span lang="en">Template</span>-Programmierung und Konfigurationen.'
+  cms:
+    - wordpress
+  website: http://www.futurepolicy.org/
+  zuordnung: webdesign, cms
+  imagealt:
+    - cms-future-policy.jpg
+    - cms-future-policy.png
+  images:
+    - future-policy-award-desktop.png
+    - future-policy-award-mobil.png
+    - future-policy-award-mobil2.png
+    - future-policy-award-desktop2.png
+  imagessmall:
+    - future-policy-award-desktop.webp
+    - future-policy-award-mobil.webp
+    - future-policy-award-mobil2.webp
+    - future-policy-award-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Rechtsanwalt Dr. Matthias Baus
+  text: 'Konzeption, Design und Umsetzung einer Firmen<span lang="en">website</span>.'
+  cms:
+    - wordpress
+  website: https://baus-rechtsanwalt.de/
+  zuordnung: webdesign, cms
+  imagealt:
+    - webdesign-rechtsanwalt-baus.jpg
+    - webdesign-rechtsanwalt-baus.png
+  images:
+    - baus-rechtsanwalt-desktop.png
+    - baus-rechtsanwalt-mobil.png
+    - baus-rechtsanwalt-mobil2.png
+    - baus-rechtsanwalt-desktop2.png
+  imagessmall:
+    - baus-rechtsanwalt-desktop.webp
+    - baus-rechtsanwalt-mobil.webp
+    - baus-rechtsanwalt-mobil2.webp
+    - baus-rechtsanwalt-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: Weikamm
+  text: 'Konzeption, Design, <span lang="en">Template</span>-Anpassungen, Konfigurationen und Umsetzung.'
+  cms:
+    - wordpress
+  website: https://www.weikamm.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - cms-wk.jpg
+    - cms-wk.png
+  images:
+    - weikamm-desktop.png
+    - weikamm-mobil.png
+    - weikamm-mobil2.png
+    - weikamm-desktop2.png
+  imagessmall:
+    - weikamm-desktop.webp
+    - weikamm-mobil.webp
+    - weikamm-mobil2.webp
+    - weikamm-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: ITTCOM
+  text: 'Konzeption, Design und individuelle statische Programmierung einer Firmen<span lang="en">website</span>. <span lang="en">Conversion</span>- und SEO-optimiert sowie top-responsiv. Integration eines <span lang="en">WordPress</span> <span lang="en">Blogs</span>.'
+  cms:
+    - wordpress
+  website: https://www.ittcom.de/
+  zuordnung: webdesign
+  imagealt:
+    - cms-ittcom.jpg
+    - cms-ittcom.png
+  images:
+    - ittcom-desktop.png
+    - ittcom-mobil.png
+    - ittcom-mobil2.png
+    - ittcom-desktop2.png
+  imagessmall:
+    - ittcom-desktop.webp
+    - ittcom-mobil.webp
+    - ittcom-mobil2.webp
+    - ittcom-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: 'Hinz & Kunzt '
+  text: |
+    <span lang="en">Online-Shop</span>: Konzeption, Design, Programmierung und Umsetzung. Kommunikationsschnittstelle mit einer externen Kundendatenbank.
+    
+    <span lang="en">**Shopsystem**</span> <span lang="en">(link: onlineshops text: xt:Commerce)</span>
+  cms: [ ]
+  website: https://www.hinzundkunzt.de/shop/
+  zuordnung: shop
+  imagealt:
+    - onlineshop-huk-1.jpg
+    - onlineshop-huk-1.png
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'false'
+- 
+  headline: Comporsys
+  text: '<span lang="en">Onlineshop</span>: Konzeption, Design, Programmierung und Umsetzung mit der <span lang="en">eCommerce Shopsoftware</span> <span lang="en">XT:Commerce modified</span>.'
+  cms: [ ]
+  website: https://shop.comporsys.de/
+  zuordnung: shop, webdesign
+  imagealt:
+    - onlineshop-comporsys-1.jpg
+    - onlineshop-comporsys-1.png
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'false'
+- 
+  headline: Katholische Familienbildung
+  text: 'Anmeldepage: Konzeption, Design, Programmierung und Umsetzung einer Online-Kursanmeldung im responsiven Design. Implementierung eines blätterbaren PDFs mit dem aktuellen Programmheft zur Ansicht.'
+  cms: [ ]
+  website: https://www.familienbildung-hh.de/
+  zuordnung: webdesign
+  imagealt:
+    - webdesign-kfb.jpg
+    - webdesign-kfb.png
+  images:
+    - familienbildung-desktop.png
+    - familienbildung-mobil.png
+    - familienbildung-mobil2.png
+    - familienbildung-desktop2.png
+  imagessmall:
+    - familienbildung-desktop.webp
+    - familienbildung-mobil.webp
+    - familienbildung-mobil2.webp
+    - familienbildung-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: IT Forensik SV Tolj
+  text: 'Konzeption, Design und individuelle statische Programmierung einer responsiven Firmen<span lang="en">website</span>.'
+  cms: [ ]
+  website: https://www.sv-tolj.de/
+  zuordnung: webdesign
+  imagealt:
+    - cms-forensik.jpg
+    - cms-forensik.png
+  images:
+    - sv-tolj-desktop.png
+    - sv-tolj-mobil.png
+    - sv-tolj-mobil2.png
+    - sv-tolj-desktop2.png
+  imagessmall:
+    - sv-tolj-desktop.webp
+    - sv-tolj-mobil.webp
+    - sv-tolj-mobil2.webp
+    - sv-tolj-desktop2.webp
+  ausblenden: 'false'
+- 
+  headline: CECI Design
+  text: |
+    Konzeption, Design und Umsetzung eines <span lang="en">Onlineshops</span> für exklusive Designobjekte. Ein modernes Responsive Design ermöglicht die Ansicht des <span lang="en">Onlineshops</span> auch auf mobilen Endgeräten.
+    
+    <span lang="en">**Shopsystem**</span>: <span lang="en">(link: onlineshops text: XT:Commerce modified)</span>.
+  cms: [ ]
+  website: ""
+  zuordnung: shop
+  imagealt:
+    - ceci-onlineshop-alt.jpg
+    - ceci-onlineshop-alt.png
+  images:
+    - ceci-onlineshop.png
+  imagessmall:
+    - ceci-onlineshop.webp
+  ausblenden: 'false'
+- 
+  headline: Feurig Baumaschinen
+  text: 'Konzeption, Design, Programmierung und Umsetzung einer Firmen<span lang="en">website</span>. Einbindung einer Produktsuche. Logodesign.'
+  cms:
+    - kirby-cms
+  website: https://www.feurig-baumaschinen.de/
+  zuordnung: webdesign, cms
+  imagealt:
+    - webdesign-feuri-alt.g.jpg
+    - webdesign-feurig-alt.png
+  images:
+    - webdesign-feurig.png
+  imagessmall:
+    - webdesign-feurig.webp
+  ausblenden: 'false'
+- 
+  headline: UNVERZAGT VON HAVE
+  text: 'Konzeption, Design, Programmierung, <span lang="en">Content</span>-Befüllung und Versand eines regelmäßigen <span lang="en">HTML-Newsletters</span>. Analog dazu<span lang="en"> Content</span>befüllung und Druckabwicklung eines <span lang="en">Print-Newsletters</span>.'
+  cms: [ ]
+  website: ""
+  zuordnung: newsletter
+  imagealt:
+    - newsletter-uvh-alt.jpg
+    - newsletter-uvh-alt.png
+  images:
+    - newsletter-uvh.png
+  imagessmall:
+    - newsletter-uvh.webp
+  ausblenden: 'false'
+- 
+  headline: World Future Council
+  text: 'Design und Programmierung eines HTML <span lang="en">E-Mailings</span> als Einladung. Design & Programmierung einer Anmeldeseite zur <span lang="en">Event</span>anmeldung. Versandkoordination mit einem externen Versender.'
+  cms: [ ]
+  website: ""
+  zuordnung: newsletter
+  imagealt:
+    - einladung-wfc-alt.jpg
+    - einladung-wfc-alt.png
+  images:
+    - einladung-wfc.png
+  imagessmall:
+    - einladung-wfc.webp
+  ausblenden: 'false'
+- 
+  headline: World Future Council
+  text: |
+    Technische Umsetzung eines <span lang="en">Wordpress</span> <span lang="en">Blogs</span> für <span lang="en">Power to the People</span>, <span lang="en">Template</span>-Anpassungen und Konfigurationen.
+    
+    <span lang="en">**E-Mail-Marketing Software**</span>: <span lang="en">Mailchimp</span>.
+  cms: [ ]
+  website: ""
+  zuordnung: cms
+  imagealt:
+    - cms-ptp-alt.jpg
+    - cms-ptp-alt.png
+  images:
+    - cms-ptp.png
+  imagessmall:
+    - cms-ptp.webp
+  ausblenden: 'false'
+- 
+  headline: World Future Council
+  text: |
+    Design und Programmierung eines <span lang="en">Newsletter-Templates</span> für <span lang="en">Power to the People</span>. Konfiguration, Einrichtung und Einbindung eines benutzerfreundlichen E-Mail Versende<span lang="en">tools</span> für den <span lang="en">inhouse</span> vorgenommenen Versand.
+    Implementierung einer automatisierten An- und Abmeldung und Verknüpfung an den <span lang="en">Blog.
+    
+    **E-Mail-Marketing Software**: <span lang="en">Mailchimp</span>
+  cms: [ ]
+  website: ""
+  zuordnung: newsletter, mailchimp
+  imagealt:
+    - newsletter-wfc-alt.jpg
+    - newsletter-wfc-alt.png
+  images:
+    - newsletter-wfc.png
+  imagessmall:
+    - newsletter-wfc.webp
+  ausblenden: 'false'
+- 
+  headline: Project-E
+  text: 'Konzeption, Design, Programmierung, Befüllung und Versand der aktuellen <span lang="en">Online-HTML-Newsletter</span>.'
+  cms: [ ]
+  website: ""
+  zuordnung: newsletter
+  imagealt:
+    - newsletter-pe-alt.jpg
+    - newsletter-pe-alt.png
+  images:
+    - newsletter-pe.png
+  imagessmall:
+    - newsletter-pe.webp
+  ausblenden: 'false'
+- 
+  headline: Techtorial
+  text: 'Logodesign, Konzeption, Webdesign und Programmierung einer statischen Firmen<span lang="en">website</span>.'
+  cms: [ ]
+  website: ""
+  zuordnung: webdesign
+  imagealt:
+    - webdesign-techtorial-alt.jpg
+    - webdesign-techtorial-alt.png
+  images:
+    - webdesign-techtorial.png
+  imagessmall:
+    - webdesign-techtorial.webp
+  ausblenden: 'false'
+- 
+  headline: Foodboard
+  text: 'Responsives Design / Design-<span lang="en">Relaunch</span> des Web-Portals <span lang="en">foodboard</span>. Komplexe Gestaltung in vier unterschiedlichen Auflösungen. Design-Konzept der Navigationsarchitektur sowie mobiler Lösungen.'
+  cms: [ ]
+  website: ""
+  zuordnung: webdesign
+  imagealt:
+    - webdesign-fb.jpg
+    - webdesign-fb.png
+  images: [ ]
+  imagessmall: [ ]
+  ausblenden: 'true'
+- 
+  headline: KataXChange
+  text: |
+    Konzeption, Design und Programmierung einer Landingpage im responsiven Design. Anmeldeformular mit Anbindung an MailChimp.
+    
+    **E-Mail-Marketing Software**: <span lang="en">Mailchimp</span>
+  cms: [ ]
+  website: ""
+  zuordnung: webdesign, mailchimp
+  imagealt:
+    - landingpage-kata-alt.jpg
+    - landingpage-kata-alt.png
+  images:
+    - landingpage-kata.png
+  imagessmall:
+    - landingpage-kata.webp
+  ausblenden: 'true'
+- 
+  headline: 'FDP Bezirks- versammlung Hamburg - Nord'
+  text: >
+    Relaunch der Parteiwebsite mit einem
+    einfach zu bedienenden Newsmodul, einer
+    Archivfunktion sowie einer Seitensuche.
+    Dazu wurde ein Mini-CMS eingesetzt.
+  cms: [ ]
+  website: ""
+  zuordnung: webdesign
+  imagealt:
+    - cms-fdp-alt.jpg
+    - cms-fdp-alt.png
+  images:
+    - cms-fdp.png
+  imagessmall:
+    - cms-fdp.webp
+  ausblenden: 'true'
+- 
+  headline: Boothing Projekt-Website
+  text: >
+    Konzeption, Webdesign,
+    Infografiken-Design und Logoentwicklung.
+  cms: [ ]
+  website: ""
+  zuordnung: webdesign
+  imagealt:
+    - webdesign-boothing-alt.jpg
+    - webdesign-boothing-alt.png
+  images:
+    - webdesign-boothing.png
+  imagessmall:
+    - webdesign-boothing.webp
+  ausblenden: 'true'
+- 
+  headline: 'Opodo - Online-Werbung'
+  text: 'Landingpage - Konzeption, Design und Programmierung zur Aktion Städtereisen Flug & Hotel. Analog zur Landingpage Erstellung einer Bannerserie.'
+  cms: [ ]
+  website: ""
+  zuordnung: webdesign
+  imagealt: [ ]
+  images:
+    - landingpage-opodo.png
+  imagessmall:
+    - landingpage-opodo.webp
+  ausblenden: 'true'
+- 
+  headline: 'Opodo - Newsletter'
+  text: >
+    Befüllung, Design und HTML-Umsetzung
+    aktueller Newsletter sowie
+    Aktions-Newsletter.
+  cms: [ ]
+  website: ""
+  zuordnung: newsletter
+  imagealt: [ ]
+  images:
+    - newsletter-opodo.png
+  imagessmall:
+    - newsletter-opodo.webp
+  ausblenden: 'true'
+- 
+  headline: 'Opodo - Landingpage'
+  text: >
+    Landingpage zur Opodo Werbeaktion Opodo
+    TV. Implementierung eines Films auf der
+    Landingpage. Des Weiteren wurde durch
+    uns eine analoge Bannerkampagne
+    erstellt.
+  cms: [ ]
+  website: ""
+  zuordnung: ""
+  imagealt: [ ]
+  images:
+    - landingpage-opodo-tv.png
+  imagessmall:
+    - landingpage-opodo-tv.webp
+  ausblenden: 'true'
+- 
+  headline: Zweite Liebe Büsum
+  text: >
+    Umsetzung einer Firmenwebsite zur
+    Produktpräsentation. Mit integriertem
+    Blog.
+  cms:
+    - wordpress
+  website: https://www.zweiteliebe-buesum.de/
+  zuordnung: cms, webdesign
+  imagealt:
+    - webdesign-zweiteliebe.jpg
+    - webdesign-zweiteliebe.png
+  images:
+    - zweiteliebe-buesum-desktop.png
+    - zweiteliebe-buesum-mobil.png
+    - zweiteliebe-buesum-mobil2.png
+    - zweiteliebe-buesum-desktop2.png
+  imagessmall:
+    - zweiteliebe-buesum-desktop.webp
+    - zweiteliebe-buesum-mobil.webp
+    - zweiteliebe-buesum-mobil2.webp
+    - zweiteliebe-buesum-desktop2.webp
+  ausblenden: 'true'
+- 
+  headline: 'Wer transportiert was - Onlineportal'
+  text: >
+    Konzeption, Design und
+    Projektkoordination. Komplexes
+    Onlineportal für Transportunternehmen
+    und Verbraucher. Katalogeinträge,
+    Suchmaske mit Filterfunktion sowie
+    Auftragsmodul für Transportanfragen.
+    Umgesetzt mit Typo3.
+  cms: [ ]
+  website: ""
+  zuordnung: cms, webdesign
+  imagealt: [ ]
+  images:
+    - cms-wtw.png
+  imagessmall:
+    - cms-wtw.webp
+  ausblenden: 'true'
+- 
+  headline: 'Wer transportiert was - Landingpage'
+  text: >
+    Konzeption, Design und Umsetzung einer
+    Online-Werbekampagne zur Generierung von
+    Anmeldungen. Landingpage Design und
+    Umsetzung.
+  cms: [ ]
+  website: ""
+  zuordnung: ""
+  imagealt: [ ]
+  images:
+    - landingpage-wtw.png
+  imagessmall:
+    - landingpage-wtw.webp
+  ausblenden: 'true'
+- 
+  headline: 'Wer transportiert was - HTML E-Mailing'
+  text: >
+    Konzeption, Design und Umsetzung einer
+    Online-Werbekampagne zur Generierung von
+    Anmeldungen. E-Mailing mit Verlinkung
+    auf eine Landingpage.
+  cms: [ ]
+  website: ""
+  zuordnung: ""
+  imagealt: [ ]
+  images:
+    - newsletter-wtw.png
+  imagessmall:
+    - newsletter-wtw.webp
+  ausblenden: 'true'
+
+----
+
+Seotitle: Referenzen - Online-Projekte
+
+----
+
+Seodescription: Referenzen - Online-Projekte: ✓ CMS ✓ Webdesign ✓ Online-Shop ✓ Newsletter → Referenzen ansehen
+
+----
+
+Seoimage: 
+
+----
+
+Text: 
+
+----
+
+Uuid: EgnStS9avniKn4c3

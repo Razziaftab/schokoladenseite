@@ -1,0 +1,11 @@
+name: Zuschüsse
+icon: smile
+fields:
+  zuschussShow:
+    label: Zuschüsse
+    type: multiselect
+    options:
+      type: query
+      query: site.find('jobs').zuschuss.toStructure
+      text: "{{ item.text.kti }}"
+      value: "{{ item.text.kti }}|"

@@ -1,0 +1,41 @@
+Title: DSGVO: Cookies und Tracking
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://KvriAP0grvU2y6ub
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Im Hinblick auf <span lang=\"en\">Cookies<\/span> und <span lang=\"en\">Tracking<\/span> gibt es momentan keine \u00c4nderungen. <span lang=\"en\">Cookies<\/span> werden spezifisch durch die <span lang=\"en\">ePrivacy<\/span>-Verordnung (ePV) neu geregelt. Diese kommt allerdings wohl erst 2019."},"id":"8e93e6b5-ca30-419d-b86f-ed0b4518dc39","isHidden":false,"type":"text"}],"id":"8ab0bc8e-689a-453d-a9d3-0ecd6c662dc2","width":"1\/1"}],"id":"134d3626-4171-4f57-ba00-4b005d45c6a3"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"<span lang=\"en\">Google Analytics<\/span> auch nach der DSGVO weiterhin nutzbar?","customid":"","customclass":""},"id":"cde049ec-3547-40c1-bb62-134aa0968add","isHidden":false,"type":"heading"},{"content":{"text":"Die gute Nachricht: <span lang=\"en\">Google Analytics<\/span> bleibt auch nach der DSGVO wie bisher \u201eerlaubt\u201c, wenn folgende Voraussetzungen erf\u00fcllt sind:\n\n- (link: blog\/dsgvo-auftragsverarbeitungsvertrag-avv text: ADV Vertrag title: Zum Blogbeitrag DSGVO: Auftragsverarbeitungsvertrag (AVV)) mit <span lang=\"en\">Google<\/span> abgeschlossen\n- IP-Anonymisierung aktiviert\n- <span lang=\"en\">Opt-out<\/span>-M\u00f6glichkeiten f\u00fcr Desktop und Mobil\n\nAchten Sie darauf, dass Sie ab dem 25. Mai 2018 einen DSGVO-konformen (link: https:\/\/support.google.com\/analytics\/answer\/3379636 text: AV-Vertrag mit Google  target: _blank rel: noopener title: Exterber Link zur Support-Seite von Google zum AV-Vertrag (\u00d6ffnet im neuen Tab)) abschlie\u00dfen. Google wird vermutlich demn\u00e4chst einen solchen Vertrag bereitstellen. (link: blog\/dsgvo-google-analytics-rechtssicher-einsetzen text: Lesen Sie hier mehr zum rechtssicheren Einbinden von Google Analytics.)\n\nBei anderen <span lang=\"en\">Tools<\/span>, wie z.B. dem <span lang=\"en\">Facebook-Pixel<\/span>, kann man momentan leider keine genaue Aussage treffen.\nAllerdings wird die Rechtslage wahrscheinlich komplizierter."},"id":"9b0433de-e47e-4c0e-87a6-e684fe585195","isHidden":false,"type":"text"}],"id":"c41e0cac-b6e8-4c3e-91b7-7e76259295a2","width":"1\/1"}],"id":"f9ec769a-89ae-455c-96af-6412e5c573d3"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"966e918d-bb6f-45d4-9c9d-4525e70ad3d3","isHidden":false,"type":"kontaktform"}],"id":"09f40270-3811-4088-8881-cf73dea18bf2","width":"1\/1"}],"id":"e5f7537c-70b2-4f7a-a877-03af0f07ad27"}]
+
+----
+
+Date: 2018-04-05 17:50:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Cookies werden spezifisch durch die ePrivacy-Verordnung neu geregelt. Diese kommt allerdings erst 2019.
+
+----
+
+Articleimage: - file://RqatNYkOomp29umz
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: J3Z3ag3rvxKJRuwG

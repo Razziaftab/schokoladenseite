@@ -1,0 +1,41 @@
+Title: DSGVO: Einsichtsrecht und Meldepflicht
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://w7XLLVGFo5IIWYhC
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Generell haben Betroffene Anspruch auf Auskunft zu ihren gespeicherten personenbezogenen Daten (Art. 15 DSGVO).\n\nForm der Auskunft:\n- schriftlich\n- elektronisch (E-Mail)\n- auf Verlangen m\u00fcndlich\n\nFrist der Auskunft: Unverz\u00fcglich, aber sp\u00e4testens 1 Monat nach Eingang des Antrags."},"id":"2fdc4208-3389-4b15-bee1-f35458b23d0a","isHidden":false,"type":"text"}],"id":"96a5364b-9f9c-42ff-8a84-c91b06cc7889","width":"1\/1"}],"id":"130c8be0-c4ec-4dd5-adff-9081b3c0bef3"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wann m\u00fcssen bei Datenpannen die Betroffenen und Aufsichtsbeh\u00f6rden informiert werden?","customid":"","customclass":""},"id":"82256c9f-3b7c-4d52-a945-f2d7d585c4ab","isHidden":false,"type":"heading"},{"content":{"text":"Hier gelten mittlerweile strengere Anforderungen als bisher. Nach Art. 33 DSGVO m\u00fcssen Datenpannen gegen\u00fcber Aufsichtsbeh\u00f6rden unverz\u00fcglich (m\u00f6glichst binnen 72 Stunden) mittels umfassender Dokumentation vorgelegt werden.\n\nDetails zum Inhalt regelt Art. 33 Abs. 5 DSGVO (link: https:\/\/dejure.org\/gesetze\/DSGVO\/33.htmlhttps:\/\/dejure.org\/gesetze\/DSGVO\/33.html text: https:\/\/dejure.org\/gesetze\/DSGVO\/33.html  target: _blank rel: noopener title: Externer Link (\u00d6ffnet im neuen Tab))"},"id":"42fc783e-389d-4334-868f-f714dc458da0","isHidden":false,"type":"text"}],"id":"d589b385-9845-4cbf-8fac-a919547b4649","width":"1\/1"}],"id":"8471712e-9e5f-4251-820d-0d3e4d16b800"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/gCxvwqQ4Z7rUCMS2"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"ba4e34bc-1e5b-49ee-98b9-c9c59a907230","isHidden":false,"type":"cta"}],"id":"cb606eda-cbb5-40fc-9ab5-2da50cc63c9c","width":"1\/1"}],"id":"a3b9df7a-5a27-4d71-b9ca-766598134bbc"}]
+
+----
+
+Date: 2018-04-05 18:05:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Generell haben Betroffene Anspruch auf Auskunft zu ihren gespeicherten personenbezogenen Daten (Art. 15 DSGVO).
+
+----
+
+Articleimage: - file://hJ285VtJdBlv5VsS
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: GZWMHPJLXQVKdQPO

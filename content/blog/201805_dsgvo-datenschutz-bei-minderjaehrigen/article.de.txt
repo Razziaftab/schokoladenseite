@@ -1,0 +1,41 @@
+Title: DSGVO: Datenschutz bei Minderjährigen
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://ayE80otekLzTpbJr
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Bei Jugendlichen unter 16 Jahren m\u00fcssen die Eltern einwilligen. Dies gilt aber nur f\u00fcr F\u00e4lle, bei denen die DSGVO eine Einwilligung vorschreibt (z.B. f\u00fcr Werbung) und in der Praxis nur dann, wenn es sich um Angebote handelt, die sich direkt an Kinder und Jugendliche richten.\n\nBei gemischten Angeboten (f\u00fcr Erwachsene und Jugendliche) sind keine spezifischen Vorgaben umzusetzen."},"id":"ecfe6d2e-342d-4deb-84c8-1473ce992fcf","isHidden":false,"type":"text"}],"id":"3495c196-05ff-4f8d-9da8-30a19e77ec15","width":"1\/1"}],"id":"61e64a30-0f4d-4ff2-b9b4-ec80ac3f3bc1"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/e1OJEpeNK2lkXanP"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"8636b8d8-9a98-422b-a9bc-27ebc728ad14","isHidden":false,"type":"cta"}],"id":"0f8f25e9-9160-43b0-853c-d9a66b08d326","width":"1\/1"}],"id":"22a15c35-bd7a-4f18-a42d-7d4e36850f0e"}]
+
+----
+
+Date: 2018-04-05 18:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Bei Jugendlichen unter 16 Jahren müssen die Eltern einwilligen, wenn die DSGVO dies vorschreibt.
+
+----
+
+Articleimage: - file://IKp9LzcPeXK8aGMR
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: Mi1vJUQAPB8tjqgS

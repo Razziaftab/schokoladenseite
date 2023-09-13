@@ -1,0 +1,29 @@
+Title: Henning, der Grafik-Guerillero
+
+----
+
+Seodescription: 
+
+----
+
+Image: - 12.jpg
+
+----
+
+Door: 12
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Henning, der Grafik-Guerillero**\n\n*Henning, der neueste Zuwachs im SCHOKO-Team, stellt sich heute vor.*\n\n**Seit wann bist du im SCHOKO-Team und was ist deine Aufgabe?**\n- Seit 1. April bin ich im SCHOKO-Team und mache Webdesign, Frontend, Print \u2013 alles, was irgendwie mit \u201ekann man visuell abtasten oder mit der Maus drauf klicken\u201c zu tun hat.\n\n**Direkt zur wichtigsten Frage: Was ist deine Lieblings-Schokoladensorte?**\n- Wei\u00dfe mit ganzen N\u00fcssen. Keine Ahnung, ob das \u00fcberhaupt richtige Schokolade ist, aber es steht so auf der Packung.\n\n**Was passiert, wenn du \"Last Christmas\" ((link: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI text: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI target: _blank title: Externer Link zu \"Last Christmas\" auf YouTube (\u00d6ffnet im neuen Tab))) im Radio h\u00f6rst?**\n- Dann denke ich \u201ekomischer Song\u201c, aber er erinnert mich auch immer daran, dass die 80er eine ziemlich coole Zeit waren. Bis auf Tschernobyl und Rick Astley.\n\n**Was m\u00f6chtest du in der Vorweihnachtszeit unbedingt machen?**\n- Unbedingt nicht - n\u00e4mlich so wenig weihnachtliche Grafik-Jobs wie m\u00f6glich. Weihnachten ist der Alptraum f\u00fcr jeden Grafiker, denn hier wird Geschmacklosigkeit nicht nur toleriert, sondern sogar gefeiert \u2013 und das ist schlimm. Richtig schlimm.\n\n**Welche SCHOKO-Superkr\u00e4fte hast du?**\n- Liegen. Und sitzen."},"id":"e4632a70-aa28-4f4f-b890-c6623440b424","isHidden":false,"type":"text"}],"id":"08155355-d8c3-4a93-bc01-dd461bd25af9","width":"1\/1"}],"id":"d220fe17-728a-4c65-8722-abf8b287b3c6"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: PsxYhoUJoAvIUv3o

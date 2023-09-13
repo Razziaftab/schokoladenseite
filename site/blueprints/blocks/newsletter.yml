@@ -1,0 +1,9 @@
+name: Newsletter
+icon: email
+fields:
+  text:
+    type: markdown
+    buttons:
+      - bold
+      - gender
+      - lang

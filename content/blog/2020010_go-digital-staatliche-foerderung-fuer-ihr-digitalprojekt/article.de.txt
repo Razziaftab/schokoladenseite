@@ -1,0 +1,41 @@
+Title: go-digital – 50 % staatliche Förderung für Ihr Digitalprojekt
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://9GPSnRUQTDdFSH5m
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Zur F\u00f6rderung der Digitalisierung gibt es f\u00fcr den Mittelstand jetzt ein eigenes F\u00f6rderprogramm: go-digital. Denn Digitalisierung bietet f\u00fcr viele Unternehmen gro\u00dfe Chancen, stellt sie aber auch vor neue Herausforderungen."},"id":"94a04b93-4de1-444a-b49b-1831a14b8ed6","isHidden":false,"type":"text"}],"id":"1a1eaf29-5945-4123-9ef5-04d17fa329cd","width":"1\/1"}],"id":"bc0ff614-6e51-490a-b62e-5e5248ab1b42"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Worum geht\u2019s eigentlich bei go-digital?","customid":"","customclass":""},"id":"0348f149-ca33-4df3-844d-88b7d33aafef","isHidden":false,"type":"heading"},{"content":{"text":"Das F\u00f6rderprogramm go-digital finanziert kleinen und mittleren Unternehmen (KMU) **bis zu 50 %** der Kosten f\u00fcr Ma\u00dfnahmen zur Digitalisierung ihres Gesch\u00e4fts. Als autorisiertes Beratungsunternehmen entwickeln und realisieren wir **individuelle (link: online-marketing-werbung text: Onlinemarketing-Strategien title: Zur Leistung Online Marketing und Werbung)**, um Ihr Gesch\u00e4ft erfolgreich zu machen und nach vorn zu bringen. Und nat\u00fcrlich \u00fcbernehmen wir dabei auch die **technische Realisierung** Ihres Onlineprojekts. Ein <span lang=\"en\">Relaunch<\/span> oder die digitale Erweiterung eines Bestandsprojekts sind unter bestimmten Voraussetzungen ebenso f\u00f6rderf\u00e4hig."},"id":"d0bc4da1-13fe-4658-99fe-c80fb7d51b7d","isHidden":false,"type":"text"}],"id":"6ffa4a61-cd36-4d81-826b-bc7447d90c7b","width":"1\/1"}],"id":"d12fcf03-15a4-43ee-94da-29cd555f9592"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Die H\u00e4lfte zahlt der Staat","customid":"","customclass":""},"id":"7b68fe4b-7e8d-482d-9c67-1aa3da5e2959","isHidden":false,"type":"heading"},{"content":{"text":"Die anfallenden Kosten f\u00fcr Beratung, Planung und Umsetzung werden zur H\u00e4lfte aus dem go-digital F\u00f6rderprogramm finanziert. Die andere H\u00e4lfte zahlen Sie. Der H\u00f6chstbetrag des staatlichen Zuschusses ist 11.000 \u20ac. Praktisch f\u00fcr Sie: Die Beantragung der F\u00f6rderung \u00fcbernehmen wir dabei f\u00fcr Sie!"},"id":"3b9a1a7a-04e9-4184-8f79-4e1db3138fd4","isHidden":false,"type":"text"}],"id":"f735a3ec-a9ee-4057-95fc-8e7b84a1955f","width":"1\/1"}],"id":"be15eb35-8fc0-4c33-b2b6-c9126f7408d2"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Auf den Punkt gebracht \u2013 Ihre Vorteile mit go-digital","customid":"","customclass":""},"id":"96b3ccca-133f-47a8-98e8-df642f689ac8","isHidden":false,"type":"heading"},{"content":{"text":"- Sie erhalten **50 % staatliche F\u00f6rderung** f\u00fcr Ihr Digitalprojekt\n- Bei Projektkosten von 20.000 \u20ac werden also **10.000 \u20ac Zuschuss** gezahlt!\n- **Wir k\u00fcmmern uns** um die Antragstellung\n- Ma\u00dfnahmen f\u00fcr die **IT-Sicherheit** sind immer mit dabei"},"id":"324bd533-af24-47b8-bb74-e9711d47c787","isHidden":false,"type":"text"}],"id":"27cf12b8-4cc1-4ec3-8a2d-bdc203b1f595","width":"1\/1"}],"id":"f2d0d03f-8399-4b4e-93af-a6f1a1b07cf0"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Fragen zum go-digital F\u00f6rderprogramm?","text":"Wir h\u00f6ren uns Ihre W\u00fcnsche und Ideen an und pr\u00fcfen f\u00fcr Sie vorab, ob Sie vom go-digital F\u00f6rderprogramm profitieren k\u00f6nnen."},"id":"01dfdecb-0a30-4b0c-b552-1eebedb476f1","isHidden":false,"type":"kontaktform"}],"id":"e0c83bf9-7174-4221-a84d-d600300ecd8a","width":"1\/1"}],"id":"6950aeb9-6e7b-4ae5-b74a-57de47097bdc"}]
+
+----
+
+Date: 2020-08-10 08:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Zur Förderung der Digitalisierung gibt es für den Mittelstand jetzt ein eigenes Förderprogramm: go-digital.
+
+----
+
+Articleimage: - file://ywKXxoxrInnrw6B6
+
+----
+
+Categories: go-digital, Agentur
+
+----
+
+Uuid: znRlQwdGfZIwrjIA

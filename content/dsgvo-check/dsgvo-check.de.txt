@@ -1,0 +1,25 @@
+Title: DSGVO-Check
+
+----
+
+Layout: [{"attrs":{"layoutid":"","arialabelledby":"","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"","level":"h1","text":"Ja, ich frage einen technischen DSGVO-Seitencheck an","customid":"","customclass":""},"id":"31410b04-7184-43df-a995-5c65d6d5b7fd","isHidden":false,"type":"heading"},{"content":{"text":"Dieser Check ist kostenpflichtig und wird nach Aufwand zu 95 \u20ac\/Std. abgerechnet. Der Aufwand ist abh\u00e4ngig von Ihrer Seitengr\u00f6\u00dfe. Weitere Informationen rund um die DSGVO und die Auswirkungen auf Ihre <span lang=\"en\">Website<\/span> (link: blog#filter=.DSGVO text: finden Sie hier in unserem Blog).\n\n**Hinweis: Wir leisten keine Rechtsberatung. Hierzu arbeiten wir mit renommierten (n:Rechtsexpert:innen x:Rechtsexpertinnen y:Rechtsexperten) zusammen.**"},"id":"7c22615a-b5de-4959-9155-aa5281de3126","isHidden":false,"type":"text"}],"id":"89166af1-d8e6-499b-90d7-6b537c14e05d","width":"1\/1"}],"id":"90ae5a71-5b4b-4a6e-9b97-43a221fb5e04"}]
+
+----
+
+Seotitle: DSGVO-Check: Wir prüfen Ihre Webseite
+
+----
+
+Seodescription: DSGVO-Check - individuelle Webseiten Überprüfung: ✓ Kontaktformulare ✓ Tracking-Einbindungen ✓ Cookies ✓ Datenschutz uvm. → Jetzt DSGVO-Check anfragen!
+
+----
+
+Seoimage: 
+
+----
+
+Kunde: 
+
+----
+
+Uuid: I1nvi6KWmTrueumv

@@ -1,0 +1,21 @@
+Alt: 4 Schreibtischplätze im Eingangsraum
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: tgsev2VBEiKzgrXN

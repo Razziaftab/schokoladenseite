@@ -1,0 +1,105 @@
+//color
+body.light{
+	--white: #ffffff;
+	--black: #222;
+	--grey: #dbdbdb;
+	--lightgrey: #efefef;
+	--darkgrey: #333;
+}
+
+body.dark{
+	--white: #222;
+	--black: #ffffff;
+	--grey: #555555;
+	--lightgrey: #333;
+	--darkgrey: #efefef;
+}
+
+$black: var(--black);
+$white: var(--white);
+$grey: var(--grey);
+$lightgrey: var(--lightgrey);
+$darkgrey: var(--darkgrey);
+$orange: #f7eada;
+$lightorange: #fef1cc;
+$blue: #16c1f1;
+$purple: #7f01ff;
+$pink: #ae0182;
+$primary: #dd0004;
+$secondary: #862422;
+
+$linear-gradient: linear-gradient(to right, $primary, $purple);
+
+// Medie Queries
+$smartphone-big: (min-width:480px);
+$tablet-small: (min-width:768px);
+$tablet-big: (min-width:1024px);
+$desktop-small: (min-width:1280px);
+$desktop-medium:  (min-width:1440px);
+$desktop-big: (min-width:1920px);
+
+$max-smartphone-big: (max-width:480px);
+$max-tablet-small: (max-width:768px);
+$max-tablet-big: (max-width:1024px);
+$max-desktop-small: (max-width:1280px);
+$max-desktop-medium:  (max-width:1440px);
+$max-desktop-big: (max-width:1920px);
+
+// Fonts
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/opensans-regular.woff2") format("woff2"), url("../fonts/opensans-regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  src: url("../fonts/opensans-bold.woff2") format("woff2"), url("../fonts/opensans-bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+	font-display: swap;
+}
+
+$font-primary: 'Open Sans', Arial, sans-serif;
+$font-secondary: 'Open Sans', Arial, sans-serif;
+$font-icon: 'Font Awesome 5 Free';
+
+
+// Grid
+$grid-max-width: 1200px;
+$grid-horizontal-spacing: 1rem;
+$grid-vertical-spacing: 1.25rem;
+
+$border-radius: 3px;
+
+// Helpers
+$vs: $grid-vertical-spacing;
+$hs: $grid-horizontal-spacing;
+
+
+$padding: 25px;
+$padding-tablet: 30px;
+$padding-desktop: 90px;
+
+
+@mixin row{
+	padding: $padding $padding 0;
+	width: 100%;
+
+	@media $tablet-small{
+		padding: $padding-tablet $padding-tablet 0;
+	}
+  
+	@media $desktop-small{
+		padding: $padding-desktop 0 0;
+		max-width: 1100px;
+		margin: 0 auto;
+		
+		@media (forced-colors: active) {
+			max-width: 100%;
+			padding: $padding-desktop $padding-desktop 0;
+		}
+	}
+}

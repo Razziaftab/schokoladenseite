@@ -1,0 +1,13 @@
+Alt: Auf einer Malerpalette sind mehrere Kleckse mit Farbe, und ein Pinsel wird in einen Farbklecks getunkt.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: DE2B8boPQFPJowxQ

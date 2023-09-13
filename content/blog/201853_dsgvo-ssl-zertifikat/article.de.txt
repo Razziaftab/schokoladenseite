@@ -1,0 +1,41 @@
+Title: DSGVO: SSL-Zertifikat
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://ZhpCvtMmmfBx7PRb
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Daten m\u00fcssen verschl\u00fcsselt \u00fcbertragen werden. \u00dcberall, wo Daten eingegeben und abgesendet werden, werden sie logischerweise auch \u00fcbertragen. Dies kann bei einem Kontaktformular, einer Onlinebewerbung, einem <span lang=\"en\">Newsletter<\/span>abo oder auch bei einem Kommentar in einem <span lang=\"en\">Blog<\/span> und nat\u00fcrlich auch bei Bestellungen in einem <span lang=\"en\">Shop<\/span> der Fall sein.\n\nSiehe auch \u00a7 13 Abs.7 TMG ein \u201eanerkanntes Verschl\u00fcsselungsverfahren zum Schutz von personenbezogenen Daten\u201c."},"id":"8adcf88f-e4e2-4762-8333-fa456cf2389e","isHidden":false,"type":"text"}],"id":"3e9c2330-94ad-42e0-8b79-0c78a66cf6b0","width":"1\/1"}],"id":"54a4130b-bffe-4489-9e2c-19d335e9c359"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"SSL-Zertifikat bestellen und Website auf HTTPS umstellen","customid":"","customclass":""},"id":"1db11d27-5d89-4fd7-8c0f-58c700854af3","isHidden":false,"type":"heading"},{"content":{"text":"Eine sichere Daten\u00fcbertragung  wird durch ein sogenanntes SSL-Zertifikat gew\u00e4hrleistet.\nEin solches Zertifikat wird i.d.R. je <span lang=\"en\">Domain<\/span> \u00fcber Ihren <span lang=\"en\">Webhoster<\/span> bezogen. Die Preise k\u00f6nnen stark variieren, je nach Anbieter und Variante des Zertifikates. Der Hoster ist nicht der Anbieter, sondern ein Vermittler. (n:Die\/der Endverbraucher:in x:Die Endverbraucherin y:Der Endverbraucher) bzw. <span lang=\"en\">(n:User:in x:Userin y:User)<\/span> erkennt i.d.R. kein Unterschied zwischen den Zertifikaten. Je nach <span lang=\"en\">Browser<\/span> wird irgendwo bei korrekter Einbindung des Zertifikates ein Schloss dargestellt.\nLassen Sie sich von Ihrer Agentur oder vom <span lang=\"en\">Webhoster<\/span> beraten, ob Sie wirklich ein teures Zertifikat nutzen m\u00fcssen. Diese k\u00f6nnen bei um die 300 EUR\/Jahr liegen.\n\n**TIPP:** F\u00fcr kleinere <span lang=\"en\">Websites<\/span> reicht ggf. auch das kostenlose SSL-Zertifikat von <span lang=\"en\">Let\u00b4s Encrypt<\/span>. (link: https:\/\/letsencrypt.org text: https:\/\/letsencrypt.org\/ target: _blank rel: noopener title: Externer Link zu Let's Enscrypt (\u00d6ffnet im neuen Tab))\n\nNicht alle <span lang=\"en\">Hoster<\/span> unterst\u00fctzen das. Fragen Sie nach. Hier entstehen ggf. einmalige Kosten bei der Einrichtung sowie f\u00fcr die j\u00e4hrliche Erneuerung."},"id":"60da9f1b-9e10-4fbc-b2e2-ec80a2115d5b","isHidden":false,"type":"text"}],"id":"559d73e9-81fe-412f-b5fb-e5a9e60477bb","width":"1\/1"}],"id":"046601f7-6ea7-4ada-ba7f-a97c63208229"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"3343fbd0-22b5-4aeb-a294-05f6f12750f7","isHidden":false,"type":"kontaktform"}],"id":"2872c961-e378-42a5-84a1-f89cfec7e1c5","width":"1\/1"}],"id":"4b211998-27f8-4aef-8e59-6523d720af3b"}]
+
+----
+
+Date: 2018-04-03 16:05:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: In unserem neuen Blog-Beitrag erklären wir Ihnen, was ein SSL-Zertifikat ist, warum Sie es brauchen und wie Sie dabei bares Geld sparen können.
+
+----
+
+Articleimage: - file://bA7TvUIIf02Eu6pM
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: t63jncxTQmXXOz2Q

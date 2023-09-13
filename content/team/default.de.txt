@@ -1,0 +1,25 @@
+Title: Team
+
+----
+
+Layout: [{"attrs":{"layoutid":"bestes-schoko-team","arialabelledby":"bestes-schoko-team ","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"video":["file:\/\/0GP9Z4LMmT5j3ZyF","file:\/\/Y6ikj1x32Eip3RX3"],"image":["file:\/\/nbJq0K77ttkLl3aJ"],"customid":"internetagentur","arialabelledby":"","preh1":"Sympathisch, ehrlich, handfest","h1":"Bestes<br>#Schoko-Team","verlinkung":[],"button":""},"id":"cc63cd0a-0f02-4e03-ac68-91cb633e06ff","isHidden":false,"type":"video"}],"id":"3c751dac-7e5d-44c9-82c4-67692160b015","width":"1\/1"}],"id":"950d8529-c05c-4df1-bdfc-8ca37a88a7e4"},{"attrs":{"layoutid":"team-intro","arialabelledby":"team-intro","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Bestes Team der Welt - schokoladiger geht's nicht!","customid":"","customclass":""},"id":"7b708839-7df5-487c-8587-332a45ebe4b6","isHidden":false,"type":"heading"},{"content":{"text":"**D\u00fcrfen wir vorstellen**: das ist unser kleines und super sympathisches Schoko-Team.\n\nIm t\u00e4glichen Miteinander stehen f\u00fcr uns direkte und ehrliche Kommunikation im Fokus \u2013 wir treffen Entscheidungen ohne Umwege, transparent und fair. Dabei gibt es immer die Gelegenheit, eigene Ideen einzubringen und k\u00fcnftige Produkte mitzuentwickeln.\n\nModerne Arbeitsmodelle und Nachhaltigkeit geh\u00f6ren bei uns ganz selbstverst\u00e4ndlich dazu."},"id":"ce20d785-2058-4e08-840f-fe36ee3057ef","isHidden":false,"type":"text"}],"id":"2c9414ea-5efa-4a8f-bed9-a7fc450cbbb3","width":"1\/1"}],"id":"1af8e5b0-81e1-45f6-9860-322ff6af24ee"},{"attrs":{"layoutid":"schoko-team","arialabelledby":"schoko-team","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"links":[{"name":"Andrea Christan","title":"Gesch\u00e4ftsf\u00fchrerin","image":["file:\/\/Ya5SJ7lMMeEso8QA"]},{"name":"Lisa","title":"Projektmanagerin","image":["file:\/\/hC92v7H2sppWqGY4"]},{"name":"Kristina","title":"<span lang=\"en\">Social Media Managerin<\/span>","image":["file:\/\/JSyqlgANTBUGeNyL"]},{"name":"Sibylle","title":"Buchhaltung & Assistenz","image":["file:\/\/blfOxtOQyqRV2DvO"]},{"name":"Christian","title":"<span lang=\"en\">Senior<\/span> <span lang=\"en\">TYPO3<\/span> & <span lang=\"en\">Backend<\/span>-Entwickler","image":["file:\/\/DK2lpPeGXBokkIpI"]},{"name":"Jenny","title":"<span lang=\"en\">WordPress<\/span>, <span lang=\"en\">Frontend<\/span>-Entwicklerin, <span lang=\"en\">Ryte-Expert<\/span> (SEO)","image":["file:\/\/CsFdrfxDm3wQtYYI"]},{"name":"Melissa","title":"<span lang=\"en\">Senior<\/span> <span lang=\"en\">TYPO3<\/span>-, <span lang=\"en\">Frontend<\/span>- & <span lang=\"en\">Backend<\/span>-Entwicklerin","image":["file:\/\/kJtOH6zyUK2uczWg"]},{"name":"Henning","title":"Webdesigner, <span lang=\"en\">WordPress<\/span>, <span lang=\"en\">Frontend<\/span>-Entwickler, <span lang=\"en\">UX\/UI<\/span>","image":["file:\/\/bZI7InK3aapBWK5w"]},{"name":"Feng","title":"<span lang=\"en\">Frontend<\/span>- & <span lang=\"en\">Backend<\/span>-Entwickler","image":["file:\/\/o94g9RCQq6UNLdYl"]},{"name":"Christian","title":"Text, Lektorat, <span lang=\"en\">Social Media Content<\/span>","image":["file:\/\/gOp7bEH2mr6D6uNl"]},{"name":"Petra","title":"<span lang=\"en\">Backend<\/span>- & <span lang=\"en\">Shop<\/span>-Entwicklerin","image":["file:\/\/UyyoxWjUQdG5rGaF"]},{"name":"Tobi","title":"Banner-K\u00f6nig & <span lang=\"en\">Frontend<\/span>-Entwickler","image":["file:\/\/bbuSAS27R7E6uuzu"]}]},"id":"7bb1ba6d-19a9-4340-b616-98a85c25b69c","isHidden":false,"type":"team"}],"id":"a76db102-0108-49b0-ae4b-36944229b855","width":"1\/1"}],"id":"307d17dd-0637-489d-b5bf-8b1aaedccc52"},{"attrs":{"layoutid":"kontaktformular","arialabelledby":"kontaktformular","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"text":"Aktuelle Jobangebote","select":["page:\/\/QbdYqm7JvQn1XaXb","page:\/\/KF1mWpAChUbuBFR1"]},"id":"65089b80-9cd3-472f-bf37-671d9bc462fe","isHidden":false,"type":"joboverview"}],"id":"3f5d7e08-d519-4833-abde-8f309b20f1ce","width":"1\/1"}],"id":"938c0b5c-2ef3-4581-90a2-3c8db8529764"}]
+
+----
+
+Seotitle: Team: BESTES #SCHOKO-TEAM
+
+----
+
+Seodescription: Dürfen wir vorstellen: das ist unser kleines und super sympathisches #SCHOKO-TEAM → Wir suchen noch Verstärkung!
+
+----
+
+Seoimage: 
+
+----
+
+Text: 
+
+----
+
+Uuid: 16phE2mBAJI3jvJ6

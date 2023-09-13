@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="278.161" height="261" viewBox="0 0 278.161 261">
+  <defs>
+    <filter id="Ellipse_1" x="0" y="35" width="134" height="134" filterUnits="userSpaceOnUse">
+      <feOffset dy="3"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellipse_2" x="99" y="146" width="115" height="115" filterUnits="userSpaceOnUse">
+      <feOffset dy="3"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Gruppe_91" data-name="Gruppe 91" transform="translate(-1231 -461)">
+    <circle id="Ellipse_8" data-name="Ellipse 8" cx="107" cy="107" r="107" transform="translate(1268 461)" fill="#efefef"/>
+    <g id="Gruppe_87" data-name="Gruppe 87" transform="translate(1239.788 501.885)">
+      <g transform="matrix(1, 0, 0, 1, -8.79, -40.88)" filter="url(#Ellipse_1)">
+        <circle id="Ellipse_1-2" data-name="Ellipse 1" cx="58" cy="58" r="58" transform="translate(9 41)" fill="#1877f2"/>
+      </g>
+      <path id="iconmonstr-facebook-1" d="M12.96,18.561H6v9.28h6.96V55.683h11.6V27.841h8.45l.831-9.28h-9.28V14.693c0-2.216.445-3.093,2.587-3.093h6.694V0H25.006C16.663,0,12.96,3.673,12.96,10.707Z" transform="translate(37.105 32.061)" fill="#fff"/>
+    </g>
+    <g id="Gruppe_88" data-name="Gruppe 88" transform="translate(1338.611 612.891)">
+      <g transform="matrix(1, 0, 0, 1, -107.61, -151.89)" filter="url(#Ellipse_2)">
+        <circle id="Ellipse_2-2" data-name="Ellipse 2" cx="48.5" cy="48.5" r="48.5" transform="translate(108 152)" fill="#0a66c2"/>
+      </g>
+      <path id="iconmonstr-linkedin-1" d="M9.47,5.754A4.716,4.716,0,1,1,4.754,1,4.735,4.735,0,0,1,9.47,5.754Zm.038,8.558H0V44.739H9.508Zm15.179,0H15.24V44.739h9.45V28.767c0-8.881,11.465-9.607,11.465,0V44.739h9.486V25.473c0-14.985-16.967-14.44-20.953-7.063v-4.1Z" transform="translate(28.829 22.228)" fill="#fff"/>
+    </g>
+    <path id="Pfad_2" data-name="Pfad 2" d="M49.294,61.892a77.5,77.5,0,0,0-1.059-12.653H-14.754v25.14H21.311A31.054,31.054,0,0,1,7.933,94.334v16.723H29.449C42.047,99.407,49.294,82.238,49.294,61.892Z" transform="translate(1459.867 473.799)" fill="#4285f4"/>
+    <path id="Pfad_3" data-name="Pfad 3" d="M34.236,107.655c18.06,0,33.167-6.02,44.2-16.221L56.923,74.711a40.352,40.352,0,0,1-22.687,6.466c-17.447,0-32.219-11.762-37.514-27.648H-25.464V70.753A66.79,66.79,0,0,0,34.236,107.655Z" transform="translate(1410.877 493.423)" fill="#34a853"/>
+    <path id="Pfad_4" data-name="Pfad 4" d="M2.622,88.613A38.815,38.815,0,0,1,.5,75.848,40.326,40.326,0,0,1,2.622,63.083V45.859H-19.563a66.131,66.131,0,0,0,0,59.978Z" transform="translate(1404.977 458.339)" fill="#fbbc05"/>
+    <path id="Pfad_5" data-name="Pfad 5" d="M34.236,65.716A36.292,36.292,0,0,1,59.877,75.75L78.941,56.686A63.953,63.953,0,0,0,34.236,39.239a66.79,66.79,0,0,0-59.7,36.9L-3.279,93.365C2.017,77.478,16.789,65.716,34.236,65.716Z" transform="translate(1410.877 428.057)" fill="#ea4335"/>
+  </g>
+</svg>

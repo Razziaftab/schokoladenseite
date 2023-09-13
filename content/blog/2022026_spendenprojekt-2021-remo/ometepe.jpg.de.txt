@@ -1,0 +1,21 @@
+Alt: Dschungel-Bild mit Blick auf das Meer und Sonnenuntergang.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: Cs78pRLVMkiwkzXu

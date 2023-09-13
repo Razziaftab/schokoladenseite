@@ -1,0 +1,25 @@
+Alt: Besprechungsraum mit Besprechungstisch und vier Stühlen, sowie einem Smart-TV für Präsentationen
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Sort: 4
+
+----
+
+Uuid: CkWHc93VBfdAb9SG

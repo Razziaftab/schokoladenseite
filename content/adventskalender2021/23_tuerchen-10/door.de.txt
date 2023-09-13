@@ -1,0 +1,29 @@
+Title: Jenny, die Superheldin
+
+----
+
+Seodescription: Im Türchen Nummer 10 stellt sich heute unsere Superheldin Jenny vor
+
+----
+
+Image: - 10.jpg
+
+----
+
+Door: 10
+
+----
+
+Size: col-2
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Jenny, die Superheldin**\n\n*Im T\u00fcrchen Nummer 10 stellt sich heute unsere Superheldin Jenny vor.*\n\n**Seit wann bist du im SCHOKO-Team und was ist deine Aufgabe? **\n- Seit Juni 2017 - am Anfang als Aushilfe, dann Einstellung als Webdesignerin und seit diesem Jahr liegt mein Fokus mehr auf SEO und Google ADS.\n\n**Direkt zur wichtigsten Frage: Was ist deine Lieblings-Schokoladensorte? **\n- 99 % Zartbitter\n\n**Was passiert, wenn du \"Last Christmas\" ((link: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI text: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI target: _blank title: Externer Link zu \"Last Christmas\" auf YouTube (\u00d6ffnet im neuen Tab))) im Radio h\u00f6rst?** \n- Ich wechsele schnell den Sender.\n\n**Was m\u00f6chtest du in der Vorweihnachtszeit unbedingt machen? **\n- Einen entspannten Yoga-Tag mit Sound Bath.\n\n**Welche SCHOKO-Superkr\u00e4fte hast du? **\n- Ich habe ein Super-Organisationstalent als Superkraft bekommen, nachdem ich in einen Schokobrunnen gefallen bin und diesen ausgetrunken habe. Seitdem darf ich aber leider keine Schokolade mehr aus dem Brunnen trinken. Die Superkraft bleibt aber."},"id":"5ae96153-648e-4d62-8093-576a64a3af33","isHidden":false,"type":"text"}],"id":"cd261285-ff27-4cb3-a7bd-4e19086abfc7","width":"1\/1"}],"id":"428019e3-657c-47e2-9964-845934569f2f"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: CcldfwmYC1Dy0npJ

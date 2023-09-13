@@ -1,0 +1,41 @@
+Title: DSGVO: Ab wann muss ein Unternehmen einen Datenschutzbeauftragten bestellen?
+
+----
+
+Articleheader: DSGVO: Ab wann muss ein Unternehmen (gender:eine:n Datenschutzbeauftragte:n x:eine Datenschutzbeauftragte y:einen Datenschutzbeauftragten xy:oder) bestellen?
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://0Anb6ZFJvf4RdGm5
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Kurz gesagt: Unternehmen, die mindestens 10 (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter) besch\u00e4ftigen, die automatisiert Daten verarbeiten, m\u00fcssen (gender:eine:n Datenschutzbeauftragte:n x:eine Datenschutzbeauftragte y:einen Datenschutzbeauftragten xy:oder) bestellen. Man verarbeitet Daten schon, wenn man eine E-Mail-Adresse nutzt.\n\n**TIPP f\u00fcr z.B. Vereine**: Sind Sie in einem Verein, in dem mehr als 9 Personen E-Mails der Mitglieder einsehen k\u00f6nnen, dann muss der Verein ebenso (gender:eine:n Datenschutzbeauftragte:n x:eine Datenschutzbeauftragte y:einen Datenschutzbeauftragten xy:oder) bestellen.\n\nBei einer nicht-automatisierten Datenverarbeitung muss ein Unternehmen (gender:eine:n Datenschutzbeauftragte:n x:eine Datenschutzbeauftragte y:einen Datenschutzbeauftragten xy:oder) bestellen, wenn es 20 und mehr (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter) besch\u00e4ftigt. Hierbei z\u00e4hlen auch Teilzeitarbeitskr\u00e4fte, freie (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter), Auszubildende und (n:Gesch\u00e4ftsf\u00fchrer:innen x:Gesch\u00e4ftsf\u00fchrerinnen y:Gesch\u00e4ftsf\u00fchrer).\n\nUnabh\u00e4ngig von der (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter)zahl muss (gender:ein:e Datenschutzbeauftragte:r x:eine Datenschutzbeauftragte y:ein Datenschutzbeauftragter xy:oder) aber auch bestellt werden, wenn das Unternehmen automatisierte Verarbeitungen durchf\u00fchrt, die einer \u201cVorabkontrolle\u201d unterliegen, oder wenn personenbezogene Daten gesch\u00e4ftsm\u00e4\u00dfig verarbeitet werden, um diese an Dritte weitergegeben werden (z. B. Adressdatenhandel)."},"id":"c84ae533-552b-426d-83c7-abbb245042d0","isHidden":false,"type":"text"}],"id":"7b081760-33a4-4604-82cb-12898caca386","width":"1\/1"}],"id":"ed385f63-2b65-4ab8-971f-b52e1d952204"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Interessenskonflikte","customid":"","customclass":""},"id":"a7fa4ad4-8f5a-450a-b517-83247ad5898d","isHidden":false,"type":"heading"},{"content":{"text":"Bei der Besetzung (gender:der:des x:der y:des xy:oder) Datenschutzbeauftragten d\u00fcrfen keine Interessenskonflikte bestehen. Daher kann bspw. ein Vorstandsmitglied, (gender:ein:e Gesch\u00e4ftsf\u00fchrer:in x:eine Gesch\u00e4ftsf\u00fchrerin y:ein Gesch\u00e4ftsf\u00fchrer xy:oder) oder (gender:die:der Unternehmensinhaber:in x:die Unternehmensinhaberin y:der Unternehmensinhaber xy:oder) nicht (gender:Datenschutzbeauftragte:r x:Datenschutzbeauftragte y:Datenschutzbeauftragter xy:oder) sein. Diese Personen k\u00f6nnen im Fall von Konflikten zwischen den Unternehmensinteressen und den datenschutzrechtlichen Vorschriften nicht vermitteln.\n\nSie k\u00f6nnen auch (gender:eine:n externe:n Datenschutzbeauftragte:n x:eine externe Datenschutzbeauftragte y:einen externen Datenschutzbeauftragten xy:oder) bestellen, um Konflikte zu vermeiden."},"id":"65039c21-9c5d-4ad4-ad80-a80d5b1589d9","isHidden":false,"type":"text"}],"id":"c7c46fed-54f2-481d-9420-1bdb378e69ac","width":"1\/1"}],"id":"fd393ff9-ff4e-4e89-a730-f09c1e098e15"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Qualifikationen (n:der\/des x:der y:des) Datenschutzbeauftragten","customid":"","customclass":""},"id":"135125d6-8407-4492-b8d4-f1422ab8a4ca","isHidden":false,"type":"heading"},{"content":{"text":"(gender:Die:der x:Die y:Der xy:oder) Datenschutzbeauftragte muss zuverl\u00e4ssig sein. Juristische sowie technische Fachkunde sind ebenfalls unumg\u00e4nglich f\u00fcr die Position (gender:der:des  x:der y:des xy:oder) Datenschutzbeauftragten. Schulungen\/Seminare inkl. Pr\u00fcfung werden bundesweit angeboten, um die entsprechenden Qualifikationen zu erwerben, z.B. beim T\u00dcV."},"id":"a57f3800-ed13-418f-92dc-63510acb26b0","isHidden":false,"type":"text"}],"id":"a0abb7b1-7a54-45cd-a750-562f0fb88c4c","width":"1\/1"}],"id":"1fd47abc-1425-448a-a03b-961290da391b"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/OEDc83YwVeRRlVSI"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"a6c7ca4e-d85c-4ca1-b366-3ac84ba308ed","isHidden":false,"type":"cta"}],"id":"0c1b7bf0-5d52-4be1-a094-13bcc14a80d1","width":"1\/1"}],"id":"a46b7e57-0a0c-4f57-b7e3-b12a094e72f2"}]
+
+----
+
+Date: 2018-04-03 14:50:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Kurz gesagt: Unternehmen, die mindestens 10 Mitarbeiter:innen beschäftigen, die automatisiert Daten verarbeiten, müssen eine:n Datenschutzbeauftragte:n bestellen
+
+----
+
+Articleimage: - file://Wh0nO7XQDUq7c9A5
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: Zu5VIOdVvbktWgxH

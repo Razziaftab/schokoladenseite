@@ -1,0 +1,21 @@
+Alt: chocfair cal - Digitaler Adventskalender Landingpage
+
+----
+
+Title: chocfair cal Landingpage
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: VjrkgAiBDc8xq6Mh

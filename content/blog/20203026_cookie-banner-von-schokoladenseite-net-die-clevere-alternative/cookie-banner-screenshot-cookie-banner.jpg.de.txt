@@ -1,0 +1,13 @@
+Alt: Beispiel für die Verwendung unseres Cookie-Banners.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: rJrUfxqyoifhrGwi

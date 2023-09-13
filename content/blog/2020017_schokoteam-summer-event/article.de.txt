@@ -1,0 +1,41 @@
+Title: SchokoTeam Summer Event 2020
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://RKpbN8INX1h9Fxu9
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"<span lang=\"en\">Hot Chocolate<\/span> \u2013 das <span lang=\"en\">Summer Event<\/span> von SCHOKOLADENSEITE.net","customid":"","customclass":""},"id":"7f0e4ef7-3b1d-4fa9-88e0-bea33d24a4e9","isHidden":false,"type":"heading"},{"content":{"text":"Hamburg \u00e4chzte unter einer Hitzewelle, die Schokolade wurde sogar schon im K\u00fchlschrank weich \u2026 Da war uns klar: jetzt ist die Zeit f\u00fcr das legend\u00e4re **<span lang=\"en\">Summer Event<\/span>**.\n\nDa viele beliebte Sachen wegen Anticoronisierungs-Ma\u00dfnahmen nicht oder nicht so sch\u00f6n m\u00f6glich gewesen w\u00e4ren, haben wir uns f\u00fcr etwas Naheliegendes entschieden: **SUP-Fahren auf der Alster** (zur Erkl\u00e4rung f\u00fcr unsere Fans aus S\u00fcddeutschland: das ist so wie der Eisbach, nur sch\u00f6ner). Da gibt\u2019s nat\u00fcrlich die Qual der Wahl, aber mit tatkr\u00e4ftiger Hilfe der F\u00fchrungsebene haben wir uns auf eine sehr nette <span lang=\"en\">Location<\/span> geeinigt. Flugs haben wir die Badesachen geschnappt und sind nach Feierabend zum **<span lang=\"en\">SUPPER CLUB<\/span>** geradelt\/gerollert."},"id":"3a8879b7-dd68-44a3-a456-baecc60b78b3","isHidden":false,"type":"text"}],"id":"f013fbc2-7e30-412e-8912-58646a19a318","width":"1\/1"}],"id":"2db916d5-b885-41aa-9116-71d9bdeaa801"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/LYImbJ1j45fagSb3"]},"id":"a1919fd8-31b2-4a6e-840a-ca75282eacaf","isHidden":false,"type":"blogimage"}],"id":"07253ec8-10ba-40dd-aadc-c7af5d4f14bc","width":"1\/2"},{"blocks":[{"content":{"image":["file:\/\/Rk4GJmSdMTtDc0lQ"]},"id":"80725304-5f62-4b6c-8c90-04405b9d8528","isHidden":false,"type":"blogimage"}],"id":"bea0cadb-8a36-40ef-9a04-08dde95c6579","width":"1\/2"}],"id":"aa056837-c9f4-4508-b7dd-72624ea2e0a0"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Nachdem (n:jede:r x:jede y:jeder) das passende Brett erhalten hatte, sind wir beschwingt in den Sonnenuntergang gepaddelt und haben einige versteckte Ecken Hamburgs entdeckt. Von Andrea wurden wir dabei mit feinster Musik beschallt, sodass wir am Ende sogar noch eine Runde Macarena auf den Boards probiert haben. FAST alle sind dabei trocken geblieben \u2026 <span aria-hidden=\"true\">\ud83d\ude09<\/span>\n\nIm Anschluss gab es noch ein sehr leckeres <span lang=\"en\">Souper<\/span> im Club (jaha, dann habe ich auch den Namen kapiert). Bei wunderbaren karibischen Temperaturen sa\u00dfen wir noch lange drau\u00dfen, bis wir zum Feierabend nett, \u00e4h, rausgeschmissen wurden. <span aria-hidden=\"true\">\ud83d\ude42<\/span>\n\n**#SchokoTeam #SchokoSummer**"},"id":"36fbf591-2592-4b04-9a13-448666a85ccd","isHidden":false,"type":"text"}],"id":"0a167b86-3667-4bdf-95bb-b779681997a7","width":"1\/1"}],"id":"196a6eb4-b3c7-4b61-9580-6a3cce21eb6d"}]
+
+----
+
+Date: 2020-09-17 12:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Unser Bericht vom legendären SchokoTeam Summer Event beschönigt nichts und übertreibt schon mal gar nicht. Es war mega!
+
+----
+
+Articleimage: - file://XmZ32CdchBuYGZWX
+
+----
+
+Categories: SchokoTeam, Agentur
+
+----
+
+Uuid: 4mfX6t2JU9nt6Rcm

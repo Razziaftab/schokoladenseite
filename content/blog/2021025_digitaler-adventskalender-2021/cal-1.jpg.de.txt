@@ -1,0 +1,21 @@
+Alt: Screenshot und Beispiel für einen individuellen digitalen Adventskalender
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: zoXF7ce9l4vuQpyn

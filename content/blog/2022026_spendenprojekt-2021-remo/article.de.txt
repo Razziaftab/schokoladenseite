@@ -1,0 +1,41 @@
+Title: Spendenprojekt 2021 REMO
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://hLBN7Q14n7W1y1AY
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"Unser Spendenprojekt Weihnachten 2021","level":"h2","text":"Kein Mensch ist eine Insel ...","customid":"","customclass":""},"id":"403da931-0eab-41cf-93cb-8522c1f525f1","isHidden":false,"type":"heading"},{"content":{"text":"... aber manche leben auf einer und freuen sich \u00fcber unsere Unterst\u00fctzung! Wir m\u00f6chten Ihnen heute das Projekt vorstellen, f\u00fcr das wir Weihnachten 2021 Spenden gesammelt haben: Es ist das Frauennetzwerk REMO (<span lang=\"es\">Red de mujeres de Ometepe<\/span>), das auf der Insel Ometepe im Nicaraguasee t\u00e4tig ist. Die Inselfrauen haben eine vielf\u00e4ltige sozialpolitische Agenda. \u00dcber Vernetzung und direkte Unterst\u00fctzung f\u00f6rdern sie einzelne Projekte. Diese reichen von lokalen Selbsthilfe-Angeboten \u00fcber psychologische Beratung bis hin zur Unterst\u00fctzung von Frauen mit Gewalterfahrungen."},"id":"60a878eb-c837-4d57-8cc4-cd8aa37fdb58","isHidden":false,"type":"text"}],"id":"669d2960-a81b-4c3e-9559-cbd0358a55d8","width":"1\/1"}],"id":"55a2cd26-efa7-44aa-90dc-9e6d0797aa4d"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Ein sch\u00f6nes, armes Land","customid":"","customclass":""},"id":"33d4f70c-7e1e-4c04-ba7c-622e1b3b84f7","isHidden":false,"type":"heading"},{"content":{"text":"Nicaragua ist eines der \u00e4rmsten L\u00e4nder Lateinamerikas. 43 Prozent der Bev\u00f6lkerung leben in Armut, die meisten von ihnen auf dem Land mit einem Tageseinkommen von weniger als einem US-Dollar. Besonders betroffen von Armut sind die indigene Bev\u00f6lkerung, Frauen und Jugendliche. (Quelle: GIZ)\n\nDaf\u00fcr ist Nicaragua umso reicher an Biodiversit\u00e4t - ein ganz besonderes Gut unseres Planeten. Ein Reichtum an Arten und Lebensr\u00e4umen und der genetischen Vielfalt innerhalb einzelner Tier- und Pflanzenarten, die f\u00fcr die Gesundheit und das Wohlergehen aller V\u00f6lker und Gesellschaften so wichtig ist.\n\nAndrea war im September 2021 auf der Trauminsel Ometepe:\n> \"Es ist faszinierend zu erleben, wie freundlich, hilfsbereit und geduldig die Menschen auf dieser Insel sind. Sie bringen einem immer ein L\u00e4cheln entgegen. Ganz ungeachtet ihrer gegenw\u00e4rtigen finanziellen oder politischen Situation.\"\u00b4\n**Andrea Christan **\n\nSo ist es zu unserer Herzensangelegenheit geworden, sie mit unserer Spendenaktion zu unterst\u00fctzen.\n\nAktuelle Informationen zum Frauennetzwerk REMO finden Sie auf der facebook-Seite der Initiative unter (link: https:\/\/www.facebook.com\/REMO.NICARAGUA target: _blank text: facebook.com\/REMO.NICARAGUA title:Externer Link zur Facebook-Seite der REMO (\u00d6ffnet im neuen Tab)) und auf ihrer Website (link: https:\/\/remonica.wordpress.com\/ target: _blank text: remonica.wordpress.com title: Externer Link zur Webseite der REMO (\u00d6ffnet im neuen Tab))\n\nWenn Sie REMO mit einer Spende unterst\u00fctzen wollen, schreiben Sie uns gerne eine (link: mailto: brief@schokoladenseite.net text: E-Mail); wir stellen den Kontakt zu Ihrer Ansprechpartnerin her."},"id":"03c9c295-4c37-43d6-ba88-de8921179879","isHidden":false,"type":"text"}],"id":"ddc611b3-7707-4115-8fc5-ed7a6e554f30","width":"1\/1"}],"id":"b52b7f2f-44d7-4514-a04d-bb0a36242532"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/ydyA7Vwhs4PcdGPB"]},"id":"705e65c3-6914-4dbd-a2e6-f3da5469efe5","isHidden":false,"type":"blogimage"}],"id":"21876622-6976-4a81-9312-6afe8568836e","width":"1\/1"}],"id":"f4e56893-61e1-4482-bd09-ca5868264816"}]
+
+----
+
+Date: 2022-01-26 11:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Wir möchten Ihnen unser Weihnachts-Spendenprojekt 2021 vorstellen: das Frauennetzwerk REMO (Red de mujeres de Ometepe), das auf der Insel Ometepe im Nicaraguasee tätig ist. Die Inselfrauen leisten Hilfe zur Selbsthilfe und bei der Vernetzung mit anderen Frauen.
+
+----
+
+Articleimage: - file://AFWHnTpGiHbjxKFT
+
+----
+
+Categories: Agentur, CSR
+
+----
+
+Uuid: rSxOGF362vI0Qw3W

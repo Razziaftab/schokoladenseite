@@ -1,0 +1,21 @@
+Alt: Auf links einem Tablet und rechts daneben zwei Mobiltelefonen werden unterschiedliche Seiten der Hinz&Kunzt-Website angezeigt.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: snkkCgPYD0hCSPaQ

@@ -1,0 +1,13 @@
+Alt: Greenpeace Energy Logo
+
+----
+
+Title: Greenpeace Energy
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: c6qGsL6o0wuXlFtG

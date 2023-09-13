@@ -1,0 +1,5 @@
+Uuid: KaTPL5IztqhwWMuG
+
+----
+
+Template: blocks/image

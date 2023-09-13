@@ -1,0 +1,22 @@
+
+.dark {
+  #svg-digitale_massnahmen {
+    .bubble {
+      fill: #fff !important;
+      opacity: .1 !important;
+    }
+
+    .st1 {
+      fill: #fff;
+    }
+
+    .st13 {
+      fill: #222;
+    }
+
+    > g:nth-child(12) > g > path:nth-child(2) {
+      stroke: #fff !important;
+    }
+  }
+}
+

@@ -1,0 +1,21 @@
+Alt: Frau schaut sich Statistiken auf dem Tablet an
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: jVA7xk4pcY33pku7

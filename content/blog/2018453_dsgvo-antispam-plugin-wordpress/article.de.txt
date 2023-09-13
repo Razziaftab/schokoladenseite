@@ -1,0 +1,41 @@
+Title: DSGVO: Antispam-Plugin WordPress
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://lk3LcamOVtM6BHy4
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Achtung, der <span lang=\"en\">WordPress<\/span>-Klassiker <span lang=\"en\">Akismet Anti-Spam<\/span> h\u00e4lt sich nicht an unsere europ\u00e4ischen Gesetze.\n\n**TIPP:** Verwenden Sie besser (link: https:\/\/wordpress.org\/plugins\/antispam-bee\/ text: Antispam Bee target: _blank rel: noopener title: Externer Link zur Plugin-Seite von Antispam Bee (\u00d6ffnet im neuen Tab)). Das Plugin  macht dasselbe, nur unter Einhaltung unserer Gesetze, Vorschriften und Richtlinien."},"id":"b5b39ac1-8351-4d55-b0b3-11dd3b36a1e5","isHidden":false,"type":"text"}],"id":"6da2891a-e06d-4a0c-b06d-030d27fee2e2","width":"1\/1"}],"id":"d388a1cf-39e8-414c-b2e9-facd67cb7a93"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"a7a31a37-a2a9-4d0f-8564-8e9715a60221","isHidden":false,"type":"kontaktform"}],"id":"efdcb813-7eb3-46a0-84a7-733bc4b23f61","width":"1\/1"}],"id":"64c7599b-32f5-412b-9a19-53daf6dcb4e1"}]
+
+----
+
+Date: 2018-04-03 17:45:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Alle (n:Verwender:innen x:Verwenderinnen y:Verwender) von Akismet Anti-Spam sollten jetzt aufpassen! Wir erklären Ihnen heute kurz das Problem mit dem Plugin.
+
+----
+
+Articleimage: - file://XIXkxPFDHKmnZiPU
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: qIHQ4Q9oYQrRr7CF

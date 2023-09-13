@@ -1,0 +1,41 @@
+Title: Schadensersatz wegen Google Webfonts
+
+----
+
+Articleheader: Schadensersatz wegen Google Webfonts
+
+----
+
+Intro: Das LG München I hat wegen <span lang="en">Google Webfonts</span> (n:einer:einem Nutzer:in x:einer Nutzerin y:einem Nutzer xy:bzw.) Schadensersatz zugesprochen. Wir erklären, warum das mal echt nicht passieren musste.
+
+----
+
+Mp3: - file://fAdz6dXa2vx3peYJ
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"Keine Daten\u00fcbertragung an Google-Server n\u00f6tig","level":"h2","text":"Alle aussteigen, bitte!","customid":"","customclass":""},"id":"cdc765ad-4394-4dfb-b563-cc317300cd7a","isHidden":false,"type":"heading"}],"id":"fe701fa7-dd7b-4729-b87e-d0b0086e4541","width":"1\/1"}],"id":"816df317-57a4-4eaf-9cd2-0f88d982f535"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Stellen Sie sich vor, Sie mieten sich ein (Elektro-)Auto f\u00fcr eine kleine Spritztour oder die Wocheneink\u00e4ufe. Sie fahren los, pfeifen ein kleines Liedchen - und dann bemerken Sie, dass sich da schon die ganze Zeit ein Typ auf der R\u00fcckbank fl\u00e4zt. Er guckt interessiert zu, was Sie so machen, und notiert alles in ein kleines B\u00fcchlein. Nicht so sch\u00f6n, oder? Tja, Sie hatten leider <span lang=\"en\">Google<\/span> als blinden Passagier an Bord."},"id":"5c1e2023-192c-43a7-8e73-2418e992cdd7","isHidden":false,"type":"text"}],"id":"119fc577-8366-4205-a124-d2a14739573b","width":"1\/1"}],"id":"8fd8ca5d-4b5e-43ab-9673-f8811efb3ab6"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Schluss mit den blinden Passagieren!","customid":"","customclass":""},"id":"329ff9ef-e8bc-487f-846a-4b4bf24c48ad","isHidden":false,"type":"heading"}],"id":"189b2a18-e402-4864-9019-c0806815d705","width":"1\/1"}],"id":"a2e13ec6-4448-4bec-9ad4-58d561647eb4"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Das Landgericht M\u00fcnchen I hat k\u00fcrzlich (n:einer:einem privaten Nutzer:in x:einer privaten Nutzerin y:einem privaten Nutzer xy:bzw.) **Schadensersatz** in H\u00f6he von 100 \u20ac gegen\u00fcber (n:einer:einem Webseitenbetreiber:in x:einer Webseitenbetreiberin y:einem Webseitenbetreiber xy:bzw.) zugesprochen. Der **Grund: die Verwendung von <span lang=\"en\">Google Webfonts<\/span>!** Falls Ihr Herzschlag kurz ausgesetzt hat: kein Grund zur Panik, wenn **Profis** Ihre <span lang=\"en\">Website<\/span> erstellt haben - dann wurden die <span lang=\"en\">Webfonts<\/span> n\u00e4mlich heruntergeladen und lokal eingebunden. Das hat (n:die:der x:die y:der xy:bzw.) Beklagte leider nicht gemacht, und so wurde <span lang=\"en\">Google<\/span> bei jedem Seitenaufruf die IP-Adresse (n:der:des jeweiligen Nutzer:in x:der jeweiligen Nutzerin y:des jeweiligen Nutzers xy:bzw.) \u00fcbermittelt. Das Landgericht hat auch ein berechtigtes Interesse f\u00fcr die Verwendung der <span lang=\"en\">Online-Fonts<\/span> verneint - eigentlich logisch, denn alles, was man tun muss, um die \u00dcbertragung zu verhindern, ist eben der Download und das lokale <span lang=\"en\">Hosting<\/span> der benutzten <span lang=\"en\">Fonts<\/span>. Das kostet minimal mehr Arbeit, ist aber **viel sauberer** und: absolut **DSGVO-konform**. Und das wollen wir doch alle, oder?"},"id":"302ea50c-a29f-4f58-b0de-0a5c63fc6316","isHidden":false,"type":"text"}],"id":"0b1e1065-ca28-4ff6-9b22-ae901960e7a1","width":"1\/1"}],"id":"f0187fa6-1891-45d3-b00c-f3f49f0f1391"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Das kam jetzt aber total \u00fcberraschend!","customid":"","customclass":""},"id":"2adccbbf-20ac-46b3-91e8-868b5fa9afec","isHidden":false,"type":"heading"}],"id":"46ee9940-731a-4515-b496-e2bb95dbb964","width":"1\/1"}],"id":"3fad3583-cffe-4eea-b39a-cd1eb7ccd82b"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Nicht. Das jetzige Urteil konnte jeder Mensch erwarten, (n:die:der x:die y:der) sich schon mal nur ein wenig mit der DSGVO befasst hat. Die Verarbeitung pers\u00f6nlicher Daten, und erst recht Daten\u00fcbertragung in L\u00e4nder au\u00dferhalb der EU, darf nur mit triftigem Grund und ausdr\u00fccklicher Einwilligung erfolgen, und rechtskonforme Alternativen gibt's auch nicht erst seit gestern. Wie zum Beispiel die lokale Speicherung der <span lang=\"en\">Webfonts<\/span>. **Die SCHOKOLADENSEITE.net macht das \u00fcbrigens schon immer so.** F\u00fcr die Sicherheit unserer (gender:Kund:innen x:Kundinnen y:Kunden xy:und), und weil wir saubere Sachen lieben. Und Schokolade."},"id":"dcdf0320-4e96-40f5-bff0-b5ec28d9ba97","isHidden":false,"type":"text"}],"id":"34559bf3-5eca-488c-abfd-703c1cb4c396","width":"1\/1"}],"id":"c085a5ac-1af4-4dc0-86d7-071d6728db5e"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"ea358bf2-7c67-4395-bf10-8203ee943519","isHidden":false,"type":"kontaktform"}],"id":"efc4390f-0e56-470f-96b4-a103867a701d","width":"1\/1"}],"id":"dad0b52e-43f8-4428-8f91-7f0c9e327b60"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/B8kXfJZVFLovqj39"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"08ba5b24-418f-4995-96f3-b0b31505999e","isHidden":false,"type":"cta"}],"id":"8ec3fc7f-4b0e-4bde-9ec7-dceff95b17e8","width":"1\/1"}],"id":"11f7ed05-d040-4417-a73d-571a7fe0bf4b"}]
+
+----
+
+Date: 2022-02-21 11:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Das LG München I hat wegen Google Webfonts (n:einer:einem Nutzer:in x:einer Nutzerin y:einem Nutzer xy:bzw.) Schadensersatz zugesprochen. Wir erklären, warum das mal echt nicht passieren musste.
+
+----
+
+Articleimage: - file://Nf94W0896zLKQQEM
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: He5nFZe7bmVuHIWJ

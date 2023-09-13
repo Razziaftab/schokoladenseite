@@ -1,0 +1,40 @@
+title: Jobs
+tabs:
+  content: tabs/content
+  jobs:
+    icon: user
+    sections:
+      drafts:
+        type: pages
+        extends: sections/job
+        headline: Entwurf
+        status: drafts
+      listed:
+        type: pages
+        extends: sections/job
+        headline: Veröffentlicht
+        status: listed
+        search: true
+  benefits:
+    icon: smile
+    fields:
+      benefits:
+        type: structure
+        fields:
+          icon:
+            label: Icon
+            type: files
+            max: 1
+          text:
+            type: text
+      zuschuss:
+        type: structure
+        fields:
+          icon:
+            label: Icon
+            type: files
+            max: 1
+          text:
+            type: text
+  seo: tabs/seo
+  Dateien: tabs/dateien

@@ -1,0 +1,81 @@
+.cta{
+	background: #efefef;
+	margin-top: 30px;
+
+  .dark & {
+    background: $lightgrey;
+  }
+
+	> div:first-child{
+		clip-path: polygon(0% 0%, 100% 0%, 100% 90%, calc(50% + 40px) 90%, 50% 100%, calc(50% - 40px) 90%, 0 90%)
+	}
+	
+	> div:last-child{
+		padding: 25px 50px 50px 50px;
+		text-align: center;
+		font-weight: bold;
+	}
+	
+	p a:not(.btn){
+		color: $black!important;
+	}
+
+	img {
+		max-width: 100%;
+		min-width: 100%;
+	}
+
+	.-primary.btn {
+		margin-top: 1rem;
+	} 
+
+	@media $tablet-big{
+		display: flex;
+		align-items: stretch;
+		
+		> div:first-child{
+			width: calc(50% + 40px);
+			clip-path: polygon(0% 0%, calc(100% - 35px) 0, calc(100% - 35px) calc(50% - 40px), 100% 50%, calc(100% - 35px) calc(50% + 40px), calc(100% - 35px) 100%, 0 100%);
+			border-left: 15px solid $primary;
+			
+			img{
+			    height: 100%;
+			}
+		}
+		 
+		> div:last-child{
+			width: 50%;
+			padding: 70px;
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			margin-left: -35px;
+		}
+	}
+	
+	@media $desktop-medium{
+		margin-top: 90px;
+
+		> div:first-child{
+		
+			img{
+			    height: auto;
+				width: 100%;
+			}
+		}
+	}
+	
+	@media $desktop-big{
+		
+		> div:last-child{
+			font-size: 130%;
+			padding: 100px;
+			max-width: 800px;
+			margin: 0 auto;
+			
+			.btn{
+			    font-size: initial;
+			}
+		}
+	}
+}

@@ -1,0 +1,41 @@
+Title: DSGVO: Einführung – worum geht es?
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://YY7vT0e0vJXfXUya
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Die DSGVO regelt ab dem **25. Mai 2018** den Umgang von Unternehmen mit personenbezogenen Daten \u2013 einheitlich europaweit. Viele der aktuellen Vorschriften des deutschen Bundesdatenschutzgesetzes (BDSG) gelten dann nicht mehr bzw. das BDSG wird zeitgleich neu gefasst.\n\nDie Datenschutzgrundverordnung vereinheitlicht das Datenschutzrecht innerhalb der EU, da bisher \u00fcberall verschiedene Datenschutzgesetze und damit unterschiedliche Standards gelten. Unternehmer k\u00f6nnen also zuk\u00fcnftig darauf vertrauen, dass innerhalb der EU ein (\u00fcberwiegend) einheitliches Datenschutzrecht gilt.\n\nDie Verordnung gilt aber auch f\u00fcr Unternehmen mit Sitz au\u00dferhalb der EU, wenn diese Daten von Personen aus der EU verarbeiten. So soll sichergestellt werden, dass sich auch <span lang=\"en\">Cloud<\/span>-Dienste oder soziale Netzwerke (etwa aus den USA) an die Regeln halten m\u00fcssen."},"id":"fb5ee4e1-601b-4897-af68-1d1a5bf2c903","isHidden":false,"type":"text"}],"id":"14ae5cc9-037e-4906-a136-68477cb9a074","width":"1\/1"}],"id":"b2e21722-33b6-4545-9123-aaa2780c82bf"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wen betrifft die DSGVO?","customid":"","customclass":""},"id":"3be9a74a-5e13-44e6-9f15-225b7e1b92a4","isHidden":false,"type":"heading"},{"content":{"text":"Die DSGVO betrifft dabei wirklich JEDES Unternehmen, das im Internet aktiv ist: (n:Nutzer:innen x:Nutzerinnen y:Nutzer)-<span lang=\"en\">Tracking<\/span>, (n:Kund:innen x:Kundinnen y:Kunden)daten, Newsletter oder Werbemails, Werbung auf <span lang=\"en\">Facebook<\/span>, die eigene Datenschutzerkl\u00e4rung ... \u2013 vieles \u00e4ndert sich durch die Neuregelungen."},"id":"c8b09dbc-7253-4fd5-9158-4fcdc1b4a648","isHidden":false,"type":"text"}],"id":"6e5a62e9-ed62-4853-83fa-32c4f655e4f5","width":"1\/1"}],"id":"132d3a79-9918-4c7f-883d-4c4efe54097c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/jExiWGWb7yspGvEH"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"23a4bcb7-e6d4-4236-8e1d-e14da96e05ab","isHidden":false,"type":"cta"}],"id":"9d0b4d1a-7137-4320-8bee-3fe32c0a156a","width":"1\/1"}],"id":"b2a3369b-a4d1-4358-92ca-a43ffc31c47d"}]
+
+----
+
+Date: 2018-04-05 16:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: In unserem Blog-Beitrag stellen wir Ihnen kurz die DSGVO und ihre Folgen vor.
+
+----
+
+Articleimage: - file://dVwZrRVNr5FJjIoa
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: C86D5gNGeG0dXPnO

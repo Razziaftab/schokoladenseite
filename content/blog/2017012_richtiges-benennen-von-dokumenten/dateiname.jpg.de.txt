@@ -1,0 +1,13 @@
+Alt: Benennen von Dokumenten
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: b4iWkZSpF4ZxqsXP

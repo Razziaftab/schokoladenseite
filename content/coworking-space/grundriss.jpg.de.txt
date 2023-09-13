@@ -1,0 +1,21 @@
+Alt: Shared Office in Hamburg: Bürogrundriss
+
+----
+
+Title: 
+
+----
+
+Caption: Bürogrundriss: Man kommt direkt in den Eingangsraum mit 4 Arbeitsplätzen, zur rechten Seite befindet sich der Besprechungsraum, geht man durch den Eingangsraum in den Flur, findet man auf der linken Seite ein weiteres Büro und die Küche, auf der rechten Seite die Toiletten sowie einen Entspannungsraum. Am Ende des Flurs befinden sich zwei weitere Büros mit jeweils drei Arbeitsplätzen
+
+----
+
+Template: galerie
+
+----
+
+Sort: 9
+
+----
+
+Uuid: nEd2BeJA27aINOFW

@@ -1,0 +1,41 @@
+Title: Cookie-Banner von SCHOKOLADENSEITE.net – die clevere Alternative
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://Ux3U1PE5Rrptcd0F
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Mit dem Inkrafttreten der DSGVO und dem (link: blog\/eugh-urteil-like-button-cookies text: Urteil des EuGH title: Zum Blogbeitrag EuGH-Urteil zum Like-Button und Cookies auf Webseiten\n) im Oktober 2019 ist f\u00fcr alle Webseiten-(n:Betreiber:innen x:Betreiberinnen y:Betreiber) klar geworden: ein rechtskonformer <span lang=\"en\">Cookie<\/span>-Hinweis mit <span lang=\"en\">Opt-in<\/span>-M\u00f6glichkeit, ein sogenanntes <span lang=\"en\">Cookie<\/span>-Banner, ist Pflicht. Zwar gibt es z.B. f\u00fcr <span lang=\"en\">Wordpress<\/span> mit borlabs.io einen passablen Anbieter, aber f\u00fcr andere CMS (<span lang=\"en\">content management systems<\/span>, also die <span lang=\"en\">Software<\/span> zum Erstellen und Verwalten von Webseiten) fehlte eine einheitliche L\u00f6sung."},"id":"815bb0f1-796a-4e05-a62b-c3ef37bb75b4","isHidden":false,"type":"text"}],"id":"cb4cd009-353d-4a0e-b6dc-63ee799266c2","width":"1\/1"}],"id":"95fdaae3-9abc-4e2a-a13c-4fcec1f840b1"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Unsere <span lang=\"en\">Cookie<\/span>-L\u00f6sung \u2013 selbst gebacken ist leckerer","customid":"","customclass":""},"id":"8204b7e3-b82f-41ba-af2e-d26ea91161e3","isHidden":false,"type":"heading"},{"content":{"text":"Das Banner der SCHOKOLADENSEITE funktioniert hingegen f\u00fcr **statische Webseiten, <span lang=\"en\">(link: typo3 text: TYPO3 title: zur Leistung)<\/span> und <span lang=\"en\">(link: kirby-cms text: Kirby title: zur Leistung)<\/span>**, ist also flexibler einsetzbar. Daher ist bei uns die Einarbeitung in **nur eine L\u00f6sung** erforderlich. Die DSGVO-Konformit\u00e4t Ihres Webauftritts ist bei Verwendung des Schoko-<span lang=\"en\">Cookie<\/span>-Banners nat\u00fcrlich auf jeden Fall gew\u00e4hrleistet."},"id":"507f8f2e-2c63-40b3-b65e-c3b2440c22e6","isHidden":false,"type":"text"}],"id":"b8f845ad-a2ae-44d6-9f23-b02f879215b2","width":"1\/1"}],"id":"d4b3c143-e3aa-4f7b-9746-da05892682b1"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Unser <span lang=\"en\">Cookie<\/span>-Banner bietet den Usern mehrere Auswahlm\u00f6glichkeiten","customid":"","customclass":""},"id":"fa3f8b5e-921c-41a7-8d8b-77b0fe59c845","isHidden":false,"type":"heading"},{"content":{"text":"\u00dcber die Auswahlm\u00f6glichkeit \"Externe Medien\" k\u00f6nnen Services wie <span lang=\"en\">Google Maps<\/span> oder <span lang=\"en\">YouTube<\/span> implementiert werden; weitere Services sind je nach Kundenwunsch m\u00f6glich.\n\n\u00dcber die zweite Auswahlm\u00f6glichkeit \"Statistiken\" k\u00f6nnen Analysedienste wie matomo, <span lang=\"en\">Google Analytics<\/span> u.a. akzeptiert werden; auch hier sind Anpassungen nach Ihren Bed\u00fcrfnissen m\u00f6glich."},"id":"ef08b501-7cb1-49c8-88b1-8cc4dcfb9dd2","isHidden":false,"type":"text"}],"id":"82172de8-3b75-47b8-b4fe-8f7b363519fb","width":"1\/1"}],"id":"710eae52-9c56-483c-8eeb-9c503777bc94"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/rJrUfxqyoifhrGwi"]},"id":"d14c6f19-bb4e-471f-af36-22efe3d39f31","isHidden":false,"type":"blogimage"}],"id":"f878c2b5-bf2f-47b6-ab0d-80ea2d920672","width":"1\/1"}],"id":"4d1dc093-d093-4c17-8bd0-e0ee00f1d171"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"\u00dcber die Schaltfl\u00e4che \"Alle akzeptieren\" wird s\u00e4mtlichen Optionen zugestimmt; dieser <span lang=\"en\">Button<\/span> ist farblich hervorgehoben und wird im Idealfall von den (n:User:innen x:Userinnen y:Usern) bevorzugt. \u00dcbrigens: eine Vorauswahl aller Optionen, die (n:die\/der User:in x:die Userin y:der User) nur noch mit einem Klick best\u00e4tigt, ist nicht mehr zul\u00e4ssig. Neben dem <span lang=\"en\">Cookie<\/span>-Banner ist nat\u00fcrlich noch eine zus\u00e4tzliche Info-Seite erforderlich, die eine Erkl\u00e4rung der eingesetzten <span lang=\"en\">Cookies<\/span> beinhaltet, sowie eine Information zum Datenschutz.\n\n**Haben Sie Appetit auf unser selbst gebackenes <span lang=\"en\">Cookie<\/span>-Banner bekommen? (link: kontakt text: Sprechen Sie uns gerne an title: Zum Kontaktformular)!**"},"id":"018e3ab1-754f-4723-b78e-b70f1fb664c4","isHidden":false,"type":"text"}],"id":"94a34e45-e40f-445e-9554-0f719a8106b5","width":"1\/1"}],"id":"f4810a46-7f67-44fd-8523-c88a7de7762c"}]
+
+----
+
+Date: 2020-01-26 12:30:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Das Cookie-Banner von SCHOKOLADENSEITE.net funktioniert mit unterschiedlichen CMS.
+
+----
+
+Articleimage: - file://HxZEyuyKi8rHydFh
+
+----
+
+Categories: DSGVO, Programmierung, Technik
+
+----
+
+Uuid: cJZVv6AeuEOjZLNK

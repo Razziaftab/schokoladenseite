@@ -1,0 +1,9 @@
+Alt: World Future Council Logo
+
+----
+
+Title: World Future Council
+
+----
+
+Template: blocks/image

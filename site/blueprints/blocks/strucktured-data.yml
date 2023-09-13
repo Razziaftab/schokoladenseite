@@ -1,0 +1,56 @@
+title: Strukturierte Daten
+
+fields:
+  title:
+    label: Titel
+    type: text
+    required: 1
+  description:
+    label: Beschreibung
+    type: markdown
+    required: 1
+    buttons: 
+      - bold
+      - ul
+  employmentType:
+    label: Anstellungsart
+    required: 1
+    type: multiselect
+    options:
+      FULL_TIME: Vollzeit
+      PART_TIME: Halbzeit
+      CONTRACTOR: Vertragspartner
+      TEMPORARY: Zeitlich begrenzt
+      INTERN: Intern
+      VOLUNTEER: Volunteer
+      PER_DIEM: pro Tag
+      OTHER: Andere
+  workHours:
+    label: Stundenbasis
+    type: text
+  datePosted:
+    label: Datum
+    required: 1
+    type: date
+  responsibilities:
+    label: Aufgaben
+    type: markdown
+    buttons: 
+      - bold
+  qualifications:
+    label: Qualifikationen
+    type: markdown
+    buttons: 
+      - bold
+  experienceRequirements:
+    label: Erfahrung
+    type: markdown
+    buttons: 
+      - bold
+  skills:
+    label: Skills
+    type: markdown
+    buttons: 
+      - bold
+    
+    

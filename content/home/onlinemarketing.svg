@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="234" height="234" viewBox="0 0 234 234">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dc0006"/>
+      <stop offset="1" stop-color="#7f01fd"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_24" data-name="Gruppe 24" transform="translate(-830 -1678)">
+    <circle id="Ellipse_6" data-name="Ellipse 6" cx="117" cy="117" r="117" transform="translate(830 1678)" fill="url(#linear-gradient)"/>
+    <g id="stock-market" transform="translate(893.4 1746.53)">
+      <path id="Pfad_59" data-name="Pfad 59" d="M22.3,19.735l12.965,10.8L52.809,13" transform="translate(53.679 25.007)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Pfad_60" data-name="Pfad 60" d="M1,37.875,29.063,13,46.6,30.54,59.572,19.732" transform="translate(0.25 25.007)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="4"/>
+      <rect id="Rechteck_82" data-name="Rechteck 82" width="106" height="90" transform="translate(0.599 3.471)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Linie_6" data-name="Linie 6" y2="31" transform="translate(67.599 62.471)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Linie_7" data-name="Linie 7" y2="25" transform="translate(67.599 3.471)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <circle id="Ellipse_11" data-name="Ellipse 11" cx="10" cy="10" r="10" transform="translate(58.599 28.471)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

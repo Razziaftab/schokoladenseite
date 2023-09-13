@@ -1,0 +1,54 @@
+.accordion {
+
+	h2 + &, p + &{
+		margin-top: 20px;
+	}
+
+	.open{
+		padding: 1.1rem;
+		display: block;
+		cursor: pointer;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+		background: $lightgrey;
+		margin-bottom: 1px;
+		
+		h3{
+			font-size: 1.2rem;
+		}
+
+		@media (forced-colors: active) {
+			color: LinkText;
+		}
+
+		svg {
+			width: 15px;
+			height: 15px;
+			transition: all 0.3s;
+
+			* {
+				fill: $primary;
+	
+				@media (forced-colors: active) {
+					fill: LinkText;
+				}
+
+				.dark & {
+					fill: white;
+				}
+			}
+
+			&.active {
+				transform: rotate(180deg);
+			}
+		}
+	}
+
+	> div:last-child {
+		margin-top: 0;
+		display: none;
+		background: $lightgrey;
+		padding: 2rem;
+	}
+}

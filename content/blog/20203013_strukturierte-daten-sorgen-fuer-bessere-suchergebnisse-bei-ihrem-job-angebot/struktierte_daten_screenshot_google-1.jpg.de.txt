@@ -1,0 +1,13 @@
+Alt: unter dem Beschreibungstext werden die Unternehmens-Bewertungen automatisch angezeigt
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: SOWtUPZ5uUD3JEJ9

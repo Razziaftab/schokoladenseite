@@ -1,0 +1,41 @@
+Title: Dark Mode: Dunkle Schokolade
+
+----
+
+Articleheader: Dunkle Schokolade ist lecker – wie unsere Seiten im Dark Mode
+
+----
+
+Intro: SCHOKOLADENSEITE.net ist ja schon immer eine besonders geschmackvolle Website gewesen. Nun gibt es uns auch in dunkel - wir haben den Dark Mode hinzugefügt. Ganz schön lecker!
+
+----
+
+Mp3: - file://p4NlQG3f1YmvIUpe
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Eigentlich ist der Dark Mode ja ein alter Hut \u2013 in den Anfangszeiten der IT waren noch alle Bildschirme schwarz mit heller Schrift ... Jemand bei Apple erinnerte sich daran und so gab es bei den Apple-Betriebssystemen macOS und iOS die erste Auswahlm\u00f6glichkeit, ein dunkles Farbschema einzustellen. Bald zogen Microsoft Windows, einige Linux-Distributionen und Android nach. Inzwischen geh\u00f6rt der Dunkelmodus auch bei vielen Apps und Webseiten dazu. SCHOKOLADENSEITE.net konnte sich der dunklen Seite der Macht ebenfalls nicht l\u00e4nger entziehen und hat nun einen Auswahlbutton in der Kopfleiste. Das ist aber tats\u00e4chlich kein modischer Schnickschnack, sondern bietet unseren (gender: Nutzer:innen x: Nutzerinnen y: Nutzern xy: und) einige Vorteile."},"id":"4df34192-41cb-44c6-8631-1ecc1653b37e","isHidden":false,"type":"text"}],"id":"5f223197-fb90-460b-aeb7-e2080c1b7afa","width":"1\/1"}],"id":"1cf3aa11-2118-4805-88d2-3e9d78031aba"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Liebling, schalt das Licht aus \u2013 die Vorteile des Dark Mode \nDer Dark Mode ist ein Wechsel des Anzeigemodus: heller Hintergrund wird zu dunklem Hintergrund, aber die Schattierungen, z.B. zur Absetzung einzelner Bereiche der Webseite, bleiben durchaus erhalten. Das macht die Nutzung f\u00fcr blendempfindliche Personen angenehmer und ist besonders in dunkleren Umgebungen bei der Verwendung von Mobilger\u00e4ten augenschonend. Manche (gender: User:innen x: Userinnen y: User xy: und) finden einen dunklen Hintergrund auch einfach h\u00fcbscher. Ein weiterer Vorteil ist \u00fcbrigens der geringere Stromverbrauch bei Ger\u00e4ten mit OLED-Display \u2013 die schwarzen Bildpunkte verbrauchen keine Energie."},"id":"45cbc810-2855-4b3f-b580-428cdd124083","isHidden":false,"type":"text"}],"id":"1604486b-f0a5-4a87-86f7-533cfd2076db","width":"1\/1"}],"id":"22d295e2-6e76-4104-bb31-3a39567de9c0"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Paint it black \nAllerdings geht das mit zus\u00e4tzlichen Kosten einher. Der Dark Mode ist f\u00fcr Webseiten relativ aufwendig zu programmieren, da der CSS-Code der Seiten individuell angepasst werden muss. Hilfreich ist hier eine saubere Vorarbeit der (gender: Entwickler:innen x: Entwicklerinnen y: Entwickler xy: bzw. ), da dann weniger Stellen im Code ver\u00e4ndert werden m\u00fcssen. Das spart wiederum etliche Arbeitsstunden."},"id":"28bc5492-6e7b-4a0f-b3ff-72a56ec2899a","isHidden":false,"type":"text"}],"id":"cfc47284-b815-4e78-be7f-66cfbcf2fe53","width":"1\/1"}],"id":"b5d3117c-7920-4067-9e79-6e8c97e05069"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Komm auf die dunkle Seite \nDaher ist der Dark Mode zwar eine feine Sache, aber f\u00fcr seine Umsetzung sind echte Profis gefragt. Wir schauen uns dazu gerne den Code Ihrer Website an und kalkulieren f\u00fcr Sie den Aufwand. Vielleicht hei\u00dft es dann ja auch bald f\u00fcr die (gender: Nutzer:innen x: Nutzerinnen y: Nutzer xy: und) Ihres Webauftritts: Welcome to the dark side!"},"id":"df637ffd-0426-46a8-9df9-3b4730071a15","isHidden":false,"type":"text"}],"id":"68e12a67-d8d5-45ce-bf9b-2d1bb2a13e9a","width":"1\/1"}],"id":"2f0fd8bb-3b7a-4e93-a953-5a94bff37631"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/TRfKzrWbSmcLfun3"],"caption":"\u00dcberlegen Sie, Ihren Webauftritt durch den Dark Mode aufzuwerten? Wir beraten Sie gerne - sprechen Sie uns an!\n(link: individualentwicklungen text: Zur Leistung Individualentwicklungen class: btn -primary)"},"id":"2c912a61-8c75-435d-b04d-fc6f7b929aa5","isHidden":false,"type":"cta"}],"id":"d39bb742-9a40-4f71-acd5-57a8f4a04d8d","width":"1\/1"}],"id":"7b8a596c-72f0-4d91-875e-4e350519d68e"}]
+
+----
+
+Date: 2023-02-22 09:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: SCHOKOLADENSEITE.net gibt es jetzt auch im Dark Mode. Ganz schön lecker – so wie dunkle Schokolade eben.
+
+----
+
+Articleimage: - file://bHGifYuBZtHaNHGg
+
+----
+
+Categories: Programmierung, Webdesign, Technik
+
+----
+
+Uuid: dFKzLEd5wEXUNQ0l

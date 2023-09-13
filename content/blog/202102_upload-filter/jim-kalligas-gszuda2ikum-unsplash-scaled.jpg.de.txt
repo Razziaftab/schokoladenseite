@@ -1,0 +1,13 @@
+Alt: Kaffee tropft in eine gläserne Kaffeekanne.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: TBLmfM6KbDPnNOxy

@@ -1,0 +1,13 @@
+Alt: Project-E Logo
+
+----
+
+Title: Project-E
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: aqBKivFa0J9x9dWo

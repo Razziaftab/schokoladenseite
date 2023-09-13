@@ -1,0 +1,41 @@
+Title: DSGVO: Welche Plugins, Tools und Themen müssen überprüft und erwähnt werden?
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://4oPikHp35to7uw7z
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Dies ist von <span lang=\"en\">Website<\/span> zu <span lang=\"en\">Website<\/span> unterschiedlich und je (n:Kund:in x:Kundin y:Kunde) individuell zu pr\u00fcfen. In der Summe sind es jedoch oft dieselben Haupt-Themen. Wir listen diese hier einmal auf und erweitern die Liste laufend.\n\nSchauen Sie sich die Liste an. Was kommt Ihnen davon bekannt vor? Was nutzen Sie davon? Notieren Sie alle Themen und geben Sie sie (n:Ihrer\/Ihrem Anw\u00e4lt:in x:Ihrer Anw\u00e4ltin y:Ihrem Anwalt), Datenschutzbeauftragten und\/oder Ihrer Online-Agentur durch."},"id":"9dbbe891-5596-4179-b074-6a3db727aae1","isHidden":false,"type":"text"}],"id":"689cbbee-47a5-412b-a2bc-2764fc646cab","width":"1\/1"}],"id":"96b13b84-dcbd-443b-84a9-a544a5603b33"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"DSGVO-Checkliste: Was muss gepr\u00fcft werden?","customid":"","customclass":""},"id":"07d09943-3d34-4a56-8fae-5ba90ad2f869","isHidden":false,"type":"heading"},{"content":{"text":"### A-F\n- <span lang=\"en\">Cookies<\/span> (Hinweis \u00fcber die Verwendung von Cookies)\n- (n:Datenschutzbeauftragte:r x:Datenschutzbeauftragte y:Datenschutzbeauftragter) (erforderlich?)\n- Datenschutzerkl\u00e4rung zum Verarbeiten von (n:Kund:innen x:Kundinnen y:Kunden)- und Vertragsdaten\n- Daten\u00fcbermittlung \u2013 Dienstleister, die online Vertr\u00e4ge schlie\u00dfen (ohne Warenversand)\n- Daten\u00fcbermittlung \u2013 <span lang=\"en\">Online-Shops<\/span> & H\u00e4ndler (mit Warenversand)\n- <span lang=\"en\">etracker<\/span> (<span lang=\"en\">Online-Tracking<\/span>)\n- <span lang=\"en\">Facebook<\/span>\n- <span lang=\"en\">Facebook Connect<\/span>\n- <span lang=\"en\">Facebook Pixel <\/span>(<span lang=\"en\">Online-Tracking<\/span>)\n\n### G-L\n- <span lang=\"en\">Google AdSense<\/span>\n- <span lang=\"en\">Google AdWords<\/span>\n- <span lang=\"en\">Google Analytics<\/span> (<span lang=\"en\">Online-Tracking<\/span>)\n- <span lang=\"en\">Google Analytics<\/span> Auftragsdatenverarbeitung\n- <span lang=\"en\">Google Analytics<\/span> Demografische Merkmale\n- <span lang=\"en\">Google Analytics<\/span> IP-Anonymisierung\n- <span lang=\"en\">Google Analytics Remarketing<\/span>\n- <span lang=\"en\">Google Conversion-Tracking<\/span>\n- <span lang=\"en\">Google Maps<\/span>\n- <span lang=\"en\">Google reCAPTCHA<\/span>\n- <span lang=\"en\">Google Web Fonts<\/span>\n- Hinweis zu Auskunft, L\u00f6schung, Sperrung\n- <span lang=\"en\">Instagram<\/span>\n- Klarna\n- Klick-Tipp\n- Kommentarfunktion (z.B. Blog)\n- Kommentarfunktion mit Abonnieren von Kommentaren\n- Kommentarfunktion mit Angabe der E-Mail-Adresse\n- Kommentarfunktion mit Speicherung der IP-Adresse\n- Kontaktformular\n- <span lang=\"en\">LinkedIn<\/span>\n\n### M-R\n- <span lang=\"en\">MailChimp<\/span> (<span lang=\"en\">Newsletter<\/span>)\n- Matomo (ehemals Piwik)\n- <span lang=\"en\">Newsletter<\/span> allegmein\n- <span lang=\"en\">Newsletter2Go<\/span> (<span lang=\"en\">Newsletter<\/span>)\n- (n:Nutzer:innen x:Nutzerinnen y:Nutzer)registrierung\n- <span lang=\"en\">Paydirekt<\/span>\n- <span lang=\"en\">PayPal<\/span>\n- <span lang=\"en\">Pinterest<\/span>\n- <span lang=\"en\">Rapidmail<\/span>\n\n### S-Z\n- Server-Log-Dateien\n- Sofort\u00fcberweisung\n- <span lang=\"en\">SoundCloud<\/span>\n- <span lang=\"en\">Spotify<\/span>\n- SSL-Verschl\u00fcsselung der Webseite\n- <span lang=\"en\">Tumblr<\/span>\n- <span lang=\"en\">Twitter<\/span>\n- Verantwortliche Stelle f\u00fcr Datenverarbeitung\n- Verschl\u00fcsselter Zahlungsverkehr\n- Widerspruch gegen Werbe-E-Mails\n- <span lang=\"en\">WordPress Stats<\/span>\n- <span lang=\"en\">Xing<\/span>\n- <span lang=\"en\">YouTube<\/span>"},"id":"56b1cd9f-63c1-4183-bb84-2c792dbe8e69","isHidden":false,"type":"text"}],"id":"58c0826a-bcca-4c23-83b5-56753214450a","width":"1\/1"}],"id":"9cc305cd-2fc2-4a83-9dfe-d3f97de68c56"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"d93f61c0-6a75-4d57-9bf7-1d760842b556","isHidden":false,"type":"kontaktform"}],"id":"7e6571c0-011c-404a-9a81-a2803d2dd26a","width":"1\/1"}],"id":"7444b6f3-485f-44ad-9724-971271087140"}]
+
+----
+
+Date: 2018-04-03 15:30:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Wir listen die Hauptthemen hier einmal auf und erweitern die Liste laufend.
+
+----
+
+Articleimage: - file://ljf4jJMGl4gj9EvE
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: odeoffavYLGPs2oS

@@ -1,0 +1,13 @@
+Alt: Entrepreneurs For Future Logo
+
+----
+
+Title: Entrepreneurs For Future
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 5m2rWJb86AieuQOy

@@ -1,0 +1,13 @@
+Alt: Kirby Logo
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: bUFMOtSXTiTSl7ce

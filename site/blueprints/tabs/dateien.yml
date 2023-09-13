@@ -1,0 +1,11 @@
+label: Dateien
+icon: image
+sections:
+  files: 
+    type: files
+    headline: Dateien
+    layout: cards
+    limit: 50
+    info: "alt:{{ file.alt }}"
+    image:
+      back: white

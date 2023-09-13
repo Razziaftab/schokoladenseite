@@ -1,0 +1,9 @@
+title: Project Image
+accept: image/png
+fields:
+  alt:
+    label: Alt Text
+    type: text
+  title:
+    label: Title Text
+    type: text

@@ -1,0 +1,41 @@
+Title: Vorlesefunktion für den SCHOKO-Blog
+
+----
+
+Articleheader: Vorlesefunktion für den SCHOKO-Blog
+
+----
+
+Intro: Für die Beiträge in unserem SCHOKO-Blog bieten wir eine Vorlesefunktion an. Warum die das Leben leichter macht, erklären wir in diesem Beitrag.
+
+----
+
+Mp3: - file://I3P3zeX7OuLLCzDy
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Wer kennt das nicht - man h\u00e4ngt gerade an einer Kliffkante oder die W\u00e4sche auf, jongliert mit Babyflaschen, Quartalszahlen oder Schraubenschl\u00fcsseln ... und dann erscheint **ein neuer Beitrag im SCHOKO-Blog** mit einem spannenden Thema. Da bei den o. g. T\u00e4tigkeiten meist beide H\u00e4nde gebraucht werden, fehlt mindestens eine Hand zum Bedienen des Mausrads oder Runterwischen auf dem <span lang=\"en\">Smartphone<\/span>."},"id":"e1fb7425-8fc2-4bfc-b147-8019b5b0384d","isHidden":false,"type":"text"}],"id":"f2d3c756-45d4-42a6-bb3f-e4c6c80b9e71","width":"1\/1"}],"id":"50bbc0d2-4504-48f5-b2f4-2f892fef5355"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Alle H\u00e4nde voll zu tun?","customid":"","customclass":""},"id":"85a89b79-0338-403d-9e40-4cdc4c07dc6e","isHidden":false,"type":"heading"},{"content":{"text":"Nat\u00fcrlich gibt es viele M\u00f6glichkeiten, sich eine Webseite vorlesen zu lassen - die Betriebssysteme von Microsoft, Apple oder Google haben diese Funktion schon an Bord. Auch in <span lang=\"en\">Webbrowsern<\/span> kann **eine Seite automatisch vorgelesen** werden, z.B. \u00fcber ein <span lang=\"en\">Add-on<\/span> oder sogar einen standardm\u00e4\u00dfig enthaltenen <span lang=\"en\">Reader<\/span>. Das richtet sich aber vor allem an **Menschen mit Einschr\u00e4nkungen**, um f\u00fcr mehr (link: barrierefreies-webdesign text: Barrierefreiheit) zu sorgen, und muss meistens zuerst eingerichtet bzw. aktiviert werden."},"id":"e7aefcf3-0aee-4aae-9a07-c3d6ceb21cda","isHidden":false,"type":"text"}],"id":"d11ebe6e-56f3-4eb4-bb24-55cd06fa50fd","width":"1\/1"}],"id":"5a0640ab-83a7-4cc2-81c2-da0bd1633a62"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"H\u00f6r mal zu!","customid":"","customclass":""},"id":"c151658b-9f40-4985-9730-ce4f03089084","isHidden":false,"type":"heading"},{"content":{"text":"Das ist etwas, was bei den Beispielen oben gerade nicht so gut klappt oder zu kompliziert ist ... und daf\u00fcr haben wir **eine einfache L\u00f6sung** gefunden: wir bieten eine **eigene Vorlesefunktion** oben auf unseren Blogseiten an. Mit einem Klick startet die von uns daf\u00fcr vorbereitete Audio-Datei. Das ist dann wie ein <span lang=\"en\">Podcast<\/span> mit Schokoladengeschmack."},"id":"3a3c1059-e5db-4541-9db4-a73fc2623e71","isHidden":false,"type":"text"}],"id":"a8456101-946a-4fbd-87c7-59fe89bb9348","width":"1\/1"}],"id":"59691aad-3163-469b-90c1-305754118fcb"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wild gewordene (gender: Busfahrer:innen x: Busfahrerinnen y: Busfahrer xy: oder)? Kein Problem!","customid":"","customclass":""},"id":"70e5c810-f67d-4385-bca6-3afc6b7d974a","isHidden":false,"type":"heading"},{"content":{"text":"Das Sch\u00f6nste an der Vorlesefunktion ist \u00fcbrigens, dass man gar nicht mehr auf den Bildschirm gucken muss, um schlauer zu werden. Und das kann wiederum ganz n\u00fctzlich sein, wenn (gender: eine:ein Busfahrer:in x: eine Busfahrerin y: ein Busfahrer xy: bzw.) mal wieder einen etwas schwungvollen Arbeitstag hat und die Kurven, nun ja, recht z\u00fcgig nimmt. Festhalten, nach vorne gucken, l\u00e4cheln, **SCHOKO-Blog h\u00f6ren** (am besten mit Kopfh\u00f6rern). Wir w\u00fcnschen Ihnen eine angenehme Fahrt!"},"id":"6c2dbdf8-8205-4ed0-962e-dc1ab45176be","isHidden":false,"type":"text"}],"id":"b630f2b2-d5de-4519-843c-75cd961e7ae0","width":"1\/1"}],"id":"060b376c-9da6-4ccc-9d3b-9501db518e1d"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/SZ8NSCpDE2jF94PN"],"caption":"Viele weitere interessante Beitr\u00e4ge warten schon in unserem SCHOKO-Blog-Archiv - zum Lesen, Anh\u00f6ren, Mitdenken. Schokolade f\u00fcr Augen und Ohren, sozusagen.\n(link: blog text: Zum SCHOKO-Blog class: btn -primary)"},"id":"1fa7396b-b424-4fd3-aa7e-09769bc1b410","isHidden":false,"type":"cta"}],"id":"7d0ab2a7-d5b1-46e0-ade5-6765f758e9ef","width":"1\/1"}],"id":"3c277dcc-0614-41a3-a5c1-2e19a08fd097"}]
+
+----
+
+Date: 2023-03-30 09:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Für die Beiträge in unserem SCHOKO-Blog bieten wir eine Vorlesefunktion an. Warum die das Leben leichter macht, erklären wir in diesem Beitrag.
+
+----
+
+Articleimage: - file://x342cu4r2DGBZNNa
+
+----
+
+Categories: Technik
+
+----
+
+Uuid: cn8dBp0Nv9Vc74Hl

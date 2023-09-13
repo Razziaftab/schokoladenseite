@@ -1,0 +1,29 @@
+Title: World Future Council
+
+----
+
+Seodescription: Das heutige Türchen enthüllt die Vorstellung einer Organisation, die wir schon seit 10 Jahren betreuen dürfen: Der World Future Council (WFC)
+
+----
+
+Image: - 21.jpg
+
+----
+
+Door: 21
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **L\u00f6sungen f\u00fcr eine gemeinsame Zukunft - der World Future Council**\n\nDas heutige T\u00fcrchen enth\u00fcllt die Vorstellung einer Organisation, die wir schon seit 10 Jahren betreuen d\u00fcrfen: Der World Future Council (WFC). Er wurde 2007 vom Gr\u00fcnder des Alternativen Nobelpreises, Jakob von Uexk\u00fcll, ins Leben gerufen. Der WFC folgt dem Motto, \"L\u00f6sungen f\u00fcr unsere gemeinsame Zukunft\" zu finden und sie politischen Entscheidungstr\u00e4ger:innen in aller Welt vorzustellen. Der Rat setzt sich aus 50 internationalen Pers\u00f6nlichkeiten von 5 Kontinenten aus Politik, Wissenschaft, Wirtschaft, Zivilgesellschaft und Kultur zusammen. Die Ratsmitglieder bestimmen besonders dr\u00e4ngende Themen und legen die Agenda f\u00fcr die Arbeit des WFC fest. \n\n**Internet-Partnerin des World Future Council**\n\nNeben der laufenden Betreuung und Wartung der (link: https:\/\/www.worldfuturecouncil.org\/ text: WFC-Website target: _blank Title: Externer Link zur Webseite des World Future Council (\u00d6ffnet im neuen Tab)) hat die SCHOKOLADENSEITE.net schon viele verschiedene Projektseiten umgesetzt. Dazu z\u00e4hlten u. a. die Projektwebsite (link: http:\/\/www.global100re.org\/ text: go100re target: _blank Title: Externer Link zur Webseite go100re (\u00d6ffnet im neuen Tab)), der Blog f\u00fcr (link: https:\/\/www.worldfuturecouncil.org\/energy-democracy-power-to-the-people\/ text: Power to the People target: _blank Title: Externer Link zur Webseite Power to the People (\u00d6ffnet im neuen Tab)), digitale Einladungen und Anmeldepages f\u00fcr den (link: https:\/\/www.worldfuturecouncil.org\/de\/future-policy-award\/ text: Future Policy Award target: _blank Title: Externer Link zur Webseite vom Future Policy Award (\u00d6ffnet im neuen Tab)), und \u00fcber mehrere Jahre Projektpages f\u00fcr das (link: https:\/\/focities.com\/ text: Future of Cities target: _blank Title: Externer Link zur Webseite Future of Cities (\u00d6ffnet im neuen Tab))-Forum mit Liveblog. Auch das Design, die Programmierung und Umsetzung der WFC-Datenbank unter (link: https:\/\/www.futurepolicy.org\/ text: futurepolicy.org target: _blank Title: Externer Link zur Webseite futurepolicy.org (\u00d6ffnet im neuen Tab)) haben wir \u00fcbernommen. Hier finden sich, unterteilt in 4 Hauptkategorien und einfach recherchierbar, viele L\u00f6sungsans\u00e4tze, die der WFC f\u00fcr besonders nachahmenswert h\u00e4lt.\n\nDie T\u00e4tigkeit des World Future Council ist immer, aber vor allem gerade jetzt besonders wichtig. Als unabh\u00e4ngige und gemeinn\u00fctzige Stiftung wird er jedoch vollst\u00e4ndig durch Spenden finanziert. Auch Ihre Spende kann dabei helfen, die Rechte zuk\u00fcnftiger Generationen zu wahren!\u00a0F\u00f6rdern Sie bitte diese Aufgabe unter  (link: https:\/\/www.worldfuturecouncil.org\/de\/spenden\/?neues-spendenformular-2864\/spende text: https:\/\/www.worldfuturecouncil.org\/de\/spenden\/?neues-spendenformular-2864\/spende target: _blank Title: Externer Link zuzum Spendenformular des World Future Council (\u00d6ffnet im neuen Tab))"},"id":"6c8934bc-8f48-4b2d-9af4-9825842bf505","isHidden":false,"type":"text"}],"id":"602c41dd-9a2d-467b-ab0e-1d31355dece7","width":"1\/1"}],"id":"8d7e05dd-2cda-4511-a841-f8e89a488d66"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: W0KNYJj643uRGjZs

@@ -1,0 +1,45 @@
+Title: Die Lösung der Genderfrage
+
+----
+
+Articleheader: Die Lösung der Genderfrage
+
+----
+
+Intro: Gendersprache und Gendern auf Webseiten: Argumente für eine inklusive Online-Kommunikation
+
+----
+
+Image-ai-text: 
+
+----
+
+Mp3: - file://gt9nBiJZ8VifsuIK
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"In einer immer vielf\u00e4ltigeren Gesellschaft gewinnt das Thema Gendersprache und Gendern zunehmend an Bedeutung. Inklusive Sprache und das Gendern auf Webseiten sind entscheidende Schritte, um eine Online-Kommunikation f\u00fcr alle Menschen zu erm\u00f6glichen. Mit dem (link: gender-selector text: Gender Selector title: Zur Leistung Gender Selector) bieten wir (gender: Betreiber:innen x: Betreiberinnen y: Betreibern xy: und) von Webseiten ein Plugin, womit direkt verschiedene Genderformen eingepflegt werden k\u00f6nnen. So k\u00f6nnen sich die (gender: Nutzer:innen x: Nutzerinnen y: Nutzer xy: und) **bewusst f\u00fcr eine Variante entscheiden**. Damit schaffen wir eine benutzerfreundliche Webseite, auf der sich alle (gender: Nutzer:innen x: Nutzerinnen y: Nutzer xy: und) angesprochen f\u00fchlen und die f\u00fcr alle gut lesbar ist. Im folgenden Beitrag wollen wir erkl\u00e4ren, warum uns das so wichtig ist."},"id":"0ce2ba47-c882-4cea-9607-05abf97ee0d7","isHidden":false,"type":"text"}],"id":"bfdc6c74-d855-473c-b83e-5e4ee0ddb023","width":"1\/1"}],"id":"d0559575-6754-4875-ad0b-c7204e00b0fa"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Was ist Gendersprache?","customid":"","customclass":""},"id":"ab78c7be-e0a5-4bcd-90f5-4d0205abc73f","isHidden":false,"type":"heading"},{"content":{"text":"Gendersprache bezieht sich auf die Verwendung von Sprache, die Menschen unabh\u00e4ngig von ihrem Geschlecht einschlie\u00dft. Es geht darum, Stereotype zu vermeiden und **geschlechtsneutrale Formulierungen** zu verwenden. Es gibt verschiedene Varianten der Gendersprache, wie beispielsweise die Verwendung von genderneutralen Begriffen (Studierende), das Hinzuf\u00fcgen von Gendersternchen (Student*innen) oder eines Doppelpunkts (Student:innen)."},"id":"190aa90b-3d80-465c-9bb4-c239e5e190fb","isHidden":false,"type":"text"}],"id":"d6a50551-9bd5-4c09-a3fb-e6770f0968c5","width":"1\/1"}],"id":"a6176272-a25b-4693-bae6-4e9ce0fe62bc"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Warum ist Gendern auf Webseiten wichtig?","customid":"","customclass":""},"id":"31211395-0223-406c-a6d6-83ede972e83c","isHidden":false,"type":"heading"},{"content":{"text":"Im digitalen Zeitalter spielt das Internet eine zentrale Rolle in der **Kommunikation** und **Informationsbeschaffung**. Es ist wichtig, dass (gender: Webseitenbetreiber:innen x: Webseitenbetreiberinnen y: Webseitenbetreiber xy: und) die Bed\u00fcrfnisse und Identit\u00e4ten m\u00f6glichst aller Nutzerinnen und Nutzer ber\u00fccksichtigen. Geschlechtsneutrale Sprache und das Gendern von Webseiten helfen, **Barrieren abzubauen** und Menschen mit unterschiedlichen Geschlechtsidentit\u00e4ten einzubeziehen."},"id":"1a6dd487-fad7-42f4-8d0c-d854158ceaa9","isHidden":false,"type":"text"}],"id":"6f5bf8e0-c8ea-485c-9d98-8345398846a4","width":"1\/1"}],"id":"5083322b-6676-4774-afdc-9105a374a273"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Gendern von Textinhalten auf Webseiten","customid":"","customclass":""},"id":"3b0e7f5b-6a78-4a61-99e3-e48038684bd0","isHidden":false,"type":"heading"},{"content":{"text":"Um Texte auf Webseiten inklusiv zu gestalten, ist es ratsam, **genderneutrale Begriffe und Formulierungen** zu verwenden. Beispielsweise kann man statt \"der Nutzer\" auch \"die Nutzerin oder der Nutzer\" oder einfach \"die Nutzenden\" schreiben. Dar\u00fcber hinaus bieten sich verschiedene gendersensible Schreibweisen an, wie die Verwendung von Gendersternchen oder des Doppelpunkts, um alle Geschlechter einzuschlie\u00dfen."},"id":"262aa6e1-ef91-48f1-ade5-b87f9c1350f8","isHidden":false,"type":"text"}],"id":"28996247-3984-4999-b6be-b5b594fdf82d","width":"1\/1"}],"id":"b1901831-34b7-4071-9162-90294730d9fd"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Gendersprache auf Webseiten: die (gender: Nutzer:innen x: Nutzerinnen y: Nutzer xy: und) bestimmen lassen","customid":"","customclass":""},"id":"6079342d-f7ff-45d1-9ed3-3a323a89ab80","isHidden":false,"type":"heading"},{"content":{"text":"Wir finden: Es ist richtig und wichtig, dass verschiedene Menschen unterschiedliche Meinungen dazu haben, ob Genderformen wichtig oder notwendig sind. Aber man muss sich eben auch bewusst sein, dass manche Menschen die Benutzung von Gendersprache und das Gendern auf Webseiten nicht bef\u00fcrworten. Am wenigsten nervt Gendern unserer Meinung nach, wenn die Menschen sich **nicht bevormundet f\u00fchlen**. Mit dem **Gender Selector** bieten wir (gender: der:dem Nutzer:in x: der Nutzerin y: dem Nutzer xy: bzw.) die M\u00f6glichkeit, sich eine Webseite in der gew\u00fcnschten Variante anzeigen zu lassen. So muss sich niemand mehr \u00e4rgern oder ausgeschlossen f\u00fchlen."},"id":"d51189f3-958c-4e6a-b917-9d40c455bc44","isHidden":false,"type":"text"}],"id":"e2a681c8-2578-4e64-815c-a50022dbd3d9","width":"1\/1"}],"id":"01ea9d33-6404-4f23-b5be-465ef9206115"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/bDNGDOFNSntISTNR"],"caption":"Der chocfair Gender Selector ist schon f\u00fcr viele CMS und statische Webseiten verf\u00fcgbar. Alle Infos dazu gibt es auf unserer Produktseite.\n\n(link: gender-selector text: Zur Infoseite chocfair gender class: btn -primary)"},"id":"7e62cbd3-aacf-4d5d-b93c-d8a76ee7f2dc","isHidden":false,"type":"cta"}],"id":"1bbb59a0-971b-4d9c-b472-0ae9448e8e74","width":"1\/1"}],"id":"3c0221e7-f374-46ff-a752-2c092cdcd81c"}]
+
+----
+
+Date: 2023-05-24 09:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Gendern sorgt immer wieder für Diskussionen im Web und in den Medien. Der SCHOKO-Blog hat einen Vorschlag für die Lösung der Genderfrage.
+
+----
+
+Articleimage: - file://4159Jg9KcvUqc9Vs
+
+----
+
+Categories: CSR, Programmierung, Frontend
+
+----
+
+Uuid: vi87fkub6POQI9ho

@@ -1,0 +1,62 @@
+name: field.blocks.video.name
+icon: video
+preview: image
+fields:
+  video:
+    label: Video
+    type: files
+    uploads: files-upload
+    width: 1/2
+  image:
+    label: Platzhalterbild
+    type: files
+    query: page.images
+    uploads: files-upload
+    width: 1/2
+  customId:
+    label: Id
+    type: text
+    width: 1/2
+  ariaLabelledby:
+    label: aria-labelledby
+    type: text
+    width: 1/2
+  preh1:
+    label: Pre H1
+    type: writer
+    inline: true
+    width: 1/2
+  h1:
+    label: H1
+    type: writer
+    inline: true
+    width: 1/2
+  verlinkung:
+    label: Links
+    type: structure
+    fields:
+      links:
+        label: Linkauswahl
+        type: select
+        options: query
+        query: site.index.filterBy('template','in', ['default', 'referenzen'])
+      anker:
+        label: Anker
+        type: text
+      linktext:
+        label: alternativer Linktext
+        type: text
+  button:
+    label: Button
+    type: markdown
+    inline: true
+    buttons:
+      - bold
+      - italic
+      - link
+      - email
+      - blockquote
+      - horizontal-rule
+      - pagelink
+      - gender
+      - lang

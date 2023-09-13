@@ -1,0 +1,102 @@
+label: Seiteninhalte
+icon: text
+fields:
+  layout:
+    label: Seiteninhalte
+    type: layout
+    layouts:
+      - "1/1"
+      - "1/2, 1/2"
+      - "1/3, 2/3"
+      - "1/4, 3/4"
+      - "2/3, 1/3"
+      - "3/4, 1/4"
+      - "1/3, 1/3, 1/3"
+      - "1/4, 1/4, 1/4, 1/4"
+    fieldsets:
+      text:
+        label: Text
+        type: group
+        fieldsets:
+          - heading
+          - text
+          - button
+          - accordion
+          - header-text
+      media:
+        label: Media
+        type: group
+        fieldsets:
+          - image
+          - headerbild
+          - video
+          - youtube
+          - icons
+          - logos
+          - galerie
+      sons:
+        label: Sonstiges
+        type: group
+        open: false
+        fieldsets:
+          - script
+          - cta
+          - paketmodul
+          - kontaktform
+          - go-digital-form
+          - joboverview
+          - blogoverview
+          - kunden
+          - kunden-slider
+          - team
+          - kununu
+          - cms-header
+          - newsletter
+          - ticker
+          - karte
+          - benefits
+          - zuschuss
+    settings:
+      fields:
+        layoutId:
+          label: Id
+          type: text
+          width: 1/2
+        ariaLabelledby:
+          label: aria labelledby
+          type: text
+          width: 1/2
+        layoutClass:
+          label: Klasse
+          type: tags
+          options:
+            - value: hero
+              text: Hintergrund HERO
+            - value: bg-lightgrey
+              text: Hintergrund hellgrau
+            - value: bg-greytowhite
+              text: Hintergrund hellgrau Verlauf
+            - value: bg-lightblue
+              text: Hintergrund hellblau
+            - value: rowmax
+              text: komplette Breite
+            - value: section
+              text: Section
+            - value: white
+              text: Weiße Schrift
+            - value: center
+              text: Zentriert vertikal
+            - value: align-items-center
+              text: Zentriert horizontal
+            - value: quote
+              text: Testimonial
+            - value: abstand-oben-weg
+              text: Abstand oben weg
+            - value: hidden
+              text: Versteckt
+        backgroundImage:
+          label: Hintergrundbild
+          type: files
+          max: 2
+          query: page.images
+          uploads: files-upload

@@ -1,0 +1,21 @@
+Alt: Google Lighthouse Geschwindigkeits-Ergebnis für DigitalService.
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: First Contenful Paint,  Speed Index, Largest Contentful Paintz und Time to interactiuve je in 0.4 Sekunden. Total Blocking Time 0 ms. Cumulative Layout Schift von 0.009
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: DMacDqRPWcPeJbTa

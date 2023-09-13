@@ -1,0 +1,45 @@
+Title: Der Gender Selector für Webseiten – Sie haben die Wahl!
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://4K481MYz69ZFdh4q
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Es ist Zeit f\u00fcr den <span lang=\"en\">Gender Selector<\/span>!","customid":"","customclass":""},"id":"60519c8c-2c53-40e7-9d51-58102360a872","isHidden":false,"type":"heading"},{"content":{"text":"Haben Sie etwa nur M\u00e4nner als Kunden? Eben. Ungef\u00e4hr die H\u00e4lfte der Bev\u00f6lkerung in deutschsprachigen L\u00e4ndern ist weiblich. Au\u00dferdem empfinden sich einige Menschen durch die Geschlechterrollen (<span lang=\"en\">gender<\/span>) \"Frau\" und \"Mann\" als nicht richtig beschrieben. Demgegen\u00fcber ist das Deutsche aber eine Sprache, in der das \"generische Maskulinum\" verbreitet ist: mit einem m\u00e4nnlichen Begriff werden andere Geschlechter \"mitgemeint\" \u2013 \"Ich habe einen Arzttermin.\"\n\nImmer mehr Menschen sind unzufrieden mit dieser sprachlichen Unterrepr\u00e4sentation und verwenden entweder Doppelformen (\"Liebe W\u00e4hlerinnen und W\u00e4hler\"), das gro\u00dfe Binnen-I oder den sogenannten <span lang=\"en\">Gender-Gap<\/span>, gesprochen meistens mit einer kleinen Pause vor dem (gro\u00dfen) I: \"ProgrammiererInnen\" bzw. \"Programmierer\\*innen\". Das sorgt bei Webseiten allerdings oft daf\u00fcr, dass Texte eine vorgegebene L\u00e4nge \u00fcberschreiten oder es Probleme mit der (link: barrierefreies-webdesign text: Barrierefreiheit title: zur Leistung barrierefreies Webdesign) der Seite gibt. Und bei manchen Menschen wird dadurch auch **der Lesefluss gest\u00f6rt**. Das muss aber nicht sein."},"id":"2324c732-fab3-4370-a6b4-210ee8b7468c","isHidden":false,"type":"text"}],"id":"25011601-e258-4107-83e6-992ced0ae353","width":"1\/1"}],"id":"ad3d913f-9369-4cf6-a777-2999ce93292b"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Sie haben die Wahl!","customid":"","customclass":""},"id":"70520bbf-aa3e-4840-a741-877061a47dd1","isHidden":false,"type":"heading"},{"content":{"text":"Wir haben eine L\u00f6sung programmiert, die den (n:Besucher:innen x:Besucherinnen y:Besuchern) einer <span lang=\"en\">Website<\/span> die Entscheidung selbst \u00fcberl\u00e4sst, wie sie einen Text lesen m\u00f6chten: den <span lang=\"en\">Gender Selector<\/span>. Mit einem einfachen Mausklick ver\u00e4ndert sich der Text von der inklusiven Form (\"K\u00e4ufer:innen\") zu einer Variante, in der nur weibliche oder m\u00e4nnliche Formen verwendet werden."},"id":"9d908fef-2a64-48d5-aa4e-c9a6ad48d4e3","isHidden":false,"type":"text"}],"id":"3c138d3a-8355-40bd-bde4-cdd4297beba2","width":"1\/1"}],"id":"dc51f4ee-6376-43d2-bfe2-1336868aecb6"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/2g6hFvukKHBeWSMc"]},"id":"739a5089-6094-4a50-bf01-dee45a15f3eb","isHidden":false,"type":"blogimage"}],"id":"dc6a7b3a-ab76-4d96-8c2a-cada83f312ad","width":"1\/1"}],"id":"75fdf293-f2df-4a06-8c2e-17648182b38f"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Wir denken, dass die Akzeptanz der (n:Benutzer:innen x:Benutzerinnen y:Benutzer) Ihrer <span lang=\"en\">Website<\/span> f\u00fcr genderneutrale Formen am gr\u00f6\u00dften ist, wenn sie **selbst die Wahl treffen k\u00f6nnen**. Zur Auswahl stehen beim <span lang=\"en\">Gender Selector<\/span> eine gendergerechte Form (verwendet den <span lang=\"en\">Gender-Gap<\/span>), eine **rein weibliche** und eine **rein m\u00e4nnliche** Variante der Texte. Ein sch\u00f6ner Nebeneffekt ist, dass Ihr Internetauftritt weiterhin **eine gute UX bzw. Benutzerf\u00fchrung** bietet \u2013 niemand wird \"bevormundet\" und die Texte bleiben schlank. Au\u00dferdem zeigt Ihr Unternehmen, dass es sich den aktuellen Debatten nicht verschlie\u00dft und gesellschaftlichen Wandel begleitet. Der <span lang=\"en\">Gender Selector<\/span> wird nat\u00fcrlich **an Ihr <span lang=\"en\">Corporate Design<\/span> angepasst** in Ihre <span lang=\"en\">Website<\/span> integriert. Die Verwendung mit den CMS <span lang=\"en\">(link: typo3 text: TYPO3 title: zur Leistung)<\/span>, <span lang=\"en\">(link: wordpress text: WordPress title: zur Leistung)<\/span> und <span lang=\"en\">(link: kirby-cms text: Kirby title: zur Leistung)<\/span> ist in Vorbereitung. \n\nM\u00f6chten Sie mehr \u00fcber den <span lang=\"en\">Gender Selector<\/span> erfahren? Wir freuen uns \u00fcber Ihre Anfrage! (link: kontakt text: Hier entlang geht\u2019s zum Kontaktformular)."},"id":"48f9fdba-1aed-4050-8806-8c1f7f55a705","isHidden":false,"type":"text"}],"id":"3115751d-d1d1-4fa1-8678-682949fda362","width":"1\/1"}],"id":"731fd67d-2450-4693-8bb3-68601c145f18"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/gpufjP1IonzOyA8l"],"caption":"M\u00f6chten auch Sie den Gender Selector f\u00fcr Ihren Internetauftritt verwenden?\n\n(link: gender-selector text:Zum chocfair Gender Slector class: btn -primary)"},"id":"091f8b97-9e7c-4e97-ac5f-4da0b8dafac4","isHidden":false,"type":"cta"}],"id":"067a4052-b581-4fc7-bd39-72a19275f267","width":"1\/1"}],"id":"4bc729c6-e13b-4a40-95de-9aa5fe5c168b"}]
+
+----
+
+Date: 2021-05-10 11:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Mit dem Gender selector von SCHOKOLADENSEITE.net können (n:Nutzer:innen x:Nutzerinnen y:Nutzer) eine genderneutrale Version Ihrer Webseite sehen.
+
+----
+
+Articleimage: - file://IE2leZKNWgmCa7sv
+
+----
+
+Categories: Technik, Frontend, Programmierung
+
+----
+
+Text: 
+
+----
+
+Uuid: mqd1hK3TQmn6O3Vl

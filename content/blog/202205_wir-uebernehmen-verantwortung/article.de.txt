@@ -1,0 +1,41 @@
+Title: Wir übernehmen Verantwortung
+
+----
+
+Articleheader: 
+
+----
+
+Intro: Genauso, wie Schokolade idealerweise fair und nachhaltig produziert sein sollte, ist das Thema CSR bei der SCHOKOLADENSEITE.net **nicht einfach nur ein Lippenbekenntnis**.
+
+----
+
+Mp3: - file://quMVIcNM143bVycr
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Wir suchen bewusst in vielen Feldern nach Verbesserungsm\u00f6glichkeiten und kommunizieren dies auch nach au\u00dfen, um andere zu informieren und zu inspirieren. Dazu haben wir unter der Marke choc**fair** verschiedene Produkte entwickelt. Der Umweltschutz ist sicherlich zurzeit das pr\u00e4gnanteste Thema. Mit dem (link: https:\/\/schokoladenseite.net\/digitaler-adventskalender text: digitalen Adventskalender chocfair'cal title: Zur Infoseite) haben wir z.B. ein nachhaltigeres, ressourcenschonendes Kommunikations-<span lang=\"en\">Tool<\/span> f\u00fcr die Vorweihnachtszeit entwickelt."},"id":"7d56e26f-eb19-497b-b766-7e9e8f1c9a72","isHidden":false,"type":"text"}],"id":"31c87cbf-7d27-4ea5-a7a8-6e00bab81c69","width":"1\/1"}],"id":"c7bf1071-d1f6-43fc-b758-7958445d4c47"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Soziales Engagement \u2013 powered by SCHOKOLADENSEITE.net\nDoch auch im sozialen Bereich ist die SCHOKOLADENSEITE.net seit langem **Partnerin von gemeinn\u00fctzigen Initiativen und Organisationen**. Zu unseren (n:Kund:innen x:Kundinnen y:Kunden) geh\u00f6ren z.B. das Hamburger Stra\u00dfenmagazin (link: https:\/\/www.hinzundkunzt.de\/ target: _blank text: Hinz&Kunzt title: Externer Link zur Webseite von Hinz udn Kunzt (\u00d6ffnet im neuen Tab)) und der <span lang=\"en\">(link: https:\/\/www.worldfuturecouncil.org\/ target: _blank text: World Future Council title: Externer Link zur Webseite vom World Future Council (\u00d6ffnet im neuen Tab))<\/span>. Wir f\u00f6rdern diese Organisationen unter anderem, indem wir ihnen unsere **Leistungen zu Sonderkonditionen** anbieten. M\u00f6glich wird das durch unsere \u2013 teils langj\u00e4hrige \u2013 T\u00e4tigkeit f\u00fcr (n:Kund:innen x:Kundinnen y:Kunden) aus der (link: https:\/\/schokoladenseite.net\/referenzen text: Wirtschaft title: Zu den SCHOKOLADENSEITE.net Referenzen). Wir werden Ihnen einige dieser Organisationen in Zukunft auf diesem <span lang=\"en\">Blog<\/span> vorstellen. <span lang=\"en\">Stay tuned<\/span> <span aria-hidden=\"true\">\ud83d\ude09<\/span>"},"id":"9a8f7c19-fd29-423a-a55c-b75a10f69a06","isHidden":false,"type":"text"}],"id":"41f5bc95-df70-42a8-a141-4904c81b949b","width":"1\/1"}],"id":"da74379c-d1c2-44f4-a26c-9e3a20590cbf"}]
+
+----
+
+Date: 2022-01-05 13:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Das Thema CSR ist bei der SCHOKOLADENSEITE.net nicht einfach nur ein Lippenbekenntnis. Dazu haben wir unter der Marke choc**fair** verschiedene Produkte entwickelt. Im sozialen Bereich ist die SCHOKOLADENSEITE.net seit langem Partnerin von gemeinnützigen Initiativen und Organisationen.
+
+----
+
+Articleimage: - file://JeJffHNAwDAHILnP
+
+----
+
+Categories: Agentur, CSR
+
+----
+
+Uuid: hE7Xa8RJgc89gOxe

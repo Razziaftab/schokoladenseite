@@ -1,0 +1,135 @@
+Title: Projekte
+
+----
+
+Layout: [{"attrs":{"layoutid":"","arialabelledby":"","layoutclass":"hero","backgroundimage":[]},"columns":[{"blocks":[{"content":{"image":["phone-pad-kunden.png"],"elemntid":"online-projekte","level":"H1","preh1":"Die Besten","h1":"<span lang=\"en\"><\/span>Online-Projekte\nf\u00fcr die besten\n(n:Kund:innen x:Kundinnen y:Kunden)","text":"","referenzen":[{"links":"","anker":"akf","linktext":"akf servicelease","linktitle":"Zum Projekt AKF auf dieser Seite scrollen"},{"links":"","anker":"drweigert","linktext":"Dr. Weigert","linktitle":"Zum Projekt Dr. Weigert auf dieser Seite scrollen"},{"links":"","anker":"optonaval","linktext":"Optonaval","linktitle":"Zum Projekt Optonaval auf dieser Seite scrollen"},{"links":"referenzen","anker":"","linktext":"alle Referenzen","linktitle":"Zur Seite Referenzen wechseln"}],"button":""},"id":"4b3daf04-6fa5-44fc-b071-b81b8a719338","isHidden":false,"type":"headerbild"}],"id":"3c6201b6-a546-44fe-a55a-fb4c44272d01","width":"1\/1"}],"id":"152646ae-c2fa-4d4b-baf1-2d11385f79ea"},{"attrs":{"layoutid":"akf","arialabelledby":"akf","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Kunde akf <span lang=\"en\">servicelease<\/span>","customid":"akf-servicelease","customclass":""},"id":"cde8bd0f-3a22-45c0-994a-34afbd8e6cc5","isHidden":false,"type":"heading"}],"id":"e153b8c6-54df-4915-a557-c73dbefc1617","width":"1\/1"}],"id":"2b07eb20-1c76-4c06-9ae6-6f3f20c92cda"},{"attrs":{"layoutid":"","arialabelledby":"akf-servicelease","layoutclass":"linie, section, abstand-oben-weg","backgroundimage":[]},"columns":[{"blocks":[{"content":{"text":"Die akf servicelease ist ein Unternehmen der Vorwerkgruppe und Flottenpartner f\u00fcr Fahrzeuge zur Langzeitmiete. Wir unterst\u00fctzen die akf servicelease in der Umsetzung digitaler Leasingprodukte."},"id":"0945f107-babf-446a-b659-834e9a268a8d","isHidden":false,"type":"text"}],"id":"93c00d0b-3669-4400-9c9f-374347fb033f","width":"2\/3"},{"blocks":[{"content":{"image":["akf.svg"],"customclass":"half, white","link":"","ratio":"","crop":"false"},"id":"fa6a8bad-f69b-46de-acf9-bad102ed82c1","isHidden":false,"type":"image"}],"id":"a017a47a-1fc2-41a4-a0ff-8c5053564d07","width":"1\/3"}],"id":"59c328a2-b207-4156-936c-0bd931049220"},{"attrs":{"layoutid":"akf-servicelease-allgemein","arialabelledby":"akf-servicelease-allgemein","layoutclass":"section, white, hero","backgroundimage":["projekt_akf_header.jpg"]},"columns":[{"blocks":[{"content":{"image":["projekt_akf_handy.png"],"elemntid":"","level":"p","preh1":"","h1":"","text":"<h2>akf servicelease Online-Projekte<\/h2>","referenzen":[{"links":"","anker":"akf-konfigurator","linktext":" Individualentwicklung Webportal","linktitle":"Zu akf-Projekt Individualentwicklung scrollen"},{"links":"","anker":"akf-webdesign","linktext":"Webdesign & UX","linktitle":"Zu akf-Projekt Webdesign & UX scrollen"}],"button":""},"id":"3257ef22-689c-46c4-a808-5916bdb169f4","isHidden":false,"type":"headerbild"}],"id":"a4c4efcc-b626-4011-a18f-22174bd8bdd4","width":"1\/1"}],"id":"148efc93-4ebc-4f84-9398-07df8cd68dba"},{"attrs":{"layoutid":"akf-konfigurator","arialabelledby":"akf-konfigurator","layoutclass":"section","backgroundimage":[]},"columns":[{"blocks":[{"content":{"image":["projekt_akf_laravel-alt.png"],"customclass":"","link":"","ratio":"","crop":"false"},"id":"40b03f68-d73d-4975-9e23-161993ba475d","isHidden":false,"type":"image"}],"id":"603e2e7a-a30e-4e70-8d47-17abcf3a1c79","width":"2\/3"},{"blocks":[{"content":{"preh1":"akf Individualentwicklung","level":"h2","text":"Konfigurator","customid":"akf-servicelease-individuell","customclass":""},"id":"dd21bf14-afb1-4365-a167-f73a18a96a13","isHidden":false,"type":"heading"},{"content":{"text":"Technische Konzeption und Umsetzung eines Webportals zur Generierung von Autoleasing-Anfragen. Autorisierung f\u00fcr geschlossenen <span lang=\"en\">Login<\/span>-Bereich f\u00fcr (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter). Intelligente L\u00f6sung zur Adaption f\u00fcr weitere Unternehmen der Vorwerkgruppe. Umgesetzt mit dem <span lang=\"en\">Framework<\/span> Laravel. Durch regelm\u00e4\u00dfige Wartung & <span lang=\"en\">Support<\/span> sorgen wir f\u00fcr maximale Sicherheit.\n(link: individualentwicklungen text: Mehr zu Individualentwicklungen class: -to-right -light) \n(link: wartung text: Mehr zu Wartung class: -to-right -light)"},"id":"b7346ceb-d612-495f-9979-3180666563c2","isHidden":false,"type":"text"},{"content":{"aussehen":"-primary","links":[{"links":"","extern":"https:\/\/kobold.akf-autoleasing.de\/","anker":"","linktext":" akf-servicelease Website ansehen","title":"Externer Link zur Website: akf-servicelease (\u00d6ffnet im neuen Tab)"}]},"id":"1bb4b9c6-c61e-4866-88ac-e4c20edce444","isHidden":false,"type":"button"}],"id":"414cbfb8-6164-43f8-b30b-c80a694fde35","width":"1\/3"}],"id":"2804496f-6904-4212-8d28-67757b6e224d"},{"attrs":{"layoutid":"akf-webdesign","arialabelledby":"akf-webdesign","layoutclass":"akf, rowmax, section","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"akf Webdesign &amp; UX","customid":"","customclass":""},"id":"3c2991a9-2b9a-4856-85f1-75f86d48616f","isHidden":false,"type":"heading"},{"content":{"text":"Die bereits bestehende <span lang=\"en\">Website<\/span> sollte in ihrem Herzst\u00fcck, der Fahrzeugpr\u00e4sentation f\u00fcr die Langzeitmiete, einen <span lang=\"en\">Rebrush<\/span> erhalten. Ziel war ein ansprechendes und performantes Design f\u00fcr die Fahrzeugpr\u00e4sentation, um Leasinganfragen zu generieren. Durch ein top responsives Design mit ansprechender Fahrzeugpr\u00e4sentation und inspirativer Bildwelt haben wir f\u00fcr die (n:Benutzer:innen x:Benutzerinnen y:Benutzer) eine exzellente <span lang=\"en\">Userexperience<\/span> geschaffen. Ein responsives und durchdachtes Anfrageformular sorgt f\u00fcr die gew\u00fcnschten <span lang=\"en\">Conversions<\/span> und Anfragen."},"id":"40d238c1-4c1d-4d88-8910-62093b7a5f64","isHidden":false,"type":"text"},{"content":{"image":["projekt_akf_3handy.png"],"customclass":"","link":"","ratio":"","crop":"false"},"id":"8324a56e-36b2-43f5-b70b-cd5607bd0fdf","isHidden":false,"type":"image"}],"id":"5a1dd9da-e2fc-4e83-82de-8846e1275261","width":"1\/1"}],"id":"dcc107dc-e9e9-4cee-897b-485b75fc59be"},{"attrs":{"layoutid":"drweigert","arialabelledby":"drweigert","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Kunde Dr. Weigert","customid":"","customclass":""},"id":"500fdc30-7683-438d-85d1-7e72b4fc1db5","isHidden":false,"type":"heading"}],"id":"000e4da1-90a8-4b9e-8f41-3b17422429ba","width":"1\/1"}],"id":"1ac836da-5ab2-41ce-87b6-aad46730c26a"},{"attrs":{"layoutid":"dr-weigert","arialabelledby":"dr-weigert","layoutclass":"section, linie, abstand-oben-weg","backgroundimage":[]},"columns":[{"blocks":[{"content":{"text":"Hygiene mit System \u2013 so lautet der Unternehmens-<span lang=\"en\">Claim<\/span>. Wir sind langj\u00e4hrige und zuverl\u00e4ssige Partnerin der Chemischen Fabrik Dr. Weigert. Als Onlineagentur beraten und betreuen wir das Unternehmen in allen Bereichen der digitalen Welt."},"id":"29adc39c-38f1-4533-b879-6012fcfc5fd0","isHidden":false,"type":"text"}],"id":"581cfab5-5697-4eed-a831-92c9d51cd4da","width":"2\/3"},{"blocks":[{"content":{"image":["dr-weigert-logo.svg"],"customclass":"half, white","link":"","ratio":"","crop":"false"},"id":"6a10e7fc-eb3e-4993-ae68-ce3dc4302e51","isHidden":false,"type":"image"}],"id":"1009ba84-4748-4a9a-8dbe-eb2a64295e05","width":"1\/3"}],"id":"1aa1ffac-cd79-4411-850b-99c8c9b48de3"},{"attrs":{"layoutid":"dr-weigert-allgemein","arialabelledby":"dr-weigert-allgemein","layoutclass":"section, rowmax, white, hero","backgroundimage":["projekt_dw_header.jpg"]},"columns":[{"blocks":[{"content":{"image":["projekt_dw_handy-seitlich.png"],"elemntid":"","level":"p","preh1":"","h1":"","text":"<h2>Dr. Weigert Online-Projekte<\/h2>","referenzen":[{"links":"","anker":"firmenwebsite","linktext":"Firmenwebsite","linktitle":"Zu Dr. Weigert Projekt Firmenwebsite scrollen"},{"links":"","anker":"dr-weigert-cleverreach","linktext":"E-Mail-Marketing","linktitle":"Zu Dr. Weigert Projekt E-Mail-Marketing scrollen"},{"links":"","anker":"socialmedia_dw","linktext":"Social Media","linktitle":"Zu Dr. Weigert Projekt Social Media scrollen"}],"button":""},"id":"2a8df40e-54c0-4faf-9dab-6bfa0991fde7","isHidden":false,"type":"headerbild"}],"id":"f6fb372c-9a70-42d1-abc3-5d956a8f542b","width":"1\/1"}],"id":"7ede2b4b-ca94-4387-826c-24f23045cd5c"},{"attrs":{"layoutid":"firmenwebsite","arialabelledby":"firmenwebsite","layoutclass":"section","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"Dr. Weigert Firmenwebsite mit","level":"h2","text":"CMS TYPO3","customid":"","customclass":""},"id":"dd36536e-3426-40c9-8284-67d755f35883","isHidden":false,"type":"heading"},{"content":{"text":"Konzeption, Design und Programmierung einer responsiven Firmenwebsite unter Verwendung des CMS TYPO3. Produktpr\u00e4sentation und intelligenter Produktfilter.\n(link: typo3 text: Mehr zu TYPO3 class:-to-right -light) \n(link: firmenwebsites text: Mehr zu Firmenwebsites class:-to-right -light)"},"id":"d06c7db3-72e4-4457-b1ab-89ebb7a10a7a","isHidden":false,"type":"text"},{"content":{"aussehen":"-primary","links":[{"links":"","extern":"https:\/\/www.drweigert.com\/de","anker":"","linktext":"Dr. Weigert Website ansehen","title":"Externer Link zur Website: Dr. Weigert (\u00d6ffnet im neuen Tab)"}]},"id":"46b45799-2cb7-4149-bb73-dc3764e57734","isHidden":false,"type":"button"}],"id":"6ed53c13-1780-4dda-acf1-45f6fc13cc8e","width":"1\/3"},{"blocks":[{"content":{"image":["projekt_dw_website-alt.png"],"customclass":"","link":"","ratio":"","crop":"false"},"id":"817121eb-2831-4979-8a6c-af429961df2a","isHidden":false,"type":"image"}],"id":"2adbdcc8-638e-4086-9f6b-bdf50e0c6c2f","width":"2\/3"}],"id":"f549652c-533b-45c0-9b6e-6b21e98ec649"},{"attrs":{"layoutid":"dr-weigert-email","arialabelledby":"dr-weigert-email","layoutclass":"paralax, rowmax, white, section, hero","backgroundimage":["projekt_dw_header_update.jpg"]},"columns":[{"blocks":[{"content":{"image":["projekt_dw_handy_update.png"],"elemntid":"","level":"p","preh1":"","h1":"","text":"<h2>Dr. Weigert Projekt <span lang=\"en\">E-Mail-Marketing<\/span><\/h2>","referenzen":[],"button":""},"id":"1b5dc690-5989-45ac-87ce-3aa649137250","isHidden":false,"type":"headerbild"}],"id":"319a1bca-70b5-4ede-a5ce-cd5a24a6653b","width":"1\/1"}],"id":"8713725a-3f8a-4312-acc8-5e6526302c27"},{"attrs":{"layoutid":"dr-weigert-cleverreach","arialabelledby":"dr-weigert-cleverreach","layoutclass":"section","backgroundimage":[]},"columns":[{"blocks":[{"content":{"image":["projekt_dw_newslettermarketing-alt.png"],"customclass":"","link":"","ratio":"","crop":"false"},"id":"bedcbd18-c1e3-423b-8e17-845cf09ddc5d","isHidden":false,"type":"image"}],"id":"6dae2a24-a6a0-41ff-8c13-10a5df542ed6","width":"2\/3"},{"blocks":[{"content":{"preh1":"Dr. Weigert E-Mail-Marketing mit","level":"h2","text":"CleverReach","customid":"","customclass":""},"id":"5915d051-adac-46d3-a198-651247eb7db1","isHidden":false,"type":"heading"},{"content":{"text":"Konzeption, Design und Initialisierung des E-Mail-<span lang=\"en\">Marketing-Tools<\/span> <span lang=\"en\">CleverReach<\/span> nach <span lang=\"en\">Newsletter<\/span>-Kategorien. Implementierung einer Anmeldemaske auf der <span lang=\"en\">Website<\/span>. DSGVO-konforme Arbeitsweise & Umsetzung. Regelm\u00e4\u00dfige Planung, Erstellung und Versand der <span lang=\"en\">Newsletter<\/span>.\n(link: email-marketing text: Mehr zu E-Mail-Marketing class: -light -to-right)"},"id":"6136f684-301c-44c3-a4dd-05df24f59f6d","isHidden":false,"type":"text"},{"content":{"aussehen":"-primary","links":[{"links":"","extern":"https:\/\/www.drweigert.com\/de\/newsletter-anmeldung","anker":"","linktext":"Dr. Weigert Newsletter Anmeldung ansehen","title":"Externer Link zur Website: Dr. Weigert Newsletter Anmeldung (\u00d6ffnet im neuen Tab)"}]},"id":"be0fea06-f692-474a-8ff7-7b6a913e4b96","isHidden":false,"type":"button"}],"id":"dc371d91-9f7d-4f67-8727-e3e3a5477b05","width":"1\/3"}],"id":"101031a8-eb53-4a67-9e63-a6e6936a3aff"},{"attrs":{"layoutid":"socialmedia_dw","arialabelledby":"socialmedia_dw","layoutclass":"white, section, dw, rowmax","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"<span lang=\"en\">Social Media Marketing<\/span> auf","level":"h2","text":"<span lang=\"en\">Facebook<\/span>, <span lang=\"en\">LinkedIn<\/span> und <span lang=\"en\">Xing<\/span>","customid":"","customclass":""},"id":"ab70c195-8e52-46aa-9d6f-8930354af55d","isHidden":false,"type":"heading"},{"content":{"text":"Redaktionsplanung, <span lang=\"en\">Content<\/span>- und Grafikerstellung, Steuerung und Planung aller <span lang=\"en\">Social-Media<\/span>-Kan\u00e4le wie <span lang=\"en\">Facebook<\/span>, <span lang=\"en\">LinkedIn<\/span> und <span lang=\"en\">Xing<\/span>.\n(link: social-media-marketing text: Mehr zu Social Media Marketing class: -to-right)"},"id":"5162a1b4-46ca-4e2d-9ab4-a2208f3240f8","isHidden":false,"type":"text"},{"content":{"image":["projekt_dw_3handy.png"],"customclass":"","link":"","ratio":"","crop":"false"},"id":"e72dbdae-a349-4ffd-9daa-37a422a2487b","isHidden":false,"type":"image"}],"id":"8866fa98-664d-4e66-a001-2dd1598f747c","width":"1\/1"}],"id":"959ce233-98a8-4de4-989d-3c733fc8df08"},{"attrs":{"layoutid":"optonaval","arialabelledby":"optonaval","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Kunde OPTONAVAL","customid":"","customclass":""},"id":"524e492b-7fb3-4115-b841-8cc045817383","isHidden":false,"type":"heading"}],"id":"5c717865-33d0-4e16-8393-8f62c00b9187","width":"1\/1"}],"id":"fd369c93-60f4-4b35-bc46-a126f4f14f89"},{"attrs":{"layoutid":"optonaval-beleuchtung","arialabelledby":"optonaval-beleuchtung","layoutclass":"section, linie, abstand-oben-weg","backgroundimage":[]},"columns":[{"blocks":[{"content":{"text":"OPTONAVAL ist der Spezialist, wenn es um hochklassige Navigationsbeleuchtung im maritimen Bereich geht. Ausgestattet werden sowohl Luxusyachten als auch Marineschiffe. Zur Pr\u00e4sentation der Produkte sollte eine individuelle <span lang=\"en\">Website<\/span> gestaltet und umgesetzt werden."},"id":"f282df75-976e-4327-9742-646a26260937","isHidden":false,"type":"text"}],"id":"313ce3e8-4dc8-446f-a1a1-284f37cd5587","width":"2\/3"},{"blocks":[{"content":{"image":["logo-optonaval.svg"],"customclass":"half, white","link":"","ratio":"","crop":"false"},"id":"f62435dd-ad08-44f8-9031-cb959188a4d5","isHidden":false,"type":"image"}],"id":"3ee0bc63-f041-4b0c-ba67-0ba64a38d0e5","width":"1\/3"}],"id":"59200cd7-fb0d-486d-9ee5-3c302d23effa"},{"attrs":{"layoutid":"optonaval-allgemein","arialabelledby":"optonaval-allgemein","layoutclass":"rowmax, white, section, hero","backgroundimage":["projekt_optonaval_header.jpg"]},"columns":[{"blocks":[{"content":{"image":["projekt_optonaval.png"],"elemntid":"","level":"p","preh1":"","h1":"","text":"<h2>Optonaval Projekt Firmenwebsite<\/h2>","referenzen":[],"button":""},"id":"977a5921-ba67-4f58-8ef6-cfe93c82ea67","isHidden":false,"type":"headerbild"}],"id":"77edc0b6-7f6c-44e1-be6a-721250cc358a","width":"1\/1"}],"id":"e1e22c79-db6e-49cd-861f-9d84c32d2c80"},{"attrs":{"layoutid":"optonaval-kirby","arialabelledby":"optonaval-kirby","layoutclass":"section","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"Optonaval Firmenwebsite mit","level":"h2","text":"CMS Kirby","customid":"","customclass":""},"id":"ea54ea54-f396-40c0-8040-990e5d6fb187","isHidden":false,"type":"heading"},{"content":{"text":"Konzeption, Design und Programmierung einer responsiven Firmenwebsite unter Verwendung des CMS <span lang=\"en\">Kirby<\/span>. Fokus auf Produktpr\u00e4sentation und Produktfilter.\n(link: kirby-cms text: Mehr zum CMS Kirby class: -light -to-right) \n(link: firmenwebsites text: Mehr zu Firmenwebsites class: -light -to-right)"},"id":"691b511d-5395-4d77-a3ab-2f41659034d8","isHidden":false,"type":"text"},{"content":{"aussehen":"-primary","links":[{"links":"","extern":"https:\/\/www.optonaval.com\/","anker":"","linktext":"Optonaval Website ansehen","title":"Externer Link Zur Website: Optonaval (\u00d6ffnet im neuen Tab)"}]},"id":"1a989227-8a81-4242-8a5e-cfcb21560cd3","isHidden":false,"type":"button"}],"id":"df2c5890-9a07-45d8-a66e-211b57ea3411","width":"1\/3"},{"blocks":[{"content":{"image":["projekt_optonaval_website-alt.png"],"customclass":"","link":"","ratio":"","crop":"false"},"id":"a695e82b-614a-41f2-92aa-1bd651498c81","isHidden":false,"type":"image"}],"id":"652009f1-a37e-4dbe-9f36-6c22cf5bf690","width":"2\/3"}],"id":"9980178b-9f5b-4030-a843-fa64698b4920"},{"attrs":{"layoutid":"kunden-referenzen","arialabelledby":"kunden-referenzen","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"text":"F\u00fcr diese (n:Kund:innen x:Kundinnen y:Kunden) haben wir gearbeitet"},"id":"e84bf863-f3f6-4ec4-a7d6-d142fb720757","isHidden":false,"type":"kunden"}],"id":"7b075c75-f032-476b-9c29-a387129a3542","width":"1\/1"}],"id":"98526ae9-60ec-4be5-b292-6c298b112782"}]
+
+----
+
+Mobileroll:
+
+- 
+  image:
+    - akf1.png
+  imageid: akf
+  imageclass: ""
+- 
+  image:
+    - akf2.png
+  imageid: akf2
+  imageclass: ""
+- 
+  image:
+    - akf3.png
+  imageid: akf3
+  imageclass: ""
+- 
+  image:
+    - akf2-tablet.png
+  imageid: akf2-tablet
+  imageclass: tablet
+- 
+  image:
+    - akf4.png
+  imageid: akf4
+  imageclass: ""
+- 
+  image:
+    - akf5.png
+  imageid: akf5
+  imageclass: ""
+- 
+  image:
+    - akf6.png
+  imageid: akf6
+  imageclass: ""
+- 
+  image:
+    - dw1.png
+  imageid: dw1
+  imageclass: ""
+- 
+  image:
+    - dw2.png
+  imageid: dw2
+  imageclass: ""
+- 
+  image:
+    - dw3.png
+  imageid: dw3
+  imageclass: ""
+- 
+  image:
+    - dw2-tablet.png
+  imageid: dw2-tablet
+  imageclass: tablet-quer
+- 
+  image:
+    - dw4.png
+  imageid: dw4
+  imageclass: ""
+- 
+  image:
+    - dw5.png
+  imageid: dw5
+  imageclass: ""
+- 
+  image:
+    - dw4-tablet.png
+  imageid: dw4-tablet
+  imageclass: tablet
+- 
+  image:
+    - dw6.png
+  imageid: dw6
+  imageclass: ""
+- 
+  image:
+    - dw7.png
+  imageid: dw7
+  imageclass: ""
+- 
+  image:
+    - dw8.png
+  imageid: dw8
+  imageclass: ""
+- 
+  image:
+    - optonaval1.png
+  imageid: optonaval1
+  imageclass: ""
+- 
+  image:
+    - optonaval2.png
+  imageid: optonaval2
+  imageclass: ""
+- 
+  image:
+    - optonaval2-tablet.png
+  imageid: optonaval2-tablet
+  imageclass: tablet-quer
+- 
+  image:
+    - optonaval3.png
+  imageid: optonaval3
+  imageclass: ""
+
+----
+
+Seotitle: Online-Projekte: Für die besten Kunden ❤️
+
+----
+
+Seodescription: Online-Projekte: ✓ Webdesign & UX ✓ Individualentwicklung ✓ Firmenwebsite ✓ E-Mail-Marketing ✓ Technische Betreuung → Projekte ansehen
+
+----
+
+Seoimage: 
+
+----
+
+Text: 
+
+----
+
+Uuid: sTW1XI3D96Om8hed

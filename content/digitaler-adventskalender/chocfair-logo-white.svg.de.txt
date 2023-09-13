@@ -1,0 +1,21 @@
+Alt: chocfair cal - Digitaler Adventskalender - Logo weiß
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 6l1OugoTHZSlhsVO

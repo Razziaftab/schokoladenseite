@@ -1,0 +1,13 @@
+Alt: Eine asphaltierte Straße führt scheinbar endlos geradeaus. Die Umgebung ist eine Wüste, am Bildrand sind Hügel. Am Himmel sind Wolken, die von der untergegangenen Sonne in warme Farben getaucht werden.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: Ct9fQnoItCiVsLET

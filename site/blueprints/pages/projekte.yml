@@ -1,0 +1,24 @@
+title: Projekte
+tabs:
+  content:
+    extends: tabs/content
+    fields:
+      mobileroll:
+        type: structure
+        label: Handybilder
+        fields:
+          image:
+            label: Bild
+            type: files
+            image:
+            uploads:
+              template: blocks/image
+          imageid:
+            type: text
+            label: Id
+          imageclass:
+            type: text
+            label: Klasse
+  seo: tabs/seo
+  pages: tabs/pages
+  Dateien: tabs/dateien

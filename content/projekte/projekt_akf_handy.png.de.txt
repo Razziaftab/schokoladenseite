@@ -1,0 +1,13 @@
+Alt: Smartphone-Bildschirm zeigt Bildauschnitte eines Autos
+
+----
+
+Title: Smartphone
+
+----
+
+Template: blocks/image
+
+----
+
+Sort: 96

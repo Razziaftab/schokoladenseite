@@ -1,0 +1,41 @@
+Title: Wir sind Bündnispartnerin von United4Rescue
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://mC9cRXpgoEz2kxZ0
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/PDO64qSuaw7ICxYE"]},"id":"ead75168-a958-4ec9-b353-63e6152c6168","isHidden":false,"type":"blogimage"}],"id":"694720f7-adde-4e7b-930a-d39adbd3d72f","width":"1\/3"},{"blocks":[{"content":{"text":"Die SCHOKOLADENSEITE.net hatte schon immer die Zukunft im Blick \u2013 und wir \u00fcbernehmen soziale und unternehmerische Verantwortung aus \u00dcberzeugung! Deswegen unterst\u00fctzen wir \u00f6kologische und gemeinn\u00fctzige Unternehmen und Vereine, und bieten ihnen z.B. auch Sonderkonditionen.\n\nF\u00fcr das Aktionsb\u00fcndnis <span lang=\"en\">United4Rescue<\/span> \u2013 Gemeinsam Retten e.V. haben wir als aktuelles Projekt den Adventskalender umgesetzt und zu Weihnachten 1.000 \u20ac gespendet.\n\nDie Rettung aus Seenot ist ein Menschenrecht, das \u00fcberall und f\u00fcr alle gelten muss. Wir unterst\u00fctzen als B\u00fcndnispartnerin <span lang=\"en\">United4Rescue<\/span> selbstverst\u00e4ndlich bei dieser wichtigen Aufgabe. Der <span lang=\"en\">Sea-Watch 4<\/span> w\u00fcnschen wir allzeit gute Fahrt!"},"id":"fce474db-cb01-45b7-9cd6-efe51fe16992","isHidden":false,"type":"text"}],"id":"911e62df-d20c-4233-b053-3beb049142e9","width":"2\/3"}],"id":"fed35476-405c-4d17-b53c-1be0137141fd"}]
+
+----
+
+Date: 2020-12-18 18:35:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Die SCHOKOLADENSEITE.net hatte schon immer die Zukunft im Blick – und wir übernehmen soziale und und unternehmerische Verantwortung.
+
+----
+
+Articleimage: - file://4oJcca1KxN6sciSY
+
+----
+
+Categories: Agentur
+
+----
+
+Uuid: HCLylnoFLQShK286

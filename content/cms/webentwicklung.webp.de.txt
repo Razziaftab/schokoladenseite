@@ -1,0 +1,17 @@
+Alt: Computerbildschirm zeigt Bild von einer Website, ein Laptop zeigt HTML-Code
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: files-upload

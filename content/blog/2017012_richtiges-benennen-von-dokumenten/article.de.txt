@@ -1,0 +1,41 @@
+Title: Benennen von Dokumenten
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://n7amUqkpMXA9vDKS
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Insbesondere wenn mehrere Personen an einem Dokument arbeiten, ist es sehr wichtig, dass die Dokumente einen nachvollziehbaren und aussagekr\u00e4ftigen Namen erhalten.\nDies ist eine Grundvoraussetzung, um erfolgreich mit anderen Personen zusammen an einem Dokument arbeiten zu k\u00f6nnen.\n\nRichtig benannt werden Dokumente z.B. wie folgt: **Datum-Kunde-Projektname_Version-Namensk\u00fcrzel.Dateiendung**\n\nAls Beispiel: **181129-SCHOKO-Website_1-rk.doc**\n\nDamit ist immer klar, wann und von wem die Datei bearbeitet wurde und um welche Version es sich handelt."},"id":"0126b691-6389-47a6-b762-fb0325b7c245","isHidden":false,"type":"text"}],"id":"f4b16dd6-c7cf-495f-a62e-bea55a0311ed","width":"1\/1"}],"id":"eb083e5c-4d18-4066-9877-cf12c7946cb4"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Sonderzeichen","customid":"","customclass":""},"id":"30f22d33-d22b-4641-9651-7a4425562e1f","isHidden":false,"type":"heading"},{"content":{"text":"Sonderzeichen werden niemals in Dateinamen geschrieben, da dies h\u00e4ufig zu Problemen f\u00fchren kann. Umlaute sind umzuwandeln, z.B. \u201c\u00e4\u201d in \u201cae\u201d.\nLeerzeichen werden durch einen Binde- oder Unterstrich ersetzt.\n\nAm besten ist es \u00fcbrigens, alle Buchstaben kleinzuschreiben, dann kommt es auch hier zu keinen Problemen."},"id":"b43ad74b-a3ed-4b25-931b-efc253a2e41a","isHidden":false,"type":"text"}],"id":"a929097c-ded3-4149-9848-59bd60af5416","width":"1\/1"}],"id":"342ca366-4cb4-465d-a456-b10a45203cb3"}]
+
+----
+
+Date: 2017-12-12 16:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Wenn mehrere Personen an einem Dokument arbeiten ist es  wichtig, dass die Dokumente einen nachvollziehbaren Namen erhalten.
+
+----
+
+Articleimage: - file://b4iWkZSpF4ZxqsXP
+
+----
+
+Categories: Agentur
+
+----
+
+Uuid: X9WqMmgureVESgjh

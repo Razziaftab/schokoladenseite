@@ -1,0 +1,21 @@
+#skip-content{
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+    height: 0px;
+	padding: 0;
+	overflow: hidden;
+	
+	&:focus{
+		height: auto;
+		outline: none;
+		align-items: center;
+		padding: 10px 15px;
+		display: block;
+		background: $primary;
+		color: white;
+		z-index: 1000;
+		font-weight: bold;
+	}
+}

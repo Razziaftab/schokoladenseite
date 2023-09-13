@@ -1,0 +1,41 @@
+Title: Projektpartner Hinz&Kunzt
+
+----
+
+Articleheader: 
+
+----
+
+Intro: Wer in Hamburg lebt oder auch nur zu Besuch hier war, ist ihnen wahrscheinlich schon begegnet: die (n:Verkäufer:innen x:Verkäuferinnen y:Verkäufer) des Straßenmagazins Hinz&Kunzt.
+
+----
+
+Mp3: - file://VRPTqdfZAwqAMDpy
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"Das Stra\u00dfenmagazin f\u00fcr Hamburg hat viel SCHOKOpower","level":"h2","text":"Hinz&Kunzt&SCHOKO","customid":"","customclass":""},"id":"4de2ff3d-1ed0-461b-a6b5-77476d020a31","isHidden":false,"type":"heading"},{"content":{"text":"Es erscheint seit 1993 und gibt vielen obdach- und wohnungslosen Menschen die M\u00f6glichkeit, durch den Verkauf ein regelm\u00e4\u00dfiges Einkommen zu erhalten. Die (n:Sozialarbeiter:innen x:Sozialarbeiterinnen y:Sozialarbeiter) des Projekts helfen den (n:Verk\u00e4ufer:innen x:Verk\u00e4uferinnen y:Verk\u00e4ufer) bei ihren Sorgen und N\u00f6ten und unterst\u00fctzen sie dabei, vom Leben auf der Stra\u00dfe wegzukommen."},"id":"b296dabe-ba2b-4e8a-973b-67945f37e5ad","isHidden":false,"type":"text"}],"id":"a5d4dd72-fec8-4d28-bce8-b37a23f3206f","width":"1\/1"}],"id":"33f1a764-3776-485c-8392-c0dd13a1456d"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Mit Herzblut dabei <span aria-hidden=\"true\">\u2764\ufe0f<\/span>","customid":"","customclass":""},"id":"8c570347-0bca-4d5b-bbd3-01827e9a06e4","isHidden":false,"type":"heading"},{"content":{"text":"Die SCHOKOLADENSEITE.net arbeitet bereits seit 2012 mit Hinz&Kunzt zusammen, und es geh\u00f6rt definitiv zu unseren Herzenskunden. Wir unterst\u00fctzen das Projekt, indem wir schon immer unsere Leistungen zu Sonderkonditionen anbieten. Dabei sind wir f\u00fcr alles Digitale zust\u00e4ndig: wir gestalten und pflegen die <span lang=\"en\">(link: https:\/\/www.hinzundkunzt.de\/ target: _blank text: Website title:Externer Link zur Webseite von Hinz und Kunzt (\u00d6ffnet im neuen Tab))<\/span> und das <span lang=\"en\">Blog<\/span> von Hinz&Kunzt, betreuen den <span lang=\"en\">(link: https:\/\/www.hinzundkunzt.de\/shop\/ target: _blank text: Onlineshop title:Externer Link zum Shop von Hinz und Kunzt (\u00d6ffnet im neuen Tab))<\/span> und haben diverse Projektseiten sowie ein individuelles Spendenformular erstellt. Wir machen das nicht nur besonders gerne, weil wir das Projekt so wichtig und unterst\u00fctzenswert finden, sondern weil auch die Zusammenarbeit mit den engagierten Menschen bei Hinz&Kunzt einfach Spa\u00df macht.\n\nDie tolle Arbeit von Hinz&Kunzt tr\u00e4gt sich aber leider nicht \u00fcber den Verkauf des Stra\u00dfenmagazins, sondern ist auf Spenden angewiesen. Hier geht das ganz bequem online: (link: https:\/\/www.hinzundkunzt.de\/helfen\/online-spenden target: _blank text: hinzundkunzt.de\/helfen\/online-spenden title:Externer Link zum Spendenformular von Hinz und Kunzt (\u00d6ffnet im neuen Tab))\n\n\u00dcbrigens lohnt sich auch immer ein Stop im <span lang=\"en\">Webshop<\/span> - die Sachen der Hinz&Kunzt-Kollektion sind alle etwas Besonderes und liebevoll gestaltet. Und mit dem Kauf tun Sie noch etwas Gutes. (link: https:\/\/www.hinzundkunzt.de\/shop\/ target: _blank text: hinzundkunzt.de\/shop title:Externer Link zum Shop von Hinz und Kunzt (\u00d6ffnet im neuen Tab))"},"id":"251aaca6-3262-492a-b89d-526734d73143","isHidden":false,"type":"text"}],"id":"fd10ae6a-9510-4f1d-b300-5c1b2aaa0161","width":"1\/1"}],"id":"42584b32-0a29-4aa1-a789-b198f115cd5c"}]
+
+----
+
+Date: 2022-01-12 11:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Die SCHOKOLADENSEITE.net arbeitet bereits seit 2012 mit dem Straßenmagazin Hinz&Kunzt zusammen, und es gehört definitiv zu unseren Herzenskunden. Wir unterstützen das Projekt, indem wir schon immer unsere Leistungen zu Sonderkonditionen anbieten. Hier stellen wir es kurz vor.
+
+----
+
+Articleimage: - file://HDruCZiA5NBCxi56
+
+----
+
+Categories: Agentur
+
+----
+
+Uuid: EK9bRXiIh31713nV

@@ -1,0 +1,13 @@
+Alt: Unter einem grauen Himmel sieht man eine bewegte Meeresoberfläche, einzelne Wellen brechen.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 4oJcca1KxN6sciSY

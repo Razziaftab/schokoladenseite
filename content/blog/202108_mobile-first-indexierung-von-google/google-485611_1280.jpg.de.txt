@@ -1,0 +1,13 @@
+Alt: Durch eine Lupe wird der Schriftzug von Google und das Eingabefeld der Suchmaschine vergrößert sichtbar.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: VujhSCCVb0lTOhcc

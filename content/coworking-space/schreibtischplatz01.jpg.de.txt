@@ -1,0 +1,21 @@
+Alt: 
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: Eigenes kleines Schränkchen zum unterbringen von Kleinigkeiten wie Schlüssel und Geldbörse im Eingangsraum
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: wzu22mXap6PRQ1IU

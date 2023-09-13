@@ -1,0 +1,13 @@
+label: SEO
+icon: search
+fields:
+  seoTitle:
+    label: SEO Title
+    type: text
+  seoDescription:
+    label: SEO Description
+    type: text
+  seoImage:
+    label: Bild
+    type: files
+    max: 1

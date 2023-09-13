@@ -1,0 +1,41 @@
+Title: DSGVO: Was sind personenbezogene Daten?
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://mxJdNOHnSE6mEmMU
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Art. 4 Nr. 1 DSGVO","customid":"","customclass":""},"id":"7266f57a-cea9-4b7f-918b-f2007818cc91","isHidden":false,"type":"heading"},{"content":{"text":"\"personenbezogene Daten\" alle Informationen, die sich auf eine identifizierte oder identifizierbare nat\u00fcrliche Person (im Folgenden \"betroffene Person\") beziehen; als identifizierbar wird eine nat\u00fcrliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen identifiziert werden kann, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identit\u00e4t dieser nat\u00fcrlichen Person sind;"},"id":"8af5579b-73a3-4547-875e-a6f5ef254c35","isHidden":false,"type":"text"}],"id":"628dadbd-b422-4e0e-b0cb-cb7489518422","width":"1\/1"}],"id":"34873792-e897-4763-ac39-0e3f37d7335d"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Und was hei\u00dft das konkret?","customid":"","customclass":""},"id":"6b9c33a6-585f-4150-81c0-3057cd72a30a","isHidden":false,"type":"heading"},{"content":{"text":"- Name\n- Anschrift\n- Telefon\n- E-Mail-Adresse\n- Alter\n- Geburtsdatum\n- Foto\n- Bankdaten\n- IP-Adresse\n- \u2026"},"id":"2f94f4af-1032-4b79-ba72-80de269327ff","isHidden":false,"type":"text"}],"id":"7ffad9f2-a9fe-4e48-b270-6dd896ab71ca","width":"1\/1"}],"id":"8e3aeb3e-0488-4e67-8808-7e9b2b165612"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/XJdX0KDQBkR2d9ja"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"4060f581-746d-488d-81f5-bf500231712a","isHidden":false,"type":"cta"}],"id":"ae969e6f-b8b4-4852-acca-22343487dde8","width":"1\/1"}],"id":"51d12d03-c053-4074-8bb1-2fa563e1ee1c"}]
+
+----
+
+Date: 2018-04-23 08:40:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Art. 4 Nr. 1 DSGVO „personenbezogene Daten“ alle Informationen, die sich auf eine identifizierte Person beziehen.
+
+----
+
+Articleimage: - file://d7XAq3slVxw5KbzP
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: gweU0AEfYSJB1e6o

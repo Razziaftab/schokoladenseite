@@ -1,0 +1,13 @@
+Alt: TYPO3 Logo
+
+----
+
+Title: TYPO3 Logo
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: O5MNNbmYaQXCmexI

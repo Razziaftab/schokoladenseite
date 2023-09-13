@@ -1,0 +1,45 @@
+.manual{
+	
+	.index{
+		display: none;
+	}
+	
+	@media $desktop-small{
+		padding: 20px 90px 0 390px;
+	
+		.index{
+			display: block;
+			position: fixed;
+			left: 0;
+			top: 0;
+			bottom: 0;
+			padding: 90px 20px;
+			margin-top: 8.7em;
+			width: 300px;
+			border-right: 1px solid $grey;
+			transition: all 0.3s;
+		
+			header.-scrolled + &{
+				margin-top: 67px;
+			}
+			
+			a.active{
+				color: red;
+			}
+		}
+		
+		.row{
+			padding: 0 0 20px;
+			
+			.manual-heading{
+				padding-top: 70px;
+			}
+		}
+		
+		+ footer{
+		    z-index: 10;
+			position: relative;
+			background: $white;
+		}
+	}
+}

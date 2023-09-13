@@ -1,0 +1,29 @@
+Title: In der Weihnachtsbäckerei - Tannenbaum-Schokoplätzchen
+
+----
+
+Seodescription: 
+
+----
+
+Image: - 23.jpg
+
+----
+
+Door: 23
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **In der Weihnachtsb\u00e4ckerei - Tannenbaum-Schokopl\u00e4tzchen**\n\n*Einen Tag vor Weihnachten schenken wir Ihnen noch einen schokoladigen Last-Minute-Tipp. *\n\nAus dem tiefen S\u00fcden der Republik erreichte uns ein Rezept f\u00fcr Schokoladen-Tannenbaum-Pl\u00e4tzchen, das ein Tag vor Weihnachten ganz schnell geht, und trotzdem etwas ganz Besonderes ist. Vielen Dank an Angelina von Zimtblume f\u00fcr die Rezeptidee. Wir w\u00fcnschen viel Erfolg beim Backen dieser schokoladigen Weihnachtsdekoration zum Aufessen! \ud83d\ude0b\n\n**F\u00fcr den Teig:**\n- 200 g weiche Butter\n- 200 g extrafeiner Zucker\n- 1 Prise Salz\n- 1 Bio Ei, Gr\u00f6\u00dfe M\n- 350 g Mehl, gesiebt\n- 1 Prise Zimt\n- 50 g unges\u00fc\u00dfter Backkakao, gesiebt\n\n**F\u00fcr den Zuckerguss:**\n- 250 g Puderzucker\n- ca. 1-2 EL Wasser\n\nZur Zubereitung geht's hier: (link: https:\/\/www.zimtblume.de\/tannenbaum-plaetzchen\/ text: https:\/\/www.zimtblume.de\/tannenbaum-plaetzchen\/ target: _blank Title:Externer Link zur Zubereitung der Tannenbaum-Schokopl\u00e4tzchen (\u00d6ffnet im neuen Tab))"},"id":"b3753ff9-c59c-4594-88e2-21de1539a4bd","isHidden":false,"type":"text"}],"id":"3467addc-ca7f-4eaf-a58f-f12fd8eaabf3","width":"1\/1"}],"id":"7537baae-502c-4dfa-bfdf-038adf4861a4"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: jVRP7ClbjNfIpHCk

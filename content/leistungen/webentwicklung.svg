@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="234" height="234" viewBox="0 0 234 234">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.228" y1="0.11" x2="0.71" y2="0.941" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dc0006"/>
+      <stop offset="1" stop-color="#7f01fd"/>
+    </linearGradient>
+  </defs>
+  <g id="Gruppe_25" data-name="Gruppe 25" transform="translate(-489 -1678)">
+    <circle id="Ellipse_5" data-name="Ellipse 5" cx="117" cy="117" r="117" transform="translate(489 1678)" fill="url(#linear-gradient)"/>
+    <g id="responsive" transform="translate(552.998 1743.161)">
+      <path id="Pfad_54" data-name="Pfad 54" d="M11.47,73.8H1V4H56.84" transform="translate(0 7.47)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Pfad_55" data-name="Pfad 55" d="M70.33,4H80.8V73.8H11" transform="translate(24.9 7.47)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Linie_3" data-name="Linie 3" x2="33.946" transform="translate(36.489 102.839)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Pfad_56" data-name="Pfad 56" d="M51.9,53.35H20.49A3.491,3.491,0,0,1,17,49.86V4.49A3.491,3.491,0,0,1,20.49,1H51.9a3.491,3.491,0,0,1,3.49,3.49V49.86A3.491,3.491,0,0,1,51.9,53.35Z" transform="translate(39.84)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Linie_4" data-name="Linie 4" x2="4.629" transform="translate(73.521 42.661)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Pfad_57" data-name="Pfad 57" d="M24.94,56.88H7.49A3.491,3.491,0,0,1,4,53.39V18.49A3.491,3.491,0,0,1,7.49,15H24.94a3.491,3.491,0,0,1,3.49,3.49v34.9A3.491,3.491,0,0,1,24.94,56.88Z" transform="translate(7.47 34.86)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <line id="Linie_5" data-name="Linie 5" x2="3.086" transform="translate(22.602 81.236)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+      <path id="Pfad_58" data-name="Pfad 58" d="M27.96,34.98V28H14v6.98" transform="translate(32.37 67.23)" fill="none" stroke="#fff" stroke-linecap="square" stroke-miterlimit="10" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

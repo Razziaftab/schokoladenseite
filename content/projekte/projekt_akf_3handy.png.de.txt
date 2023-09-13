@@ -1,0 +1,13 @@
+Alt: Smartphone-Bildschirme zeigen Bildauschnitte der akf-servicelease Website
+
+----
+
+Title: Smartphone
+
+----
+
+Template: blocks/image
+
+----
+
+Sort: 94

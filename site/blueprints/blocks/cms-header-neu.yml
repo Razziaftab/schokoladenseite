@@ -1,0 +1,34 @@
+name: CMS Headerbild neu
+icon: image
+preview: h1
+fields:
+  image:
+    label: Bild
+    type: files
+    max: 1
+    query: page.images
+    uploads: files-upload
+  elemntId:
+    label: id
+    type: writer
+    inline: true
+  preh1:
+    label: Pre H1
+    type: writer
+    inline: true
+    width: 1/2
+  h1:
+    label: Überschrift
+    type: markdown
+    inline: true
+    width: 1/2
+    buttons:
+      - gender
+  text:
+    label: Text
+    type: markdown
+    inline: true
+    buttons:
+      - gender
+      - bold
+      - lang

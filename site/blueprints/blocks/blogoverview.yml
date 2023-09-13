@@ -1,0 +1,10 @@
+name: Blog Übersicht
+icon: star
+fields:
+  text:
+    label: Überschrift
+    type: markdown
+    inline: true
+    buttons:
+      - gender
+      - lang

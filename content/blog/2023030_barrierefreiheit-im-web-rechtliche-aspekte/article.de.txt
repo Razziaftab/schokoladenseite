@@ -1,0 +1,49 @@
+Title: Barrierefreiheit im Web: Rechtliche Aspekte
+
+----
+
+Articleheader: Barrierefreiheit im Internet - die rechtlichen Vorgaben
+
+----
+
+Intro: Inzwischen wird die barrierefreie Gestaltung von Web-Inhalten in immer mehr Bereichen verpflichtend. Wir zeigen in diesem Beitrag die rechtlichen Hintergründe und ihre Entwicklung.
+
+----
+
+Image-ai-text: 
+
+----
+
+Mp3: - file://nipwNy0aQ62QM2vB
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Was ist das Barrierefreiheitsst\u00e4rkungsgesetz (BFSG)?\nDie Europ\u00e4ische Union sorgte mit dem **European Accessibility Act (EAA)** f\u00fcr eine einheitliche Vorgabe zur Barrierefreiheit, die in Deutschland als (link: https:\/\/www.bgbl.de\/xaver\/bgbl\/start.xav?startbk=Bundesanzeiger_BGBl&jumpTo=bgbl121s2970.pdf#__bgbl__%2F%2F*%5B%40attr_id%3D%27bgbl121s2970.pdf%27%5D__1660209583789 text: Barrierefreiheitsst\u00e4rkungsgesetz (BFSG) target:_blank title: Externer Link, \u00f6ffnet im neuen Tab) 2021 beschlossen wurde. Es bezieht sich in erster Linie auf digitale Dienstleistungen und Produkte und wird am 28. Juni 2025 in Kraft treten. Das Barrierefreiheitsst\u00e4rkungsgesetz (BFSG) soll sicherstellen, dass alle Menschen unabh\u00e4ngig von ihren F\u00e4higkeiten elektronische Dienstleistungen nutzen k\u00f6nnen.\n\n## Wen betrifft das BFSG?\n**Produkte** wie \n- Computer, \n- Smartphones oder \n- Geldautomaten, aber auch \n\n**Dienstleistungen** wie \n- Messenger, \n- Apps und vor allem \n- Onlineshops und\n- sog. Dienstleistungen im elektronischen Gesch\u00e4ftsverkehr (dazu geh\u00f6ren z.B. auch Terminbuchungen im Friseursalon)\nm\u00fcssen sp\u00e4testens **ab Mitte 2025 den Vorgaben zur Barrierefreiheit entsprechen**.\n\n## Ein langer Weg mit Hindernissen\nBis zum deutschen **Barrierefreiheitsst\u00e4rkungsgesetz** (BFSG) war es ein langer Weg mit mehreren Zwischenschritten. Dabei gab es sowohl auf internationaler und europ\u00e4ischer Ebene als auch in Deutschland mehrere Verordnungen und Gesetze, die eine erleichterte Benutzbarkeit von Internet-Dienstleistungen f\u00fcr Menschen mit Einschr\u00e4nkungen zum Ziel hatten.\n\n## Was sind die allgemeinen Anforderungen des BFSG an Websites? \n\nDas BFSG legt fest, dass Webseiten so gestaltet werden m\u00fcssen, dass sie von allen Menschen genutzt werden k\u00f6nnen. Zum Beispiel m\u00fcssen Webseiten so gestaltet werden, dass sie auch von Menschen mit Sehbehinderungen oder H\u00f6rbehinderungen genutzt werden k\u00f6nnen.\n\n## Was sind die relevanten Standards und Kriterien f\u00fcr eine barrierefreie Website? \n\n### Das WCAG als Basis \nDie Web Accessibility Initiative des **World Wide Web Consortiums (W3C)** erarbeitete schon 1999 Regeln, wie Webinhalte barrierefrei gestaltet werden sollten: die **Web Content Accessibility Guidelines (WCAG)** in der Version 1.0. Sie waren allerdings nur unverbindliche Empfehlungen.\n\n### BGG und BITV Erweiterung der WCAG-Standards\nGanz anderen Stellenwert hatte in Deutschland das erste **Behindertengleichstellungsgesetz (BGG)**, das im Jahr 2002 in Kraft trat. Sp\u00e4testens seit Ende 2005 m\u00fcssen alle \u00f6ffentlichen Internetangebote des Bundes barrierefrei sein. Auf diesem Gesetz basiert die **Barrierefreie-Informationstechnik-Verordnung** (BITV), zun\u00e4chst in der Version 1.0, welche die Umsetzung regelt. Betroffen sind aber nur Bundeseinrichtungen; die Bundesl\u00e4nder erlie\u00dfen f\u00fcr ihre Beh\u00f6rden entsprechende eigene Gesetze. Ein Kritikpunkt war schon damals, dass die Privatwirtschaft nicht verpflichtet war, die enthaltenen Regularien umzusetzen. Die aktualisierte Fassung aus dem Jahr 2011 orientierte sich an den neuen Regeln der **WCAG 2.0** und hie\u00df dementsprechend **BITV 2.0**.\n\n## Was sind die Folgen bei Nichteinhaltung des BFSG?\nDie Nichteinhaltung des BFSG kann rechtliche Konsequenzen haben. Unternehmen und Organisationen k\u00f6nnen mit Geldstrafen belegt werden, wenn ihre Websites und digitalen Inhalte nicht den barrierefreien Anforderungen entsprechen.\n\n## Barrierefreiheit als Menschenrecht\nMit der UN-Behindertenrechtskonvention wurde 2008 erstmals u.a. die **Barrierefreiheit als ein grundlegendes Menschenrecht** bezeichnet. Die Konvention machte also deutlich, dass es sich bei der Barrierefreiheit um eine universelle **staatliche Verpflichtung** gegen\u00fcber Menschen mit Einschr\u00e4nkungen handelt. Sie wurde von fast allen Mitgliedsstaaten ratifiziert.\n## Der European Accessibility Act (EAA)\nDer European Accessibility Act\u00a0wurde 2019 verabschiedet. Er stellt einen weiteren Meilenstein bei der Sicherstellung von Barrierefreiheit dar, denn **seine Bandbreite ist betr\u00e4chtlich**: Sie umfasst digitale Endger\u00e4te, aber auch z.B. \u00f6ffentliche Selbstbedienungsterminals, und dazu auch audiovisuelle Medien und diverse Dienstleistungen, z.B. im Bank- und Verkehrsbereich. Die EAA-Richtlinie muss bis 2022 in nationales Recht \u00fcberf\u00fchrt und sp\u00e4testens ab Juni 2025 angewendet werden.\n## Das BFSG verpflichtend ab Mitte 2025\nAm 20. Mai 2021 hat der Deutsche Bundestag das **Barrierefreiheitsst\u00e4rkungsgesetz** (BFSG) verabschiedet, das 2025 in Kraft tritt.\nMit dem Erlass der **(link: https:\/\/www.bmas.de\/DE\/Service\/Gesetze-und-Gesetzesvorhaben\/verordnung-zum-barrierefreiheitsstaerkungsgesetz.html text: Verordnung zum Barrierefreiheitsst\u00e4rkungsgesetz target:_blank title: Externer Link, \u00f6ffnet im neuen Tab)** (am 22.06.2022) kommt die Bundesrepublik Deutschland der Umsetzungspflicht in Bezug auf den **EAA** nach. Damit gilt ab 2025 auch f\u00fcr Unternehmen der Privatwirtschaft die **Pflicht, ihre Angebote barrierefrei zu gestalten**."},"id":"355c229b-160e-4a23-98e2-3f2dfd7fb5da","isHidden":false,"type":"text"}],"id":"ca04b94c-8928-4265-8d3c-c5d6df79730c","width":"1\/1"}],"id":"a01ff083-56d8-41f8-b17c-7e87c6cde54c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/Uu02hn8fJWLJyxd2"],"caption":"Wir optimieren bestehende Websites barrierefrei und beraten bei der Neuentwicklung, wie Barrierefreiheit gew\u00e4hrleistet werden kann.\n\n(link: barrierefreies-webdesign text: Barrierefreies Webdesign - Infos hier class: btn -primary)"},"id":"7427be8e-3d65-4b8a-a627-52d3678141cc","isHidden":false,"type":"cta"}],"id":"a05fd831-1a7c-4f45-a846-1b017dcf92a9","width":"1\/1"}],"id":"d7813286-32eb-4723-b5e5-f02ed2c32171"}]
+
+----
+
+Date: 2023-06-30 10:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Inzwischen wird die barrierefreie Gestaltung von Web-Inhalten in immer mehr Bereichen verpflichtend. Wir zeigen in diesem Blog-Beitrag die rechtlichen Hintergründe.
+
+----
+
+Seodescription: 
+
+----
+
+Articleimage: - file://ZDm1X9T7vf06j0yw
+
+----
+
+Categories: Barrierefreiheit, Technik, Webdesign
+
+----
+
+Uuid: SojFhQj90QGmTwYn

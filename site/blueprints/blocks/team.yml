@@ -1,0 +1,21 @@
+name: Team
+icon: user
+fields:
+  links:
+    label: Links
+    type: structure
+    fields:
+      name:
+        label: Name
+        type: text
+      title:
+        text: Text
+        type: text
+      image:
+        label: Foto
+        type: files
+        max: 2
+        image:
+          back: white
+        uploads:
+          template: blocks/image

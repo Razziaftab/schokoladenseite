@@ -1,0 +1,41 @@
+Title: Analytics-Talk: Absprung vs. Ausstieg
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://MC5nHVGdU8zvLyCl
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Was ist der Unterschied zwischen Absprungrate und Ausstiegsrate \u2013 das Thema geh\u00f6rt definitiv zu den <span lang=\"en\">FAQ<\/span> des <span lang=\"en\">Web-Analytic-Talks<\/span>.","customid":"","customclass":""},"id":"d67e28ae-ae2f-46dd-8573-d4ebee584827","isHidden":false,"type":"heading"},{"content":{"text":"WHAT? Ist nicht dasselbe? <span lang=\"en\">Nope<\/span>. <span lang=\"en\">Google<\/span> selbst beschreibt es so:\n\n## Absprungrate\nDer Prozentsatz der Besuche einer **einzigen Seite ohne Interaktion** mit der Seite. Eine Sitzung mit Absprung hat eine **Dauer von 0 Sekunden**.\n(link: https:\/\/support.google.com\/analytics\/answer\/1009409?hl=de text: Mehr zur Absprungrate > target:_blank title: Externer Link zur Support-Seite von Google zur Absprungrate (\u00d6ffnet im neuen Tab))\n\n### Ist eine hohe Absprungrate schlecht?\nKommt drauf an. Muss nicht \u2013 kann aber sein.\n\nWenn die <span lang=\"en\">Website<\/span> zum Ziel hat, dass mehrere Seiten aufgerufen werden sollen, wie beispielsweise in einem <span lang=\"en\">Shop<\/span> mit Kaufprozess, dann ist eine hohe Absprungrate schlecht.\n\nWenn die <span lang=\"en\">Website<\/span> so aufgebaut ist, dass der Besuch einer einzigen Seite zu erwarten ist, ist eine hohe Absprungrate v\u00f6llig normal.\n\nEine hohe Absprungrate \u201ckann\u201d ein Hinweis darauf sein, dass die <span lang=\"en\">(n:User:innen x:Userinnen y:User)<\/span> kein Interesse an den Seiten hatten bzw. die Inhalte nicht relevant waren.\nEine gute <span lang=\"en\">Website<\/span> hat i.d.R. eher eine niedrige Absprungrate. Wie immer h\u00e4ngt das jedoch von unterschiedlichen Faktoren ab, ob eine Absprungrate zu hoch ist. Findet <span lang=\"en\">(n:die\/der User:in x:die Userin y:der User)<\/span> bereits auf der ersten Zielseite die gesuchte Information (z.B. eine Jobbeschreibung oder eine Telefonnummer) und verl\u00e4sst die Seite ohne weitere Interaktion wieder, so ist das nat\u00fcrlich v\u00f6llig in Ordnung. Das (n:Nutzer:innen x:Nutzerinnen y:Nutzer)erlebnis war trotzdem erfolgreich.\nBei einer Absprungrate \u00fcber 80% sollte man jedoch genauer hinschauen und die Website optimieren.\n\n## % Ausstiege\n\u201c% Ausstiege\u201d gibt an, welcher Prozentsatz der Websiteausstiege auf einer bestimmten Seite oder Gruppe von Seiten erfolgt sind.\n\nBei den Ausstiegen geht es also immer um die letzte Seite einer Sitzung.\n\n### Ist eine hohe Ausstiegrate schlecht?\nAuch nicht unbedingt. Ein klassisches Beispiel w\u00e4re wohl eine Danke-Seite eines Kaufprozesses. <span lang=\"en\">(n:Die\/der User:in x:Die Userin y:Der User)<\/span> hat online geshoppt, die Zahlung get\u00e4tigt und gelangt final auf eine Danke-Seite. <span lang=\"en\">(n:Die\/der User:in x:Die Userin y:Der User)<\/span> ist gl\u00fccklich und zufrieden und verl\u00e4sst genau an diesem Punkt die <span lang=\"en\">Website<\/span>. So ist die Danke-Seite (n:ihr\/sein x:ihr y:sein) Ausstieg.\n\nAnders herum kann es aber auch sein, dass eine Seite inhaltlich nicht besonders attraktiv ist und deshalb vermehrt (n:User:innen x:Userinnen y:User) an der Stelle die Sitzung beenden. In dem Fall w\u00e4re eine Optimierung hilfreich."},"id":"82e1c5a1-3cb7-49ff-8c6a-a7ddf9b31e3c","isHidden":false,"type":"text"}],"id":"c1c270d2-3f10-4fb1-af3a-b59ca9c9a8f9","width":"1\/1"}],"id":"cc3ec6ec-b5a6-42b7-aa18-69023bdf7b7c"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"\u00dcbersicht","customid":"","customclass":""},"id":"1c604783-16a3-4a96-8cd9-a7cce6407b7e","isHidden":false,"type":"heading"},{"content":{"text":"F\u00fcr alle Aufrufe gibt die Ausstiegsrate an, welcher Prozentsatz der Seitenaufrufe die letzten in der Sitzung waren\nF\u00fcr alle Sitzungen, die mit der Seite beginnen, ist die Absprungrate der Prozentsatz der Aufrufe, die der einzige Seitenaufruf der Sitzung waren.\nDie Absprungrate einer Seite basiert nur auf Sitzungen, die auf dieser Seite beginnen.  \n\nQuelle: (link: https:\/\/support.google.com\/analytics\/answer\/2525491?hl=de&ref_topic=6156780 text: https:\/\/support.google.com\/analytics\/answer\/2525491?hl=de&ref_topic=6156780 target:_blank title: Externer Link (\u00d6ffnet im neuen Tab))"},"id":"b47c4aca-e4d2-4b22-858e-492df8db6fde","isHidden":false,"type":"text"}],"id":"dd6e8a91-5b09-44b9-821d-680f3cb512e6","width":"1\/1"}],"id":"504ffd3a-06b7-4733-a497-6172cb640d1e"}]
+
+----
+
+Date: 2019-02-08 00:35:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Was ist der Unterschied zwischen Absprungrate und Ausstiegsrate – das Thema gehört definitiv zu den FAQ des Web-Analytic-Talks.
+
+----
+
+Articleimage: - file://jVA7xk4pcY33pku7
+
+----
+
+Categories: Analytics, Marketing
+
+----
+
+Uuid: ezGdAeJIuVmbul7z

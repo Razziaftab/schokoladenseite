@@ -1,0 +1,131 @@
+Title: Jobs
+
+----
+
+Layout: [{"attrs":{"layoutid":"jobs","arialabelledby":"jobs","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"video":["file:\/\/y2uHhOSoX6XFjjWK","file:\/\/wuHfDkchK7URAS41"],"image":["file:\/\/g8GE9HjHOYcM50fT"],"customid":"internetagentur","arialabelledby":"","preh1":"SCHOKOphile gesucht","h1":"Die beste Internetagentur<br>sucht dich","verlinkung":[],"button":""},"id":"7e53b675-5f70-41db-a0c6-0da66a169d16","isHidden":false,"type":"video"}],"id":"0ce4aa08-0f02-4838-adf5-34a6742bc1be","width":"1\/1"}],"id":"359e5d88-b16c-415b-8bd5-44d68bec21f3"},{"attrs":{"layoutid":"","arialabelledby":"","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Dein Job in der coolsten Online-Agentur aus Hamburg","customid":"","customclass":""},"id":"fb069f1f-a527-4433-961b-f17749e23c6c","isHidden":false,"type":"heading"}],"id":"90762e81-8752-418d-a273-4e88f712c67f","width":"1\/1"}],"id":"568e5ffb-1467-426b-baa3-f07e5972ef0b"},{"attrs":{"layoutid":"","arialabelledby":"","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"text":"Bei der SCHOKOLADENSEITE.net erwarten dich zeitgem\u00e4\u00dfe Arbeitsmodelle, tolle Online-Projekte und ein sympathisches kleines #SCHOKOTeam. Remote Work, AI und Nachhaltigkeit geh\u00f6rt bei uns selbstverst\u00e4ndlich dazu!\n\nMit uns stehst du auf der Schokoladenseite des Lebens. Du bist frei zu entscheiden, von wo aus du arbeiten willst. Remote, Hybrid und\/oder im Hamburger Office (Univiertel). \n\n**Du liebst, was du beruflich tust, bist top-motiviert und hast riiichtig Bock? Dann komm ins #SCHOKOteam!**"},"id":"15ec8226-a436-49be-a7bb-ab04f2bd721c","isHidden":false,"type":"text"}],"id":"7f0723e3-05f9-4471-8afa-0cf5fe2c895c","width":"2\/3"},{"blocks":[{"content":{"image":["file:\/\/GJ855nwGxCPt21I6"],"customclass":"","link":""},"id":"e87193c5-ba72-451c-8c6f-9d6a491065f1","isHidden":false,"type":"image"}],"id":"ceccd51e-ced5-4db4-96fe-8c590afe1bb5","width":"1\/3"}],"id":"548ea6d2-7fd3-446c-a0af-69fa3c743f6b"},{"attrs":{"layoutid":"kununu-bewertung","arialabelledby":"kununu-bewertung","layoutclass":"bg-greytowhite, center","backgroundimage":[]},"columns":[{"blocks":[{"content":{"text":"**Gute Vibes** sind uns wichtig! Schaue dir die Bewertungen auf **kununu** an:"},"id":"d4becb0c-538a-4c73-b237-b251390a7eca","isHidden":false,"type":"kununu"}],"id":"fdfd3d46-eb60-469d-b824-de5c1d28992f","width":"1\/1"}],"id":"1e34e1e4-25d2-4ec1-9cbf-ec473ce531d0"},{"attrs":{"layoutid":"","arialabelledby":"","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"benefitspage":"<strong>Fettes Handy<\/strong> Fettes Handy. Du kannst aussuchen. Auch zur privaten Nutzung.|, <strong>Echte 40h-Woche<\/strong> \u00dcberstunden werden abgebaut oder verg\u00fctet|, <strong>Chillraum im Office<\/strong> F\u00fcr deinen Powernap|, <strong>Weiterbildung<\/strong> Immer erw\u00fcnscht und jederzeit m\u00f6glich|, <strong>Kein Dresscode<\/strong> Komm wie du dich wohlf\u00fchlst|, <strong>B\u00fcro Hamburger City<\/strong> Mitten im Univiertel mit super Anbindung an \u00d6ffis|, <strong>Flache Hierarchien<\/strong> Und kurze Entscheidungswege|, <strong>Workation<\/strong> Arbeiten von einer Insel? \ud83d\ude04|, <strong>Kicker<\/strong> Einfach mal ne Runde Kickern zwischendurch|, <strong>Bio-Kaffee &amp; Tee<\/strong> Hafermilch und N\u00fcsschen sind auch immer da. Yumyum...|, <strong>Wertsch\u00e4tzung<\/strong> Jedes Teammitglied ist wertvoll und jedes Feedback willkommen|, <strong>Unbefristeter Arbeitsvertrag<\/strong> Feste Planung &amp; Perspektiven|, <strong>Deine Ideen z\u00e4hlen<\/strong> Bringe eigene Ideen und kreative Vorschl\u00e4ge mit ein|"},"id":"cba1b88e-f9b8-4eb2-b879-9173d202a237","isHidden":false,"type":"benefits"}],"id":"63b03e1d-b33a-4398-a849-9cc0e4a282b4","width":"1\/1"}],"id":"1e9dfcaa-d9f5-404d-885c-70f212da967a"},{"attrs":{"layoutid":"","arialabelledby":"","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"zuschussshow":"<strong>Fahrrad oder E-Bike Zuschuss<\/strong> Lieber mit dem Rad zur Arbeit anstatt im stickigen Bus?|, <strong>HVV-Zuschuss<\/strong> Deutschlandweit unterwegs|, <strong>Sportkurse Zuschuss<\/strong> Als Ausgleich f\u00fcr K\u00f6rper und Geist|"},"id":"46a51c26-a1bc-4cfc-b932-2852d5dc79ca","isHidden":false,"type":"zuschuss"}],"id":"29e364da-849b-45e1-8da1-e2b37c71896a","width":"1\/1"}],"id":"48f19e91-aede-4f16-9ef8-e82fc5749ea5"}]
+
+----
+
+Benefits:
+
+- 
+  icon:
+    - file://ZsG3iRXodtfdloiz
+  text: '**Bezahltes Praktikum** Dein Einsatz wird entlohnt.'
+- 
+  icon:
+    - file://zmL5e1t6XILgEgvs
+  text: '**Büro Hamburger City** Mitten im Univiertel mit super Anbindung an Öffis'
+- 
+  icon:
+    - file://mG40GDqP286LvZUY
+  text: '**Flache Hierarchien** Und kurze Entscheidungswege'
+- 
+  icon:
+    - file://pJeCbQ93GfgHwAMF
+  text: '**Bio-Kaffee & Tee** Hafermilch und Nüsschen sind auch immer da. Yumyum...'
+- 
+  icon:
+    - file://TYTfakjHEVdhbkM8
+  text: '**Teamevents** Summer get together, Weihnachtsfeier, Feierabendkickern'
+- 
+  icon:
+    - file://qAipDkSrr8ifUxDF
+  text: '**Wertschätzung** Jedes Teammitglied ist wertvoll und jedes Feedback willkommen'
+- 
+  icon:
+    - file://qz1GkzU42YGJKDjU
+  text: '**Kein Dresscode** Komm wie du dich wohlfühlst'
+- 
+  icon:
+    - file://zEoJYZxqwZItjqFo
+  text: '**Wir übernehmen Verantwortung** Sozialbank, effiziente Heizungssteuerung, Öko-Strom, LED-Beleuchtung, ...'
+- 
+  icon:
+    - file://ti75W4PrgUZRpRdb
+  text: '**Eigene Hardware** Eigener Laptop. Auch zur privaten Nutzung. Alles, was du brauchst'
+- 
+  icon:
+    - file://tXOcyZ1at5vmlV79
+  text: '**Fettes Handy** Fettes Handy. Du kannst aussuchen. Auch zur privaten Nutzung.'
+- 
+  icon:
+    - file://ZVRHQAJzkjpiJFi8
+  text: '**Kicker** Einfach mal ne Runde Kickern zwischendurch'
+- 
+  icon:
+    - file://9h9rgx5byGmLlpeJ
+  text: '**Chillraum im Office** Für deinen Powernap'
+- 
+  icon:
+    - file://RcGUEAZEAIArMYjK
+  text: '**Unbefristeter Arbeitsvertrag** Feste Planung & Perspektiven'
+- 
+  icon:
+    - file://7km347Wbs83cT92L
+  text: '**Remote Work** 100% Home-Office oder Hybrid, du suchst aus'
+- 
+  icon:
+    - file://8iZ5RIhjTUVib3ZD
+  text: '**Workation** Arbeiten von einer Insel? 😄'
+- 
+  icon:
+    - file://mKUllXopwehczYct
+  text: '**Echte 40h-Woche** Überstunden werden abgebaut oder vergütet'
+- 
+  icon:
+    - file://ze0iLH2ftIDpKyHJ
+  text: '**Weiterbildung** Immer erwünscht und jederzeit möglich'
+- 
+  icon:
+    - file://zepbySjGC0lZdBXZ
+  text: '**Deine Ideen zählen** Bringe eigene Ideen und kreative Vorschläge mit ein'
+- 
+  icon:
+    - file://mKUllXopwehczYct
+  text: '**Flexible Arbeitsmodelle** Vollzeit, Teilzeit, Freelance. Überstunden werden abgebaut oder vergütet'
+- 
+  icon:
+    - file://7km347Wbs83cT92L
+  text: '**Remote Work** 90% Home-Office oder Hybrid, du suchst aus'
+- 
+  icon:
+    - file://7km347Wbs83cT92L
+  text: '**Remote Work** Home-Office oder Hybrid, du suchst aus'
+
+----
+
+Zuschuss:
+
+- 
+  icon:
+    - file://boQE1qYPtzmoEAlc
+  text: '**Fahrrad oder E-Bike Zuschuss** Lieber mit dem Rad zur Arbeit anstatt im stickigen Bus?'
+- 
+  icon:
+    - file://CTGGVfFu4LE7cWjH
+  text: '**HVV-Zuschuss** Deutschlandweit unterwegs'
+- 
+  icon:
+    - file://XGBGsfATKab9XXkV
+  text: '**Sportkurse Zuschuss** Als Ausgleich für Körper und Geist'
+
+----
+
+Seotitle: Jobs: Komm' ins #SCHOKO-TEAM 🍫
+
+----
+
+Seodescription: Jobs Internetagentur Hamburg: ✓ Programmierer ✓ Technischer Projektmanager ✓ Moderne Arbeitsmodelle → Jetzt bewerben!
+
+----
+
+Seoimage: 
+
+----
+
+Text: 
+
+----
+
+Uuid: ursT7ySCBtehA5p0

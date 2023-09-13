@@ -1,0 +1,17 @@
+Alt: Logo Wordpress, Logo Typo3, Logo Kirby im Kreis angeordnet
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

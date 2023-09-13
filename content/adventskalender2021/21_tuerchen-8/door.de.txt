@@ -1,0 +1,29 @@
+Title: Das große SCHOKO-Quiz
+
+----
+
+Seodescription: Hinter dem heutigen Türchen erwartet Sie das beste Geschenk, was man sich überhaupt vorstellen kann: ein SCHOKO-Rätsel, bei dem Sie Schokolade gewinnen können!
+
+----
+
+Image: - 08.jpg
+
+----
+
+Door: 8
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Das gro\u00dfe SCHOKO-Quiz**\n\nHinter dem heutigen T\u00fcrchen erwartet Sie das beste Geschenk, was man sich \u00fcberhaupt vorstellen kann: ein SCHOKO-R\u00e4tsel, bei dem Sie Schokolade gewinnen k\u00f6nnen! \ud83d\ude0b Aus allen Einsendungen w\u00e4hlt die unabh\u00e4ngige SCHOKO-Jury die kreativste Idee; bei mehreren Gewinner:innen entscheidet das Los. \n\nZu gewinnen gibt's ein Schokoladen-Paket mit 13 Tafeln Bio-Schoki (zum \u00dcben) von (link: https:\/\/www.thegoodshop.org\/shop\/die-gute-schokolade-bio\/ text: Die Gute Schokolade target: _blank title: Externer Link zu The Good Shop (\u00d6ffnet im neuen Tab)).\n\nHier die Frage: \n**Wie kann man ein St\u00fcck Schokolade von einer Tafel stibitzen, ohne dass es auff\u00e4llt?**\n\nIhren L\u00f6sungsvorschlag schicken Sie an (email: brief@schokoladenseite.net text: brief@schokoladenseite.net)\n(Ihre Daten werden nat\u00fcrlich nur f\u00fcr die Durchf\u00fchrung des Quiz verarbeitet und danach gel\u00f6scht. Keine Barauszahlung, kein Gewinnanspruch.)\n\nViel Gl\u00fcck \ud83d\ude42"},"id":"190e1fb2-94d5-4a36-bb8a-127381a73cee","isHidden":false,"type":"text"}],"id":"2b23075f-79e0-4d35-b5cb-873426bccb43","width":"1\/1"}],"id":"6d6371bd-6c09-4ac4-a446-092b6e219915"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: SQfM2XR406tYzFAT

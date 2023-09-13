@@ -1,0 +1,32 @@
+name: Button
+icon: open
+fields:
+  aussehen:
+    label: Klasse
+    type: select
+    options:
+      -primary: Primary
+    width: 1/2
+  links:
+    label: Links
+    type: structure
+    fields:
+      links:
+        label: Linkauswahl
+        type: select
+        options: query
+        query: site.index.filterBy('template','in', ['default', 'referenzen', 'blog', 'anfahrt', 'dsgvo-check', 'kontakt', 'adventskalender', 'gender', 'chocfair-cookie'])
+        width: 1/2
+      extern:
+        type: text
+        width: 1/2
+      anker:
+        label: Anker
+        type: text
+        width: 1/2
+      linktext:
+        label: Linktext
+        type: text
+      title:
+        label: Titel  (optional)
+        type: text

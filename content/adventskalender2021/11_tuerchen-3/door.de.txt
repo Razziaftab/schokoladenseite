@@ -1,0 +1,29 @@
+Title: Digitale Schokolade - der chocfair'cal
+
+----
+
+Seodescription: Hinter dem Türchen heute haben wir ein Geschenk versteckt, das besonders lange schmecken soll. Was kann das sein? Nachhaltigkeit natürlich!
+
+----
+
+Image: - 03.jpg
+
+----
+
+Door: 3
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Digitale Schokolade - der chocfair'cal**\n\n*Hinter dem T\u00fcrchen heute haben wir ein Geschenk versteckt, das besonders lange schmecken soll. Was kann das sein? Nachhaltigkeit nat\u00fcrlich!*\n\nDenn was ist nachhaltiger als ein digitaler Adventskalender? Er kommt ganz ohne Verpackungsm\u00fcll aus. Und auch die Versandkosten und die Auswahl der Weihnachtskarte k\u00f6nnen Sie sich sparen.\n\nMit unserem digitalen Adventskalender machen wir die Kommunikation zur Vorweihnachtszeit also nicht nur umweltfreundlicher, sondern auch abwechslungsreicher als jede Weihnachtskarte. Er ist ganz individuell und doch universell einsetzbar: zur Bindung von (n:Kund:innen x:Kundinnen y:Kunden), als Fundraising oder f\u00fcr die interne Kommunikation. Die Inhalte hinter den T\u00fcrchen k\u00f6nnen Bilder, Videos, Geschichten, Podcasts und Mitmach-Aktionen sein \u2013 passend zur Zielgruppe.\n\n**Nachhaltiger, zum Nachdenken und Mitmachen**\n\nOb besinnlich, informativ oder unterhaltsam - der digitale Adventskalender sorgt auf jeden Fall f\u00fcr viel Abwechslung in der Vorweihnachtszeit. Sie sind ja gerade schon dabei, ihn zu testen... Wir zeigen Ihnen hinter den weiteren T\u00fcrchen einige Gestaltungsm\u00f6glichkeiten in der Praxis. Vielleicht finden Sie darunter auch ein paar Inspirationen f\u00fcr Ihren eigenen Kalender. Merken Sie sich doch den digitalen Adventskalender f\u00fcr Ihre Kommunikation im Jahr 2022 vor. Wir beraten Sie gerne dazu. Viel Spa\u00df mit unserem Kalender und: Bis morgen!"},"id":"a67db8a3-ae1c-40a7-bdb6-786f26ba9660","isHidden":false,"type":"text"}],"id":"708de051-e9fb-4fd2-a951-fc482e21bbc1","width":"1\/1"}],"id":"b8959a25-b5a5-4aba-9826-a0e7508bf695"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: yFecxDj28jWGfzYE

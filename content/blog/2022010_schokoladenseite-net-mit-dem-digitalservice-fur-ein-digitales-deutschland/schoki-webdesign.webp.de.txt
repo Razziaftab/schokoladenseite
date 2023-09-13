@@ -1,0 +1,21 @@
+Alt: Code in einem Texteditor
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 9bnZNQ9Ya99r31ik

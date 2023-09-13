@@ -1,0 +1,41 @@
+Title: DSGVO: Bußgelder und Abmahnungen
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://IPtcYlgSyITONAVr
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"**Datenschutzverst\u00f6\u00dfe k\u00f6nnen abgemahnt werden!**\n\nBei Verst\u00f6\u00dfen drohen Abmahnungen und Gerichtsverfahren, denn:\n- Datenschutzrecht hat wettbewerbsrechtliche Relevanz!\n- Verst\u00f6\u00dfe k\u00f6nnen auch nach der DSGVO abgemahnt werden!"},"id":"597e8c4a-c71b-4a3a-8a3b-6b3071331197","isHidden":false,"type":"text"}],"id":"57d943d4-379c-4bcc-9d92-ac9bbdb4cc04","width":"1\/1"}],"id":"343b6166-1f91-4f48-b31c-b90a74afe2a1"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Bu\u00dfgelder","customid":"","customclass":""},"id":"505330a1-ba33-46ac-a396-e64befc75f53","isHidden":false,"type":"heading"},{"content":{"text":"Die DSGVO sieht Bu\u00dfgelder bis zu 20 Millionen Euro oder 4% des weltweiten Vorjahresumsatzes vor.\n\nBisher haben Datenschutzbeh\u00f6rden den oberen Rahmen der Bu\u00dfgelder nur sehr selten und bei dauerhaften Verst\u00f6\u00dfen ausgereizt.\n\nDas wird sich aber sehr wahrscheinlich \u00e4ndern, der hohe Bu\u00dfgeldrahmen ist ein Kernbestandteil der DSGVO.\n\nWichtig: Anfragen\/Beschwerden von (n:Nutzer:innen x:Nutzerinnen y:Nutzern) ernst nehmen. Noch wichtiger: Anfragen\/Beschwerden von Datenschutzbeh\u00f6rden ernst nehmen."},"id":"ce08e067-4ea4-404d-bde7-4ba95070984a","isHidden":false,"type":"text"}],"id":"d47f0a03-3e91-41ae-b842-1a6816f35cfc","width":"1\/1"}],"id":"41d38988-d80d-401a-85dd-9cf7ba580635"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/XWGLQ50TDFdriBiU"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"74e0b842-e732-42d6-83ec-a7b4ac1f76e9","isHidden":false,"type":"cta"}],"id":"c4b8fde4-bb61-4daa-950a-c744ad1a023f","width":"1\/1"}],"id":"f65436fa-90e4-45c1-aabc-3130f32078d9"}]
+
+----
+
+Date: 2018-04-05 18:05:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Datenschutzverstöße können abgemahnt werden!  Bei Verstößen drohen Abmahnungen und Gerichtsverfahren.
+
+----
+
+Articleimage: - file://hOmkNGvMvmJvVtrm
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: d5NKPQg5nCI5BVOP

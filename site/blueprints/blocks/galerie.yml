@@ -1,0 +1,11 @@
+name: Galerie
+icon: dashboard
+preview: image
+fields:
+  text:
+    type: text
+    label: Überschrift
+  image:
+    label: field.blocks.image.name
+    type: files
+    uploads: galerie

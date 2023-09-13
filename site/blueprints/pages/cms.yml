@@ -1,0 +1,9 @@
+title: CMS
+options:
+  changeTemplate:
+    - lll
+tabs:
+  content: tabs/content
+  seo: tabs/seo
+  pages: tabs/pages
+  Dateien: tabs/dateien

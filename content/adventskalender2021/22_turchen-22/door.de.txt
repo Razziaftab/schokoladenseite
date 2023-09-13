@@ -1,0 +1,29 @@
+Title: Des Rätsels Lösung
+
+----
+
+Seodescription: Heute schenken wir Ihnen schon wieder etwas von bleibendem Wert - Wissen. Oder auch die Antwort auf eine Frage, die Sie seit Wochen umtreibt
+
+----
+
+Image: - 22.jpg
+
+----
+
+Door: 22
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Des R\u00e4tsels L\u00f6sung**\n\nHeute schenken wir Ihnen schon wieder etwas von bleibendem Wert - Wissen. Oder auch die Antwort auf eine Frage, die Sie seit Wochen umtreibt ...\n\nHinter dem T\u00fcrchen am 8. Dezember verbarg sich eine knifflige R\u00e4tsel-Aufgabe: Wie kann man am besten unbemerkt ein St\u00fcck von einer Tafel Schokolade abknapsen? Die Forschungsabteilung der SCHOKOLADENSEITE.net hat diese Frage nat\u00fcrlich auch keine Ruhe gelassen und kann erst heute das Ergebnis ihrer aufwendigen Versuchsreihe pr\u00e4sentieren. Die Zeit reichte leider nicht mehr f\u00fcr ein eigenes Erkl\u00e4rvideo, deshalb verweisen wir auf einen Kollegen bei YouTube:"},"id":"40d5ff29-f23d-4ca7-959d-69e645fbe569","isHidden":false,"type":"text"},{"content":{"text":"xrpsujxVkak"},"id":"fe7dddee-a1f0-43e5-b04e-523fd50f47cf","isHidden":false,"type":"youtube"},{"content":{"text":"Wenn Sie diesen oder sogar noch einen besseren L\u00f6sungsweg an uns geschickt haben, bekommen Sie mit etwas Gl\u00fcck demn\u00e4chst ein Paket mit einer MENGE Schokolade. \ud83d\ude0b Wir haben uns \u00fcbrigens sehr \u00fcber die vielen Zuschriften gefreut - vielen Dank f\u00fcr Ihre Teilnahme!"},"id":"6ee0f778-ac3f-4794-9174-ff291da1e8e7","isHidden":false,"type":"text"}],"id":"a15d6e07-8b71-4cc1-a3ca-0d8193b9df4e","width":"1\/1"}],"id":"7a676a75-44b6-4d21-a1f1-c7b4cee97a10"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: iN1Q9tvBJFoM5mxd

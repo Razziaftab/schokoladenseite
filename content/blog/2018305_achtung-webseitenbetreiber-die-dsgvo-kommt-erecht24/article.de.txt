@@ -1,0 +1,41 @@
+Title: Achtung Webseitenbetreiber: Die DSGVO kommt (eRecht24)
+
+----
+
+Articleheader: Achtung (gender:Webseitenbetreiber:innen x:Webseitenbetreiberinnen y:Webseitenbetreiber): Die DSGVO kommt (eRecht24)
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://TmpGDUkuldD0hj95
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"DSGVO-Website Special von eRecht24-Premium","customid":"","customclass":""},"id":"e74c45b1-fabc-40bc-bbd9-ce88ca72302d","isHidden":false,"type":"heading"},{"content":{"text":"Sie wissen, dass Sie sich um Themen wie Datenschutz, Impressum, Bildrechte oder <span lang=\"en\">Facebook<\/span> & Co. k\u00fcmmern m\u00fcssen? Sie haben keine Zeit, alle komplizierten rechtlichen Vorgaben aufwendig selbst zu recherchieren? Sie wollen oder k\u00f6nnen nicht f\u00fcr jede Webseitenpr\u00fcfung (gender:eine:n teure:n Anw\u00e4lt:in x:eine teure Anw\u00e4ltin y:einen teuren Anwalt xy:oder) bezahlen? Sie brauchen klare Antworten, verst\u00e4ndliche L\u00f6sungen und praktische <span lang=\"en\">Tools<\/span> statt noch mehr Fragen?\n\nDas erhalten Sie im DSGVO-Website Special von eRecht24-Premium:\n\n1. **Praxis Leitfaden DSGVO:** Wir haben Ihnen einen Praxis-Leitfaden f\u00fcr den Umgang mit den h\u00e4ufigsten Grundfragen zur DSGVO zusammen gestellt.\n\n2. **Webinare zur DSGVO:** Die (n:Anw\u00e4lt:innen x:Anw\u00e4ltinnen y:Anw\u00e4lte) der Kanzlei Siebert Goldberg erl\u00e4utern Ihnen in exklusiven <span lang=\"en\">Webinaren<\/span> praktische Ans\u00e4tze zum rechtssicheren Umgang mit der DSGVO.\n\n3. **DSVGO-Datenschutzgenerator:** Ihnen steht ab sofort der neue Profi-Datenschutzgenerator zur Verf\u00fcgung. So erzeugen Sie in wenigen Minuten eine DSGVO-konforme Datenschutzerkl\u00e4rung.\n\n4. **H\u00e4ufige Fragen von Unternehmen:** Wir haben die h\u00e4ufigsten 50+ Fragen, die Unternehmer im Zusammenhang mit der DSGVO haben, gesammelt, geordnet und beantwortet.\n\n5. **Ihre Fragen zur DSGVO:** Stellen Sie Ihre zus\u00e4tzlichen Fragen zur DSGVO im Rahmen der Erstberatung. Diese werden von Rechtsanwalt Siebert und seinem Team beantwortet.\n\n6. **Anwaltlicher DSGVO-Check mit 100 Euro Rabatt:** Die Kanzlei Siebert Goldberg bietet allen ein umfassendes anwaltliches Webseiten-Audit zum Festpreis. Alle eRecht24-Premium-(n:Nutzer:innen x:Nutzerinnen y:Nutzer) erhalten darauf 100 Euro Rabatt.\n\n7. **Weitere Highlights:** Bei eRecht24-Premium finden Sie nicht nur Antworten zur DSGVO, sondern dar\u00fcber hinaus zahlreiche Tools, Video-Schulungen, <span lang=\"en\">Live-Webinare<\/span>, Vertragsmuster und Checklisten zum Datenschutz, Bildrechten und Urheberrecht, <span lang=\"en\">Newsletter-Marketing<\/span> oder <span lang=\"en\">Facebook & Co<\/span>.\n\nNutzen Sie jetzt eRecht24-Premium und sch\u00fctzen Sie sich vor DSGVO-Abmahnungen. Wir sind eRecht24-Agenturpartnerin und unterst\u00fctzen Sie gerne in der Umsetzung der notwendigen DSGVO-Ma\u00dfnahmen auf Ihrer Webseite."},"id":"2be8d3e1-1e7c-48fd-a5a8-46eb1df390c2","isHidden":false,"type":"text"}],"id":"7bca794e-68c8-43b6-bb69-1094e7e436a7","width":"1\/1"}],"id":"2b141b3c-e559-416b-96c4-42bc31834782"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"27627579-8126-4e36-b44c-123b6c98e993","isHidden":false,"type":"kontaktform"}],"id":"54514c85-ebcd-4ce0-8088-1827efee4f13","width":"1\/1"}],"id":"d0f66dfe-9aad-45aa-bd49-6f836c498563"}]
+
+----
+
+Date: 2018-04-05 11:30:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Für alle Webseiten(n:betreiber:innen x:betreiberinnen y:betreiber) gibt es jetzt ein exklusives Beratungsangebot - wir stellen es Ihnen heute vor!
+
+----
+
+Articleimage: - file://6NpWy3DBNQ9sjMLv
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: 7GtrLxbfh729hdaa

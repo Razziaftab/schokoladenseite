@@ -1,0 +1,21 @@
+Alt: Hand hält Handy mit go-digital Logo darauf abgebildet
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: AugtN7xhZmOkq6lf

@@ -1,0 +1,13 @@
+Alt: Hinz&Kunzt Logo
+
+----
+
+Title: Hinz&Kunzt
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: JINHX5zsfV7gaTn4

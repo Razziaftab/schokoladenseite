@@ -1,0 +1,13 @@
+Alt: Ein aufgeklappter Laptop liegt im Gras.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 19nKKIZoamPlTzbg

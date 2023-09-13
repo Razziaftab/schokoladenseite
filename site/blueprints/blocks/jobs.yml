@@ -1,0 +1,19 @@
+name: Jobs anzeigen
+icon: star
+fields:
+  text:
+    label: Jobs Überschrift
+    type: markdown
+    inline: true
+    buttons:
+      - gender
+      - lang
+  
+  list:
+    label: Listenansicht
+    type: toggle
+
+  select:
+    label: direke Auswahl
+    type: pages
+    query: site.find('jobs')

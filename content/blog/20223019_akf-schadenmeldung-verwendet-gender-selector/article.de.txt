@@ -1,0 +1,41 @@
+Title: akf-Schadenmeldung verwendet Gender Selector
+
+----
+
+Articleheader: Schadenmeldung – auf Wunsch mit Gender-Stern
+
+----
+
+Intro: Die Schadenmeldung-Website eines Leasing-Anbieters verwendet den Gender Selector von SCHOKOLADENSEITE.net. Unser Blogbeitrag zeigt, wie moderne Kommunikation geht - nämlich ganz einfach.
+
+----
+
+Mp3: - file://3nJzWYbsNfyi5qh2
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Die (link: https:\/\/www.akf-servicelease.de\/ text: akf servicelease GmbH target: _blank) ist Anbieterin f\u00fcr innovative Mobilit\u00e4ts- und Fuhrparkl\u00f6sungen. Genauso modern und unkompliziert wie das <span lang=\"en\">Leasing<\/span> der Fahrzeuge ist auch die Kommunikation im Schadenfall. Hierzu gibt es eine eigene (link: https:\/\/www.akf-schadenmeldung.de\/ text: Website target: _blank) f\u00fcr die (gender:Kund:innen x:Kundinnen y:Kunden xy:und). Da diese so vielf\u00e4ltig wie die unterschiedlichen Modelle in der akf-Flotte sind, haben sie nun die M\u00f6glichkeit, mit nur einem Mausklick die Genderversion der Webseiten auszuw\u00e4hlen. Das funktioniert mit dem (link: gender-selector text: **Gender Selector**) von SCHOKOLADENSEITE.net ganz einfach."},"id":"930c69c8-b37d-4202-bd56-acab7f312312","isHidden":false,"type":"text"}],"id":"ae512afa-60a8-48bf-9048-5a3e58a5b6f5","width":"1\/1"}],"id":"414068f9-18e4-4706-a935-0f6685c178d1"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/FphSxrKwizIPfZM7"]},"id":"bcce033a-5a1b-44c9-a583-77e2545f7467","isHidden":false,"type":"blogimage"}],"id":"33b80c56-5157-469a-8706-dbc0cceae228","width":"2\/3"},{"blocks":[{"content":{"text":"Mit einem Klick w\u00e4hlen die (gender:Nutzer:innen x:Nutzerinnen y:Nutzer xy:und) aus, welches Gender-Trennzeichen verwendet werden soll, z.B. der Stern. Oder sie entscheiden sich daf\u00fcr, die Website ohne Genderzeichen zu sehen."},"id":"72939e53-97b5-4f9d-8da1-33c7835f678f","isHidden":false,"type":"text"}],"id":"930f22ba-e878-4b32-858c-3a7e351d3d9c","width":"1\/3"}],"id":"73825129-842a-49af-990e-e5caba001924"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Einfache Dateneingabe im Schadenfall\nInzwischen gibt es schon einige durchweg positive R\u00fcckmeldungen, so Lutz G\u00e4bel, Leiter der akf langzeitmiete bei der akf servicelease GmbH: \"Unser Unternehmen bietet unseren (gender:Kund:innen x:Kundinnen y:Kunden xy:und) moderne Mobilit\u00e4tsl\u00f6sungen an, die perfekt zu ihnen passen. Dazu geh\u00f6rt f\u00fcr uns unter anderem auch eine unkomplizierte Abwicklung von Schadenf\u00e4llen. Mit unserer neuen (link: https:\/\/www.akf-schadenmeldung.de\/ text: Online-Schadenmeldung target:_blank) ist das schnell erledigt, auch von unterwegs aus. Der Gender Selector passt gut zu diesem Anspruch und wurde von den (gender:Kund:innen x:Kundinnen y:Kunden xy:und) bzw. (gender:Nutzer:innen x:Nutzerinnen y:Nutzern xy:und) positiv aufgenommen.\""},"id":"e7c51bfe-36b1-4bdb-b966-a551821ef375","isHidden":false,"type":"text"}],"id":"808f9c8b-bf03-402c-8d40-90cd258dd290","width":"1\/1"}],"id":"7082b3e5-9bcc-44ff-8476-3fa63633c5b8"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/7sUhRjLzxKr8UZZC"],"caption":"M\u00f6chten auch Sie den Gender Selector f\u00fcr Ihren Internetauftritt verwenden?\n\n(link: gender-selector text:Zum chocfair Gender Slector class: btn -primary)"},"id":"8cd1c9ea-34bc-471e-8656-673b8569d4d2","isHidden":false,"type":"cta"}],"id":"4d3b97eb-6861-4386-a3c5-59bc904f5a85","width":"1\/1"}],"id":"59d506b3-0dd5-4d1b-ab24-b9c6d973dd99"}]
+
+----
+
+Date: 2022-12-19 09:30:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Die Schadenmeldung-Website des Leasing-Anbieters akf verwendet den Gender Selector von SCHOKOLADENSEITE.net. Unser Blogbeitrag zeigt, wie moderne Kommunikation geht - nämlich ganz einfach.
+
+----
+
+Articleimage: - file://NZKylUzcnfe7vDms
+
+----
+
+Categories: Agentur
+
+----
+
+Uuid: WohMheiI2liTgfvj

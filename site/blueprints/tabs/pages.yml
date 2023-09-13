@@ -1,0 +1,12 @@
+label: Unterseiten
+icon: layers
+sections:
+  drafts:
+    type: pages
+    headline: Noch nicht veröffentlicht
+    status: draft
+  published:
+    type: pages
+    status: published
+    headline: Veröffentlicht
+    limit: 100

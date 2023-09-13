@@ -1,0 +1,17 @@
+Alt: Alt-text
+
+----
+
+Title: Bild Title
+
+----
+
+Caption: Bildcaption
+
+----
+
+Uuid: xDsZsfaOZ9SIylsv
+
+----
+
+Template: files-upload

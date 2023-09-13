@@ -1,0 +1,17 @@
+Alt: Tablet-Bildschirme zeigen Bildauschnitte der Dr. Weigert Website
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

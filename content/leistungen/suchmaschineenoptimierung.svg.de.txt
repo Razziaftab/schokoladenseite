@@ -1,0 +1,21 @@
+Alt: Statistik Icon
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: 7BbWv0kE2yPfW2dr

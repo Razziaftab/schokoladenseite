@@ -1,0 +1,41 @@
+Title: DSGVO: Verarbeitungsverzeichnis (bisher: Verfahrensverzeichnis)
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://tS5MzGkU6mJnzWnx
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Sie ben\u00f6tigen ein Verarbeitungsverzeichnis, wenn Sie mehr als 250 (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter) besch\u00e4ftigen und wenn Sie besondere Datenkategorien verarbeiten.\n\nDie Pflicht gilt auch f\u00fcr Unternehmen unter 250 (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeitern), wenn die Verarbeitung \u201enicht nur gelegentlich\u201c erfolgt. Es ist aber noch nicht abschlie\u00dfend gekl\u00e4rt, was dies genau bedeutet. Bis die Voraussetzungen abschlie\u00dfend gekl\u00e4rt sind, sollten Sie im Zweifel ein solches Verzeichnis anlegen."},"id":"0a77de6d-7f62-41c6-b0f9-a03c6a259552","isHidden":false,"type":"text"}],"id":"129e0708-bbd3-47ad-8803-664417fe123f","width":"1\/1"}],"id":"82c550d5-f9b4-437d-989c-67df8923e792"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Welche Inhalte geh\u00f6ren hinein?","customid":"","customclass":""},"id":"cf8bb85d-c083-452b-a01d-881c8dfee33b","isHidden":false,"type":"heading"},{"content":{"text":"- Angaben (n:der\/des x:der y:des) Verantwortlichen\n- Name und Kontaktdaten (n:der\/des x:der y:des) Verantwortlichen, der Person, die (n:sie\/ihn x:sie y:ihn) vertritt und (n:der\/des x:der y:des) Datenschutzbeauftragten\n- Zwecke der Verarbeitung\n- Kategorien betroffener Personen und personenbezogener Daten\n- Kategorien von (n:Empf\u00e4nger:innen x:Empf\u00e4ngerinnen y:Empf\u00e4ngern)\n- \u00dcbermittlungen von personenbezogenen Daten an ein Drittland\n- Fristen f\u00fcr L\u00f6schung\n- Beschreibung der technischen und organisatorischen Ma\u00dfnahmen\n- Angaben des Auftragsverarbeiters\n- Name und Kontaktdaten des Auftragverarbeiters und (n:der\/des x:der y:des) Verantwortlichen, ihrer Vertreter und (n:der\/des x:der y:des) Datenschutzbeauftragten\n- Kategorien von Verarbeitungen\n- \u00dcbermittlungen von personenbezogenen Daten an ein Drittland\n\nBeispiele und Aufbau eines solchen Verarbeitungsverzeichnis finden Sie z.B. bei der Bitkom:\n(link: https:\/\/www.bitkom.org\/NP-Themen\/NP-Vertrauen-Sicherheit\/Datenschutz\/FirstSpirit-1496129138918170529-LF-Verarbeitungsverzeichnis-online.pdf text: https:\/\/www.bitkom.org\/NP-Themen\/NP-Vertrauen-Sicherheit\/Datenschutz\/FirstSpirit-1496129138918170529-LF-Verarbeitungsverzeichnis-online.pdf target: _blank rel: noopener title:Externer Link um Verarbeitungsverzeichnis Online PDF von Bitkom (\u00d6ffnet im neuen Tab))"},"id":"8f95fabd-44a4-48ec-99d0-59f770f2c7f2","isHidden":false,"type":"text"}],"id":"024a1133-bcce-4e36-bde9-67ed44811fea","width":"1\/1"}],"id":"98b09967-b8db-4374-8d09-b140146c3ff2"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/2VNN20Vnkbv0fdXf"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"797aed05-cda3-4c31-b971-f17ddc21478e","isHidden":false,"type":"cta"}],"id":"3c152be6-ff38-4942-b0ac-3e62efb1f04d","width":"1\/1"}],"id":"26458058-f431-4ae5-9a6c-8e2c8476645d"}]
+
+----
+
+Date: 2018-08-05 17:50:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Sie benötigen ein Verarbeitungsverzeichnis, wenn Sie mehr als 250 Mitarbeiter beschäftigen.
+
+----
+
+Articleimage: - file://dw9FRXW81Zo3B1Gs
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: YS74901Zc2ciNn1F

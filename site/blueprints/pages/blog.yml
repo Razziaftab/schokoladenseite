@@ -1,0 +1,25 @@
+title: Blog
+tabs:
+  content: 
+    sections:
+      content:
+        type: fields
+        fields:
+          text:
+            label: Überschrift
+            type: text
+      drafts:
+        extends: sections/articles
+        headline: Entwurf
+        status: drafts
+      unlisted:
+        extends: sections/articles
+        headline: Test
+        status: unlisted
+      listed:
+        extends: sections/articles
+        headline: Veröffentlicht
+        status: listed
+        search: true
+  seo: tabs/seo
+  Dateien: tabs/dateien

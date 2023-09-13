@@ -1,0 +1,41 @@
+Title: DSGVO: Datenschutzerklärung anpassen
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://aAXebmRrHBXu4tyV
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"In jedem Fall ben\u00f6tigen Sie grunds\u00e4tzlich eine Datenschutzerkl\u00e4rung auf Ihrer <span lang=\"en\">Website<\/span>. Dies gilt auch f\u00fcr Vereine. **Alle Datenschutzerkl\u00e4rungen** m\u00fcssen auf allen Webseiten in jedem Fall zum 25. Mai 2018 **neu erstellt werden**. Auch wenn Sie denken, dass auf Ihrer <span lang=\"en\">Website<\/span> keine personenbezogenen Daten verarbeitet werden \u2013 Ihr <span lang=\"en\">Webhoster<\/span> tut es auf jeden Fall!\n\n## Haben Sie (gender:eine:n Anw\u00e4lt:in x:eine Anw\u00e4ltin y:einen Anwalt xy:oder) oder (gender:eine:n Datenschutzbeauftragte:n x:eine Datenschutzbeauftragte y:einen Datenschutzbeauftragten xy:oder), (gender:die:der x:die y:der xy:oder) ggf. die Erstellung der Datenschutzerkl\u00e4rung \u00fcbernimmt?\n\nWenn nicht, dann fragen Sie Ihre Onlineagentur. Wir von der SCHOKOLADENSEITE.net haben einen Agentur-Premium-Account bei eRecht24 und k\u00f6nnen dar\u00fcber Datenschutzerkl\u00e4rungen generieren.\n\nGerne w\u00fcrden wir Ihnen hier kostenlose <span lang=\"en\">Tools<\/span> und Datenschutzgeneratoren empfehlen, aber leider scheint es da derzeit noch nichts Brauchbares zu geben, das kein Geld kostet.\n\n**Hinweis**: Sowohl das Impressum als auch der Datenschutzhinweis m\u00fcssen sich auf allen Webseiten auf oberster Ebene finden. Weiterhin ben\u00f6tigt jedes Thema einen eigenen Men\u00fcpunkt! Dieser darf auch im Seitenfu\u00df platziert sein und muss nicht zwingend im oberen Hauptmen\u00fc stehen."},"id":"b8e71bdb-8c83-43a6-89a4-3fc74cfbfff6","isHidden":false,"type":"text"}],"id":"0cbb3bf0-54aa-4ebe-ac04-570d72853213","width":"1\/1"}],"id":"dc7c35bc-1f9b-4acd-895d-9b7f79ccf894"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Datenschutzerkl\u00e4rung und Impressum","customid":"","customclass":""},"id":"5c763e39-0ff7-4d59-9b95-fee3977aca59","isHidden":false,"type":"heading"},{"content":{"text":"Zun\u00e4chst ben\u00f6tigt jede Webseite eine neue Datenschutzerkl\u00e4rung, die den Vorgaben der DSGVO entspricht. Grunds\u00e4tze einer DSGVO-konformen Datenschutzerkl\u00e4rung:\n\n- Einfache und verst\u00e4ndliche Sprache\n- ggf. eine vorgeschaltete, allgemein-zusammenfassende Erkl\u00e4rung\n- Kontaktdaten (n:der\/des Seitenbetreiber:in x:der Seitenbetreiberin y:des Seitenbetreibers)\n- (n:Datenschutzbeauftragte:r x:Datenschutzbeauftragte y:Datenschutzbeauftragter), wenn vorhanden\n- Die Rechtsgrundlage der jeweiligen Datenerhebung\/Verarbeitung (gesetzliche Regelung oder Einwilligung) muss konkret benannt werden\n\nDie folgenden Punkte muss eine Datenschutzerkl\u00e4rung nach DSGVO mindestens enthalten:\n\n- Nennung aller Datenverarbeitungsvorg\u00e4nge auf der Webseite\n- Umgang mit (n:Kund:innen x:Kundinnen y:Kunden)-\/Bestelldaten\n- <span lang=\"en\">Tracking<\/span>, <span lang=\"en\">Cookies<\/span>, <span lang=\"en\">Social Media<\/span>\n- <span lang=\"en\">Newsletter<\/span>, A(D)V\n- Dauer der Speicherung, L\u00f6schungsfristen\n- Auskunft, Berichtigung, L\u00f6schung, Widerspruch\n- Recht auf Datenherausgabe und \u00dcbertragbarkeit\n\nEine Einwilligung darf nicht innerhalb der Datenschutzerkl\u00e4rung erkl\u00e4rt werden.\n\n**Achtung! L\u00f6schpflicht Art. 17 DSGVO:**\n\nDaten m\u00fcssen gel\u00f6scht werden, wenn:\n- der Erhebungszweck weggefallen ist,\n- die Einwilligung widerrufen wurde (<span lang=\"en\">Newsletter<\/span>-Abmeldung),\n- ein Widerspruch (gender:der:des Nutzer:in x:der Nutzerin y:des Nutzers xy:oder) erfolgt (\u201eL\u00f6schen Sie meine Daten\u201c) und dem keine gesetzlichen Speicherpflichten entgegenstehen (Steuern und Buchhaltung)\n\nIm Impressum sind keine \u00c4nderungen notwendig. Allerdings wird momentan diskutiert, dass f\u00fcr Auskunfts-, Berichtigungs- und L\u00f6schungsanspr\u00fcche ein spezielles Kontaktformular geschaffen werden soll, das in die allgemeine Men\u00fcstruktur (bei Datenschutzerkl\u00e4rung und Impressum) integriert werden soll."},"id":"b0652114-42e8-45e7-a3a8-5b743af8389b","isHidden":false,"type":"text"}],"id":"984bef34-1e43-4fcc-b343-e87679ca5b7f","width":"1\/1"}],"id":"b31eab59-10bf-4bd3-9d41-888960efe22b"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"fe470cd6-e45a-437e-b11f-92ede4ea39c6","isHidden":false,"type":"kontaktform"}],"id":"d2bab401-8230-4110-8709-9ee7aff5433d","width":"1\/1"}],"id":"b7b76a9f-6ce3-4736-8297-4539412ef14d"}]
+
+----
+
+Date: 2018-04-03 15:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Alle Datenschutzerklärungen müssen auf allen Webseiten in jedem Fall zum 25. Mai 2018 neu erstellt werden.
+
+----
+
+Articleimage: - file://xm6UBwHGC3FwJZqI
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: oPFXffDtSpE5Tg32

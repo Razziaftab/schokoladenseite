@@ -1,0 +1,41 @@
+Title: DSGVO: Datenschutz-Folgenabschätzung
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://J8A702jmOocuKpmP
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"In bestimmten F\u00e4llen sind Sie verpflichtet, die Folgen der Datenverarbeitung zu bewerten und dies in einer sog. Datenschutz-Folgenabsch\u00e4tzung nach Art. 35 DSGVO festzuhalten. Eine sog. DSFA ist grunds\u00e4tzlich immer dann durchzuf\u00fchren, wenn \"eine Form der Verarbeitung, insbesondere bei Verwendung neuer Technologien, aufgrund der Art, des Umfangs, der Umst\u00e4nde und der Zwecke der Verarbeitung voraussichtlich ein hohes Risiko f\u00fcr die pers\u00f6nlichen Rechte und Freiheiten zur Folge (hat)\"."},"id":"80e474c2-0f29-4433-a874-438d1bce2c61","isHidden":false,"type":"text"}],"id":"11daac35-ceb4-4a1c-b655-0a66205b8c18","width":"1\/1"}],"id":"e332407d-2121-4df9-9d50-1619cb7488d0"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Dies ist z.B. bei den folgenden Konstellationen der Fall:","customid":"","customclass":""},"id":"05a2d37f-fdf2-4cbc-8018-d00ac1fc1902","isHidden":false,"type":"heading"},{"content":{"text":"- Verarbeitung von Gesundheitsdaten, Religion, Sexualit\u00e4t\n- Gesch\u00e4ftsgeheimnisse\n- <span lang=\"en\">Profiling<\/span>\/<span lang=\"en\">Scoring<\/span>\n- Strafbare Handlungen\n- u.v.m."},"id":"3865f75b-a6e6-48c8-9c86-1e0f02714b64","isHidden":false,"type":"text"}],"id":"c26f99c3-969a-40ce-b094-1313c49d4608","width":"1\/1"}],"id":"f93d2678-bcff-4d09-9659-94df9631072f"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/6ZHMj34haH8BLsrB"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"04ad5bfd-c4f8-4636-9f64-9a4e2afe2280","isHidden":false,"type":"cta"}],"id":"7c868344-08a8-4ebf-a88d-7f621ea0e22d","width":"1\/1"}],"id":"a7cb3592-b539-4d59-a1ad-fa0575bc3b46"}]
+
+----
+
+Date: 2018-04-05 18:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: In bestimmten Fällen sind Sie verpflichtet, die Folgen der Datenverarbeitung zu bewerten.
+
+----
+
+Articleimage: - file://yaeoC8TbBCx8s8Jt
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: 2OYV8bZ8pdzmuZgO

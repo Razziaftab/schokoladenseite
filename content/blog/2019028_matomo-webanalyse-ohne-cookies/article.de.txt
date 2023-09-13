@@ -1,0 +1,41 @@
+Title: Webanalyse ohne Cookies – Matomo
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://CZk4Vwqye8ooDpSj
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"**<span lang=\"en\">Cookie<\/span>freies <span lang=\"en\">Tracking<\/span>** ist m\u00f6glich! Das Webanalysetool Matomo (das fr\u00fchere Piwik) erfreut sich wegen seiner guten Anpassbarkeit bzgl. der Datenverwendung gro\u00dfer Beliebtheit und ist nach Platzhirsch <span lang=\"en\">Google Analytics<\/span> das meistverwendete <span lang=\"en\">Tool<\/span>. Das richtungsweisende Urteil des EuGH vom 01.10.2019 verdeutlichte nun auf Grundlage der DSGVO die Pflicht zur obligatorischen (n:User:innen x:Userinnen y:User)-Einwilligung bei der Verwendung von <span lang=\"en\">Cookies<\/span>; wegklickbare Banner geh\u00f6ren damit (hoffentlich) der Vergangenheit an (dar\u00fcber haben wir (link: blog\/eugh-urteil-like-button-cookies text: im Blogbeitrag \"EuGH-Urteil zum Like-Button und Cookies auf Webseiten\") schon berichtet)."},"id":"0d7847d8-232d-43a8-a009-73cf55d2ee0a","isHidden":false,"type":"text"}],"id":"eea3b94c-09d2-4cfd-9cd4-5c031ee0ee63","width":"1\/1"}],"id":"ddb10abf-3220-4c93-8014-24afe844b8cd"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Einfacher geht\u2019s mit Matomo","customid":"","customclass":""},"id":"82f6a601-f771-4124-9bde-ea9ba17b6631","isHidden":false,"type":"heading"},{"content":{"text":"Bei Verwendung von Matomo k\u00f6nnen die (n:Betreiber:innen x:Betreiberinnen y:Betreiber) von Webseiten aber auch ganz auf das Setzen von <span lang=\"en\">Cookies<\/span> verzichten; dazu w\u00e4hlen Sie einfach in den erweiterten Einstellungen die Option \"Alle <span lang=\"en\">Tracking Cookies<\/span> deaktivieren\". Alternativ ist dies auch im (link: https:\/\/matomo.org\/faq\/general\/faq_157\/ text: Javascript-Code target:_blank title: Externer Link zum Matomo FAQ (\u00d6ffnet im neuen Tab)) von Matomo m\u00f6glich. So umgehen Sie die l\u00e4stigen <span lang=\"en\">Opt-out<\/span>-Banner beim Seitenaufruf und m\u00fcssen trotzdem nicht auf die umfangreichen Analysem\u00f6glichkeiten der <span lang=\"en\">customer journey<\/span> verzichten.\n\nAllerdings muss auch dann in der Datenschutzklausel eine generelle <span lang=\"en\">Opt-out<\/span>-Option f\u00fcr das <span lang=\"en\">Tracking<\/span> (via <span lang=\"en\">IFrame<\/span>) angeboten werden, da gem\u00e4\u00df DSGVO die (n:Benutzer:innen x:Benutzerinnen y:Benutzer) von Webseiten jederzeit das Recht haben m\u00fcssen, Datenverarbeitungen, die auf berechtigte Interessen gest\u00fctzt werden, zu widersprechen.\n\n**Ben\u00f6tigen Sie Hilfe bei der technichen Umsetzung und dem Einbau eines <span lang=\"en\">cookie<\/span>freien <span lang=\"en\">Trackings<\/span> mit Matomo? (link: kontakt text: Wir helfen Ihnen gerne dabei title: Zum Kontaktformular)!**"},"id":"5dd9ccfa-b326-43f8-8015-9b363efcbc7d","isHidden":false,"type":"text"}],"id":"1173762d-2945-4444-91e0-d20fedd79090","width":"1\/1"}],"id":"effaae8b-846f-4b4a-b785-c6d8b5044c1f"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"0866bf5a-d32f-4945-b8ff-ed4933397990","isHidden":false,"type":"kontaktform"}],"id":"c8b1916d-0a78-43dd-965e-4938534be3ab","width":"1\/1"}],"id":"b54a4dab-8541-4638-8ca1-fa92f1d1fddc"}]
+
+----
+
+Date: 2019-10-28 11:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Cookiefreies Tracking ist möglich! Das Webanalysetool Matomo (das frühere Piwik) erfreut sich wegen seiner guten...
+
+----
+
+Articleimage: - file://3xyYeDcTTMIBxWmU
+
+----
+
+Categories: DSGVO, Analytics, Marketing, Technik, Programmierung
+
+----
+
+Uuid: nML4IPZCoAPZh0QZ

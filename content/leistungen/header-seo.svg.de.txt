@@ -1,0 +1,17 @@
+Alt: Google, Facebook und Linkedin Icon im Kreis angeordnet
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image

@@ -1,0 +1,29 @@
+Title: Jonas, der Glühweinschlürfer
+
+----
+
+Seodescription: Trommelwirbel - hier kommt unsere nächste Vorstellungsrunde. Heute mit unserem Mann im Hintergrund Jonas
+
+----
+
+Image: - 16.jpg
+
+----
+
+Door: 16
+
+----
+
+Size: col-2
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **Jonas, der Gl\u00fchweinschl\u00fcrfer**\n\n*Trommelwirbel - hier kommt unsere n\u00e4chste Vorstellungsrunde. Heute mit unserem Mann im Hintergrund Jonas.* \n\n**Seit wann bist du im SCHOKO-Team und was ist deine Aufgabe?**\n- Moment, sind das etwa schon 2 Jahre? Die Zeit verging aber wie im Flug \ud83e\udd14 Die Frage ist ja eher, was ich au\u00dfer Administrativem so mache \ud83e\udd28 Meistens jongliere ich jedoch mit Zahlen ...\n\n**Direkt zur wichtigsten Frage: Was ist deine Lieblings-Schokoladensorte?**\n- Es wird gegessen, was auf den Tisch kommt!!!! JEDE Sorte hat einen Platz in meinem Bauch verdient \ud83d\ude08 \n\n**Was passiert, wenn du \"Last Christmas\" ((link: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI text: https:\/\/www.youtube.com\/watch?v=E8gmARGvPlI target: _blank title: Externer Link zu \"Last Christmas\" auf YouTube (\u00d6ffnet im neuen Tab))) im Radio h\u00f6rst?** \n- \u00c4hhhhm?! Wer h\u00f6rt denn noch Radio? Ohne dieses nervt mich das meistgehasste (und meistgeliebte) Weihnachtslied der Welt nicht \ud83d\ude09\n\n**Was m\u00f6chtest du in der Vorweihnachtszeit unbedingt machen?**\n- Die ausgefallenen Weihnachtsm\u00e4rkte der letzten Saison kompensieren \ud83c\udf77\u2744\ufe0f Das Ziel ist, auf jedem Markt einen Gl\u00fchwein zu trinken \ud83e\udd73\n\n**Welche SCHOKO-Superkr\u00e4fte hast du?**\n- Drei gro\u00dfe Kaffee w\u00e4hrend einer Zwei-Stunden-Schicht trinken, ohne zu zucken \ud83d\ude44"},"id":"f172a807-2922-45a9-9dea-060b08659310","isHidden":false,"type":"text"}],"id":"6efd0687-7233-4795-b2e1-903a64ddb8d7","width":"1\/1"}],"id":"2dbe6ec6-e4d4-4a75-94d3-1f80950dcf3b"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: ZphkUaguUEo6gREC

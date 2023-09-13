@@ -1,0 +1,5 @@
+name: Youtube Video
+icon: video
+fields:
+  text:
+    type: text

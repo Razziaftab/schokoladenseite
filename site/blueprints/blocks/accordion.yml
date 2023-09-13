@@ -1,0 +1,24 @@
+title: Accordion
+icon: angle-down
+fields: 
+  header:
+    type: markdown
+    inline: true
+    buttons:
+      - gender
+  text:
+    type: markdown
+    inline: true
+    buttons:
+      - headlines
+        - h2
+        - h3
+      - bold
+      - italic
+      - ol
+      - ul
+      - link
+      - email
+      - pagelink
+      - gender
+      - lang

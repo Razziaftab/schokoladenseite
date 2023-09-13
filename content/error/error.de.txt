@@ -1,0 +1,21 @@
+Title: Error
+
+----
+
+Layout: [{"attrs":{"layoutid":"","arialabelledby":"","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"Ups!","level":"h1","text":"404 - Die gesuchte Seite konnte nicht gefunden werden","customid":"","customclass":""},"id":"e481c44d-b190-46b5-8cf0-2adefca3f3e5","isHidden":false,"type":"heading"}],"id":"38bb2985-5bc2-4315-8fb7-69d72219e484","width":"1\/1"}],"id":"e7aae093-5df2-4da0-8da4-40d4fe3a539d"},{"attrs":{"layoutid":"","arialabelledby":"","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"text":"Aktuelle Blogbeitr\u00e4ge","filter":""},"id":"655cd484-a781-493a-aead-e72192e3128a","isHidden":false,"type":"news"}],"id":"c30fd571-58b5-4a4e-81b2-48dc03213049","width":"1\/1"}],"id":"7370bd61-a20a-409a-903d-393ce704c923"}]
+
+----
+
+Seotitle: 404 - Die gesuchte Seite konnte nicht gefunden werden
+
+----
+
+Seodescription: 
+
+----
+
+Seoimage: 
+
+----
+
+Uuid: Lrw10zYpeKAuesFQ

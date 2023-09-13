@@ -1,0 +1,21 @@
+Alt: Zur Webentwicklung
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: eCDvxQ5rf7dMZdpY
+
+----
+
+Template: blocks/image

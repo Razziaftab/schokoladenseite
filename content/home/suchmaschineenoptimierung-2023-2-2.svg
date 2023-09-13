@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="305px" height="305px" viewBox="0 0 305 305" style="enable-background:new 0 0 305 305;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:5.000000e-02;enable-background:new    ;}
+	.st1{fill:url(#Vereinigungsmenge_20_00000090983928366678643640000005397379706390031021_);}
+	.st2{fill:#FFFFFF;}
+	.st3{opacity:0.23;fill:url(#Linie_2_00000067915754536458875610000010981094908214168974_);enable-background:new    ;}
+</style>
+<g id="Gruppe_21" transform="translate(-797.12 -508.074)">
+	<path id="Pfad_17" class="st0" d="M896.3,531.7c-25.3,12.2-35.8,34.9-66.2,120.7c-31.4,88.6-31.5,96.1-27.2,105.1
+		c21.8,45.8,115.3,40.8,149.8,38.9c28.7-1.5,65-4,99.2-29.2c12.3-9,37.9-27.9,44.8-60.3c6.2-29.4-6.5-53.5-21.4-81.7
+		c-20.3-38.5-46.7-60.1-54.5-66.2c-18.5-14.5-42.5-33.2-77.8-35C934.5,523.5,915.4,522.5,896.3,531.7z"/>
+	
+		<linearGradient id="Vereinigungsmenge_20_00000031888965402394298200000004918535537195097749_" gradientUnits="userSpaceOnUse" x1="2228.1902" y1="42.0088" x2="2228.7703" y2="43.0116" gradientTransform="matrix(260 0 0 183 -578469.375 -7121.2568)">
+		<stop  offset="0" style="stop-color:#D50018"/>
+		<stop  offset="1" style="stop-color:#8301F1"/>
+	</linearGradient>
+	
+		<path id="Vereinigungsmenge_20" style="fill:url(#Vereinigungsmenge_20_00000031888965402394298200000004918535537195097749_);" d="
+		M819.7,757.6c-4.4,0-7.9-3.5-7.9-7.9l0,0V581.6c0-3.9,3.1-7,7-7h246c3.9,0,7,3.1,7,7l0,0v168.1c0,4.4-3.5,7.9-7.9,7.9l0,0H819.7z
+		 M815.2,749.7c0,2.5,2,4.5,4.5,4.5h244.2c2.5,0,4.5-2,4.5-4.5V594.9H815.2V749.7z M915.8,709.8l-29.9,14.3l-24.7-9.3l-22.3,8.9
+		l-2.1-5.2l24.3-9.7l24.4,9.3l32.2-15.4l11.1,17.9l30.1-27.1l14.6,9.5l24.3-15.7l8.9,4l36.7-36.8l-3-2.9l11.9-2.6l-2.2,12l-2.7-2.6
+		l-39.5,39.6l-9.6-4.4l-24.8,16l-14.1-9.1l-31.9,28.7L915.8,709.8z M880.8,651.4c-8.3,0-15-6.7-15-15l0,0v-2.8c0-8.3,6.7-15,15-15
+		h121.9c8.3,0,15,6.7,15,15v2.8c0,8.3-6.7,15-15,15H880.8z"/>
+	<path id="Linie_1" class="st2" d="M1005.4,641.8l-3.7-3.7l1.6-1.6l3.7,3.7L1005.4,641.8z"/>
+	<path id="Ellipse_3" class="st2" d="M998.1,628.4c-2.5,0-4.5,2-4.5,4.5s2,4.5,4.5,4.5s4.5-2,4.5-4.5l0,0
+		C1002.6,630.4,1000.6,628.4,998.1,628.4 M998.1,626.1c3.7,0,6.8,3,6.8,6.8s-3,6.8-6.8,6.8s-6.8-3-6.8-6.8l0,0
+		C991.4,629.1,994.4,626.1,998.1,626.1z"/>
+	
+		<linearGradient id="Linie_2_00000017517085729435239250000013982248514207455899_" gradientUnits="userSpaceOnUse" x1="2228.8054" y1="169.2987" x2="2229.3853" y2="170.3017" gradientTransform="matrix(223.261 0 0 7.893 -496732.6562 -634.985)">
+		<stop  offset="0" style="stop-color:#D50018"/>
+		<stop  offset="1" style="stop-color:#8301F1"/>
+	</linearGradient>
+	
+		<path id="Linie_2" style="opacity:0.23;fill:url(#Linie_2_00000017517085729435239250000013982248514207455899_);enable-background:new    ;" d="
+		M1053.9,709.5H830.7v-7.9H1054L1053.9,709.5L1053.9,709.5z"/>
+	<g id="Gruppe_19" transform="translate(815.03 565.304)">
+		<circle id="Ellipse_4" class="st2" cx="8.3" cy="19.8" r="4.5"/>
+		<circle id="Ellipse_5" class="st2" cx="23.3" cy="19.8" r="4.5"/>
+		<circle id="Ellipse_6" class="st2" cx="37.3" cy="19.8" r="4.5"/>
+	</g>
+</g>
+</svg>

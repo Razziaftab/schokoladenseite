@@ -1,0 +1,21 @@
+Alt: 
+
+----
+
+Title: 
+
+----
+
+Caption: Küche mit 4 Sitzplätzen
+
+----
+
+Template: galerie
+
+----
+
+Sort: 11
+
+----
+
+Uuid: LJ3R7bxbR05dEzVi

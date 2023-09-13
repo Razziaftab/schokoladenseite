@@ -1,0 +1,44 @@
+Title: go-digital Förderprogramm
+
+----
+
+Articleheader: go-digital Förderprogramm
+
+----
+
+Intro: Staatliche Förderung für Ihre Digitalisierung - das ist go-digital. Und SCHOKOLADENSEITE.net Ihre Partnerin für die Umsetzung.
+
+----
+
+Mp3: 
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Haben Sie ein kleines oder mittleres Unternehmen (KMU) oder einen Handwerksbetrieb und wollen den Schritt in die digitale Welt wagen? Oder sind Sie mit Ihrem Unternehmen schon online, haben aber keine personelle Kapazit\u00e4t, Ihren Internetauftritt aktuell zu halten und an neue Anforderungen (Stichwort DSGVO) anzupassen? Dann sollten Sie das **F\u00f6rderprogramm go-digital** des BMWI in Anspruch nehmen!"},"id":"20980c0b-0028-49a5-b874-c7f355b89720","isHidden":false,"type":"text"}],"id":"e2e59273-285e-4956-af36-66bde90b58d0","width":"1\/1"}],"id":"074771b8-e4f5-4497-a01b-862983585d3b"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Wir machen Sie fit f\u00fcr die digitale Zukunft","customid":"","customclass":""},"id":"162c8143-6823-494a-941d-8f3f5a2c3ee3","isHidden":false,"type":"heading"}],"id":"028bb62e-deaa-4c18-88ea-10ab9f5ab211","width":"1\/1"}],"id":"0415cfe9-2c92-4478-9a4f-1833393e1159"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Als **zertifiziertes Beratungsunternehmen** \u00fcbernehmen wir f\u00fcr Sie die **Abwicklung s\u00e4mtlicher Formalit\u00e4ten** bei der Antragsstellung. Wir \u00fcberpr\u00fcfen die F\u00f6rderf\u00e4higkeit Ihres Unternehmens, leisten eine wettbewerbsneutrale Beratung von der Analyse Ihres Vorhabens bis zur Umsetzung, und dokumentieren die Leistungserbringung im Verwendungsnachweis. Und schlie\u00dflich k\u00fcmmern wir uns noch um die Abrechnung. Kurz gesagt: wir \u00fcbernehmen f\u00fcr Sie die Gesamtverantwortung f\u00fcr das Projekt."},"id":"7e29ef8d-1ca9-4203-9047-d6b797dae9bf","isHidden":false,"type":"text"}],"id":"154287e1-9758-4d54-b58e-ba14d9a7411a","width":"1\/1"}],"id":"c3e143cb-f4c8-410a-b874-972efc958ecb"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Das Beste ist: die H\u00e4lfte zahlt der Staat","customid":"","customclass":""},"id":"7f9d6fff-ae46-4199-b30c-65591941c0e3","isHidden":false,"type":"heading"}],"id":"1b3363fb-f3aa-4043-9d53-fc485bb0adbe","width":"1\/1"}],"id":"04e5d91d-09f0-467d-ba57-1d16edc18063"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Sie haben richtig gelesen: das F\u00f6rderprogramm go-digital beinhaltet, dass die **H\u00e4lfte der Kosten** f\u00fcr Ihr digitales Projekt vom Staat \u00fcbernommen werden. Der F\u00f6rderumfang betr\u00e4gt maximal 30 Beratertage, verteilt auf einen Zeitraum von bis zu 6 Monaten. Gut zu wissen: davon sind 2 Beratertage zur **IT-Sicherheit** vorgegeben, damit Ihr Unternehmen auch die wichtige Absicherung gegen Cyberkriminalit\u00e4t erh\u00e4lt."},"id":"6fb7ebd0-e1c7-4783-afc1-c1ff447cc810","isHidden":false,"type":"text"}],"id":"2c4c536c-e66c-49e4-a8d3-644f6dad7ecf","width":"1\/1"}],"id":"01b5d631-c02e-4a31-b3ed-c31587b57f96"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Digitale Markterschlie\u00dfung","customid":"","customclass":""},"id":"b889725a-d69a-4cb7-86c8-3f7155540e94","isHidden":false,"type":"heading"}],"id":"ce1f33a9-95bf-44be-befe-7884c4b35c5c","width":"1\/1"}],"id":"95ee06ec-ca35-4adf-a818-7b3adb4f2fa9"},{"attrs":{"toggle":"true","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Bei SCHOKOLADENSEITE.net werden Sie mit Ihrem Projekt im Modul \"Digitale Markterschlie\u00dfung\" betreut. Ziele Ihres Projekts sollen die Unterst\u00fctzung der Vermarktung Ihrer Produkte bzw. Dienstleistungen sowie die Erschlie\u00dfung neuer M\u00e4rkte und Kundengruppen sein.\n\nGef\u00f6rdert werden folgende Inhalte: \n- Entwicklung einer unternehmensspezifischen Online-Marketing-Strategie\n- Aufbau einer professionellen Internetpr\u00e4senz zur Vermarktung\n- Einf\u00fchrung eines eigenen Online-Shops oder Nutzung externer Auktions-, Verkaufs- oder Dienstleistungsplattformen, sowie auch Social-Media-Tools, Website-Monitoring und Content-Marketing\n- nachgeordnete Gesch\u00e4ftsprozesse eines Online-Shops, wie bspw. die Warenbereitstellung und Zahlungsverfahren\n\nWeitere Informationen \u00fcber das Programm finden Sie auch auf den Seiten des Bundeswirtschaftsministeriums zum (link: https:\/\/www.innovation-beratung-foerderung.de\/INNO\/Navigation\/DE\/go-digital\/go-digital.html text: F\u00f6rderprogramm go-digital)."},"id":"574403c1-f48d-460b-9fb6-c1c0fc288bc1","isHidden":false,"type":"text"}],"id":"46853ad7-7469-40ee-844d-09166929c789","width":"1\/1"}],"id":"274ebda9-bdec-4d16-9838-d55ca13de625"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/6lJ5eXtZQl0eUfhO"],"caption":"Sprechen Sie uns noch heute an - wir beraten Sie gerne zu den M\u00f6glichkeiten der Digitalen Markterschlie\u00dfung f\u00fcr Ihr Unternehmen! Hier geht's zu unserer (link: kontakt text: Kontaktseite).\n\n(link: kontakt text: Kontakt aufnehmen! class: btn -primary)"},"id":"f76f587e-a92c-4322-bce9-44278c298b73","isHidden":false,"type":"cta"}],"id":"c116d07c-d9cf-4e20-9083-d6bcec6e52e2","width":"1\/1"}],"id":"c5d46be4-8cec-4dbd-b5fb-58c1ccbd1076"}]
+
+----
+
+Date: 2022-02-16 00:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Haben Sie ein kleines oder mittleres Unternehmen (KMU) oder einen Handwerksbetrieb und wollen den Schritt in die digitale Welt wagen? Oder müssen Sie Ihre Unternehmens-Website modernisieren? Dann sollten Sie das neue **Förderprogramm go-digital** des BMWI in Anspruch nehmen!
+
+----
+
+Articleimage:
+
+- file://6lJ5eXtZQl0eUfhO
+- file://K9hAEiwGLjrAFLzV
+
+----
+
+Categories: 
+
+----
+
+Uuid: zQfHii6EXtotiJXM

@@ -1,0 +1,29 @@
+Title: In der Weihnachtsbäckerei - Dresdner Christstollen
+
+----
+
+Seodescription: Unsere Kollegin Linda ist ja für viele Naschereien zu begeistern, aber für einen Dresdner Christstollen würde sie alles stehen und liegen lassen
+
+----
+
+Image: - 17.jpg
+
+----
+
+Door: 17
+
+----
+
+Size: col-1
+
+----
+
+Layout: [{"attrs":[],"columns":[{"blocks":[{"content":{"text":"### **In der Weihnachtsb\u00e4ckerei - Dresdner Christstollen**\n\n*Unsere Kollegin Linda ist ja f\u00fcr viele Naschereien zu begeistern, aber f\u00fcr einen Dresdner Christstollen w\u00fcrde sie alles stehen und liegen lassen.* \n\n**Die Zutaten:**\n- 2 W\u00fcrfel frische Hefe\n- 150 g Zucker\n- 250 ml Milch (lauwarm)\n- geriebene Schale von 2 Bio-Zitronen\n- 500 g Butter\n- 1 kg Weizenmehl (Type 1050)\n- 1 TL Salz\n- 1 TL Kardamom\n- 100 g gemahlene Mandeln\n- 100 g Zitronat & Orangeat (fein gew\u00fcrfelt)\n- 200 g Butter (zerlassen)\n- 250 g Zucker\n- 5 EL Vanillezucker\n- Puderzucker\n**\nSo wird's gemacht:**\nDie Frischhefe fein zerbr\u00f6seln, mit 1 EL Zucker und 3 EL lauwarmer Milch (nicht zu hei\u00df, das mag die Hefe gar nicht!) verr\u00fchren und an einem warmen Ort 10 Minuten gehen lassen. Bio-Zitronen gr\u00fcndlich waschen, abtrocknen und Schale fein abreiben. Butter lauwarm anw\u00e4rmen.2\/3 des Mehls in eine Sch\u00fcssel sieben, in der Mitte eine Mulde machen, an den Rand die Gew\u00fcrze, restlichen Zucker, Zitronenschale und Butter geben. Von der Mitte aus die Hefe mit dem Mehl, lauwarmer Milch und den \u00fcbrigen Zutaten vom Rand verr\u00fchren. Der Teig muss so lange gr\u00fcndlich geknetet werden, bis er Blasen wirft.Dann das restliche Mehl unterkneten, zum Schluss Mandeln, Zitronat und Orangeat dazugeben. Den Teig abgedeckt an einem warmen Ort 1-1,5 Stunden gehen lassen, bis er sich sichtbar vergr\u00f6\u00dfert hat.Teig halbieren, zu zwei Stollen formen, auf ein gefettetes Backblech legen und nochmals gehen lassen.Bei Ober-\/Unterhitze 180 \u00b0C (Umluft 160 \u00b0C) ca. 50-60 Minuten backen. Christstollen sofort nach dem Backen mit zerlassener Butter bestreichen und mit Zucker und Vanillezucker bestreuen. Nach dem Erkalten dick mit Puderzucker best\u00e4uben. \ud83d\ude0b\n\n*Wir empfehlen, vor dem Backen s\u00e4mtliche Personenwaagen im Haushalt wegzur\u00e4umen und erst in 2 Monaten wieder hervorzuholen. *"},"id":"ef8db508-3758-4bb3-a184-f690c170ea15","isHidden":false,"type":"text"}],"id":"82e718c5-b12e-4e61-847a-f936e8e2f1f5","width":"1\/1"}],"id":"3332f728-3472-41aa-bf1b-f0c4381c10af"}]
+
+----
+
+Text: 
+
+----
+
+Uuid: YEn0AZlVW2zXIpNK

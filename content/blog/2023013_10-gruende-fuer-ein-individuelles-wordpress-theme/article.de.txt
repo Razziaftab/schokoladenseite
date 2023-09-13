@@ -1,0 +1,41 @@
+Title: 10 Gründe für ein individuelles WordPress Theme
+
+----
+
+Articleheader: 10 Gründe für ein individuelles WordPress Theme
+
+----
+
+Intro: Für WordPress gibt es eine große Anzahl von fertigen <span lang="en">Themes</span>. Warum sollten Sie sich trotzdem besser für ein individuell entwickeltes <span lang="en">WordPress-Theme</span> entscheiden? Im SCHOKO-Blog liefern wir Ihnen ein paar richtig gute Argumente!
+
+----
+
+Mp3: - file://hhwbY3BE3evQ27VM
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Der Stundensatz f\u00fcr <span lang=\"en\">WordPress<\/span>(gender: -Entwickler:innen x: -Entwicklerinnen y: -Entwickler xy: und) ist nicht gerade niedrig, und so ist der Griff nach einem fertigen <span lang=\"en\">WordPress-Theme<\/span> nicht nur bequem, sondern scheinbar auch kosteng\u00fcnstig. Tats\u00e4chlich hat ein individuell programmiertes <span lang=\"en\">Theme<\/span> aber viele Vorteile, z. B. geringere Kosten bei Wartung und Erweiterung der <span lang=\"en\">Website<\/span>. Aus unserem Alltag als <span lang=\"en\">WordPress<\/span>-Agentur haben wir f\u00fcr Sie die 10 wichtigsten Gr\u00fcnde f\u00fcr Ihr eigenes <span lang=\"en\">WordPress-Theme<\/span> zusammengetragen."},"id":"249db61c-7b5d-4e37-a3c8-c0e2fb3f77bf","isHidden":false,"type":"text"}],"id":"dca7103b-e8e6-41a5-b6f1-d73b4927977c","width":"1\/1"}],"id":"67de9737-b6d3-4827-963d-eaecb11be722"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Gestaltung und Skalierbarkeit\n-\tV\u00f6llige Freiheit, was das Design angeht - heben Sie sich optisch bestens von den Mitbewerbern ab\n- Individuellere Optimierung f\u00fcr <span lang=\"en\">Mobile<\/span> - \u00fcber 50 % der <span lang=\"en\">User<\/span> surfen mit Mobilger\u00e4ten (Tendenz steigend)\n-\tLeichter erweiterbar um neue Funktionen - hier st\u00f6rt unn\u00f6tiger <span lang=\"en\">Code<\/span> eines vorgefertigten <span lang=\"en\">Themes<\/span> bei der Programmierung"},"id":"c349cadb-0d3e-476f-b57c-3c2a11f585f7","isHidden":false,"type":"text"}],"id":"655e3256-c5b5-4665-97ce-359130de38ef","width":"1\/1"}],"id":"958f37e2-2033-43d8-8d27-690fa0afac23"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## <span lang=\"en\">Performance<\/span> \n-\tSchnelle Ladezeiten - kein \u00fcberfl\u00fcssiger <span lang=\"en\">Code<\/span> in Ihrem <span lang=\"en\">WordPress-Theme<\/span> enthalten \n- Auf <span lang=\"en\">Google Core Web Vitals<\/span> optimiert - mehr <span lang=\"en\">Speed<\/span>, besseres Nutzungserlebnis (UX) und positiver Einfluss aufs Google-Ergebnis (<span lang=\"en\">Ranking<\/span>)\n- Einhalten von Web-Standards und sauberer <span lang=\"en\">Code<\/span> - verbessert <span lang=\"en\">Ranking<\/span> und Seitengeschwindigkeit zus\u00e4tzlich"},"id":"aa1a870c-1f3a-4ed2-b559-c821184c52ac","isHidden":false,"type":"text"}],"id":"66b659a1-48f0-497d-bb71-9be3f4064bca","width":"1\/1"}],"id":"b42599de-5b91-4962-b412-cf7de3174eed"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Bedienbarkeit\n-\tNeue Inhalte leichter einpflegen, weil Ihr <span lang=\"en\">Backend<\/span> genau auf den Inhalt abgestimmt ist - ohne unn\u00f6tige Optionen\/Funktionen und zeitraubende Umwege"},"id":"49c08d61-8ad9-4e36-8b46-1f46763c3d38","isHidden":false,"type":"text"}],"id":"f86874ab-8bdf-4046-a223-1eeb59b92f1a","width":"1\/1"}],"id":"dbbd3477-1955-4ef1-a39f-cd773870a68e"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Sicherheit\n-\tWeniger <span lang=\"en\">Code<\/span> ist sicherer - sorgt f\u00fcr mehr \u00dcberblick bei der Behebung von Schwachstellen"},"id":"faead422-441c-461d-970c-6710ec89bd90","isHidden":false,"type":"text"}],"id":"71d1f8ba-512c-45ea-ab62-cb49b87d90df","width":"1\/1"}],"id":"7fc48342-6856-4409-a7e4-48b15a9f8314"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"## Wartung\n-\tKeine bis wenige Probleme bei <span lang=\"en\">CMS-\/Plugin-Updates<\/span> - nur ben\u00f6tigte <span lang=\"en\">Plugins<\/span> enthalten\n-\tKeine unerwarteten Layout-\u00c4nderungen nach <span lang=\"en\">Theme-Updates<\/span> - Sie haben die volle Kontrolle \u00fcber Ihr <span lang=\"en\">Theme<\/span>"},"id":"8181f29f-3fdb-41a0-99de-ded44de04935","isHidden":false,"type":"text"}],"id":"cf58fc0b-c29a-462b-8207-74db874a9c10","width":"1\/1"}],"id":"2b046884-4fd3-4797-9523-1786d63ebfff"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Unser Fazit: auch wenn die Kosten bei der ersten Erstellung einer <span lang=\"en\">Website<\/span> mit einem individuellen <span lang=\"en\">WordPress-Theme<\/span> zun\u00e4chst etwas h\u00f6her sind, lohnt sich der Aufwand durch bessere <span lang=\"en\">Performance<\/span> und bessere Suchmaschinen-<span lang=\"en\">Rankings<\/span>. Und auch die laufende Wartung Ihrer <span lang=\"en\">WordPress-Website<\/span> ist viel einfacher. Wir beraten Sie dazu gerne unverbindlich - hier geht's zum (link: kontakt text: Kontaktformular target: _blank title: Link \u00f6ffnet die Seite mit unserem Kontaktformular im neuen Tab)."},"id":"eec34b6a-1659-40df-860b-0d6d8f6fd065","isHidden":false,"type":"text"}],"id":"d08334e9-240f-4e56-b1df-9eb05cb2e34f","width":"1\/1"}],"id":"ae8f3efc-f56b-41f1-aa72-491f09cf7368"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/CqBGwRo8f35vadWf"],"caption":"Alle Vor- und Nachteile von WordPress und unsere Leistungen als WordPress-Agentur finden Sie auf unserer Infoseite.\n\n(link: wordpress text: WordPress-Infos class: btn -primary)"},"id":"dc610056-444a-4cef-9eb1-fd17cfa7cffd","isHidden":false,"type":"cta"}],"id":"010a88d6-d909-4af8-bbc8-9243ccaea8b1","width":"1\/1"}],"id":"7ecf67ae-ae9d-4017-9ba9-3a74351423c4"}]
+
+----
+
+Date: 2023-04-13 10:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Warum sollten Sie sich besser für ein individuell entwickeltes WordPress Theme entscheiden? Die 10 wichtigsten Argumente lesen Sie hier im SCHOKO-Blog.
+
+----
+
+Articleimage: - file://W0YVgoth0EbiUt0Y
+
+----
+
+Categories: CMS, Technik
+
+----
+
+Uuid: BgFhUqQZ5pEnO7js

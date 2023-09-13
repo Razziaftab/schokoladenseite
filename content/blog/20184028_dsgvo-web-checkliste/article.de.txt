@@ -1,0 +1,41 @@
+Title: DSGVO Web-Checkliste
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://yWO8qX4Q5k8RTLWV
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Die 3 wichtigsten \"Probleme\", die fast (gender:jede:r Webseitenbetreiber:in x:jede Webseitenbetreiberin y:jeder Webseitenbetreiber xy: und) hat","customid":"","customclass":""},"id":"dc7fde96-1e81-4d8c-85fb-68e49d5631c2","isHidden":false,"type":"heading"},{"content":{"text":"1. **<span lang=\"en\">Cookiebanner<\/span>**: Beim Verarbeiten von Cookies muss ein <span lang=\"en\">Cookiebanner<\/span> vorhanden sein. ACHTUNG: Dieser darf die rechtlichen Infos (Datenschutz + Impressum) nicht \u00fcberdecken. Auch nicht mobile!\n2. **Kontaktform \/ SSL**: Wenn Daten versendet werden \u00fcber eine <span lang=\"en\">Website<\/span>, dann muss die Website: ein SSL Zertifikat haben. Siehe URL oben im <span lang=\"en\">Browser<\/span>. Statt http = https. Und sollte es eine <span lang=\"en\">Checkbox<\/span> geben, die der User aktiv klicken muss, um zu best\u00e4tigen die Datenschutzerkl\u00e4rung zur Kenntnis genommen zu haben\n3. **<span lang=\"en\">Tracking<\/span>**: Wer z.B. <span lang=\"en\">Google Analytics<\/span> verwendet, muss eine ganze Palette an Ma\u00dfnahmen ergreifen, um dies DSGVO-konform zu tun.\n\nDetailinfos hier: (link: https:\/\/schokoladenseite.net\/blog\/dsgvo-google-analytics-rechtssicher-einsetzen\/ text: https:\/\/schokoladenseite.net\/blog\/dsgvo-google-analytics-rechtssicher-einsetzen\/)\nAuch bei datenschutzfreundlichen <span lang=\"en\">Tracking<\/span>methoden wie z.B. Matomo (ehemals Piwik) muss einiges unternommen werden.\n\n## Weitere \"Klassiker\"\nFragw\u00fcrdig bzw. umstritten sind der Einsatz von <span lang=\"en\">Google Fonts<\/span>, <span lang=\"en\">Google Maps<\/span>, <span lang=\"en\">Google Captcha<\/span>, <span lang=\"en\">Facebook Share<\/span>, <span lang=\"en\">Youtube<\/span> Videos und jegliche \u201c<span lang=\"en\">Tools<\/span>\u201d, die eine Verbindung zu einem Drittanbieter herstellen. Hier wird oft ungefragt die IP Adresse \u00fcbertragen, die als personenbezogenes Datum gilt und somit gem\u00e4\u00df DSGVO gesch\u00fctzt werden muss. Zumindest muss (n:die\/der User:in x:die Userin y:der User) VORHER um Erlaubnis gefragt werden.\n\nHierzu hat es auch bereits schon Abmahnvorf\u00e4lle gegeben.\n\n### Zu diesen Themen gibt es 3 L\u00f6sungen:\n1. L\u00f6schen\n2. DSGVO-konforme Alternative finden\n3. Restrisiko in Kauf nehmen abgemahnt zu werden und bestm\u00f6glich im Datenschutz auf die Nutzung  informieren"},"id":"4e3f9a75-e93b-4c83-9aae-daf86b832fa0","isHidden":false,"type":"text"}],"id":"f29d72e8-69f3-4905-8c2c-45ac76857335","width":"1\/1"}],"id":"2f12bffe-f045-4e19-a2ff-6dad2708db83"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"953dc882-33ed-45de-988a-2667ea158413","isHidden":false,"type":"kontaktform"}],"id":"47d2f4f2-e92b-4fb6-add9-ed5ca820d14a","width":"1\/1"}],"id":"80437085-dcf3-4f7a-b21a-fc884911303c"}]
+
+----
+
+Date: 2018-08-28 16:40:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Die 3 wichtigsten “Probleme”, die fast jeder Webseitenbetreiber hat.
+
+----
+
+Articleimage: - file://hpTbBEaRhxzRwSbD
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: pxHFkX47GIV2QpQq

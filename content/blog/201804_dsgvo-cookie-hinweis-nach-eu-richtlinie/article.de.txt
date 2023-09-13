@@ -1,0 +1,41 @@
+Title: DSGVO: Cookie Hinweis nach EU Richtlinie
+
+----
+
+Articleheader: 
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://PvwyNHUpzyOfb14Z
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"So gut wie alle Webseiten benutzen <span lang=\"en\">Cookies<\/span>. Das ist ganz normal und Bestandteil einer guten <span lang=\"en\">Usability<\/span>. (n:User:innen x:Userinnen y:User) m\u00fcssen mit Hilfe von <span lang=\"en\">Cookies<\/span> beispielsweise Daten nicht nach jedem Besuch neu eingeben oder es wird erkannt, was (n:die\/der User:in x:die Userin y:der User) bereits gekauft hat.\n\nDie EU <span lang=\"en\">Cookie<\/span>-Richtlinie sieht eine ausdr\u00fcckliche Einwilligung vor, dass <span lang=\"en\">Cookies<\/span> eingesetzt werden d\u00fcrfen. Diese Richtlinie wird aber von Deutschland noch gar nicht umgesetzt. D.h. diese Richtlinie gilt bei uns so (noch) nicht. Allerdings besagt der \u00a7 15 Abs.3 Telemediengesetz (TMG), dass es ausreicht, (n:die\/den User:in x:die Userin y:den User) dar\u00fcber zu unterrichten und auf einen Widerspruch hinzuweisen.\nDies kann als <span lang=\"en\">Cookie<\/span>-Hinweis in Form einer Verlinkung auf den Datenschutzhinweis umgesetzt werden."},"id":"e04cf1e1-f767-4d78-825c-3c1ae348b331","isHidden":false,"type":"text"}],"id":"53a183bb-77b3-460b-b9bc-fdee71e6e9f7","width":"1\/1"}],"id":"3954e750-5360-4105-8ccb-89eff126b185"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Beispiel-Text f\u00fcr den <span lang=\"en\">Cookie<\/span>-Hinweis","customid":"","customclass":""},"id":"29ff4127-c21c-4764-be45-6d2e7ec2727b","isHidden":false,"type":"heading"},{"content":{"text":"Um unsere Webseite f\u00fcr Sie optimal zu gestalten und fortlaufend verbessern zu k\u00f6nnen, verwenden wir <span lang=\"en\">Cookies<\/span>. Durch die weitere Nutzung der Webseite stimmen Sie der Verwendung von <span lang=\"en\">Cookies<\/span> zu. Weitere Informationen zu <span lang=\"en\">Cookies<\/span> erhalten Sie in unserer Datenschutzerkl\u00e4rung.\n\n**TIPP:** Achten Sie darauf, dass Sie mit dem <span lang=\"en\">Cookie<\/span>-Hinweis keine rechtlich notwendigen Daten \u00fcberdecken, wie z.B. Impressum und Datenschutz! Dies kann wiederum zu Abmahnungen f\u00fchren."},"id":"0b3d6091-e941-4a94-976b-dc375a1187b4","isHidden":false,"type":"text"}],"id":"900aa766-63e7-4f64-a13f-404e91ec4f4e","width":"1\/1"}],"id":"a68e654d-80e4-4649-8f3b-ccafae129615"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"header":"Sie brauchen Hilfe bei der Umsetzung?","text":""},"id":"300343b8-2c99-43c9-99da-0eb1d3efd86f","isHidden":false,"type":"kontaktform"}],"id":"19345c57-d8a8-457c-bf28-a0d7171b350a","width":"1\/1"}],"id":"d68015a2-4ab4-4093-8c5d-98684e870f3d"}]
+
+----
+
+Date: 2018-04-04 17:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Die EU Cookie-Richtlinie sieht eine ausdrückliche Einwilligung vor, dass Cookies eingesetzt werden dürfen.
+
+----
+
+Articleimage: - file://PJw7L3KcNjTv9PuJ
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: iOhYOHV0W2S2sQV9

@@ -1,0 +1,41 @@
+Title: DSGVO: Mitarbeiterdatendaten
+
+----
+
+Articleheader: DSGVO: (gender:Mitarbeiter:innendaten x:Mitarbeiterinnendaten y:Mitarbeiterdaten)
+
+----
+
+Intro: 
+
+----
+
+Mp3: - file://XDTZwi7JNlZAFLjN
+
+----
+
+Layout: [{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"text":"Mit der DSGVO kommen auch Neuregelungen zum (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter)datenschutz. Die neuen Vorschriften enthalten zahlreiche Pflichten und Obliegenheiten, die (gender:Arbeitgeber:innen x:Arbeitgeberinnen y:Arbeitgeber) k\u00fcnftig einhalten m\u00fcssen.\n\nEs sollen nur die Daten erhoben werden, die \u201eerforderlich\u201c sind.\n\n(n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter)daten sollen nur dann verarbeitet werden, wenn dies f\u00fcr die Entscheidung \u00fcber die Einstellung (n:einer\/eines Bewerber:in x:einer Bewerberin y:eines Bewerbers) oder zur Durchf\u00fchrung, Aus\u00fcbung oder Beendigung eines Arbeitsverh\u00e4ltnisses erforderlich ist.\n\nErlaubt ist die Verarbeitung auch dann, wenn sie f\u00fcr die Erf\u00fcllung gesetzlicher Rechte und Pflichten, eines Tarifvertrags oder einer Betriebs- oder Dienstvereinbarung oder zum Zwecke der Strafverfolgung erforderlich ist. Ob und wann die Erhebung bestimmter Daten tats\u00e4chlich erforderlich ist, muss dabei immer anhand des konkreten Einzelfalls bestimmt werden."},"id":"30a4f581-182c-4c72-9526-e74d15a7ba31","isHidden":false,"type":"text"}],"id":"2893cc84-19e4-4edc-99fd-4c2475868a9f","width":"1\/1"}],"id":"5bfde8cd-4c59-446f-9338-6e5103dd7e7d"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Einwilligungen einholen","customid":"","customclass":""},"id":"744845e2-f95a-4916-bb0e-0d3a33c925e7","isHidden":false,"type":"heading"},{"content":{"text":"Wer sich den rechtlichen Unsicherheiten rund um die \"Erforderlichkeit\" entziehen will, kann freiwillig abgegebene Einwilligungen von den (n:Arbeitnehmer:innen x:Arbeitnehmerinnen y:Arbeitnehmern) einholen. Im Streitfall muss eine behauptete Freiwilligkeit der Einwilligung durch (gender:die:den Arbeitgeber:in x:die Arbeitgeberin y:den Arbeitgeber xy:oder) allerdings nachgewiesen werden.\n\nEine wirksame Einwilligung muss bestimmte formale Kriterien erf\u00fcllen. So muss sie grunds\u00e4tzlich in Schriftform erfolgen, d. h. eigenst\u00e4ndig unterschrieben werden. Da das allerdings nicht immer praktikabel ist, kann unter besonderen Umst\u00e4nden auch eine elektronische Einwilligung eingeholt werden. Zudem muss (gender:die:der x:die y:der xy:oder) Besch\u00e4ftigte in geeigneter Form darauf hingewiesen werden, dass die Einwilligung jederzeit widerruflich ist. Schlussendlich m\u00fcssen durch  (gender:die:den Arbeitgeber:in x:die Arbeitgeberin y:den Arbeitgeber xyoder) bestimmte Voraussetzungen f\u00fcr die Widerrufserkl\u00e4rung geschaffen werden.\n\n(gender:Ein:e Arbeitgeber:in x:Eine Arbeitgeberin y:Ein Arbeitgeber xy:oder) muss die Einhaltung der soeben genannten Pflichten im Zweifel nachweisen k\u00f6nnen (Dokumentationspflichten). Des Weiteren sind (n:Arbeitgeber:innen x:Arbeitgeberinnen y:Arbeitgeber) k\u00fcnftig mit strengeren Informationspflichten bei Datenschutzverst\u00f6\u00dfen und zahlreichen weiteren Pflichten (z.B. L\u00f6schungspflichten) konfrontiert.\n\n(n:Arbeitgeber:innen x:Arbeitgeberinnen y:Arbeitgeber) sollten im Hinblick auf diese Pflichten ihre unternehmensinternen Prozesse daher gr\u00fcndlich \u00fcberpr\u00fcfen und ggf. anpassen lassen (Stichwort: <span lang=\"en\">Compliance-Management<\/span>)."},"id":"d13a5cd1-32d6-4904-965a-713f085fb947","isHidden":false,"type":"text"}],"id":"4f445096-7c66-43ae-b6e5-539c241d5259","width":"1\/1"}],"id":"8adf835c-f767-439f-a73b-de9f683e1301"},{"attrs":{"toggle":"false","layoutclass":""},"columns":[{"blocks":[{"content":{"image":["file:\/\/QylZLs6FjYf9Thmd"],"caption":"Mehr Infos zur DSGVO und unserem DSGVO-Check\n\n(link: dsgvo text: Zur Leistung DSGVO class: btn -primary)"},"id":"07443de1-40c8-466a-b840-0e890b053296","isHidden":false,"type":"cta"}],"id":"c40461b3-29bf-4bc3-a896-94de597b3af9","width":"1\/1"}],"id":"2c1635c0-487d-4e9a-b721-ec6875098312"}]
+
+----
+
+Date: 2018-04-05 17:00:00
+
+----
+
+Datetoday: false
+
+----
+
+Description: Mit der DSGVO kommen auch Neuregelungen zum (n:Mitarbeiter:innen x:Mitarbeiterinnen y:Mitarbeiter)datenschutz.
+
+----
+
+Articleimage: - file://hvoIBxzWs2gAs0DY
+
+----
+
+Categories: DSGVO
+
+----
+
+Uuid: tnZseIhTVlzKvxt9

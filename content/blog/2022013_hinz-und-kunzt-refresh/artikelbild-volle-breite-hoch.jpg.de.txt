@@ -1,0 +1,21 @@
+Alt: Das Bild zeigt einen Ausschnitt aus der Hinz&Kunzt-Website mit den Kategorien "Über uns" und "Termine".
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: hYkeqjWGef4UsFFS

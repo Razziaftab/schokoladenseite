@@ -1,0 +1,5 @@
+Uuid: FEpGLWZBeicBA014
+
+----
+
+Template: blocks/image

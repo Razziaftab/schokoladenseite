@@ -1,0 +1,89 @@
+.th-gs{
+	display: flex;
+	align-items: center;
+	position: relative;
+	margin: 5px 0;
+	// margin-right: auto;
+
+	.gs-doit {
+		color: $black;
+		display: flex;
+		align-items: center;
+	}
+	
+	.gender-switcher-wrapper {
+		background-color: $black;
+		color: #fff;
+		padding: 10px 0;
+		z-index: 5;
+	}
+	
+	#genderOptions {
+		z-index: 10;
+	}
+
+	.th-gs-switches {
+		display: flex;
+		position: relative;
+		padding: 3px 5px;
+		
+		a, span {
+			display: flex;
+			align-items: center;
+			border: 2px solid transparent;
+			border-radius: 6px;
+			padding: 1px;
+			margin-left: -1px;
+			z-index: 100;
+			
+			@media (forced-colors: active) {
+				border-color: Canvas;
+				
+				.fill{
+					fill: LinkText;
+				}
+			}
+				
+			&:focus-visible, &:hover{
+			    border: 2px solid $black;
+				outline: none;
+			}
+			
+			svg{
+				width: 20px;
+				height: 20px;
+			}
+			
+			&.active svg .fill{
+				fill: $black;
+			}
+			
+			.dark &.active svg path:not(.fill){
+				fill: $white;
+			}
+			
+			.dark &.active svg line:not(.fill){
+				stroke: $white;
+			}
+		}
+			
+		.dark & a svg rect{
+			fill: $black;
+		}
+		
+		.dark & a svg path{
+			fill: $white;
+		}
+	}
+		
+	@media (min-width: 1130px) {
+		padding: 9px 0;
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+	
+	@media (min-width: 1210px) {
+		padding-left: 0;
+		padding-right: 25px;
+	}
+}

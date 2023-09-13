@@ -1,0 +1,13 @@
+Alt: Die Datenschutzgrundverordnung (DSGVO): Informationen zum Einstieg Seit dem 25. Mai 2018 regelt die EU-Datenschutzgrundverordnung DSGVO.
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: Q4jUWBJjRnM3l3Ij

@@ -1,0 +1,9 @@
+Alt: Tabletbildschirm zeigt Bild von einer Website, Laptop zeigt HTML-Code
+
+----
+
+Title: Tablet- und Laptopbildschirm
+
+----
+
+Template: files-upload

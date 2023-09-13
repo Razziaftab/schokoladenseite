@@ -1,0 +1,21 @@
+Alt: Zwei Kollegen sitzen am Schreibtisch und reden und lachen miteinander
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Template: blocks/image
+
+----
+
+Uuid: we3LfOqATg0PZPeB

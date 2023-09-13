@@ -1,0 +1,120 @@
+.paketmodul{
+
+	> div{
+		padding: 30px 22px 22px;
+		position: relative;
+		z-index: 0;
+		display: flex;
+		flex-direction: column;
+	
+		&:before{
+			content: '';
+			position: absolute;
+			top: 10px;
+			right: 2px;
+			bottom: 2px;
+			left: 2px;
+			background: $white;
+			z-index: -1;
+		}
+		
+		.header{
+			border-bottom: 1px solid;
+			margin-bottom: 20px;
+			padding-bottom: 20px;
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+			font-weight: bold;
+			font-size: 150%;
+	
+			.title{
+				-webkit-background-clip: text;
+				-webkit-text-fill-color: transparent;	
+
+				.dark & {
+					color: $primary;
+					background-image: none!important;
+					-webkit-background-clip: unset;
+					-webkit-text-fill-color: $primary;	
+				}
+			}
+			
+			.price{
+				
+			}
+		}
+		
+		.fields{
+			flex: 1;
+			
+			p + p{
+				border-top: 1px solid #eee;
+				margin-top: 10px;
+				padding-top: 10px;
+			}
+		}
+		
+		.footer{
+			display: flex;
+			justify-content: center;
+			margin-top: 15px;
+		}
+	}
+	
+	.column-4{
+		&:nth-child(1){
+			background: linear-gradient(to right, $primary, #be0057);
+			
+			.dark &{
+				background: $primary;
+			}
+			
+			> .header:first-child .title{
+				background-image: linear-gradient(to right, $primary, #be0057);
+			}
+		}
+		
+		&:nth-child(2){
+			background: linear-gradient(to right, #be0057, #9f00aa);	
+			
+			.dark &{
+				background: $primary;
+			}
+			
+			> .header:first-child .title{
+				background-image: linear-gradient(to right, #be0057, #9f00aa);	
+			}
+		}
+		
+		&:nth-child(3){
+			background: linear-gradient(to right, #9f00aa, $purple);
+			
+			.dark &{
+				background: $primary;
+			}
+			
+			> .header:first-child .title{
+				background-image: linear-gradient(to right, #9f00aa, $purple);
+			}
+		}
+	}
+	
+	.column-6{
+		&:nth-child(1){
+			background: linear-gradient(to right, $primary, $pink);
+			
+			.dark &{
+				background: $primary;
+			}
+		}
+		
+		&:nth-child(2){
+			background: linear-gradient(to right, $pink, $purple);	
+			
+			.dark &{
+				background: $primary;
+			}
+		}
+	}
+}

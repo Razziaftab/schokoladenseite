@@ -1,0 +1,21 @@
+Alt: Frau sitzt vor zwei Bildschirmen auf denen Statistiken zu sehen sind
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: XtwcQN8rlmwPd43Z
+
+----
+
+Template: blocks/image

@@ -1,0 +1,9 @@
+Alt: Future Policy Logo
+
+----
+
+Title: Future Policy
+
+----
+
+Template: blocks/image

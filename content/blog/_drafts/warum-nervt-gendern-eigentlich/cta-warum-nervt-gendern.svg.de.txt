@@ -1,0 +1,21 @@
+Alt: Auf hellem Hintergrund steht ein Anführungszeichen, dass in den Farben der Regenbogenflagge bunt gestreift ist. Daneben steht "schoki gender".
+
+----
+
+Title: 
+
+----
+
+Link: 
+
+----
+
+Caption: 
+
+----
+
+Uuid: bDNGDOFNSntISTNR
+
+----
+
+Template: blocks/image

@@ -1,0 +1,9 @@
+Alt: Hand hält Handy mit go-digital Logo darauf abgebildet
+
+----
+
+Title: 
+
+----
+
+Template: blocks/image

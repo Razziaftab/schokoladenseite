@@ -1,0 +1,158 @@
+title: Article
+num: '{{ page.date.toDate("Ymd") }}'
+icon: 📖
+
+status:
+  draft:
+    label: Entwurf
+    text: Artikel ist noch in der Entwurfsphase.
+  unlisted:
+    label: Test
+    text: Artikel wird noch nicht im Blog angezeigt.
+  listed:
+    label: Veröffentlicht
+    text: Artikel wird im Blog veröffentlicht.
+
+columns:
+  main:
+    width: 2/3
+    fields:
+      articleheader:
+        type: markdown
+        size: small
+        font: sans-serif
+        buttons:
+          - bold
+          - gender
+      intro:
+        type: markdown
+        size: small
+        font: sans-serif
+        buttons:
+          - bold
+          - gender
+      image_ai_text:
+        label: Image AI Text
+        help: Der Text mit dem das Bild bei Midjourney erstellt wurde ("young woman writes a text on a computer by Issey Miyake --v 4 --ar 16:9")
+        type: text
+        size: small
+        font: sans-serif
+        buttons:
+          - bold
+          - gender
+      mp3:
+        type: files
+        max: 1
+               
+        
+      layout:
+        label: Seiteninhalte
+        type: layout
+        layouts:
+          - "1/1"
+          - "1/2, 1/2"
+          - "1/3, 2/3"
+          - "2/3, 1/3"
+          - "1/4, 1/4, 1/4, 1/4"
+        fieldsets:
+          text:
+            label: Text
+            type: group
+            fieldsets:
+              - heading
+              - text
+              - button
+              - accordion
+          media:
+            label: Media
+            type: group
+            fieldsets:
+              - blogimage
+              - youtube
+              - icons
+          sons:
+            label: Sonstiges
+            type: group
+            fieldsets:
+              - cta
+              - kontaktform
+              - script
+              - strucktured-data
+        settings:
+          fields:
+            toggle:
+              type: toggle 
+              text: 
+                - "Abstand oben"
+                - "Abstand oben weg"
+            layoutClass:
+              label: Klasse
+              type: tags
+
+
+  sidebar:
+    width: 1/3
+    sections:
+      meta:
+        type: fields
+        fields:
+          date:
+            type: date
+            time: true
+            default: now
+            display: DD.MM.YYYY
+          datetoday:
+            label: immer aktuelles Datum
+            type: toggle
+          description:
+            label: Textauszug
+            help: Es sind max. 170 Zeichen erlaubt.
+            type: markdown
+            size: small
+            font: sans-serif
+            buttons:
+              - bold
+              - gender
+          seodescription:
+            label: alternative Description (keine Anführungszeichen, kein Gender-Switcher)
+            help: Es sind max. 170 Zeichen erlaubt.
+            type: markdown
+            size: small
+            buttons: false
+          articleimage:
+            label: Artikelbild
+            type: files
+            max: 1
+            image:
+              back: black
+            uploads:
+              template: blocks/image
+          categories:
+            label: Kategorien
+            type: checkboxes
+            options:
+              Jobs: Jobs
+              Agentur: Agentur
+              Coworking-Agentur: --- Coworking-Agentur
+              CSR: --- CSR
+              go-digital: --- go-digital
+              SchokoTeam: --- SchokoTeam
+              Marketing: Marketing
+              Analytics: --- Analytics
+              SEO: --- SEO
+              Technik: Technik
+              CMS: --- CMS
+              DSGVO: --- DSGVO
+              Frontend: --- Frontend
+              Programmierung: --- Programmierung
+              Wartung: --- Wartung
+              Webdesign: Webdesign
+              Design: --- Design
+              Frontend: --- Frontend
+              Design: --- Design
+              Grafik: --- Grafik
+              Grafiksoftware: --- Grafiksoftware
+              Barrierefreiheit: --- Barrierefreiheit 
+      images:
+        headline: Bilder
+        type: files

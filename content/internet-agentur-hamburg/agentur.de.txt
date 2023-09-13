@@ -1,0 +1,342 @@
+Title: Internetagentur
+
+----
+
+Layout: [{"attrs":{"layoutid":"","arialabelledby":"","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"video":["video-internet-agentur.webm","video-internet-agentur.mp4"],"image":["video-internet-agentur.jpg"],"customid":"internetagentur","arialabelledby":"internetagentur","preh1":"LOKAL - GLOBAL","h1":"INTERNETAGENTUR<br>AUS HAMBURG","verlinkung":[],"button":""},"id":"ba6874b9-8471-46b3-8bef-8df764b59700","isHidden":false,"type":"video"}],"id":"ad70ce36-65be-490b-bf76-bc7b03953d31","width":"1\/1"}],"id":"c3d33b32-2775-44e7-994f-0948d31edd8f"},{"attrs":{"layoutid":"fullservice","arialabelledby":"fullservice","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"","level":"h2","text":"Internetagentur aus Hamburg","customid":"","customclass":""},"id":"96fda814-fcaf-4641-ac52-b27757bbbb31","isHidden":false,"type":"heading"},{"content":{"text":"Wir verstehen uns als **<span lang=\"en\">Fullservice<\/span>-Digital-Agentur** und begleiten Ihr **Online-Projekt** als Ihre Internetagentur von der Konzeption \u00fcber das Design bis hin zur Programmierung und fertigen Umsetzung. Auch langfristig bieten wir Ihnen die **(link: technische-betreuung text: technische Betreuung title: zur Leistung) und (link: wartung text: Wartung title: zur Leistung)** Ihrer Webanwendungen.\n\nDie SCHOKOLADENSEITE.net ist Ihre **Internetagentur aus Hamburg**!"},"id":"b5b0d1f0-61ee-4a4c-a119-335e0ac6e89a","isHidden":false,"type":"text"}],"id":"140324f6-2a9d-48b3-95c7-4836ad87fccb","width":"1\/1"}],"id":"73e3a962-0568-4855-9ee7-a96a656cb099"},{"attrs":{"layoutid":"konzept","arialabelledby":"konzept","layoutclass":"align-items-center","backgroundimage":[]},"columns":[{"blocks":[{"content":{"aussehen":"color-primary","links":[{"icon":"fa fas fa-file-signature","linktext":"","link":"","anker":"","title":""}]},"id":"78bfd107-71ec-4667-84f2-a34b91c1845c","isHidden":false,"type":"icons"}],"id":"0c689cc0-aeae-4755-9925-b2a779b99fec","width":"1\/4"},{"blocks":[{"content":{"preh1":"","level":"h2","text":"Konzept","customid":"","customclass":""},"id":"c1cdc20f-9fd4-4a72-9a13-1cd66ec18a49","isHidden":false,"type":"heading"},{"content":{"text":"Als spezialisierte Internetagentur legen wir gro\u00dfen Wert darauf, Ihnen kein Konzept von der Stange anzubieten. Daher beginnt unsere gemeinsame Arbeit an Ihrem digitalen Projekt mit einer grundlegenden Analyse Ihrer Anforderungen und Ziele. **Sie erhalten eine L\u00f6sung, die zu Ihnen passt!** Auch skalierbar. Wir arbeiten dabei haupts\u00e4chlich mit den <span lang=\"en\">Content-Management-Systemen<\/span> <span lang=\"en\">(link: wordpress text: Wordpress title: zur Leistung)<\/span>, <span lang=\"en\">(link: typo3 text: TYPO3 title: zur Leistung)<\/span> und <span lang=\"en\">(link: kirby-cms text: Kirby title: zur Leistung)<\/span>, aber auch (link: individualentwicklungen text: Individualentwicklungen title: zur Leistung) setzen wir gerne f\u00fcr Sie um.\n\nAuf Basis des Konzeptes erstellen wir f\u00fcr Sie ein <span lang=\"en\">**Webdesign**<\/span>. Dabei achten wir nicht nur auf moderne Designstandards, sondern haben auch immer die <span lang=\"en\">**Usability**<\/span> (Benutzerfreundlichkeit) der Seite im Blick. So kann Ihre Webseite rundum begeistern."},"id":"dec1d820-cbed-4a26-9c1a-4d99899f3d41","isHidden":false,"type":"text"}],"id":"10a03e4e-f266-463f-a269-3d43dc680b1b","width":"3\/4"}],"id":"344792d4-9541-44e7-aedf-e4d929435b09"},{"attrs":{"layoutid":"umsetzung","arialabelledby":"umsetzung","layoutclass":"bg-lightgrey, rowmax, align-items-center","backgroundimage":[]},"columns":[{"blocks":[{"content":{"aussehen":"color-primary","links":[{"icon":"fa fas fa-chart-line","linktext":"","link":"","anker":"","title":""}]},"id":"5ca8a098-e92a-41b1-9f1c-d877fd60a9c3","isHidden":false,"type":"icons"}],"id":"3d4018bd-c8df-4f92-8620-06a12f1493c4","width":"1\/4"},{"blocks":[{"content":{"preh1":"","level":"h2","text":"Umsetzung","customid":"","customclass":""},"id":"72f7fbb9-edef-4832-8552-6dc02d29a8bc","isHidden":false,"type":"heading"},{"content":{"text":"Wir arbeiten **effizient und zielorientiert**. Dabei nutzen wir als Internetagentur aktuelle Technologien, um das bestm\u00f6gliche Ergebnis f\u00fcr Sie zu erzielen. Durch unsere langj\u00e4hrige Erfahrung als Onlineagentur und breites Know-how k\u00f6nnen wir Sie optimal zu Ihrem Projekt beraten. \u2013 **Professionell. Zuverl\u00e4ssig. Benutzerfreundlich.**\n\nIn der **Webentwicklung** ist uns als Internetagentur eine optimale <span lang=\"en\">Usability<\/span> sehr wichtig, daher nuzen wir nicht nur aktuelle Technologien, sondern optimieren Ihre Seite auch f\u00fcr alle Endger\u00e4te, sodass die Seite, egal von welchen Ger\u00e4t sie sich angesehen wird, auch \u00fcberzeugt."},"id":"94b4fe2b-5169-4504-a520-4d47305379cc","isHidden":false,"type":"text"}],"id":"a4290412-64bb-4b3f-a3ef-2e6acb67e91e","width":"3\/4"}],"id":"4321fb57-6f3d-424d-850d-733c4b507a9b"},{"attrs":{"layoutid":"feinschliff","arialabelledby":"feinschliff","layoutclass":"align-items-center","backgroundimage":[]},"columns":[{"blocks":[{"content":{"aussehen":"color-primary","links":[{"icon":"fa fas fa-boxes","linktext":"","link":"","anker":"","title":""}]},"id":"972d8e17-5c97-4dcc-b582-f280db8ea2e2","isHidden":false,"type":"icons"}],"id":"7f54eba3-acbb-4aff-8621-0513cb2d5ebb","width":"1\/4"},{"blocks":[{"content":{"preh1":"","level":"h2","text":"Feinschliff","customid":"","customclass":""},"id":"c31cbb21-a4f1-41f4-8189-76bb1ca25b56","isHidden":false,"type":"heading"},{"content":{"text":"Wir verwenden Ihr bestehendes <span lang=\"en\">Corporate Design<\/span>, entwickeln es bei Bedarf mit Ihnen zusammen weiter und erstellen ein CD-Manual, um so als Ihre Internetagentur aus Hamburg Ihr **Online-Projekt aus einem Guss** zu realisieren.\n\nAuch nach dem Fertigstellen einer Webseite begleiten wir Sie gerne, als Ihre Internetagentur aus Hamburg, weiterhin. Als Onlineagentur planen und koordinieren wir **(link: online-marketing-werbung text: Online-Marketing Ma\u00dfnahmen title: zur Leistung Online Marketing und Werbung)**, wie z.B. **(link: social-media-marketing text: Social Media Marketing title: zur Leistung)** oder auch **(link: online-werbung text: Online-Werbung \u00fcber Google ADS title: zur Leistung)**. Zudem \u00fcbernehmen wir die **(link: seo text: Suchmaschinenoptimierung (SEO) title: zur Leistung)**, sodass Ihre Webseite bei <span lang=\"en\">Google<\/span> gefunden wird. Dabei betreuen wir Sie im <span lang=\"en\">**Onpage**<\/span> und <span lang=\"en\">**Offpage**<\/span> Bereich."},"id":"8dbd3e8d-cae4-4cb7-acdf-2b8432b2a768","isHidden":false,"type":"text"}],"id":"d3605220-a3eb-43e7-9a06-1c48d3a677cb","width":"3\/4"}],"id":"d1668c9e-2a5d-4ea9-94c9-10252ff85f10"},{"attrs":{"layoutid":"unsere-leistungen","arialabelledby":"unsere-leistungen","layoutclass":"center, bg-lightgrey, rowmax","backgroundimage":[]},"columns":[{"blocks":[{"content":{"preh1":"Internet-Fullservice aus einer Hand:","level":"h2","text":"Internetagentur Hamburg: Unsere Leistungen","customid":"","customclass":""},"id":"36fa4573-6d55-4cb6-8a0e-c9e8a9d6c753","isHidden":false,"type":"heading"},{"content":{"text":"Als Ihre Online Agentur aus Hamburg bieten wir Ihnen vom Webdesign \u00fcber die Programmierung bis hin zu Online-Marketing-Ma\u00dfnahmen und der Optimierung Ihrer <span lang=\"en\">Website<\/span> f\u00fcr <span lang=\"en\">Google<\/span> alles aus einer Hand."},"id":"2c3ae6fd-a567-4655-94fa-ae2d1fabb4ee","isHidden":false,"type":"text"},{"content":{"aussehen":"","links":[{"icon":"fas fa-desktop","linktext":"","link":"firmenwebsites","anker":"","title":"zur Leistung"},{"icon":"fas fa-sitemap","linktext":"","link":"cms","anker":"","title":"zur Leistung"},{"icon":"fas fa-laptop-code","linktext":"","link":"individualentwicklungen","anker":"","title":"zur Leistung"},{"icon":"fas fa-shopping-cart","linktext":"","link":"onlineshops","anker":"","title":"zur Leistung"},{"icon":"fas fa-wheelchair","linktext":"","link":"barrierefreies-webdesign","anker":"","title":"zur Leistung"},{"icon":"fas fa-tasks","linktext":"","link":"digitale-strategie","anker":"","title":"zur Leistung"},{"icon":"fas fa-user-plus","linktext":"Social Media","link":"social-media-marketing","anker":"","title":"zur Leistung"},{"icon":"fas fa-bullhorn","linktext":"Online-Werbung","link":"online-werbung","anker":"","title":"zur Leistung"},{"icon":"fas fa-search","linktext":"Suchmaschinen (SEO | SEA)","link":"seo","anker":"","title":"zur Leistung"},{"icon":"fas fa-users","linktext":"","link":"soziales-fundraising","anker":"","title":"zur Leistung"},{"icon":"fas fa-server","linktext":"","link":"technisches-projektmanagement","anker":"","title":"zur Leistung"},{"icon":"fas fa-cogs","linktext":"","link":"wartung","anker":"","title":"zur Leistung"},{"icon":"fas fa-medkit","linktext":"","link":"support","anker":"","title":"zur Leistung"},{"icon":"fas fa-lock","linktext":"","link":"sicherheit","anker":"","title":"zur Leistung"},{"icon":"fas fa-check-circle","linktext":"","link":"dsgvo","anker":"","title":"zur Leistung"}]},"id":"83cd58ab-f746-4cd2-925d-12e540eebd79","isHidden":false,"type":"icons"}],"id":"8f22bbca-3332-47fc-9db7-9ea9fd5ff538","width":"1\/1"}],"id":"31dc8d75-540f-4edc-bd5e-e93c171d67c4"},{"attrs":{"layoutid":"kunden-referenzen","arialabelledby":"kunden-referenzen","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"text":"F\u00fcr diese (n:Kund:innen x:Kundinnen y:Kunden) haben wir gearbeitet"},"id":"1d2fca36-f253-4ed7-b0f7-e2ab4be59fbb","isHidden":false,"type":"kunden"}],"id":"3149b7a1-1259-4050-a9c7-1f52af541a75","width":"1\/1"}],"id":"c0778fc7-d451-422e-878e-d127e91470ef"},{"attrs":{"layoutid":"kontaktformular","arialabelledby":"kontaktformular","layoutclass":"","backgroundimage":[]},"columns":[{"blocks":[{"content":{"header":"","text":""},"id":"43200127-e093-4cd9-a9f7-98bd56d71b1d","isHidden":false,"type":"kontaktform"}],"id":"40ec4f92-d10a-4299-a474-bef6e0cef1fd","width":"1\/1"}],"id":"299d0e09-799d-44be-b0b5-8f3febd0904f"}]
+
+----
+
+Seotitle: Internetagentur und Online Agentur aus Hamburg ❤️
+
+----
+
+Seodescription: Internetagentur und Online Agentur: Wir begleiten Ihr Online-Projekt ✓ Konzeption ✓ Webdesign ✓ Webentwicklung ✓ SEO ✓ SEA ✓ Wartung & Support → Hier alle unsere Internetagentur Leistungen ansehen
+
+----
+
+Seoimage: 
+
+----
+
+Kunde:
+
+- 
+  logo:
+    - ds4g-logo-2.svg
+  name: Digitalservice
+- 
+  logo:
+    - augprien.png
+  name: AUG.PRIEN
+- 
+  logo:
+    - kobold-logo.png
+  name: Kobold
+- 
+  logo:
+    - thermomix-logo.png
+  name: Thermomix
+- 
+  logo:
+    - vorwerk-logo.svg
+  name: Vorwerk
+- 
+  logo:
+    - bauer_media_group.svg
+  name: Bauer Media Group
+- 
+  logo:
+    - secret-escapes-logo.svg
+  name: Secret Escapes
+- 
+  logo:
+    - comosoft.svg
+  name: Comosoft
+- 
+  logo:
+    - stadtwerke-wedel-logo.svg
+  name: Stadtwerke Wedel
+- 
+  logo:
+    - dr-weigert-logo.svg
+  name: Dr. Weigert
+- 
+  logo:
+    - gastro-star-logo.svg
+  name: GASTRO STAR
+- 
+  logo:
+    - martini-klinik-logo.svg
+  name: Martini Klinik
+- 
+  logo:
+    - akf.svg
+  name: akf Servicelease
+- 
+  logo:
+    - clh_logo_blue.svg
+  name: Lufthansa CityLine
+- 
+  logo:
+    - banking-partner-logo.png
+  name: banking partner
+- 
+  logo:
+    - expertum-logo.svg
+  name: expertum
+- 
+  logo:
+    - seepex-logo.png
+  name: Seepex
+- 
+  logo:
+    - huk.png
+  name: 'Hinz&Kunzt'
+- 
+  logo:
+    - allgemeiner-fachverlag-logo.png
+  name: Allgemeiner Fachverlag
+- 
+  logo:
+    - radio-hh-logo.svg
+  name: Radio Hamburg
+- 
+  logo:
+    - oldie-95-logo.svg
+  name: Oldie 95
+- 
+  logo:
+    - more-radio-logo.png
+  name: more Radio
+- 
+  logo:
+    - frosta-logo.svg
+  name: Frosta
+- 
+  logo:
+    - logo-optonaval.svg
+  name: Optonaval
+- 
+  logo:
+    - kcwlogo.svg
+  name: kcw
+- 
+  logo:
+    - rsg-logo.png
+  name: RSG
+- 
+  logo:
+    - sealand-logo.svg
+  name: Sealand
+- 
+  logo:
+    - expert-marking-logo.svg
+  name: Expert Marking
+- 
+  logo:
+    - bigmove-logo.png
+  name: BigMove
+- 
+  logo:
+    - u4r_logo_yellow.svg
+  name: United4Rescue
+- 
+  logo:
+    - der-paritaetische-logo.png
+  name: Der Paritätische
+- 
+  logo:
+    - wfc.png
+  name: World Future Council
+- 
+  logo:
+    - >
+      logo-nordkirche-fluechtlingsbeauftragte.svg
+  name: >
+    Nordkirche Flüchtlingsbeauftragte
+    Joachims
+- 
+  logo:
+    - dr-armin-rau-logo.png
+  name: Lidstraffung Hamburg
+- 
+  logo:
+    - onkologie-hamburg-logo.png
+  name: Onkologie Hamburg
+- 
+  logo:
+    - teams-spirit-logo.svg
+  name: Teams Spirit
+- 
+  logo:
+    - hsv-logo.svg
+  name: HSV
+- 
+  logo:
+    - tks-ludwig-logo.svg
+  name: TKS Ludwig
+- 
+  logo:
+    - extrakta-logo.svg
+  name: Extrakta
+- 
+  logo:
+    - columbus-drinks-logo.png
+  name: Columbus Drinks
+- 
+  logo:
+    - frau-moeller-logo.svg
+  name: Frau Möller
+- 
+  logo:
+    - better-bedi-logo.svg
+  name: Better BEDI
+- 
+  logo:
+    - foodboard-logo.png
+  name: foodboard
+- 
+  logo:
+    - opodo-logo.png
+  name: opodo
+- 
+  logo:
+    - digital-teamwork-logo.svg
+  name: Digital TEAMWORK
+- 
+  logo:
+    - qualifriends-logo.svg
+  name: Qualifriends
+- 
+  logo:
+    - sant-elmos-logo.png
+  name: Saint Elmos
+- 
+  logo:
+    - unverzagt-von-have-logo.png
+  name: Unverzagt von Have
+- 
+  logo:
+    - infernum-logo.png
+  name: Infernum
+- 
+  logo:
+    - gebaeudeservices-weikamm-logo.png
+  name: Gebäudeservices Weikamm
+- 
+  logo:
+    - katholische-familienbildung-logo.svg
+  name: Katholische Familienbildungsstätte
+- 
+  logo:
+    - my-little-job-logo.svg
+  name: My little Job
+- 
+  logo:
+    - comporys-logo.svg
+  name: Comporsys
+- 
+  logo:
+    - feurig-baumaschinen-logo.png
+  name: Feurig Baumaschinen
+- 
+  logo:
+    - stueven-logo.png
+  name: Stüven
+- 
+  logo:
+    - boothing-logo.png
+  name: boothing
+- 
+  logo:
+    - techmagazin-logo.png
+  name: techmagazin
+- 
+  logo:
+    - hilker-und-pahl-logo.png
+  name: 'Hilker & Pahl'
+- 
+  logo:
+    - chocolatajaja-logo.png
+  name: chocolatajaja
+- 
+  logo:
+    - doil-logo.svg
+  name: Doil
+- 
+  logo:
+    - augentum-logo.png
+  name: Augentum
+- 
+  logo:
+    - billekidz-logo.png
+  name: BilleKidz
+- 
+  logo:
+    - jl-hochzeitsfotograf-logo.svg
+  name: JL Hochzeitsfotograf
+- 
+  logo:
+    - elbinselguide-logo.png
+  name: Elbinselguide
+- 
+  logo:
+    - doerre-rechstanwalt-logo.svg
+  name: Dörre Rechstanwalt
+- 
+  logo:
+    - erika-kluetz-schule-logo.svg
+  name: Erika Klütz Schule
+- 
+  logo:
+    - el-penasco-logo.svg
+  name: El Penasco
+- 
+  logo:
+    - aquasoft-logo.png
+  name: Aquasoft
+- 
+  logo:
+    - rosenzweige-und-schwarz-logo.png
+  name: 'Rosenzweige & Schwarz'
+- 
+  logo:
+    - straub-und-lindardatos-logo.png
+  name: 'Straub & Lindardatos'
+- 
+  logo:
+    - smart-travelling-logo.svg
+  name: Smart Travelling
+- 
+  logo:
+    - ittcom-logo.svg
+  name: ITTCOM
+- 
+  logo:
+    - project-e-logo.svg
+  name: Project-E
+- 
+  logo:
+    - >
+      akademischer-segler-verein-hamburg-logo.svg
+  name: Akademischer Segler-Verein
+- 
+  logo:
+    - ceci-design-logo.svg
+  name: CECI Design
+- 
+  logo:
+    - global-books-logo.png
+  name: Global Books
+- 
+  logo:
+    - tpi-electronics-logo.png
+  name: TPI Electronics
+
+----
+
+Text: 
+
+----
+
+Uuid: kxpyKvG5ezj0Zhp0
